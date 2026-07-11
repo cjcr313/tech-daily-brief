@@ -9,7 +9,6 @@ tags:
 description: "Google Cloud actualiza el BigQuery Data Transfer Service abriendo las puertas a arquitecturas multi-cloud reales basadas en formatos abiertos."
 ---
 
-*🌐 [Read this article in English](/tech-daily-brief/posts/2026-07-09-bigquery-omnichannel-data-transfer-en)*
 
 La guerra de los datos está migrando hacia la apertura. En las últimas notas de lanzamiento, **Google Cloud** ha anunciado mejoras masivas en el ecosistema de BigQuery, demostrando que el futuro del análisis de datos no está en tener la información encerrada en un solo proveedor.
 

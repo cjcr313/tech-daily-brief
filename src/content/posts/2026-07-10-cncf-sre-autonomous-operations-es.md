@@ -10,7 +10,6 @@ tags:
 description: "La CNCF advierte por qué la automatización pura sin contexto en Site Reliability Engineering está fallando y cómo solucionarlo."
 ---
 
-*🌐 [Read this article in English](/tech-daily-brief/posts/2026-07-10-cncf-sre-autonomous-operations-en)*
 
 La automatización de operaciones es el Santo Grial de DevOps y SRE (Site Reliability Engineering). Sin embargo, un reciente artículo de la Cloud Native Computing Foundation (CNCF) plantea un desafío fundamental en los sistemas distribuidos modernos al que han llamado el **'Problema de los 4 cuerpos de SRE'**.
 

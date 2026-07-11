@@ -9,7 +9,6 @@ tags:
 description: "A partir de mediados de julio, el Tesoro del Reino Unido exige nuevas normas de resiliencia a los gigantes del Cloud que operan en el sector financiero."
 ---
 
-*🌐 [Read this article in English](/tech-daily-brief/posts/2026-07-11-uk-treasury-critical-third-parties-en)*
 
 La dependencia de la nube ha dejado de ser solo una cuestión de TI para convertirse en un tema de seguridad nacional y estabilidad financiera. En un movimiento sin precedentes, **el Tesoro del Reino Unido ha designado oficialmente a Microsoft Azure, Google Cloud, Amazon Web Services (AWS) y Oracle como 'Terceros Críticos' (Critical Third Parties)** para el sector financiero británico.
 
