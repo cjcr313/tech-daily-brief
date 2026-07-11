@@ -120,6 +120,22 @@ const isActive = (path: string) => {
             IA
           </a>
         </li>
+        <li class="col-span-1">
+          <a
+            href={getRelativeLocaleUrl(locale, "tags/devops")}
+            class:list={{ "active-nav": isActive("/tags/devops") }}
+          >
+            DevOps
+          </a>
+        </li>
+        <li class="col-span-1">
+          <a
+            href={getRelativeLocaleUrl(locale, "tags/arquitectura")}
+            class:list={{ "active-nav": isActive("/tags/arquitectura") }}
+          >
+            Arquitectura
+          </a>
+        </li>
         
         {
           features.search !== false && (
