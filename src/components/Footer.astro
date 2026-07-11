@@ -2,6 +2,7 @@
 import type { HTMLAttributes } from "astro/types";
 import Socials from "./Socials.astro";
 import { useTranslations } from "@/i18n";
+import config from "@/config";
 
 type Props = {
   noMarginTop?: boolean;
@@ -21,10 +22,15 @@ const currentYear = new Date().getFullYear();
     class="border-border flex flex-col items-center justify-between border-t py-6 sm:flex-row-reverse sm:py-4"
   >
     <Socials />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-row">
-      <span>{t.footer.copyright} &#169; {currentYear}</span>
-      <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
-      <span>{t.footer.allRightsReserved}</span>
+    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-col">
+      <div class="flex items-center">
+        <span>{t.footer.copyright} &#169; {currentYear} Nauta Lab</span>
+        <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
+        <span class="hidden sm:inline">{t.footer.allRightsReserved}</span>
+      </div>
+      <span class="text-sm text-skin-muted mt-2 sm:mt-1">
+        Un sitio de Nauta Lab, incubadora de tecnología e ideas.
+      </span>
     </div>
   </div>
 </footer>

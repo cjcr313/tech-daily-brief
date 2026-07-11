@@ -5,7 +5,7 @@ export default defineAstroPaperConfig({
     url: "https://cjcr313.github.io",
     title: "Ping Diario",
     description: "Un resumen diario de lo más relevante en tecnología, Kubernetes, Nube y Seguridad.",
-    author: "Carlos",
+    author: "Nauta Lab",
     profile: "https://github.com/cjcr313",
     ogImage: "default-og.jpg",
     lang: "es",
