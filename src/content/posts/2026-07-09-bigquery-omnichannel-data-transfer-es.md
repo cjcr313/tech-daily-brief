@@ -6,9 +6,12 @@ tags:
   - cloud
   - arquitectura
   - ia
+ogImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop"
 description: "Google Cloud actualiza el BigQuery Data Transfer Service abriendo las puertas a arquitecturas multi-cloud reales basadas en formatos abiertos."
 ---
 
+![Imagen referencial](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop)
+*Imagen referencial.*
 
 La guerra de los datos está migrando hacia la apertura. En las últimas notas de lanzamiento, **Google Cloud** ha anunciado mejoras masivas en el ecosistema de BigQuery, demostrando que el futuro del análisis de datos no está en tener la información encerrada en un solo proveedor.
 

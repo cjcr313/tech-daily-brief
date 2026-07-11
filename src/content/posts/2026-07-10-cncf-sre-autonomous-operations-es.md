@@ -7,9 +7,12 @@ tags:
   - observabilidad
   - kubernetes
   - arquitectura
+ogImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop"
 description: "La CNCF advierte por qué la automatización pura sin contexto en Site Reliability Engineering está fallando y cómo solucionarlo."
 ---
 
+![Imagen referencial](https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop)
+*Imagen referencial.*
 
 La automatización de operaciones es el Santo Grial de DevOps y SRE (Site Reliability Engineering). Sin embargo, un reciente artículo de la Cloud Native Computing Foundation (CNCF) plantea un desafío fundamental en los sistemas distribuidos modernos al que han llamado el **'Problema de los 4 cuerpos de SRE'**.
 
