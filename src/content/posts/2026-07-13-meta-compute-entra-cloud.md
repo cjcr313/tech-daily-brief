@@ -43,3 +43,19 @@ Igual, el mercado lo ignoró todo y se enfocó en el potencial de Meta Compute. 
 Si estás evaluando providers de infra AI, Meta Compute es un nuevo jugador serio entrando al ring. Más competencia = mejores precios y más innovación para todos. Y si la estrategia del chip propio funciona, podría cambiar el panorama de costos de inference a nivel industria.
 
 **Fuentes:** TradingKey, Wolfe Research, Meta IR
+
+### Update: 14 de Julio de 2026 — Hyperion se vuelve gigantesco ($50B, 5GW)
+
+Meta anunció hoy que su data center **Hyperion** en Richland Parish, Louisiana, se expande a **5 GW de capacidad** y una inversión total superior a **$50 mil millones**. Para ponerlo en perspectiva: antes de esta expansión, el proyecto era de 2 GW y $27 mil millones (en joint venture con Blue Owl Capital). Es decir, **casi duplicó el tamaño y el presupuesto**.
+
+El campus llegará a **casi 10 millones de pies cuadrados** y será el data center más grande de Meta, dedicado principalmente a **AI training**.
+
+### Los incentivos fiscales detrás
+
+Louisiana metió una **exención de impuestos sobre ventas por 20 años** para data centers construidos antes de 2029, firmada por el gobernador republicano Jeff Landry a finales de 2024. Esto fue clave para que Meta eligiera el estado.
+
+Meta aclara que "paga los costos completos de energía, agua e infraestructura" para que los consumidores no carguen con la cuenta. Igual, el debate sobre si estos incentivos fiscales son buen negocio para los estados sigue abierto.
+
+Esto se suma al impulso de Meta Compute y el chip Iris: Meta está construyendo la infraestructura más grande de la industria para AI, y el Hyperion es la pieza física central de esa estrategia.
+
+**Fuentes update:** CNBC, Reuters, The Hill, Louisiana Economic Development

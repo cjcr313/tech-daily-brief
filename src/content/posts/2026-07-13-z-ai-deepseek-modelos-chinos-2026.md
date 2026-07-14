@@ -31,3 +31,18 @@ Los números están respaldando el hype. Datos recientes muestran que el uso de 
 DeepSeek no solo está ganando terreno en uso y desarrollando hardware, sino que está levantando capital a niveles astronómicos para sostener este crecimiento. Reportes recientes indican que la empresa está en **charlas preliminares para levantar una nueva ronda de inversión a una valuación cercana a los $71 billones de dólares**. 
 
 Esto es una locura considerando que a finales de mayo (hace menos de dos meses) levantaron $7 billones a una valuación de $52 billones. Esta inyección bestial de capital tiene un objetivo clarísimo: **construir la infraestructura masiva necesaria (GPU clusters, energía, data centers)** para seguir dándole pelea a OpenAI y Anthropic. La guerra de la IA no es solo de código, es de billetera.
+
+### Update: 14 de Julio de 2026 — Los modelos open-source chinos ya dominan en volumen
+
+Un artículo de TechCrunch de hoy confirma con datos lo que veníamos viendo: **los modelos open-weight chinos ya superaron a los estadounidenses en volumen de uso en plataformas clave**.
+
+Los números son contundentes:
+- **41% de las descargas en Hugging Face** este spring fueron de modelos chinos, superando a los de EE.UU.
+- En **OpenRouter**, los 6 modelos más populares son **todos open-weight de firms chinas**: Tencent, Xiaomi, DeepSeek, MiniMax y Z.ai. Claude Opus 4.7 de Anthropic está en el 7º lugar.
+- En **Vercel**, los modelos open manejaron **casi un tercio** de las peticiones de AI en junio.
+
+El CEO de Hugging Face, Clem Delangue, lo resume así: los modelos frontier van a quedar para "experimentación y tareas de alto valor", mientras que la mayoría de los workloads de producción van a correr en modelos open-source más baratos y personalizables.
+
+La pregunta incómoda: ¿cuánto importan los modelos frontier cerrados si la mayoría de la IA en producción termina corriendo en alternativas más baratas?
+
+**Fuentes update:** TechCrunch, Hugging Face State of OS Spring 2026, OpenRouter Rankings, Vercel AI Gateway
