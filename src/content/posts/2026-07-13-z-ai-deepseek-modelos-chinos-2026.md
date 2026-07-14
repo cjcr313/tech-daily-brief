@@ -22,3 +22,9 @@ El mismísimo Jie Tang (fundador de Z.ai) ya tiró el dardo: predicen que China 
 Los números están respaldando el hype. Datos recientes muestran que el uso de tokens de la familia Claude (Anthropic) cayó del 29% al 13.3% en el último tiempo, mientras que alternativas chinas como **DeepSeek**, **GLM-5.2**, **Qwen** y **Kimi** están capturando esa cuota de mercado a una velocidad brutal. 
 
 ¿La razón principal? **El costo y el rendimiento**. Estos modelos open-source y open-weight están resultando entre un **60% y 90% más baratos** que los tiers premium de OpenAI o Anthropic. Para rematar, los benchmarks más recientes indican que **GLM-5.2 ya supera a GPT-5.5 en SWE-Bench Pro**, lo que está haciendo que varias startups comiencen a migrar su tráfico 100% hacia proveedores como DeepSeek. La guerra de precios y performance en la API está desatada.
+
+### Update: 14 de Julio de 2026
+
+DeepSeek no solo está ganando terreno en uso y desarrollando hardware, sino que está levantando capital a niveles astronómicos para sostener este crecimiento. Reportes recientes indican que la empresa está en **charlas preliminares para levantar una nueva ronda de inversión a una valuación cercana a los $71 billones de dólares**. 
+
+Esto es una locura considerando que a finales de mayo (hace menos de dos meses) levantaron $7 billones a una valuación de $52 billones. Esta inyección bestial de capital tiene un objetivo clarísimo: **construir la infraestructura masiva necesaria (GPU clusters, energía, data centers)** para seguir dándole pelea a OpenAI y Anthropic. La guerra de la IA no es solo de código, es de billetera.
