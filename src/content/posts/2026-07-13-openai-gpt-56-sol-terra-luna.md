@@ -8,7 +8,10 @@ draft: false
 tags:
   - IA
 description: "OpenAI lanzó GPT-5.6 en tres niveles — Sol, Terra y Luna — con precios desde $1 hasta $30 por millón de tokens. Ya disponible en ChatGPT, Codex y la API."
+ogImage: "../../assets/images/openai-gpt-56-sol-terra-luna-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/openai-gpt-56-sol-terra-luna-cover.jpg)
+
 
 OpenAI no ha venido con chiquitas. El 9 de julio abrieron el rollout público de **GPT-5.6**, y la movida es bastante más structural que un simple "modelo nuevo". Lanzaron **tres modelos en paralelo** con una estrategia clara: que cada uno cumpla un rol distinto.
 

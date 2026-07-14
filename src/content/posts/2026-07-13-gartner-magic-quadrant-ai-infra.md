@@ -10,7 +10,10 @@ tags:
   - IA
   - Infraestructura
 description: "Google Cloud encabeza el primer MQ de AI Infra de Gartner. CoreWeave entra como Visionary. El mercado AI Infra se consolida."
+ogImage: "../../assets/images/gartner-magic-quadrant-ai-infrastructure-2026-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/gartner-magic-quadrant-ai-infrastructure-2026-cover.jpg)
+
 
 Gartner sacó su **primer Magic Quadrant para Cloud AI Infrastructure** y las posiciones son bastante clarificadoras del momento que vive la industria.
 

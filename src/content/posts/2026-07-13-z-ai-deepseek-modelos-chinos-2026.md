@@ -8,7 +8,10 @@ draft: false
 tags:
   - IA
 description: "DeepSeek consolida su liderazgo en capacidades y Z.ai sorprende con GLM-5.2, compitiendo cara a cara con los gigantes de EE. UU."
+ogImage: "../../assets/images/z-ai-deepseek-modelos-chinos-2026-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/z-ai-deepseek-modelos-chinos-2026-cover.jpg)
+
 
 Si pensabas que la carrera de la IA iba a ser solo entre un par de laboratorios en San Francisco, piénsalo de nuevo. Las últimas horas han dejado claro que el ecosistema chino no está jugando a las escondidas.
 

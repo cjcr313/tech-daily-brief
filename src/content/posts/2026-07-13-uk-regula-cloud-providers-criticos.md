@@ -9,7 +9,10 @@ tags:
   - Cloud
   - Infraestructura
 description: "El gobierno británico designó a los cuatro grandes cloud providers como 'terceros críticos' del sector financiero. Regulación directa desde ya."
+ogImage: "../../assets/images/uk-regula-cloud-providers-criticos-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/uk-regula-cloud-providers-criticos-cover.jpg)
+
 
 El Reino Unido acaba de hacer un movimiento que podría sentar precedente mundial. Desde el **13 de julio de 2026**, AWS, Google Cloud, Microsoft y Oracle fueron designados oficialmente como **Critical Third Parties (CTPs)** del sector financiero británico.
 

@@ -10,7 +10,10 @@ tags:
   - Infraestructura
   - Cloud
 description: "El backend de Transformers en Hugging Face alcanza el rendimiento nativo de vLLM. ¿El fin del monopolio de la velocidad?"
+ogImage: "../../assets/images/hugging-face-backend-iguala-vllm-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/hugging-face-backend-iguala-vllm-cover.jpg)
+
 
 Ojo con lo que está pasando en la capa de inferencia de IA. Hasta hace poco, si querías servir modelos grandes (LLMs) en producción sin arruinarte pagando GPUs, **vLLM** era casi la única opción por su velocidad y optimización de memoria (hola, PagedAttention). 
 

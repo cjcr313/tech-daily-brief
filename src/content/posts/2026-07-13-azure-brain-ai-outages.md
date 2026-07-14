@@ -10,7 +10,10 @@ tags:
   - Cloud
   - IA
 description: "Microsoft destapa Brain, su sistema AIOps interno que monitorea Azure en tiempo real y declara outages automáticamente."
+ogImage: "../../assets/images/azure-brain-ai-decide-outages-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/azure-brain-ai-decide-outages-cover.jpg)
+
 
 Microsoft abrió las puertas y mostró **Brain**, el sistema de IA interno que monitorea la salud de Azure en tiempo real. Y no solo observa: **declara outages, pausa rollouts peligrosos y notifica a clientes afectados** — todo con mínima intervención humana.
 

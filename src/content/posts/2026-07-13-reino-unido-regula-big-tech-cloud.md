@@ -9,7 +9,10 @@ tags:
   - Cloud
   - Infraestructura
 description: "Desde hoy, el Banco de Inglaterra y la FCA supervisan directamente a los gigantes cloud por riesgo sistémico."
+ogImage: "../../assets/images/reino-unido-regula-big-tech-cloud-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/reino-unido-regula-big-tech-cloud-cover.jpg)
+
 
 El Reino Unido no anda con vueltas. Hoy **13 de julio de 2026** entra oficialmente en vigor el régimen de **Critical Third Parties (CTP)**, una normativa que pone a AWS, Google Cloud, Microsoft y Oracle bajo supervisión directa del Banco de Inglaterra, la PRA y la FCA.
 

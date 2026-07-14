@@ -9,7 +9,10 @@ tags:
   - IA
   - Infraestructura
 description: "DeepSeek está desarrollando su propio chip de inferencia fabricado por SMIC. SK Hynix advierte la peor escasez de memoria de la historia para 2027."
+ogImage: "../../assets/images/deepseek-chip-sk-hynix-memoria-ia-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/deepseek-chip-sk-hynix-memoria-ia-cover.jpg)
+
 
 Mientras todos miran los benchmarks de modelos, la verdadera batalla de la IA se está librando un nivel más abajo: **el silicio**. Dos noticias de esta semana lo dejan clarísimo.
 

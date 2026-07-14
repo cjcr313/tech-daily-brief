@@ -9,7 +9,10 @@ tags:
   - Observabilidad
   - Cloud
 description: "Un reporte de Orca Security revela que el 81% de las organizaciones usan paquetes de IA vulnerables y casi ninguno los ha parcheado. La seguridad no acompaña la velocidad de adopción."
+ogImage: "../../assets/images/orca-security-vulnerabilidades-ia-2026-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/orca-security-vulnerabilidades-ia-2026-cover.jpg)
+
 
 Orca Security publicó su **2026 State of AI Security Report** y los números son para ponerse serio. Analizaron telemetría anónima de más de **1.200 organizaciones en producción** durante Q2 2026, cubriendo AWS, Azure y Google Cloud.
 

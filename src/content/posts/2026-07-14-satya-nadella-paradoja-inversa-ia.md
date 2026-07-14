@@ -9,7 +9,10 @@ tags:
   - IA
   - Cloud
 description: "El CEO de Microsoft advierte que las empresas están pagando por la IA dos veces: con presupuesto y con su conocimiento propietario."
+ogImage: "../../assets/images/2026-07-14-satya-nadella-paradoja-inversa-ia-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/2026-07-14-satya-nadella-paradoja-inversa-ia-cover.jpg)
+
 
 El CEO de Microsoft, Satya Nadella, acaba de tirar una advertencia bastante seria sobre cómo las empresas están consumiendo Inteligencia Artificial hoy en día, refiriéndose a un fenómeno que bautizó como la **"paradoja inversa de la información"**.
 

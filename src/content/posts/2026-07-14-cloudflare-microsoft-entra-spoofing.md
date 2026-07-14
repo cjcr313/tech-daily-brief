@@ -10,7 +10,10 @@ tags:
   - Cloudflare
   - Seguridad
 description: "Atacantes están aprovechando la infraestructura de Cloudflare para realizar 'spoofing' de Client IDs de OAuth y validar millones de credenciales de Microsoft Entra."
+ogImage: "../../assets/images/2026-07-14-cloudflare-microsoft-entra-spoofing-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/2026-07-14-cloudflare-microsoft-entra-spoofing-cover.jpg)
+
 
 La seguridad cloud sigue siendo un dolor de cabeza constante. Hoy nos enteramos de una nueva campaña maliciosa bastante sofisticada que está afectando directamente a los usuarios de **Microsoft Entra** (lo que antes conocíamos como Azure AD).
 

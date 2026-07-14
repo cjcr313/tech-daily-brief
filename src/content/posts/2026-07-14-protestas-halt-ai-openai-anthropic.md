@@ -10,7 +10,10 @@ tags:
   - OpenAI
   - Anthropic
 description: "Manifestantes apuntan directamente a los ejecutivos de las gigantes de IA, exigiendo que detengan el entrenamiento de modelos más avanzados."
+ogImage: "../../assets/images/2026-07-14-protestas-halt-ai-openai-anthropic-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/2026-07-14-protestas-halt-ai-openai-anthropic-cover.jpg)
+
 
 La presión social sobre la Inteligencia Artificial está escalando de los foros de internet y las cartas abiertas a las calles. 
 

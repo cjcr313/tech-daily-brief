@@ -10,7 +10,10 @@ tags:
   - DevOps
   - IA
 description: "El ecosistema Cloud Native enfrenta un gran desafío con la IA: Kubernetes fue diseñado para estados estáticos, no para el constante 'drift' de los modelos."
+ogImage: "../../assets/images/2026-07-14-kubernetes-ai-drift-workloads-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/2026-07-14-kubernetes-ai-drift-workloads-cover.jpg)
+
 
 Kubernetes se ha comido el mundo del backend y la infraestructura, pero cuando se trata de Inteligencia Artificial y Machine Learning pesado, la relación es un poco más complicada de lo que parece. Análisis recientes en la comunidad apuntan a un culpable principal que rompe la armonía: **el drift (la desviación)**.
 

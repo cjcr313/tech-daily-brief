@@ -11,7 +11,10 @@ tags:
   - DevOps
   - IA
 description: "Google acaba de open-sourcear k8s-aibom, una herramienta clave para descubrir y auditar workloads de machine learning no registrados corriendo en clústeres Kubernetes."
+ogImage: "../../assets/images/2026-07-14-google-k8s-aibom-kubernetes-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/2026-07-14-google-k8s-aibom-kubernetes-cover.jpg)
+
 
 La gobernanza de la IA acaba de recibir un salvavidas gigante de parte de Google. Hoy anunciaron la liberación open-source de **k8s-aibom**, una herramienta diseñada específicamente para clústeres de Kubernetes que te ayuda a identificar *workloads* de Inteligencia Artificial que andan sueltos sin registro.
 

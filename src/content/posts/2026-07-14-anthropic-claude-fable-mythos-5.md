@@ -9,7 +9,10 @@ tags:
   - IA
   - Cloud
 description: "Llegó la nueva generación de Anthropic: Claude Fable 5 y Mythos 5, modelos diseñados para razonamiento complejo y trabajos autónomos pesados con ventanas de 1M tokens."
+ogImage: "../../assets/images/2026-07-14-anthropic-claude-fable-mythos-5-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/2026-07-14-anthropic-claude-fable-mythos-5-cover.jpg)
+
 
 Anthropic no baja el ritmo y acaba de sacudir el ecosistema anunciando su nueva línea de modelos: **Claude Fable 5** y **Claude Mythos 5**. 
 

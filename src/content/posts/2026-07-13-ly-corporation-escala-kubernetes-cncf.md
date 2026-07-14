@@ -10,7 +10,10 @@ tags:
   - DevOps
   - Infraestructura
 description: "Case study de la CNCF: Cómo LY Corporation pasó de 5 a más de 1.300 clusters de Kubernetes en infraestructura privada."
+ogImage: "../../assets/images/ly-corporation-escala-kubernetes-cncf-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/ly-corporation-escala-kubernetes-cncf-cover.jpg)
+
 
 ¡Buenas! Si alguna vez te ha dolido la cabeza administrando un par de clusters de Kubernetes, este *case study* que acaba de publicar la **CNCF** te va a volar la cabeza (y quizás a dar un poco de envidia).
 

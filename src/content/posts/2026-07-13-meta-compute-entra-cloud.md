@@ -10,7 +10,10 @@ tags:
   - IA
   - Infraestructura
 description: "Meta deja de ser solo ads: lanza Meta Compute para vender infra AI y prepara su chip Iris para septiembre."
+ogImage: "../../assets/images/meta-compute-entra-cloud-iris-chip-cover.jpg"
 ---
+![Imagen de referencia](../../assets/images/meta-compute-entra-cloud-iris-chip-cover.jpg)
+
 
 Meta dejó claro que ya no es solo una empresa de redes sociales y publicidad. Esta semana debutó **Meta Compute**, su nueva unidad de negocio cloud orientada a vender **infraestructura de IA y modelos foundation** a terceros. Sí, Meta ahora compite directamente con AWS, Azure y Google Cloud.
 
