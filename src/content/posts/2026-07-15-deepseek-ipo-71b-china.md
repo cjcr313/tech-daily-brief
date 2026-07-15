@@ -41,4 +41,14 @@ Un IPO exitoso de DeepSeek podría abrir la puerta para que otras empresas china
 
 Más capital = más capacidad de cómputo = mejores modelos open source. Si DeepSeek logra los US$71B de valuación, va a tener músculo financiero para competir en infraestructura de training e inference a escala global. Para equipos que ya usan modelos open source en producción, esto es música para los oídos: más competencia, mejores modelos, y presiones a la baja en precios de inference.
 
-**Fuentes:** Bloomberg, Yahoo Finance, Eastern Herald, CoinPaper
+### Update: 15 de Julio de 2026 — Liang Wenfeng es ahora el fundador de IA más rico del mundo
+
+Bloomberg confirmó hoy que el fundador de DeepSeek, **Liang Wenfeng**, se convirtió en el **fundador de IA más rico del mundo** con una fortuna de **US$36 mil millones**, superando a Dario Amodei (Anthropic) y Greg Brockman (OpenAI) combinados.
+
+Antes del último round de funding, el patrimonio de Liang era de US$16.7B. Post-round, se duplicó a US$36B. Esto lo posiciona como la **octava persona más rica de China**.
+
+Un dato curioso de governance: a pesar de la fortuna personal de Liang, **el gobierno de Beijing mantiene el único voto en el board** de DeepSeek. O sea, el control estratégico de la empresa no está en manos del founder sino del estado chino.
+
+Esto refuerza la narrativa: el IPO de DeepSeek no es solo una salida a bolsa más, es un evento geopolítico.
+
+**Fuentes:** Bloomberg, India Today, The Straits Times, TechTimes, CoinPaper, Eastern Herald, Yahoo Finance
