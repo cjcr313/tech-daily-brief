@@ -45,4 +45,9 @@ Más detalles del MQ 2026 salieron a la luz:
 - **Coralogix** también fue nombrado **Leader** en el cuadrante. La plataforma —construida sobre una arquitectura streaming-first— combina logs, métricas, traces, APM, security y AI observability. Recientemente levantó US$200M en Serie F y procesa petabytes de data de producción diariamente. Su CEO, Ariel Assaraf, enfatiza que la plataforma fue diseñada para AI agents desde el inicio, no reposicionada.
 - En el companion report **Gartner Critical Capabilities for Observability Platforms 2026**, **Grafana Cloud sacó 4.4/5 en AI/LLM Observability**. Este use case es cada vez más crítico: observar modelos, agents y pipelines de inferencia.
 
-Con Coralogix sumándose al cuadrante de Leaders, el grupo top se amplía a cinco: Dynatrace, Grafana, Datadog, Chronosphere y ahora Coralogix.
+Con Coralogix sumándose al cuadrante de Leaders, el grupo top se amplía. Pero no es el único nuevo:
+
+- **IBM** (con Instana + Concert) también fue nombrado **Leader**. Su apuesta: observabilidad para ambientes híbridos, cloud-native y AI-powered, con focus en "entender impacto, explicar causa y tomar acción".
+- **Elastic** también entró como **Leader** en el MQ 2026, consolidando su evolución desde search hacia observabilidad full-stack.
+
+El cuadro completo de Leaders 2026 quedaría: **Dynatrace, Grafana Labs, Datadog, Chronosphere, Coralogix, IBM y Elastic**. Siete Leaders — el cuadrante más competitivo en la historia del reporte.
