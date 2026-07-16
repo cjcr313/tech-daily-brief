@@ -8,7 +8,7 @@ draft: false
 tags:
   - Observabilidad
   - Cloud
-description: "Gartner publicó su Magic Quadrant para Observability Platforms 2026. Dynatrace lleva 16 años como Leader, Grafana furthest in Vision, Datadog highest in Execution, y Chronospace entra al cuadrante."
+description: "Gartner publicó su Magic Quadrant para Observability Platforms 2026. Dynatrace lleva 16 años como Leader, Grafana furthest in Vision, Datadog highest in Execution, Chronosphere y Coralogix entran al cuadrante."
 ---
 
 Gartner sacó su **Magic Quadrant para Observability Platforms 2026** (firmado el 13 de julio, con anuncios masivos hoy 15 de julio) y el cuadrante de Leaders está más peleado que nunca.
@@ -37,3 +37,12 @@ Este MQ confirma tres tendencias que ya veníamos viendo:
 3. **Open source sigue siendo un diferenciador real.** Grafana y Chronosphere están en el cuadrante de Leaders siendo compañías con raíces profundas en open source, compitiendo contra vendors propietarios con presupuestos de marketing infinitos.
 
 Si estás evaluando plataformas de observabilidad hoy, este MQ es un buen punto de partida. Pero ojo: Gartner pesa mucho la visión y ejecución a gran escala. Para equipos chicos o casos de uso específicos, el "mejor" puede no ser un Leader.
+
+### Update: 16 de julio
+
+Más detalles del MQ 2026 salieron a la luz:
+
+- **Coralogix** también fue nombrado **Leader** en el cuadrante. La plataforma —construida sobre una arquitectura streaming-first— combina logs, métricas, traces, APM, security y AI observability. Recientemente levantó US$200M en Serie F y procesa petabytes de data de producción diariamente. Su CEO, Ariel Assaraf, enfatiza que la plataforma fue diseñada para AI agents desde el inicio, no reposicionada.
+- En el companion report **Gartner Critical Capabilities for Observability Platforms 2026**, **Grafana Cloud sacó 4.4/5 en AI/LLM Observability**. Este use case es cada vez más crítico: observar modelos, agents y pipelines de inferencia.
+
+Con Coralogix sumándose al cuadrante de Leaders, el grupo top se amplía a cinco: Dynatrace, Grafana, Datadog, Chronosphere y ahora Coralogix.
