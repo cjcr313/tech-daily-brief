@@ -50,3 +50,17 @@ K3 no llega solo. Moonshot AI viene con viento en popa:
 La pregunta es si Kimi K3 podrá competir de tú a tú con Fable 5 y GPT-5.6 en producción real, no solo en benchmarks selectivos. Pero con 1M de contexto nativo y ese nivel de coding, queda claro que la carrera china no va a esperar a nadie.
 
 > 💡 **Para devs:** Pueden probar K3 desde el cliente Kimi o vía API usando los model IDs `k3-max` y `k3-cluster-max` en Kimi Code.
+
+### Update: 17 de julio — Blind testing y números finales
+
+Las últimas 24 horas confirmaron lo que los benchmarks sugerían. **VentureBeat** reportó que K3 es en realidad un modelo de **2.8 trillones de parámetros** (no 2.5T como se reportó inicialmente), consolidándose como **el modelo open-source más grande del mundo**.
+
+Lo más impactante viene de **AI Arena (evaluación ciega)**:
+
+- Los desarrolladores **prefirieron Kimi K3 sobre todos los modelos estadounidenses** en coding front-end
+- Superó a **Anthropic Fable 5** y **OpenAI GPT-5.6 Sol** en pruebas a ciegas
+- **CNBC** confirma que supera a OpenAI y Anthropic en varios benchmarks
+
+**Axios** lo tituló como un "stun": un modelo chino open-weight logrando resultados de frontera a una fracción del costo. La narrativa se afianza: mientras OpenAI y Anthropic guardan sus modelos bajo llave, las empresas chinas están ganando terreno con la estrategia opuesta — **open source, más grande y más barato**.
+
+Esto presiona directamente el modelo de negocio de las labs estadounidenses. Si un modelo gratuito codea mejor en ciego que uno de US$200/mes, las empresas van a hacer las cuentas.

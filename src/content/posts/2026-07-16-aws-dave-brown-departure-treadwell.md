@@ -32,3 +32,18 @@ Brown dijo que siente que "es el momento correcto para comenzar un nuevo capítu
 El cambio es notable porque Compute y ML es literalmente el motor de AWS: EC2, Bedrock, SageMaker, Trainium, Inferentia —todo pasa por esa organización. Treadwell hereda un negocio en crecimiento pero también con presión enorme: Microsoft Azure acelerando, Google Cloud invirtiendo fuerte, y clientes exigiendo capacidades de IA cada vez más sofisticadas.
 
 Veremos si el cambio de liderazgo significa ajustes estratégicos o si es continuidad. Por ahora, es uno para vigilar.
+
+### Update: 17 de julio — Meta le ficha para liderar Meta Compute
+
+Y aquí está la respuesta al misterio. El **Wall Street Journal** confirmó el 17 de julio que **Dave Brown se va a Meta** para liderar la expansión de sus data centers de IA y construir **Meta Compute**, la apuesta cloud de la empresa de Zuckerberg.
+
+Esto no es una salida cualquiera — es una declaración de guerra:
+
+- **Meta está invirtiendo US$50+ mil millones** en infraestructura de IA
+- **Brown llevará su experiencia de 19 años en EC2** para construir una plataforma cloud desde cero
+- Meta Compute pondrá a Meta en colisión directa con **AWS, Azure y Google Cloud**
+- El movimiento acelera la expansión de data centers que Meta ya tenía en marcha
+
+El ciclo se cierra: Brown ayudó a construir el negocio de compute más rentable del cloud (EC2). Ahora va a intentar replicar esa receta para el competidor más agresivo que ha entrado al mercado cloud en años. Con Meta también desarrollando su propio chip (**Iris**) y compitiendo por talento de IA, esto se pone interesante.
+
+Para AWS, la pérdida es doble: no solo pierden a uno de sus ejecutivos más experimentados, sino que ahora tiene que competir contra él.
