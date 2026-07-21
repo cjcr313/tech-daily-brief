@@ -36,3 +36,22 @@ Esto refuerza una verdad incómoda del cloud: incluso la infraestructura managed
 Para los que corren workloads críticos en GCVE stretched clusters, este incidente es un recordatorio brutal de revisar tus **RTO/RPO reales** y no asumir que "managed cloud" significa "sin fallas".
 
 **Fuente:** [Network World](https://www.networkworld.com/article/4197290/google-cloud-configuration-update-disrupts-vmware-engine-stretched-clusters.html)
+
+---
+
+### Update: 21 julio 2026 — Análisis de The Register revela dependencias ocultas
+
+The Register publicó un análisis más profundo del incidente basado en el **incident report oficial de Google**. Detalles clave que se confirmaron:
+
+- La causa raíz fue una **falla de energía upstream** del datacenter que sirve europe-west4-a para GCVE, NetApp Volumes y Bare Metal Solutions
+- Esto causó una **falla de cooling** y Google tuvo que apagar workloads proactivamente para proteger datos de temperaturas altas
+- **15 horas** de downtime total
+- El detalle crítico: Google usa un **datacenter discreto** para esos tres servicios. No es un problema de la zona completa — fue un solo edificio el que cayó
+
+Forrester lo planteó claro:
+
+> "Customers are generally told to use multiple zones and regions for resilience but are rarely given visibility into whether a particular managed service has a single-datacenter dependency within a zone."
+
+La lección mayor: los hyperscalers te dicen "usa multi-zone" pero **no te avisan cuando un servicio managed depende de un solo datacenter dentro de esa zona**. La abstracción del cloud te hace asumir más redundancia de la que realmente existe para servicios especializados.
+
+**Fuente update:** [The Register](https://www.theregister.com/off-prem/2026/07/21/google-cloud-outage-shows-its-still-hard-to-understand-hyperscalers-real-resilience-regimes/5275405)
