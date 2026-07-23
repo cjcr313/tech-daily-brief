@@ -64,3 +64,17 @@ Lo más impactante viene de **AI Arena (evaluación ciega)**:
 **Axios** lo tituló como un "stun": un modelo chino open-weight logrando resultados de frontera a una fracción del costo. La narrativa se afianza: mientras OpenAI y Anthropic guardan sus modelos bajo llave, las empresas chinas están ganando terreno con la estrategia opuesta — **open source, más grande y más barato**.
 
 Esto presiona directamente el modelo de negocio de las labs estadounidenses. Si un modelo gratuito codea mejor en ciego que uno de US$200/mes, las empresas van a hacer las cuentas.
+
+### Update: 23 de julio — La demanda reventó a Moonshot. Suscripciones pausadas en 48 horas
+
+K3 fue demasiado exitoso para su propio bien. **Menos de 48 horas tras el release, Moonshot tuvo que pausar nuevas suscripciones** porque la demanda agotó su capacidad de GPU disponible.
+
+La declaración oficial desde la cuenta @Kimi_Moonshot en X fue cristalina:
+
+> *"Kimi K3 has received far more love than we expected, and our GPUs are feeling it. Over the past 48 hours, demand has pushed close to the limits of our current capacity. To protect the experience of existing subscribers, we're temporarily pausing new subscriptions."*
+
+**El impacto en mercados:** El Philadelphia Semiconductor Index cayó casi **10% en su peor semana desde abril 2025**, en parte por el efecto psicológico de que un modelo chino a esta escala pusiera presión en el narrative de capex en IA. InvestorPlace tituló que Wall Street "misread" el evento.
+
+**Valuación:** Moonshot estaría buscando una **valuación de US$50 mil millones** según CoinCentral, aprovechando el momentum de K3.
+
+La ironía es brutal: el modelo que debía demostrar la superioridad de la infraestructura china de IA terminó demostrando que **ni Moonshot tiene suficientes GPUs para sostener su propio éxito**. El inference bottleneck es real, y no se resuelve con buenos modelos — se resuelve con chips, y muchos.
