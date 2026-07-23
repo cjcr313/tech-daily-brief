@@ -51,3 +51,20 @@ No todo es color de rosa. Z.ai corre su API en la nube bajo la **Ley de Intelige
 Pero mientras la política se discute, los desarrolladores ya votaron con sus tokens.
 
 > 💡 **La conclusión:** Si tu modelo cuesta 10x menos y codea mejor en ciego, las empresas hacen las cuentas rápido. La ventaja de los labs estadounidenses se está erosionando más rápido de lo esperado.
+
+### Update: 23 de julio — Jensen Huang defiende los modelos chinos ante Washington
+
+Mientras Washington entra en pánico, **Jensen Huang dijo textualmente que los modelos chinos son "excellent" y que deberían usarse, no prohibirse**.
+
+En una entrevista con Axios (22 julio), el CEO de NVIDIA rechazó la idea de que los modelos open-source chinos sirvan como backdoor para el gobierno chino. Los llamó "misconceptions": los modelos son descargables y los guardrails son personalizables.
+
+El contexto político está caliente:
+- **La Casa Blanca** consideró usar poder ejecutivo para imponer condiciones a empresas US que quieran usar modelos chinos, incluyendo garantizar seguridad y aceptar liability si hay breach
+- **Commerce Department** lleva desde el año pasado evaluando poner en lista negra a labs chinos
+- El lanzamiento de **Kimi K3** revivió todo el debate
+
+Huang argumentó que el mundo necesita tanto modelos open-source como cerrados: "*If there's great AI, even if it's open, wherever it comes from, there will be more use. Whenever there's more use, you'll have to sell a lot more NVIDIA computers.*"
+
+Mientras tanto, empresas como **Cursor** ya están migrando a alternativas chinas open-source para ahorrar costos, y el CTO de Amazon **Werner Vogels** confirmó que las empresas se están moviendo hacia modelos open-source más baratos.
+
+**La tensión es clara:** Washington quiere restringir; el mercado ya adoptó. Y Jensen Huang está haciendo un bet público de que abrir es mejor que cerrar — porque más uso de IA, venga de donde venga, significa más GPUs vendidas.
