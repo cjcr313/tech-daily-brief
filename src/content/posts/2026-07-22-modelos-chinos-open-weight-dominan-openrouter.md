@@ -68,3 +68,24 @@ Huang argumentó que el mundo necesita tanto modelos open-source como cerrados: 
 Mientras tanto, empresas como **Cursor** ya están migrando a alternativas chinas open-source para ahorrar costos, y el CTO de Amazon **Werner Vogels** confirmó que las empresas se están moviendo hacia modelos open-source más baratos.
 
 **La tensión es clara:** Washington quiere restringir; el mercado ya adoptó. Y Jensen Huang está haciendo un bet público de que abrir es mejor que cerrar — porque más uso de IA, venga de donde venga, significa más GPUs vendidas.
+
+### Update: 24 de julio — EE.UU. acusa directamente a Moonshot de destilar Fable de Anthropic
+
+La cosa se puso seria. **Michael Kratsios**, director de la Office of Science and Technology Policy de la Casa Blanca, nombró directamente a Moonshot AI en un post en X, acusándolos de dos cosas concretas:
+
+1. **Distillation attack:** Moonshot supuestamente extrajo capacidades del modelo Fable de Anthropic a gran escala usando cuentas falsas y proxies, construyendo infraestructura interna para destilar modelos US-made. Kratsios afirma que rotaban métodos de acceso para evitar detección.
+2. **Uso de NVIDIA GB300:** Moonshot habría adquirido servidores con chips GB300 (sujetos a export controls) y accedido a GB300s en Tailandia para entrenar K3.
+
+Hasta ahora **no hay evidencia pública** — no se han mostrado logs de acceso de Anthropic, ni rastros en los datos de entrenamiento de K3, ni detalles de la cadena de suministro de los chips.
+
+Lo que sí sabemos:
+- Los **pesos completos de K3 se liberan el 27 de julio** — y podrían permitir escrutinio independiente sobre si hay rastros de destilación
+- **Artificial Analysis** detectó un **51% de hallucination rate** en K3 (vs 54.9% de Fable 5), un dato que Moonshot omitió en sus benchmarks. El modelo mejoró en respuestas correctas pero empeoró en saber cuándo no sabe
+- OpenAI's head of strategic futures llamó al modelo de open-weight "AI communism" y un "dystopian hellscape"
+- Anthropic confirma que la destilación es legítima como técnica, pero lo que llaman **"distillation attack"** es extraer capacidades violando términos de servicio y restricciones regionales
+
+**El dilema:** ¿Es innovation legítima o robo con allanamiento? Si las acusaciones son ciertas, Moonshot no solo copió resultados — construyó infraestructura sistemática para eludir controles de export y terms of service. Si son falsas, es un intento de frenar a un competidor que ya está ganando.
+
+El 27 de julio podría ser el día que lo defina. Los pesos abrirán el modelo a escrutinio como nunca antes.
+
+> ⚠️ **Ojo:** Para uso enterprise, la Ley de Inteligencia Nacional de China (Art. 7) aplica a Moonshot como entidad — independientemente de dónde corra el modelo. Open-weight no elimina la jurisdicción del país de origen.
