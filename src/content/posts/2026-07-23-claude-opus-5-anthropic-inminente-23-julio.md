@@ -54,3 +54,40 @@ Lo que se sabe hasta ahora:
 El lanzamiento llega en el peor/buen momento para Anthropic: Altman acaba de desafiarlos a bajar precios, los modelos chinos siguen mejorando, y sus valoraciones privadas se desinflan (Anthropic bajó de US$1.79T a US$1.56T en IG esta semana).
 
 *Fuentes adicionales: TheWinCentral, TestingCatalog, Digg*
+
+### Update: 24 julio 2026 — ¡OFICIAL! Claude Opus 5 disponible desde hoy
+
+Anthropic confirmó el lanzamiento oficial de **Claude Opus 5** este viernes. Acá van los datos concretos:
+
+**Performance y pricing:**
+- Casi alcanza a Fable 5 en benchmarks, pero a **la mitad del precio**
+- Pricing igual a Opus 4.8: **$5 input / $25 output por millón de tokens**
+- Fast mode disponible: 2.5x velocidad al doble de precio
+- Es el **nuevo modelo default en Claude Max** y el más potente en Claude Pro
+
+**La killer feature: effort toggle**
+- Los usuarios pueden elegir cuánto esfuerzo pone el modelo: **low, medium o high**
+- Esto permite balancear costo vs. capacidad por tarea
+- En el contexto de la guerra de precios con OpenAI y modelos chinos, esto es clave — pagas por lo que necesitas, no más
+
+**Mejoras concretas vs Opus 4.8:**
+- Mejor verificación de su propio trabajo y recuperación de errores sin intervención
+- Más capaz en coding agéntico, resolución de problemas novedosos y razonamiento multidisciplinario
+- **El modelo más capaz para investigación científica** disponible públicamente, con fuerza particular en biología
+- Mejor generación de outputs visuales
+
+**Seguridad:**
+- Guardrails similares a Opus 4.8 en la mayoría de áreas, pero **más fuertes en ciberseguridad**
+- Cuando Opus 5 rechaza una petición por safety, **la API hace fallback automático a otro modelo** — el usuario siempre gets an answer
+- Anthropic lo llama "el modelo Opus más alineado y menos susceptible a ser engañado para mal uso"
+- Cerca de Mythos 5 en encontrar vulnerabilidades, pero NO entrenado para explotación
+
+**El contexto competitivo:**
+- Es el **cuarto modelo que Anthropic lanza en menos de dos meses** (Mythos 5, Fable 5, Sonnet 5, Opus 5)
+- Fable 5 fue el modelo polémico que EE.UU. sometió a export controls tras el reporte de Amazon sobre bypass de safeguards
+- Opus 5 resuelve el problema de burn rate de tokens que tenía Fable 5 — menos back-and-forth, más eficiencia
+- Clem Delangue (CEO de Hugging Face) dijo que closed model APIs rechazan "mucho trabajo legítimo de seguridad porque analizar un ataque se parece mucho a preparar uno"
+
+La jugada es clara: Anthropic necesita un modelo que sea suficientemente capaz para uso diario enterprise, con costos controlables, y que no asuste a los reguladores. Opus 5 pinta como ese sweet spot.
+
+*Fuentes: Fortune, MacRumors, Anthropic, Bloomberg, 9to5Mac*
