@@ -41,4 +41,16 @@ La pregunta clave: ¿podrá Opus 5 justificar su premium en un mercado donde la 
 
 ---
 
-*Fuentes: BigGo Finance, Polymarket, Artificial Analysis, TestingCatalog*
+### Update: 24 julio 2026 — Lanzamiento esperado hoy (jueves)
+
+Las señales se multiplicaron durante la noche. **TestingCatalog** reportó preparativos entre socios de Anthropic, y múltiples fuentes indican que el lanzamiento de Claude Opus 5 está agendado para **hoy jueves 24 de julio**.
+
+Lo que se sabe hasta ahora:
+
+- **Performance comparable a Fable 5**, pero NO se espera que lo supere en benchmarks. El foco estaría en **confiabilidad, usabilidad y deployment enterprise**.
+- Esto tiene sentido: Fable 5 es el modelo top de la línea Mythos. Opus 5 sería el upgrade natural del 4.8, no un reemplazo de Fable.
+- Si el patrón de precios se mantiene, Opus 5 podría ubicarse entre Sonnet 5 ($2/$10 intro) y Fable 5 ($10/$50).
+
+El lanzamiento llega en el peor/buen momento para Anthropic: Altman acaba de desafiarlos a bajar precios, los modelos chinos siguen mejorando, y sus valoraciones privadas se desinflan (Anthropic bajó de US$1.79T a US$1.56T en IG esta semana).
+
+*Fuentes adicionales: TheWinCentral, TestingCatalog, Digg*
