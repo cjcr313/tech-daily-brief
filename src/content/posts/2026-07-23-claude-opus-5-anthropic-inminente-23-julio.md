@@ -91,3 +91,29 @@ Anthropic confirmó el lanzamiento oficial de **Claude Opus 5** este viernes. Ac
 La jugada es clara: Anthropic necesita un modelo que sea suficientemente capaz para uso diario enterprise, con costos controlables, y que no asuste a los reguladores. Opus 5 pinta como ese sweet spot.
 
 *Fuentes: Fortune, MacRumors, Anthropic, Bloomberg, 9to5Mac*
+
+### Update: 25 julio 2026 — Benchmarks completos y el eje que define 2026
+
+Ya con los datos completos de benchmarks terceros, el panorama de Opus 5 es más claro — y más interesante de lo que parecía:
+
+**Los números que importan:**
+- **Frontier-Bench v0.1** (coding agéntico en terminal): Opus 5 logra **43.3%**, más del doble que Opus 4.8 (18.7%) y supera claramente a Fable 5 (33.7%) y GPT-5.6 Sol (34.4%)
+- **ARC-AGI-3** (resolución novedosa de problemas): **30.2%** — casi 4 veces más que GPT-5.6 Sol (7.8%). Acá no hay número de Fable 5 todavía, pero el salto es obsceno
+- **GDPval-AA v2** (knowledge work): Elo **1,861**, por encima de Fable 5 (1,747) y GPT-5.6 Sol (1,736)
+- **OSWorld 2.0** (computer use): supera el mejor resultado de Fable 5 a **un tercio del costo**
+- **DeepSWE v1.1**: Acá GPT-5.6 Sol sigue liderando con 72.7%, vs Opus 5 en 68.8% y Fable 5 en 69.7%
+
+**El paradoja del effort max:**
+Opus 5 tiene cinco niveles de effort: low, medium, high, xhigh y max. Anthropic recomienda "xhigh" para coding agéntico. ¿El detalle? En **max effort el modelo rinde levemente peor** que en xhigh en dos benchmarks (Frontier-Bench y AA Coding Agent Index), a pesar de costar más. Es un hallazgo interesante — sugiere que hay un punto de returns decrecientes en el razonamiento extendido.
+
+**Eficiencia real (no solo precio por token):**
+Los早期 usuarios reportan datos concretos:
+- **Harvey** (legal AI): misma performance que Opus 4.8 en max-reasoning, pero con **26% menos tokens**
+- **Fundamental Research Lab**: +9 puntos de accuracy en financial modeling, usando **60% menos tiempo** y un tercio menos de tool calls
+- **Zapier**: Opus 5 logró 100% en su AutomationBench — ningún modelo anterior lo había pasado
+- **Cognition** (Devin): "approaches Fable-level performance at half the cost" en FrontierCode 1.1
+
+**La framing que importa:**
+Anthropic está vendiendo una distinción sutil pero clave: **tareas acotadas vs. autonomía de larga duración**. Opus 5 es el mejor para jobs que un benchmark puede medir. Fable 5 es para cuando el trabajo se extiende por horas o días con material denso. Esa puede ser **la dimensión que defina la diferenciación de modelos en 2026** — no quién es más inteligente, sino quién dura más coherente.
+
+*Fuentes: VentureBeat, The Decoder, BenchLM, Artificial Analysis*
