@@ -46,3 +46,22 @@ El CEO de Hugging Face, Clem Delangue, lo resume así: los modelos frontier van 
 La pregunta incómoda: ¿cuánto importan los modelos frontier cerrados si la mayoría de la IA en producción termina corriendo en alternativas más baratas?
 
 **Fuentes update:** TechCrunch, Hugging Face State of OS Spring 2026, OpenRouter Rankings, Vercel AI Gateway
+
+### Update: 25 de julio — GLM-5.2 confirmado como #1 open-weight en Artificial Analysis
+
+Los benchmarks ahora le dan la razón al hype. **Artificial Analysis confirmó que GLM-5.2 es el modelo open-weight #1 en su Intelligence Index v4.1**, con un score de **51**, por encima de MiniMax-M3 y DeepSeek V4 Pro.
+
+Otros datos clave que se confirmaron:
+
+- **SWE-bench Pro: 62.1** — supera a GPT-5.5 (58.6), aunque debajo de Claude Opus 4.8 (69.2)
+- **Design Arena:** #1 en evaluación single-turn de HTML web design, beatando a Claude Fable 5
+- **Arquitectura:** 744B parámetros MoE, ~40B activados por token
+- **Contexto:** 1M de tokens (vs 200K en GLM-5.1)
+- **Pricing API:** $1.40/M input, $4.40/M output
+- **Licencia:** MIT en Hugging Face
+
+El detalle geopolítico que está dando vuelta: Foreign Affairs Forum reportó que GLM-5.2 fue **entrenado en procesadores Huawei Ascend 910B**. O sea, el modelo open-weight más capaz del momento se entrenó en chips chinos, lo que corta de raíz el supuesto de que los controles de exportación de EE.UU. iban a frenar el avance de la IA china.
+
+Y para los que quieren correrlo local: un Mac Studio 256GB puede cargar el GGUF 2-bit (~239GB en disco) y obtener **3-9 tokens/segundo** vía llama.cpp. No es rápido, pero es un asistente de código privado que no envía datos a ninguna parte.
+
+*Fuentes update: Artificial Analysis, Startup Fortune, Morphllm, FelloAI*
