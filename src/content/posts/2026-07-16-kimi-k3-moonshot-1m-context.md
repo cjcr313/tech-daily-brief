@@ -78,3 +78,31 @@ La declaración oficial desde la cuenta @Kimi_Moonshot en X fue cristalina:
 **Valuación:** Moonshot estaría buscando una **valuación de US$50 mil millones** según CoinCentral, aprovechando el momentum de K3.
 
 La ironía es brutal: el modelo que debía demostrar la superioridad de la infraestructura china de IA terminó demostrando que **ni Moonshot tiene suficientes GPUs para sostener su propio éxito**. El inference bottleneck es real, y no se resuelve con buenos modelos — se resuelve con chips, y muchos.
+
+### Update: 26 de julio — Pesos abiertos mañana 27 de julio. Guía de self-hosting y GPU requirements
+
+Moonshot confirmó que los **pesos abiertos de Kimi K3 se liberan el 27 de julio a las 00:00 UTC**. Esto es un evento mayor: cualquiera podrá descargar, correr y self-hostear el modelo de 2.8 trillones de parámetros sin depender de la API de Moonshot (y sin el riesgo de data residency que implica la Ley de Inteligencia Nacional de China).
+
+**Especificaciones técnicas para self-hosting:**
+
+- **Modelo:** 2.8T parámetros, 896 expertos, 16 activos por token (Stable LatentMoE)
+- **Cuantización recomendada:** Q4 MXFP4 (~1.4TB) — K3 fue entrenado con MXFP4-aware, así que la degradación es mínima
+- **GPUs mínimas:** ~18× H100 80GB para Q4; 64+ aceleradores recomendados por Moonshot
+- **Stack recomendado:** vLLM 0.5+ (standard para MoE), SGLang como alternativa
+- **Costo cloud (Q4):** ~$50/hr reserved en AWS/Azure/GCP con 24 H100s (~$0.14/1K tokens a 100 tok/s)
+
+**Lo que cambia con self-hosting:**
+
+1. **Soberanía de datos:** Para finanzas, salud, defensa — la API de Moonshot era un no-go por la NI Law china. Self-hosting en AWS/Azure/GCP regiones occidentales elimina a Moonshot del data chain.
+2. **Costo:** A alto volumen (10M+ tokens/día), self-hosting se paga en semanas vs API a $3/M tokens.
+3. **Providers managed:** Together AI, Fireworks, Groq y Replicate probablemente ofrezcan K3 managed dentro de días post-release, con residencia de datos en EE.UU. sin gestionar tu propio cluster.
+
+**Lo que aún no se sabe:** Los términos de la licencia. Moonshot no ha confirmado si será tipo Apache 2.0, MIT, o una licencia con restricciones comerciales. Esto es crítico — una licencia restrictiva podría frenar la adopción enterprise.
+
+### Update: 26 de julio — La Casa Blanca acusa a Moonshot de distillation de Fable 5
+
+En un giro que parece sacado de un thriller, **Michael Kratsios** (director de OSTP de la Casa Blanca) acusó directamente a Moonshot de haber destilado el modelo Fable de Anthropic a escala industrial para construir K3. El Treasury Secretary **Scott Bessent** amenazó con sanciones y Entity List.
+
+La acusación incluye acceso a **servidores Nvidia GB300 prohibidos** para empresas chinas, posiblemente obtenidos vía Tailandia. Expertos cuestionan la timeline (Fable 5 solo lleva 15 días público cuando K3 salió), pero el mensaje político es claro: Washington está dispuesto a usar todas las herramientas disponibles contra los modelos chinos open-weight.
+
+Más detalle en el artículo dedicado: [La Casa Blanca acusa a Moonshot de destilar Fable 5](/posts/white-house-moonshot-distillation-fable5-sanciones).
