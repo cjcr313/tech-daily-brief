@@ -62,3 +62,11 @@ Más allá del drama político, esto define el futuro de la IA en producción:
 La carta de 32 firmas es la movida de presión más coordinada que hemos visto en pro del open-weight AI. Si funciona, define las reglas del juego para la próxima década.
 
 *Fuentes: Business Insider, Fortune, The New Stack, Stocktwits*
+
+### Update: 27 de julio — OpenAI y Anthropic haciendo lobby silencioso contra modelos chinos
+
+La trama se espesa. Según un reporte de *The New York Times* y confirmado por medios como *TechCrunch*, **OpenAI y Anthropic han estado haciendo lobby activo y a puertas cerradas en Washington** para convencer a los reguladores de restringir los modelos chinos open-weight (como Moonshot y DeepSeek).
+
+Esto explica perfectamente las "ausencias notables" en la carta original de Jensen Huang. Mientras en público figuras como Sam Altman tuitean que quieren que EE.UU. gane "tanto en open source como en modelos cerrados", en privado están pidiendo frenar a la competencia.
+
+Críticos de la industria apuntan a que esta movida no es sobre "seguridad nacional", sino que **protege el negocio de los actores ya establecidos (incumbents)** frente a modelos chinos que están ofreciendo calidad frontier a una fracción del costo.
