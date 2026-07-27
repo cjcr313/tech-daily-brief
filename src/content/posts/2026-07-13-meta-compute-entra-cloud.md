@@ -59,3 +59,9 @@ Meta aclara que "paga los costos completos de energía, agua e infraestructura" 
 Esto se suma al impulso de Meta Compute y el chip Iris: Meta está construyendo la infraestructura más grande de la industria para AI, y el Hyperion es la pieza física central de esa estrategia.
 
 **Fuentes update:** CNBC, Reuters, The Hill, Louisiana Economic Development
+
+### Update: 27 de Julio de 2026 — Acciones de CoreWeave caen por la amenaza de Meta Compute
+
+El anuncio de Meta Compute empezó a cobrar víctimas en el mercado. Las acciones de CoreWeave (uno de los principales proveedores especializados en infraestructura de IA) se vieron golpeadas fuertemente tras confirmarse que Meta planea vender su capacidad de cómputo excedente a terceros.
+
+Lo irónico de la situación: **Meta es actualmente uno de los clientes más grandes de CoreWeave**, atados por un acuerdo gigantesco de US$35 mil millones hasta el año 2032. El hecho de que tu mejor cliente de repente decida convertirse en tu competidor para revender capacidad es un balde de agua fría para los inversionistas. Esto confirma que el movimiento de Meta hacia el cloud no es solo un experimento, sino una jugada que altera el equilibrio de poder en la infraestructura AI.

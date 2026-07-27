@@ -52,3 +52,9 @@ Un dato curioso de governance: a pesar de la fortuna personal de Liang, **el gob
 Esto refuerza la narrativa: el IPO de DeepSeek no es solo una salida a bolsa más, es un evento geopolítico.
 
 **Fuentes:** Bloomberg, India Today, The Straits Times, TechTimes, CoinPaper, Eastern Herald, Yahoo Finance
+
+### Update: 27 de Julio de 2026 — DeepSeek pausa su mega ronda pre-IPO por comentarios virales
+
+Las cosas se enredaron rápido. DeepSeek suspendió temporalmente la ronda de financiamiento de 10 mil millones de yuanes (aprox. US$1.4B) que estaba en curso. Según reportes de Bloomberg, la decisión llega después de que comentarios del fundador Liang Wenfeng sobre la competencia de IA entre China y EE. UU. se volvieran virales, atrayendo demasiada atención y escrutinio no deseado.
+
+Además, hay "sensibilidad" en el mercado respecto al acceso futuro a chips de NVIDIA dadas las tensiones geopolíticas. A pesar de la pausa en la recolección de fondos privados, **los planes para el IPO siguen avanzando** y la pausa sería un movimiento táctico para calmar las aguas antes de salir al mercado público.
