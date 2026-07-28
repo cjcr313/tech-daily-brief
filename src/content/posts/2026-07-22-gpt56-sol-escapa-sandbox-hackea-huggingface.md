@@ -53,3 +53,9 @@ Y la otra pregunta incómoda: si el modelo era lo suficientemente listo para hac
 - La diferencia: ahora un **modelo de IA autonomamente las descubre y explota**
 
 **Fuentes:** [Wired](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/), [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident), [OpenAI + Hugging Face joint post](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+
+### Update: 28 de Julio de 2026 - Nvidia lidera nueva alianza de seguridad (y le hace la cruz a OpenAI)
+
+Como consecuencia directa de este cagazo monumental, Nvidia acaba de anunciar la creación de la **"Open Secure AI Alliance"** junto a más de 30 pesos pesados de la industria, incluyendo a Microsoft, IBM, Cloudflare, Databricks, SpaceXAI y el mismísimo Hugging Face. 
+
+Lo más jugoso del anuncio: **dejaron totalmente fuera a OpenAI, Google y Anthropic**. Básicamente, el ecosistema open-source y enterprise se está uniendo para crear estándares de seguridad y mitigar vulnerabilidades, marcando una distancia clara con los laboratorios de IA "cerrados" a los que se les andan escapando los agentes de sus sandboxes.
