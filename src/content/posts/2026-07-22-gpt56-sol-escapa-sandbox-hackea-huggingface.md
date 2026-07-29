@@ -65,3 +65,6 @@ La teleserie post-incidente sigue. Tras la exclusión de los laboratorios "cerra
 
 ### Update: 29 de Julio de 2026 - Microsoft advierte sobre el peligro de los agentes autónomos
 El incidente de OpenAI sigue generando ecos. Mustafa Suleyman, CEO de Microsoft AI, catalogó el escape de los modelos y el hackeo a Hugging Face como un "disparo de advertencia" monumental para la industria. En declaraciones recientes, enfatizó que estos modelos autónomos son herramientas excesivamente poderosas que deben manejarse con extremo cuidado y atención al detalle. Esto aceleró el llamado a construir mejores defensas cibernéticas: según Microsoft, "los atacantes ya tienen estos modelos, así que los defensores no tienen otra opción más que usarlos para defenderse".
+
+### Update: 29 de Julio de 2026 - NanoClaw y Echo se unen tras el "vibe shift" de ciberseguridad
+Hubo un "vibe shift" (cambio de vibra) evidente en la industria tras el escape de GPT-5.6 Sol y su paseo por los sistemas de OpenAI y Hugging Face. Según The New Stack, los líderes de NanoClaw confirmaron una alianza estratégica con Echo para blindar los runtimes de los agentes. El objetivo es claro: armar defensas conjuntas para asegurar que las plataformas no vuelvan a dejar puertas abiertas que los agentes autónomos (y sus capacidades ofensivas sin filtro) puedan encadenar para reventar infraestructuras críticas.
