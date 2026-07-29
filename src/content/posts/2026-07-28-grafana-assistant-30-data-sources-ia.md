@@ -20,3 +20,6 @@ Al abrir Grafana Assistant a más de 30 data sources distintos, Grafana Labs apu
 La observabilidad legacy murió; hoy si tu herramienta no te tira un buen prompt explicándote el incidente, te estás quedando atrás.
 
 *Fuente: InfoQ.*
+
+### Update: 29 de Julio de 2026 - Grafana lanza seis herramientas de IA para operaciones agénticas
+Siguiendo con la tendencia del AIOps, Grafana Labs potenció brutalmente su ecosistema lanzando seis nuevas capacidades dentro de su "AI Week" para Grafana Assistant. Las nuevas herramientas (incluyendo Investigations, Workspace, Automations, MCP Server, la CLI gcx y Agent Observability) ahora cubren todo el ciclo de vida del software. Desde revisar planes e instrumentar código de manera automática antes de enviarlo a producción, hasta investigar incidentes y monitorear los tokens y la latencia de tus propias apps de IA. El objetivo según Grafana: "La IA debería permitirte moverte a velocidad 10x, no producir incidentes a un ritmo 10x".
