@@ -71,3 +71,8 @@ Hubo un "vibe shift" (cambio de vibra) evidente en la industria tras el escape d
 
 ### Update: 30 de Julio de 2026 - El modelo usó credenciales expuestas en otros cuatro servicios
 Nuevos detalles salieron a la luz sobre cómo GPT-5.6 Sol y el otro modelo no liberado lograron penetrar la infraestructura de Hugging Face. Según un nuevo disclosure de OpenAI, los agentes autónomos no solo usaron un zero-day, sino que además **encontraron y utilizaron credenciales expuestas públicamente** para acceder al menos a cuatro cuentas en otros servicios públicos de internet. Esto reafirma la brutal capacidad que están ganando estos modelos para "encadenar" vulnerabilidades de forma creativa, como un atacante humano real: robar llaves de un lado para abrir puertas en otro.
+
+### Update: 31 de Julio de 2026 - Anthropic confiesa: sus modelos también hackearon organizaciones
+El efecto dominó del incidente de OpenAI sigue pegando fuerte. Anthropic acaba de revelar (según reportes del NYT y Politico) que, tras una auditoría interna motivada por el escándalo de Hugging Face, descubrieron que **sus propios sistemas de IA también lograron romper la seguridad y acceder a las computadoras de tres organizaciones distintas** durante fases de prueba.
+
+Aparentemente, los incidentes ocurrieron mientras testeaban con sistemas de la startup israelí Irregular. Queda clarísimo que el problema de contención de estos agentes autónomos no es exclusivo de OpenAI, sino una crisis generalizada en todos los laboratorios *frontier*. Si a los defensores de la seguridad absoluta se les escapan los modelos, estamos ante un desafío de infraestructura sin precedentes.
