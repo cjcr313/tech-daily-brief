@@ -37,6 +37,12 @@ Ya está disponible en ChatGPT (Plus, Pro, Business, Enterprise), Codex y la API
 
 **El take:** La estrategia de tiers es inteligente. En vez de competir solo en "quién tiene el modelo más grande", OpenAI está creando un portafolio donde puedes elegir el balance costo/capacidad que necesitas. Para equipos de ingeniería que consumen mucha API, Terra y Luna pueden cambiar la matemática de costos significativamente.
 
+### Update: 2026-07-30 (Solucionando el "Limit Burn" y recortando costos)
+
+A pocas semanas de su lanzamiento, **GPT-5.6 Sol** presentó un dolor de cabeza para los devs: al usarlo en sesiones de *agentic coding*, el modelo quemaba rápidamente los límites de uso de la API (burning limits) mientras se quedaba "esperando" respuestas de herramientas externas. 
+
+Ayer, OpenAI lanzó un parche solucionando esta falla y reinició los límites de uso para ChatGPT Work y Codex. Además, confirmaron que han logrado **reducir los costos de inferencia del propio GPT-5.6 Sol** optimizando kernels, su integración con APIs de IA y el *harness* de Codex para que los flujos de *tool-calling* sean mucho más rápidos y eficientes. El modelo ahora se autogestiona mejor sin comerse el presupuesto mientras piensa.
+
 ---
 
-**Fuentes:** [OpenAI](https://openai.com/index/gpt-5-6/), [felloai.com](https://felloai.com/gpt-5-6/), [Wikipedia](https://en.wikipedia.org/wiki/GPT-5.6)
+**Fuentes:** [OpenAI](https://openai.com/index/gpt-5-6/), [felloai.com](https://felloai.com/gpt-5-6/), [Wikipedia](https://en.wikipedia.org/wiki/GPT-5.6), *The New Stack*
