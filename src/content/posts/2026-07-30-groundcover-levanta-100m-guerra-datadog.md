@@ -20,3 +20,6 @@ Mientras gigantes como Datadog y New Relic siguen dominando el mercado, la propu
 Con esta nueva inyección de capital (llegando a $160M totales levantados), queda clarísimo que los inversionistas ven un apetito real por alternativas cloud-native que sean más eficientes en costos y que no te cobren un ojo de la cara por retener tus propios logs. 
 
 Habrá que ver cómo responde Datadog, que justo viene de comprar Adaptive ML para meterle más operaciones autónomas a su plataforma. La pelea por la observabilidad se está poniendo buena.
+
+### Update: 31 de Julio de 2026 - Reportes de copias de arquitectura y boom de eBPF
+El ruido tras el levantamiento de Groundcover sigue creciendo. Nuevos reportes en medios tech acusan que Datadog estaría replicando aspectos clave de la arquitectura de su retador. Esto no es casualidad: la reciente encuesta de la CNCF (Observability Technical Advisory Group 2026) reveló que el **67% de los equipos que corren Kubernetes a escala ya adoptaron al menos una herramienta de observabilidad basada en eBPF en producción**. El mercado claramente se está moviendo hacia donde Groundcover apuntó, y los gigantes están tomando nota.

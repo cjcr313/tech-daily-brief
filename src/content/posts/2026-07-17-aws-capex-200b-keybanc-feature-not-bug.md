@@ -55,3 +55,6 @@ Esto no es solo un debate de inversores. Si los hyperscalers están dispuestos a
 La carrera armamentista está en pleno. AWS está apostando que el que construya más rápido gana. Si KeyBanc tiene razón, el back half del decade va a ser espectacular para AWS. Si no, van a estar sentados sobre mucha capacidad ociosa.
 
 Una cosa es segura: **US$800 mil millones combinados en 2027 no es una inversión, es una declaración de guerra**.
+
+### Update: 31 de Julio de 2026 - Amazon confirma (y sube) la apuesta en Q2
+KeyBanc no estaba exagerando, de hecho se quedaron cortos. En su reporte de ganancias del Q2 2026, Amazon elevó su guidance oficial de capex para este año a **US$220 mil millones**, superando los US$200B inicialmente rumoreados. Solo durante este trimestre desembolsaron US$53.1B. La justificación directa en la llamada con inversores: mayores costos de memoria y la imperiosa necesidad de escalar capacidad para cubrir la brutal demanda de IA y cloud. Considerando que Google Cloud acaba de reportar un crecimiento del 82% YoY y Azure del 43%, la carrera armamentista está con el acelerador a fondo y los hyperscalers están dispuestos a absorber el golpe en sus flujos de caja.
