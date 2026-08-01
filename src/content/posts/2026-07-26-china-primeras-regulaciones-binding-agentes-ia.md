@@ -12,7 +12,7 @@ tags:
 description: "China implementó el primer marco regulatorio vinculante del mundo enfocado exclusivamente en agentes de IA. Tiers de autorización, prohibición de companions para menores y auditoría obligatoria."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![China estrena las primeras regulaciones binding del mundo para agentes de IA: tiers de autonomía, edad mínima y auditoría obligatoria](../../assets/images/2026-07-26-china-primeras-regulaciones-binding-agentes-ia.jpg)
 
 
 Mientras EE.UU. discute sanciones a Moonshot y Europa afina su AI Act, China ya pasó a la práctica: **implementó el primer marco regulatorio vinculante del mundo dedicado exclusivamente a agentes de IA**.

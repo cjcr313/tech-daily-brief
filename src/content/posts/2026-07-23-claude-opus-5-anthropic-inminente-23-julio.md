@@ -10,7 +10,7 @@ tags:
 description: "Los mercados de predicción marcan 88% de probabilidad de que Anthropic lance Claude Opus 5 hoy. GPT-5.6 Sol y Kimi K3 ponen la presión."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Claude Opus 5: Anthropic alista el lanzamiento mientras la guerra de modelos se intensifica](../../assets/images/2026-07-23-claude-opus-5-anthropic-inminente-23-julio.jpg)
 
 
 La carrera de modelos de IA entra en otra fase decisiva. Según Polymarket, la probabilidad de que **Anthropic lance Claude Opus 5 este 23 de julio** llegó al **88%**, y ya hay señales concretas: socios de Anthropic están preparando integraciones, y se han detectado despliegues preliminares en algunos proveedores.

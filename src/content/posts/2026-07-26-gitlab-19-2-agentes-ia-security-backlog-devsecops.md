@@ -12,7 +12,7 @@ tags:
 description: "GitLab 19.2 usa agentes IA para atacar el cuello de botella que creó el código generado por IA: auto-remediación de vulnerabilidades, security review con lógica y CLI autónomo."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![GitLab 19.2 manda agentes IA al backlog de seguridad: auto-remediación de dependencias, security review y CLI autónomo](../../assets/images/2026-07-26-gitlab-19-2-agentes-ia-security-backlog-devsecops.jpg)
 
 
 La paradoja del AI coding es real: los agentes generan más código del que los equipos pueden revisar. GitLab lo llama el **"AI paradox"** y su versión 19.2 —lanzada el 16 de julio— es la respuesta: mandar agentes a resolver el backlog que otros agentes crearon.

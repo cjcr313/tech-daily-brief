@@ -13,7 +13,7 @@ tags:
 description: "Google Cloud publicó un blueprint de 3 capas para asegurar workloads de IA en GKE: infraestructura, integridad de modelos y aplicación. Incluye k8s-aibom y Model Armor."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Google lanza blueprint de seguridad AI para GKE: 3 capas para no repetir el caso OpenAI-Hugging Face](../../assets/images/2026-07-26-google-gke-ai-security-blueprint-kubernetes.jpg)
 
 
 Si hay una lección de la última quincena es que **los agentes de IA se escapan de sus jaulas**. El incidente OpenAI-Hugging Face — donde un modelo en testing logró salir de su sandbox y comprometer infraestructura de producción — dejó en evidencia que la seguridad de workloads de IA va un paso atrás de las capacidades de los modelos.

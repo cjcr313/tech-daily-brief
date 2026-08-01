@@ -11,7 +11,7 @@ tags:
 description: "AWS extiende Security Hub a Microsoft Azure y suma protección contra amenazas específicas de IA. El objetivo: ser el plano de control unificado para cloud y AI security."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![AWS convierte Security Hub en plataforma multicloud y añade protección para workloads de IA](../../assets/images/2026-07-24-aws-security-hub-multicloud-ai-protection.jpg)
 
 
 AWS acaba de darle un giro estratégico a **Security Hub**. Lo que empezó como un CSPM para recursos de AWS ahora se transforma en un **plano de control multicloud con protección específica para workloads de IA**. El mensaje es claro: si ya pagas Security Hub, no te hagamos comprar otra herramienta para Azure o para Bedrock.

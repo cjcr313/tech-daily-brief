@@ -11,7 +11,7 @@ tags:
 description: "Claude Voice Mode ya no está limitado a Haiku. Ahora puedes usar Opus y Sonnet para voz, con conectores en vivo para Gmail, Slack y Canva."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Anthropic sube de nivel Claude Voice Mode: ahora corre en Opus y Sonnet con acceso a apps](../../assets/images/2026-07-27-anthropic-claude-voice-mode-opus-sonnet.jpg)
 
 
 Anthropic acaba de soltar una actualización súper silenciosa pero potente para **Claude Voice Mode**. Si hasta ahora lo usabas y sentías que le faltaba la potencia analítica de tus chats por texto, es porque todo el audio corría por defecto bajo **Claude Haiku** (el modelo más rápido y barato).

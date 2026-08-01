@@ -11,7 +11,7 @@ tags:
 description: "Satya Nadella aprovecha los recientes incidentes de seguridad para promocionar la familia de modelos MAI de Microsoft por sobre OpenAI y Anthropic."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Microsoft pisa el acelerador con sus modelos IA y cuestiona la dependencia de OpenAI](../../assets/images/2026-07-30-microsoft-compite-abiertamente-openai-anthropic.jpg)
 
 
 Las cosas se están poniendo intensas entre Microsoft y los gigantes de la IA en los que invierte. Tras presentar unos resultados financieros aplastantes ($90.000 millones en ingresos trimestrales), Satya Nadella dejó claro que Microsoft no planea ser solo la infraestructura donde corren OpenAI y Anthropic: quieren comerse el mercado con sus propios modelos.

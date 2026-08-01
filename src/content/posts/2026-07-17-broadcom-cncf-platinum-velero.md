@@ -11,7 +11,7 @@ tags:
 description: "Broadcom pasó a miembro Platinum de CNCF y contribuyó Velero al Sandbox. Top 3 contribuidor de Kubernetes."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Broadcom sube a Platinum en CNCF y dona Velero al ecosistema Cloud Native](../../assets/images/2026-07-17-broadcom-cncf-platinum-velero.jpg)
 
 
 Broadcom acaba de anunciar que subió su membresía de **CNCF a Platinum**, el nivel más alto. No es un movimiento simbólico — Broadcom es un peso pesado del ecosistema cloud native.

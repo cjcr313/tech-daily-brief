@@ -11,7 +11,7 @@ tags:
 description: "OpenAI lanza Presence, un producto enterprise para desplegar agentes de voz y chat con políticas, guardrails y supervisión. No es self-service."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![OpenAI Presence: la plataforma enterprise para desplegar agentes de IA con guardrails y control](../../assets/images/2026-07-23-openai-presence-plataforma-enterprise-agentes-ia.jpg)
 
 
 OpenAI anunció ayer **Presence**, una plataforma enterprise para que las empresas desplieguen y gestionen agentes de IA en producción. No es un modelo más — es el envoltorio operativo que falta para que los agentes funcionen de verdad en negocios reales.

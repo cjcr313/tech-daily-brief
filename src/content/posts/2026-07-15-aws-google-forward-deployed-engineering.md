@@ -11,6 +11,8 @@ tags:
   - Infraestructura
 description: "AWS, Google Cloud y Microsoft están inyectando miles de millones en programas de Forward Deployed Engineering: ingenieros embebidos gratis en empresas. Pero el lock-in es real."
 ---
+![AWS mete US$1B y Google US$750M a 'Forward Deployed Engineering': ingenieros gratis que salen caros](../../assets/images/2026-07-15-aws-google-forward-deployed-engineering.jpg)
+
 
 
 ![2026-07-15-aws-google-forward-deployed-engineering](../../assets/images/2026-07-15-aws-google-forward-deployed-engineering.jpg)

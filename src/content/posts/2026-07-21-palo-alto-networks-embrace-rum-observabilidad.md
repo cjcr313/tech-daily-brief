@@ -11,7 +11,7 @@ tags:
 description: "PANW anunció la adquisición de Embrace para sumar RUM y Digital Experience Monitoring. También lanzó Synthetics. La obsa platform ya pasa los $300M ARR."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Palo Alto Networks compra Embrace y mete Real User Monitoring a su plataforma de Observabilidad](../../assets/images/2026-07-21-palo-alto-networks-embrace-rum-observabilidad.jpg)
 
 
 Palo Alto Networks sigue apretando el acelerador en observabilidad. Hoy anunció la **intención de adquirir Embrace**, proveedor de observabilidad enfocada en usuario, para sumar capacidades de **Real User Monitoring (RUM)** a su plataforma.

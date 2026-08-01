@@ -12,7 +12,7 @@ tags:
 description: "Un flaw en el MCP server oficial de Azure DevOps permite que comentarios HTML ocultos en PRs secuestren agentes de IA con los permisos del revisor. Microsoft ya tenía la fix pero no la aplicó en este endpoint."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Comentarios invisibles en Azure DevOps pueden secuestrar tu AI coding agent via MCP](../../assets/images/2026-07-22-azure-devops-mcp-hidden-comments-hijack-ai-agents.jpg)
 
 
 Si tu equipo usa AI agents para revisar pull requests en Azure DevOps, lee esto antes de tu próxima review.

@@ -11,7 +11,7 @@ tags:
 description: "AWS proyecta US$200 mil millones en capex por IA en 2026. KeyBanc dice que es una estrategia, no un error. Citi proyecta US$800B combinados para Google, Meta y Amazon en 2027. Free cash flow negativo en camino."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![AWS y la carrera armamentista de IA: KeyBanc dice que gastar US$200 mil millones es 'feature, no bug'](../../assets/images/2026-07-17-aws-capex-200b-keybanc-feature-not-bug.jpg)
 
 
 La cifra es tan grande que cuesta procesarla: **US$200 mil millones en capital expenditures para 2026**. Eso es lo que Amazon planea gastar en infraestructura de IA. Y los analistas están divididos entre "esto es una locura" y "esto es la jugada más inteligente del decade".

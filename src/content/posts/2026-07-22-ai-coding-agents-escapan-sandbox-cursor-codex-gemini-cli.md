@@ -12,7 +12,7 @@ tags:
 description: "Pillar Security encontró que los 4 AI coding agents más populares comparten el mismo flaw: el agent no rompe el sandbox, solo escribe archivos que herramientas del host ejecutan después. Múltiples CVEs asignados."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Cursor, Codex, Gemini CLI y Antigravity: todos tienen sandbox escapes por el mismo flaw estructural](../../assets/images/2026-07-22-ai-coding-agents-escapan-sandbox-cursor-codex-gemini-cli.jpg)
 
 
 Pillar Security publicó esta semana una serie que llamaron **"Week of Sandbox Escapes"** — siete vulnerabilidades en los cuatro AI coding agents más usados del mercado. Y todas comparten el mismo patrón estructural.

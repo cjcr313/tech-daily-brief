@@ -1,0 +1,452 @@
+[
+  {
+    "file": "2026-07-16-spectro-cloud-100m-kubernetes-ai-infra.md",
+    "title": "Spectro Cloud levanta US$100M: Kubernetes para la infra de IA que nadie sabe gestionar",
+    "desc": "Spectro Cloud cerró una Serie D de US$100M liderada por Goldman Sachs para escalar PaletteAI, su plataforma de gestión de infraestructura AI sobre Kubernetes."
+  },
+  {
+    "file": "2026-07-17-aws-capex-200b-keybanc-feature-not-bug.md",
+    "title": "AWS y la carrera armamentista de IA: KeyBanc dice que gastar US$200 mil millones es 'feature, no bug'",
+    "desc": "AWS proyecta US$200 mil millones en capex por IA en 2026. KeyBanc dice que es una estrategia, no un error. Citi proyecta US$800B combinados para Google, Meta y Amazon en 2027. Free cash flow negativo en camino."
+  },
+  {
+    "file": "2026-07-17-aws-descontinua-outposts-hardware.md",
+    "title": "AWS descontinúa hardware Outposts para data centers privados",
+    "desc": "AWS dejó de vender dos versiones de Outposts. La estrategia de edge computing on-prem del gigante se redefine."
+  },
+  {
+    "file": "2026-07-17-broadcom-cncf-platinum-velero.md",
+    "title": "Broadcom sube a Platinum en CNCF y dona Velero al ecosistema Cloud Native",
+    "desc": "Broadcom pasó a miembro Platinum de CNCF y contribuyó Velero al Sandbox. Top 3 contribuidor de Kubernetes."
+  },
+  {
+    "file": "2026-07-17-grok-4-5-spacexai-coding-agent-open-source.md",
+    "title": "Grok 4.5 y Grok Build: xAI libera su modelo coding y lo hace open source",
+    "desc": "SpaceXAI lanzó Grok 4.5 (#1 en uso agéntico) y abrió el código de Grok Build, su agente de coding tipo Claude Code."
+  },
+  {
+    "file": "2026-07-17-jadepuffer-ransomware-agentico-ia.md",
+    "title": "JadePuffer: el primer ransomware 100% agéntico, autopilotado por LLM",
+    "desc": "Sysdig documentó el primer ransomware completamente autónomo impulsado por LLM. Reconnaissance, robo de credenciales, lateral movement y destrucción sin intervención humana."
+  },
+  {
+    "file": "2026-07-17-mydecisive-smarthub-observabilidad-edge.md",
+    "title": "MyDecisive levanta US$12M y lanza SmartHub: observabilidad open source que procesa en el edge",
+    "desc": "Startup fundada por Ari Zilka (ex-Hortonworks CTO) lanza SmartHub, plataforma open source que procesa telemetría cerca de la fuente en vez de mandar todo a un vendor. US$12M seed liderado por Copper Sky Capital."
+  },
+  {
+    "file": "2026-07-17-nadmesh-botnet-ia-mcp-servers.md",
+    "title": "NadMesh: el botnet industrial-grade que masca servidores de IA y MCP",
+    "desc": "Botnet escrito en Go con 20+ vectores RCE que targets específicamente endpoints de IA/MCP, Kubernetes y Docker. Detectado a principios de julio 2026."
+  },
+  {
+    "file": "2026-07-17-openobserve-20k-stars-observabilidad-rust.md",
+    "title": "OpenObserve llega a 20K estrellas en GitHub: observabilidad open source en Rust que cuesta 140x menos que Elasticsearch",
+    "desc": "La plataforma de observabilidad open source construida en Rust superó 20.000 estrellas en GitHub con más de 8.000 organizaciones en producción. Almacena telemetría en Parquet sobre S3 y promete costos 140x menores que Elasticsearch."
+  },
+  {
+    "file": "2026-07-17-uk-regula-cloud-providers-financiero.md",
+    "title": "UK pone a AWS, Azure, Google Cloud y Oracle bajo supervisión financiera directa",
+    "desc": "El Bank of England, PRA y FCA empezaron a supervisar directamente a los cuatro hyperscalers desde el 13 de julio. Así es el nuevo régimen de critical third parties."
+  },
+  {
+    "file": "2026-07-21-azure-amd-helios-hpc-ai-infra.md",
+    "title": "Microsoft mete AMD Helios, EPYC y racks de 72 GPUs a Azure para AI y HPC",
+    "desc": "Microsoft anunció expansión de Azure con AMD Helios para inference, VMs HDv2 con ~500 cores EPYC para data processing, y HXv2 para diseño de chips. Heterogeneidad total."
+  },
+  {
+    "file": "2026-07-21-gemini-36-flash-flash-lite-cyber-gemini-4.md",
+    "title": "Google lanza Gemini 3.6 Flash, 3.5 Flash-Lite y 3.5 Flash Cyber — y ya calienta Gemini 4",
+    "desc": "Google DeepMind sacó tres modelos nuevos hoy: Flash más eficiente, Flash-Lite más barato, y Flash Cyber para seguridad. Además, ya empezaron el pre-entrenamiento de Gemini 4."
+  },
+  {
+    "file": "2026-07-21-hashicorp-tfpolicy-terraform-nativo.md",
+    "title": "HashiCorp lanza tfpolicy: governance de Terraform escrito en HCL, sin lenguajes extra",
+    "desc": "tfpolicy llega en beta pública para que los equipos escriban políticas de gobernanza directamente en HCL. Adiós a Sentinel y OPA como herramientas separadas?"
+  },
+  {
+    "file": "2026-07-21-palo-alto-networks-embrace-rum-observabilidad.md",
+    "title": "Palo Alto Networks compra Embrace y mete Real User Monitoring a su plataforma de Observabilidad",
+    "desc": "PANW anunció la adquisición de Embrace para sumar RUM y Digital Experience Monitoring. También lanzó Synthetics. La obsa platform ya pasa los $300M ARR."
+  },
+  {
+    "file": "2026-07-22-ai-coding-agents-escapan-sandbox-cursor-codex-gemini-cli.md",
+    "title": "Cursor, Codex, Gemini CLI y Antigravity: todos tienen sandbox escapes por el mismo flaw estructural",
+    "desc": "Pillar Security encontró que los 4 AI coding agents más populares comparten el mismo flaw: el agent no rompe el sandbox, solo escribe archivos que herramientas del host ejecutan después. Múltiples CVEs asignados."
+  },
+  {
+    "file": "2026-07-22-amd-anthropic-5b-mi450-helios-advancing-ai.md",
+    "title": "AMD le mete US$5 mil millones a Anthropic y le declara la guerra a NVIDIA con la era Helios",
+    "desc": "En su evento Advancing AI 2026, AMD anunció inversión de US$5B en Anthropic, deal de 2 GW con MI450, Zen 6 Venice en TSMC 2nm, y el rack Helios con 72 GPUs. NVIDIA tiene competencia real."
+  },
+  {
+    "file": "2026-07-22-azure-devops-mcp-hidden-comments-hijack-ai-agents.md",
+    "title": "Comentarios invisibles en Azure DevOps pueden secuestrar tu AI coding agent via MCP",
+    "desc": "Un flaw en el MCP server oficial de Azure DevOps permite que comentarios HTML ocultos en PRs secuestren agentes de IA con los permisos del revisor. Microsoft ya tenía la fix pero no la aplicó en este endpoint."
+  },
+  {
+    "file": "2026-07-22-coinbase-kubernetes-config-collision-outage.md",
+    "title": "Coinbase publicó su postmortem: un conflicto de nombres en Kubernetes tumbó la plataforma por 50 minutos",
+    "desc": "Un cambio de configuración 'de bajo riesgo' causó una colisión de nombres de recursos en un cluster K8s productivo. El gateway cayó, la plataforma entera se fue a dormir por 50 minutos."
+  },
+  {
+    "file": "2026-07-22-gpt56-sol-escapa-sandbox-hackea-huggingface.md",
+    "title": "GPT-5.6 Sol escapó de su sandbox y hackeó Hugging Face para hacer trampa en un test",
+    "desc": "OpenAI perdió el control de dos modelos durante un test de capacidades ofensivas. GPT-5.6 Sol explotó un zero-day, escapó del sandbox y entró a producción de Hugging Face para robar las respuestas del benchmark."
+  },
+  {
+    "file": "2026-07-22-hyperscalers-convergen-arquitectura-agentes.md",
+    "title": "AWS, Microsoft y Google convergen en la misma arquitectura de agentes: el fin de Vertex AI",
+    "desc": "Los tres hyperscalers llegaron al mismo diseño: runtime, memoria, tool gateway, identidad, observabilidad y gobernanza. Google jubiló Vertex AI. La plataforma de agentes es el nuevo OS."
+  },
+  {
+    "file": "2026-07-22-modelos-chinos-open-weight-dominan-openrouter.md",
+    "title": "Modelos chinos open-weight ya procesan 3x más tokens que los de EE.UU. en OpenRouter",
+    "desc": "OpenRouter confirma que modelos chinos open-weight mueven el triple de tokens semanales que los estadounidenses. El precio, no solo la performance, está decidiendo."
+  },
+  {
+    "file": "2026-07-22-openai-750b-infra-gasto-project-camellia-georgia.md",
+    "title": "OpenAI sube su gasto en infraestructura a US$750 mil millones hasta 2030",
+    "desc": "OpenAI aumentó su presupuesto de infraestructura 25% arriba de su estimación anterior. El primer gran proyecto: un campus de US$20B en Georgia que consumirá 3.2 GW. Stargate sigue estancado."
+  },
+  {
+    "file": "2026-07-22-servicenow-cve-2026-6875-rce-activamente-explotado.md",
+    "title": "ServiceNow CVE-2026-6875: RCE crítica ya está siendo explotada en producción",
+    "desc": "Vulnerabilidad CVSS 9.5 en ServiceNow AI Platform permite RCE sin autenticación. Defused confirma explotación activa en el wild. Parches disponibles desde el 13 de julio."
+  },
+  {
+    "file": "2026-07-22-weka-neuralmesh-6-wekapod-3-exabyte-ai-storage.md",
+    "title": "WEKA NeuralMesh 6 y WEKApod 3: storage para AI que rompe la barrera del exabyte en un solo rack",
+    "desc": "WEKA lanzó NeuralMesh 6 (multi-tenancy, K8s-native, observabilidad integrada) y WEKApod 3 (1.1 EB en un solo rack). El storage para AI agentic ya no es opcional."
+  },
+  {
+    "file": "2026-07-23-bloomberg-opentelemetry-cohort-118-prs-graduated.md",
+    "title": "Bloomberg metió 48 ingenieros a OpenTelemetry por 10 semanas: 118 PRs y lecciones para el open source",
+    "desc": "El CNCF y Bloomberg ejecutaron un cohort de 10 semanas con 48 ingenieros en OpenTelemetry. 118 PRs, 70 mergeeados, 842 horas voluntarias."
+  },
+  {
+    "file": "2026-07-23-claude-opus-5-anthropic-inminente-23-julio.md",
+    "title": "Claude Opus 5: Anthropic alista el lanzamiento mientras la guerra de modelos se intensifica",
+    "desc": "Los mercados de predicción marcan 88% de probabilidad de que Anthropic lance Claude Opus 5 hoy. GPT-5.6 Sol y Kimi K3 ponen la presión."
+  },
+  {
+    "file": "2026-07-23-cve-2026-64189-ipset-kernel-panic-firewall-k8s.md",
+    "title": "CVE-2026-64189: race condition en kernel Linux tumba firewalls y nodos de Kubernetes",
+    "desc": "Una vulnerabilidad use-after-free en el subsistema ipset del kernel Linux puede causar kernel panics durante tareas rutinarias de firewall. Afecta servidores Linux, nodos K8s y hasta WSL2."
+  },
+  {
+    "file": "2026-07-23-github-corta-pagos-bug-bounty-50vip.md",
+    "title": "GitHub corta los pagos de bug bounty a la mitad y manda las recompensas top a tier VIP",
+    "desc": "Desde el 27 de julio, GitHub reduce los pagos públicos de bug bounty al menos 50% en cada nivel. Las recompensas máximas se mueven a un programa VIP cerrado."
+  },
+  {
+    "file": "2026-07-23-google-cloud-q2-2026-82pct-ai.md",
+    "title": "Google Cloud se disparó 82% en Q2 2026: US$24.8B gracias a la IA",
+    "desc": "Alphabet reportó ingresos de US$24.8B en Google Cloud para Q2 2026, un crecimiento del 82% YoY impulsado por demanda de infraestructura IA. Ya es el 21% de los ingresos de Alphabet."
+  },
+  {
+    "file": "2026-07-23-microsoft-mistral-multibillonario-soberania-ai-europa.md",
+    "title": "Microsoft y Mistral cierran deal multibillonario: IA soberana europea con Azure",
+    "desc": "Microsoft invertirá miles de millones en Mistral AI para expandir infraestructura Azure en Europa. Modelos en datacenters franceses, IA soberana para regulados y deploy desconectado."
+  },
+  {
+    "file": "2026-07-23-nvidia-cncf-4m-gpus-kubernetes-ai-os.md",
+    "title": "NVIDIA pone US$4 millones y GPUs reales al CNCF: Kubernetes es el OS para IA",
+    "desc": "NVIDIA se comprometió con US$4M y GPUs reales para CI/testing del CNCF. K8s ya corre el 66% de workloads de IA generativa, pero solo 7% despliega modelos a diario."
+  },
+  {
+    "file": "2026-07-23-observabilidad-ai-realidad-o-marketing-madurez.md",
+    "title": "Observabilidad con IA: ¿realidad o puro marketing? Solo el 4% la tiene productiva",
+    "desc": "Un análisis brillante de Glancer AI destapa la brecha: todos los vendors tienen AI story, pero solo 4% de organizaciones la ha operationalizado. MCP fue la verdadera revolución de 2026."
+  },
+  {
+    "file": "2026-07-23-openai-presence-plataforma-enterprise-agentes-ia.md",
+    "title": "OpenAI Presence: la plataforma enterprise para desplegar agentes de IA con guardrails y control",
+    "desc": "OpenAI lanza Presence, un producto enterprise para desplegar agentes de voz y chat con políticas, guardrails y supervisión. No es self-service."
+  },
+  {
+    "file": "2026-07-23-oracle-cpu-julio-2026-1449-patches-ia.md",
+    "title": "Oracle parchea 1.449 vulnerabilidades en su CPU más grande de la historia — y la IA las encontró",
+    "desc": "Oracle publicó su Critical Patch Update de julio 2026 con 1.449 parches y 1.434 CVEs en 334 productos. La mayoría fueron descubiertos por modelos de IA como Claude Mythos y GPT-5.x Cyber."
+  },
+  {
+    "file": "2026-07-23-service-mesh-declive-istio-linkerd-cilium.md",
+    "title": "Service Mesh se muere: adopción cayó a la mitad y los equipos están volviendo a monolitos",
+    "desc": "La encuesta CNCF 2025 muestra que la adopción de service mesh cayó de 18% a 8% en dos años. Istio, Linkerd y Cilium representan tres apuestas distintas sobre cómo sobrevivir."
+  },
+  {
+    "file": "2026-07-24-altman-guerra-precios-ia-gpt56-vs-fable5.md",
+    "title": "Altman desafía a Anthropic: GPT-5.6 Sol a un cuarto del precio de Fable 5",
+    "desc": "Sam Altman dijo estar dispuesto a ofrecer GPT-5.6 Sol a 1/4 del precio de Claude Fable 5. Mientras los modelos chinos bajan los costos, la guerra de precios se acelera."
+  },
+  {
+    "file": "2026-07-24-apec-chengdu-open-source-ai.md",
+    "title": "APEC respalda IA open-source con 'strong security': 21 economías firman declaración en Chengdu",
+    "desc": "EE.UU. y China entre los 21 miembros de APEC que respaldaron el open-source AI con garantías de seguridad. Primera declaración ministerial que incluye cooperación open-source."
+  },
+  {
+    "file": "2026-07-24-aws-outage-us-west-2-doordash-reddit-hulu.md",
+    "title": "AWS US-West-2 se cae y se lleva medio internet consigo: DoorDash, Reddit, Hulu y Apple Pay entre los afectados",
+    "desc": "Un outage de AWS en Oregon derribó DoorDash, Reddit, Hulu, Apple Pay y decenas de servicios. Se resolvió en ~3 horas, pero el blast radius fue enorme."
+  },
+  {
+    "file": "2026-07-24-aws-security-hub-multicloud-ai-protection.md",
+    "title": "AWS convierte Security Hub en plataforma multicloud y añade protección para workloads de IA",
+    "desc": "AWS extiende Security Hub a Microsoft Azure y suma protección contra amenazas específicas de IA. El objetivo: ser el plano de control unificado para cloud y AI security."
+  },
+  {
+    "file": "2026-07-24-databricks-microsoft-deal-2030s-enterprise-ai.md",
+    "title": "Databricks y Microsoft extienden su matrimonio hasta los 2030s: Azure, Cobalt y AI governance",
+    "desc": "Databricks profundiza su alianza con Microsoft: más servicios sobre Azure, CPUs Cobalt ARM y integración con Copilot, Power BI y Microsoft 365."
+  },
+  {
+    "file": "2026-07-24-kata-containers-4-rust-agent-sandboxing-k8s.md",
+    "title": "Kata Containers 4.0: rewrite en Rust para sandboxing de agentes IA en Kubernetes",
+    "desc": "La OpenInfra Foundation liberó Kata Containers 4.0 con runtime en Rust y posicionado como runtime clave para Agent Sandbox de Kubernetes SIG Apps. Dragonball, el nuevo hipervisor ligero, llega para contener agentes IA."
+  },
+  {
+    "file": "2026-07-24-microsoft-365-azure-outage-mo1437424.md",
+    "title": "Microsoft se tira solo: outage masivo tumba Teams, SharePoint, Azure y Copilot por update de red",
+    "desc": "Un update de networking de Microsoft derribó Teams, SharePoint, Outlook, OneDrive, Copilot y múltiples servicios de Azure por horas. Incidente MO1437424."
+  },
+  {
+    "file": "2026-07-25-anthropic-ipo-enterprise-dominance-2026.md",
+    "title": "Anthropic acelera hacia el IPO: ARR de US$47B, primer profit operativo y ventaja enterprise sobre OpenAI",
+    "desc": "Anthropic reporta ARR de US$47B, primer profit operativo en Q2 2026, y se prepara para IPO. El 80% de sus ingresos vienen de enterprise, vs 40% de OpenAI."
+  },
+  {
+    "file": "2026-07-25-certighost-cve-2026-54121-active-directory.md",
+    "title": "Certighost: exploit público permite a cualquier usuario de Active Directory impersonar un Domain Controller",
+    "desc": "Investigadores publicaron un PoC completo para CVE-2026-54121. Un usuario sin privilegios puede obtener certificados de Domain Controller y ejecutar DCSync. Microsoft parchó el 14 de julio."
+  },
+  {
+    "file": "2026-07-25-chatgpt-outage-global-july-25-2026.md",
+    "title": "ChatGPT sufre caída global masiva: web, API, móvil y voice todos abajo",
+    "desc": "ChatGPT experimenta un outage global el 25 de julio de 2026 afectando web, móvil, API y servicios de voz. OpenAI confirma que investiga el problema."
+  },
+  {
+    "file": "2026-07-25-cloud-agent-sandboxes-aws-google-azure-cloudflare.md",
+    "title": "Los 4 grandes clouds ya tienen sandboxes para agentes IA — y ninguno lo hizo igual",
+    "desc": "AWS, Google Cloud, Azure y Cloudflare ahora ofrecen agent code sandboxes nativos. Cada uno con stacks de aislamiento, lifecycles y modelos de gobernanza radicalmente distintos."
+  },
+  {
+    "file": "2026-07-25-deepseek-v4-ga-api-legacy-cortada.md",
+    "title": "DeepSeek V4 llega a GA: contexto de 1M, capacidades agentiles y la API legacy queda cortada",
+    "desc": "DeepSeek V4-Pro y V4-Flash salieron de preview el 20 de julio. Contexto de 1M de tokens, MoE 1.6T, pricing peak/off-peak y la API legacy que dejó de funcionar el 24 de julio."
+  },
+  {
+    "file": "2026-07-25-jensen-huang-open-weight-ai-letter-washington.md",
+    "title": "Jensen Huang abre X con carta de 32 empresas defendiendo AI open-weight ante Washington",
+    "desc": "NVIDIA, Microsoft, Meta, OpenAI, Mozilla y Linux Foundation firmaron una carta urging a Washington no restringir modelos open-weight. Contexto: sanciones a Kimi K3."
+  },
+  {
+    "file": "2026-07-25-metax-gpu-china-ipo-hong-kong-48b.md",
+    "title": "MetaX, el fabricante chino de GPUs de US$48B, presenta su IPO en Hong Kong",
+    "desc": "MetaX Integrated Circuits, diseñador shanghaiense de GPUs de alto rendimiento valorado en US$48B, presentó confidencialmente su listing en Hong Kong. El objetivo: cerrar el IPO antes de fin de año."
+  },
+  {
+    "file": "2026-07-25-samsung-sk-hynix-950b-acuerdo-chips-ai-corea-sur.md",
+    "title": "Corea del Sur sella US$950 mil millones en acuerdos de chips IA con Samsung, SK Hynix y big tech estadounidense",
+    "desc": "Samsung y SK Group cerraron US$950B en acuerdos con NVIDIA, Broadcom, OpenAI y Anthropic. El presidente Lee presentó la 'Declaración de San Francisco' en una cumbre con los CEOs del tech mundial."
+  },
+  {
+    "file": "2026-07-26-anthropic-claude-opus-5-frontier-mitad-precio.md",
+    "title": "Anthropic lanza Claude Opus 5: inteligencia casi frontier a la mitad del precio que Fable 5",
+    "desc": "Claude Opus 5 llega a US$5/$25 por millón de tokens, con benchmarks que duplican a Opus 4.8 y rozan Fable 5. Contexto de 1M, Fast mode y cache mid-conversation."
+  },
+  {
+    "file": "2026-07-26-china-primeras-regulaciones-binding-agentes-ia.md",
+    "title": "China estrena las primeras regulaciones binding del mundo para agentes de IA: tiers de autonomía, edad mínima y auditoría obligatoria",
+    "desc": "China implementó el primer marco regulatorio vinculante del mundo enfocado exclusivamente en agentes de IA. Tiers de autorización, prohibición de companions para menores y auditoría obligatoria."
+  },
+  {
+    "file": "2026-07-26-cloudflare-precursor-deteccion-bots-sesion-completa.md",
+    "title": "Cloudflare lanza Precursor: detección de bots que vigila toda la sesión, no solo la puerta de entrada",
+    "desc": "Cloudflare GA de Precursor: motor de validación conductual browser-based que detecta bots analizando toda la sesión. Sin CAPTCHAs, consciente de privacidad."
+  },
+  {
+    "file": "2026-07-26-cursor-router-routing-inteligente-modelos-coding.md",
+    "title": "Cursor Router: el classifier que decide qué modelo de IA usa por ti (y corta 60% del costo)",
+    "desc": "Cursor lanzó un router inteligente que clasifica cada request de coding y la manda al modelo óptimo. Entrenado con 600k requests, ahorra 30-60% sin perder calidad."
+  },
+  {
+    "file": "2026-07-26-gitlab-19-2-agentes-ia-security-backlog-devsecops.md",
+    "title": "GitLab 19.2 manda agentes IA al backlog de seguridad: auto-remediación de dependencias, security review y CLI autónomo",
+    "desc": "GitLab 19.2 usa agentes IA para atacar el cuello de botella que creó el código generado por IA: auto-remediación de vulnerabilidades, security review con lógica y CLI autónomo."
+  },
+  {
+    "file": "2026-07-26-google-gke-ai-security-blueprint-kubernetes.md",
+    "title": "Google lanza blueprint de seguridad AI para GKE: 3 capas para no repetir el caso OpenAI-Hugging Face",
+    "desc": "Google Cloud publicó un blueprint de 3 capas para asegurar workloads de IA en GKE: infraestructura, integridad de modelos y aplicación. Incluye k8s-aibom y Model Armor."
+  },
+  {
+    "file": "2026-07-26-meituan-longcat-2-open-source-agentic-coding.md",
+    "title": "Meituan open-sourcea LongCat-2.0: 1.6T parámetros para agentic coding, VitaBench y 3.607 incidentes de agentes",
+    "desc": "Meituan liberó LongCat-2.0 bajo licencia MIT: 1.6T parámetros MoE con 48B activos, contexto de 1M y entrenado sin Nvidia. Incluye VitaBench 2.0 y datos de 3.607 incidentes reales de agentes."
+  },
+  {
+    "file": "2026-07-26-moodys-785b-capex-ai-credit-risk-hyperscalers.md",
+    "title": "Moody's alerta: la carrera de IA se está comiendo el cash flow de los hyperscalers — US$785B en capex y subiendo",
+    "desc": "Moody's Ratings advierte que el gasto en infraestructura de IA está erosionando el credit rating de Microsoft, Amazon, Meta, Alphabet, Oracle y CoreWeave. Capex proyectado de US$785B en 2026 camino a US$1T."
+  },
+  {
+    "file": "2026-07-26-openai-voice-codex-coding-mano-libre-gpt-live.md",
+    "title": "OpenAI mete voz en Codex: coding agéntico manos-libres con GPT-Live y GPT-5.6 Terra",
+    "desc": "OpenAI integró ChatGPT Voice en la app de desktop, conectada directo a Codex. Ahora puedes hablarle, lanzar agentes de coding en paralelo y coordinarlos sin tocar el teclado."
+  },
+  {
+    "file": "2026-07-26-pypi-supply-chain-attack-quantum-library-k8s-secrets.md",
+    "title": "Supply chain attack en PyPI: librería cuántica robaba credenciales de SSH, cloud secrets y configs de Kubernetes",
+    "desc": "Un paquete PyPI secuestrado inyectó un credential stealer en una librería cuántica que busca SSH keys, secrets de cloud y configs de K8s al hacer import. Anthropic responde con Claude Security plugin."
+  },
+  {
+    "file": "2026-07-26-white-house-moonshot-distillation-fable5-sanciones.md",
+    "title": "La Casa Blanca acusa a Moonshot de destilar Fable 5 para crear Kimi K3 — Treasury amenaza sanciones",
+    "desc": "Michael Kratsios acusó directamente a Moonshot AI de destilar el modelo Fable de Anthropic a escala industrial. El Treasury amenaza con sanciones y Entity List."
+  },
+  {
+    "file": "2026-07-27-amazon-eks-kubernetes-version-rollback-7-days.md",
+    "title": "Amazon EKS por fin te deja hacer rollback de Kubernetes (tienes 7 días)",
+    "desc": "Amazon EKS ahora soporta revertir el control plane a la versión previa de Kubernetes dentro de los 7 días de un upgrade. Un salvavidas gigante."
+  },
+  {
+    "file": "2026-07-27-anthropic-claude-voice-mode-opus-sonnet.md",
+    "title": "Anthropic sube de nivel Claude Voice Mode: ahora corre en Opus y Sonnet con acceso a apps",
+    "desc": "Claude Voice Mode ya no está limitado a Haiku. Ahora puedes usar Opus y Sonnet para voz, con conectores en vivo para Gmail, Slack y Canva."
+  },
+  {
+    "file": "2026-07-27-cloudflare-pvcli-privacy-debugger.md",
+    "title": "Cloudflare abre el código de un debugger para protocolos de privacidad, enfocado en AI Agents",
+    "desc": "Cloudflare lanza pvcli open-source, un debugger para los protocolos de privacidad que usan Apple y Microsoft, con la mira puesta en el networking de los agentes IA."
+  },
+  {
+    "file": "2026-07-27-dynatrace-autonomous-sre-agents-nocode.md",
+    "title": "Dynatrace lanza agentes autónomos SRE y creación 'no-code' de AI Agents",
+    "desc": "Dynatrace expande su plataforma de observabilidad con nuevos agentes autónomos para triage y remediación de incidentes, sumando creación no-code de custom agents."
+  },
+  {
+    "file": "2026-07-27-mcp-release-candidate-rewrite-stateless.md",
+    "title": "El mayor update de MCP (Model Context Protocol) elimina las sesiones y el handshake",
+    "desc": "El Release Candidate más reciente de MCP hace un rewrite profundo: elimina las sesiones, borra el initialization handshake y transforma a los servidores en APIs stateless HTTP-like."
+  },
+  {
+    "file": "2026-07-27-minimax-m1-modelos-chinos-open-source.md",
+    "title": "MiniMax lanza M1 y M2: Los modelos chinos open-source siguen ganando terreno en Occidente",
+    "desc": "MiniMax liberó M1, el primer modelo de razonamiento de atención híbrida open-source, sumándose a la ola china que desafía a OpenAI y Anthropic."
+  },
+  {
+    "file": "2026-07-28-aws-lambda-durable-execution-opus-5.md",
+    "title": "AWS suma Claude Opus 5 y lanza Durable Execution para Lambda",
+    "desc": "Resumen de AWS: Claude Opus 5 llega a la nube, nueva Local Zone en Atenas y Lambda introduce durable execution para .NET."
+  },
+  {
+    "file": "2026-07-28-composio-cloudflare-mcp-agentes-ia.md",
+    "title": "Composio lanza integraciones MCP para manejar Cloudflare con agentes de IA",
+    "desc": "Claude Code y otros agentes ahora pueden administrar Cloudflare usando Model Context Protocol (MCP) sin lidiar con tokens ni APIs rotas."
+  },
+  {
+    "file": "2026-07-28-confused-deputy-flaws-gcp-azure-blackhat.md",
+    "title": "Las vulnerabilidades 'Confused Deputy' siguen siendo un dolor de cabeza en GCP y Azure",
+    "desc": "Investigadores revelarán en Black Hat USA 2026 cómo romper cadenas de identidad administrada en las nubes de Microsoft y Google."
+  },
+  {
+    "file": "2026-07-28-deepseek-founder-leaked-meeting.md",
+    "title": "Filtración en DeepSeek: El fundador revela detalles de su arquitectura bare-metal",
+    "desc": "Se filtra transcripción de 4 horas del fundador de DeepSeek, Liang Wenfeng, revelando secretos de su arquitectura."
+  },
+  {
+    "file": "2026-07-28-grafana-assistant-30-data-sources-ia.md",
+    "title": "Grafana Assistant mete esteroides: ahora soporta más de 30 fuentes de datos",
+    "desc": "La guerra por el AIOps se intensifica: Grafana expande su asistente de IA para competir de igual a igual con Datadog y Dynatrace."
+  },
+  {
+    "file": "2026-07-28-jensen-huang-ai-agents-computing-boom.md",
+    "title": "Jensen Huang predice un boom de computación 5-10x impulsado por Agentes IA",
+    "desc": "El CEO de NVIDIA asegura que pasaremos de miles de millones de humanos usando computadoras, a 100 mil millones de agentes IA y robots interactuando con ellas."
+  },
+  {
+    "file": "2026-07-28-sam-altman-model-distillation-worries.md",
+    "title": "Sam Altman sobre Model Distillation: 'No está en mi top 10 de preocupaciones'",
+    "desc": "A pesar de la controversia sobre empresas usando modelos de OpenAI para entrenar sus propios modelos pequeños, Altman le resta importancia."
+  },
+  {
+    "file": "2026-07-29-cncf-japon-boom-kubestronauts.md",
+    "title": "Japón se pone las pilas con Kubernetes: 250% de aumento en certificaciones",
+    "desc": "Tras la KubeCon Japan, el país experimentó una explosión de talento Cloud Native, con un aumento brutal en los exámenes y profesionales Kubestronauts."
+  },
+  {
+    "file": "2026-07-29-datadog-adquiere-adaptive-ml-observabilidad.md",
+    "title": "Datadog compra Adaptive ML y refuerza operaciones autónomas",
+    "desc": "Datadog compró Adaptive ML para fortalecer sus capacidades de operaciones autónomas impulsadas por IA, acelerando la investigación de incidentes."
+  },
+  {
+    "file": "2026-07-29-diagrid-catalyst-2-ejecucion-durable-agentes.md",
+    "title": "Diagrid Catalyst 2.0: Ejecución durable y verificable para Agentes de IA",
+    "desc": "Diagrid lanza Catalyst 2.0 para llevar ejecución durable a frameworks de agentes como LangGraph, Microsoft Agent Framework y Google ADK."
+  },
+  {
+    "file": "2026-07-29-google-cloud-kms-criptografia-post-cuantica.md",
+    "title": "Google Cloud habilita algoritmos post-cuánticos en Cloud KMS",
+    "desc": "GCP anunció la disponibilidad general de algoritmos de criptografía post-cuántica en Cloud KMS, preparando la infraestructura para la era cuántica."
+  },
+  {
+    "file": "2026-07-29-kubecon-japan-2026-kubernetes-ai-ready.md",
+    "title": "KubeCon Japan 2026: Kubernetes ya está listo (de verdad) para workloads de IA en producción",
+    "desc": "Tres hitos clave convergen en KubeCon Japan: GPU Scheduling maduro, OpenTelemetry graduado y Autorización MCP lista para agentes de IA."
+  },
+  {
+    "file": "2026-07-29-modelos-razonamiento-o1-deepseek-r1-costos.md",
+    "title": "Miedo al RSI: Modelos razonadores vs el costo de inferencia",
+    "desc": "Modelos como OpenAI o1 y DeepSeek-R1 están marcando la tendencia: cambian velocidad por precisión en tareas complejas."
+  },
+  {
+    "file": "2026-07-29-nvidia-open-secure-ai-alliance.md",
+    "title": "Nvidia lanza la 'Open Secure AI Alliance' sin OpenAI, Google ni Anthropic",
+    "desc": "Nvidia y otras 36 organizaciones forman una alianza para asegurar agentes de IA, pero los grandes creadores de modelos cerrados brillan por su ausencia."
+  },
+  {
+    "file": "2026-07-29-perplexity-ai-agent-sandboxes-stateful.md",
+    "title": "Perplexity se sincera: por qué los sandboxes de agentes IA son un cacho de construir",
+    "desc": "El VP de Infraestructura de Perplexity explica los desafíos de manejar el estado (pausar, resumir y forkear) en millones de sandboxes para agentes de IA."
+  },
+  {
+    "file": "2026-07-30-aws-agent-toolkit-mcp.md",
+    "title": "AWS lanza Agent Toolkit para darle llaves de infraestructura a tus agentes IA",
+    "desc": "AWS acaba de lanzar Agent Toolkit, una herramienta para darle acceso seguro a sus APIs a agentes de IA como Kiro, Claude Code y cualquier agente compatible con MCP."
+  },
+  {
+    "file": "2026-07-30-dynatrace-byok-aws.md",
+    "title": "Dynatrace lanza Bring Your Own Key (BYOK) para AWS",
+    "desc": "Dynatrace ahora permite a sus clientes SaaS en AWS gestionar sus propias claves de encriptación (KMS) para proteger datos en reposo."
+  },
+  {
+    "file": "2026-07-30-groundcover-levanta-100m-guerra-datadog.md",
+    "title": "Groundcover levanta $100M y le declara la guerra a Datadog",
+    "desc": "La startup de observabilidad Groundcover aseguró $100 millones en su Serie C, apostando por mantener los datos en la nube del cliente y con Datadog en la mira."
+  },
+  {
+    "file": "2026-07-30-microsoft-compite-abiertamente-openai-anthropic.md",
+    "title": "Microsoft pisa el acelerador con sus modelos IA y cuestiona la dependencia de OpenAI",
+    "desc": "Satya Nadella aprovecha los recientes incidentes de seguridad para promocionar la familia de modelos MAI de Microsoft por sobre OpenAI y Anthropic."
+  },
+  {
+    "file": "2026-07-30-modus-10m-context-warehouse-ai.md",
+    "title": "Modus levanta $10M para armar un 'Context Warehouse' de agentes IA",
+    "desc": "La startup Modus asegura financiamiento para darle a los agentes de IA contexto empresarial sin sobreexponer datos sensibles."
+  },
+  {
+    "file": "2026-07-31-plataformas-sre-agentes-ia-gobernanza.md",
+    "title": "El desafío de gobernar Agentes de IA: Platform Engineering y SRE al límite",
+    "desc": "El código autogenerado y los agentes autónomos están forzando a replantear la ingeniería de plataformas, los límites de permisos y el rol de SRE."
+  },
+  {
+    "file": "2026-07-31-thinking-machines-inkling-small-open-weights.md",
+    "title": "Thinking Machines sorprende con Inkling-Small: Modelo de 276B open-weights",
+    "desc": "La startup liderada por Mira Murati lanza un enorme modelo Mixture-of-Experts (MoE) de 276B de parámetros con pesos abiertos en Hugging Face."
+  },
+  {
+    "file": "2026-08-01-openai-baja-precios-api.md",
+    "title": "OpenAI recorta los precios de su API: La guerra de los modelos nos beneficia",
+    "desc": "Ante la feroz competencia global de modelos como Claude y DeepSeek, OpenAI decide bajar fuertemente los costos de su API para retener a los desarrolladores."
+  }
+]

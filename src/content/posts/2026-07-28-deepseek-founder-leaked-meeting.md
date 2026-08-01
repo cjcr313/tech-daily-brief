@@ -11,7 +11,7 @@ tags:
 description: "Se filtra transcripción de 4 horas del fundador de DeepSeek, Liang Wenfeng, revelando secretos de su arquitectura."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Filtración en DeepSeek: El fundador revela detalles de su arquitectura bare-metal](../../assets/images/2026-07-28-deepseek-founder-leaked-meeting.jpg)
 
 Una filtración masiva sacude el ecosistema de IA hoy. Se ha liberado la transcripción de una reunión para inversores de 4 horas con el fundador de DeepSeek, Liang Wenfeng.
 

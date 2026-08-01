@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare GA de Precursor: motor de validación conductual browser-based que detecta bots analizando toda la sesión. Sin CAPTCHAs, consciente de privacidad."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Cloudflare lanza Precursor: detección de bots que vigila toda la sesión, no solo la puerta de entrada](../../assets/images/2026-07-26-cloudflare-precursor-deteccion-bots-sesion-completa.jpg)
 
 
 Cloudflare anunció la disponibilidad general de **Precursor**, un motor de validación conductual que corre en el browser y analiza el comportamiento del visitante durante **toda la sesión**, no solo en el checkpoint de login o checkout.

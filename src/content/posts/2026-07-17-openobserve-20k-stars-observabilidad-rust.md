@@ -11,7 +11,7 @@ tags:
 description: "La plataforma de observabilidad open source construida en Rust superó 20.000 estrellas en GitHub con más de 8.000 organizaciones en producción. Almacena telemetría en Parquet sobre S3 y promete costos 140x menores que Elasticsearch."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![OpenObserve llega a 20K estrellas en GitHub: observabilidad open source en Rust que cuesta 140x menos que Elasticsearch](../../assets/images/2026-07-17-openobserve-20k-stars-observabilidad-rust.jpg)
 
 
 Si estás pagando cinco o seis cifras al mes en observabilidad, esto te va a interesar. **OpenObserve**, la plataforma de observabilidad unificada construida en Rust, anunció el 15 de julio que superó **20.000 estrellas en GitHub**, colocándose entre los proyectos de observabilidad más populares del mundo.

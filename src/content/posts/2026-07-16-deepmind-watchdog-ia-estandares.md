@@ -10,7 +10,7 @@ tags:
 description: "El CEO de Google DeepMind propuso un standards body independiente para evaluar frontier models antes de su release. Mientras tanto, la Casa Blanca negocia estándares voluntarios con OpenAI, Google y Anthropic."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Demis Hassabis quiere un 'FINRA para la IA': DeepMind propone watchdog independiente para frontier models](../../assets/images/2026-07-16-deepmind-watchdog-ia-estandares.jpg)
 
 
 Demis Hassabis, CEO de **Google DeepMind**, publicó el 14 de julio un framework titulado *"A Framework for Frontier AI and the Dawning of a New Age"* en su cuenta de X. La propuesta: crear un **standards body independiente** —modelado tras FINRA (el regulador financiero de EE.UU.)— que evalúe modelos frontier antes de su release al mercado.

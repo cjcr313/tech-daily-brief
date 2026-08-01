@@ -11,7 +11,7 @@ tags:
 description: "WEKA lanzó NeuralMesh 6 (multi-tenancy, K8s-native, observabilidad integrada) y WEKApod 3 (1.1 EB en un solo rack). El storage para AI agentic ya no es opcional."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![WEKA NeuralMesh 6 y WEKApod 3: storage para AI que rompe la barrera del exabyte en un solo rack](../../assets/images/2026-07-22-weka-neuralmesh-6-wekapod-3-exabyte-ai-storage.jpg)
 
 
 Si creías que el cuello de botella en AI eran las GPUs, WEKA acaba de recordarte que **el storage y la memoria son los que realmente dictan el costo por token**. Ayer lanzaron dos productos conectados que cambian la conversación.

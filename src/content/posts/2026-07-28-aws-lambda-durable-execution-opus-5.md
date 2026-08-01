@@ -13,7 +13,7 @@ tags:
 description: "Resumen de AWS: Claude Opus 5 llega a la nube, nueva Local Zone en Atenas y Lambda introduce durable execution para .NET."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![AWS suma Claude Opus 5 y lanza Durable Execution para Lambda](../../assets/images/2026-07-28-aws-lambda-durable-execution-opus-5.jpg)
 
 
 El último *AWS Weekly Roundup* de julio nos deja un par de bombas interesantes tanto para la gente de IA como para los arquitectos de backend. 

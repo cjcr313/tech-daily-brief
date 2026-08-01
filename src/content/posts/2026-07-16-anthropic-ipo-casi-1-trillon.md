@@ -11,7 +11,7 @@ tags:
 description: "Anthropic presentó su S-1 confidencial con la SEC en junio y apunta a IPO en octubre 2026. La valuación en mercados secundarios ya roza US$1.2 trillones, superando a OpenAI por primera vez."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Anthropic se prepara para IPO: apunta a valuación cercana a US$1 trillón y adelantarse a OpenAI](../../assets/images/2026-07-16-anthropic-ipo-casi-1-trillon.jpg)
 
 
 La carrera de IA tiene nuevo capítulo financiero: **Anthropic está en camino de salir a bolsa**, y lo quiere hacer antes que OpenAI.

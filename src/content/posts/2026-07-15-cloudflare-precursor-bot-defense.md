@@ -10,6 +10,8 @@ tags:
   - Cloud
 description: "Cloudflare anuncia Precursor, un motor de validación conductual que monitorea sesiones completas en el browser para detectar bots con un click."
 ---
+![Cloudflare lanza Precursor: defensa conductual contra bots en tiempo real](../../assets/images/2026-07-15-cloudflare-precursor-bot-defense.jpg)
+
 
 
 ![2026-07-15-cloudflare-precursor-bot-defense](../../assets/images/2026-07-15-cloudflare-precursor-bot-defense.jpg)

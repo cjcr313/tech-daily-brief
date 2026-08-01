@@ -11,6 +11,8 @@ tags:
   - Seguridad
 description: "AWS añade protección de workloads de IA y monitoreo de Azure a Security Hub, consolidando la seguridad multicloud."
 ---
+![AWS retoola Security Hub con protección de IA y monitoreo multicloud](../../assets/images/2026-07-15-aws-security-hub-ia-multicloud.jpg)
+
 
 
 ![2026-07-15-aws-security-hub-ia-multicloud](../../assets/images/2026-07-15-aws-security-hub-ia-multicloud.jpg)

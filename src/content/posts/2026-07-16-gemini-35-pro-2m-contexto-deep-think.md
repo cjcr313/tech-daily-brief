@@ -10,7 +10,7 @@ tags:
 description: "Google estaría apuntando al 17 de julio para el lanzamiento de Gemini 3.5 Pro: 2 millones de tokens de contexto, modo Deep Think y rebuild arquitectónico completo."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Gemini 3.5 Pro se lanzaría mañana: 2M tokens de contexto y Deep Think reasoning](../../assets/images/2026-07-16-gemini-35-pro-2m-contexto-deep-think.jpg)
 
 
 Google no se va a quedar quieto con Kimi K3 y Claude Fable 5 en la pelea. Todo indica que **Gemini 3.5 Pro se lanza mañana 17 de julio**, y los rumores son jugosos.

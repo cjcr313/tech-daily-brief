@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek V4-Pro y V4-Flash salieron de preview el 20 de julio. Contexto de 1M de tokens, MoE 1.6T, pricing peak/off-peak y la API legacy que dejó de funcionar el 24 de julio."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![DeepSeek V4 llega a GA: contexto de 1M, capacidades agentiles y la API legacy queda cortada](../../assets/images/2026-07-25-deepseek-v4-ga-api-legacy-cortada.jpg)
 
 
 DeepSeek pasó de preview a **general availability** el 20 de julio, y cuatro días después cortó de raíz la API legacy. Si tenías `deepseek-chat` o `deepseek-reasoner` hardcoded en algún lado, ya estás recibiendo errores.

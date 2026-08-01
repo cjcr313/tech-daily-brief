@@ -12,7 +12,7 @@ tags:
 description: "Dynatrace expande su plataforma de observabilidad con nuevos agentes autónomos para triage y remediación de incidentes, sumando creación no-code de custom agents."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Dynatrace lanza agentes autónomos SRE y creación 'no-code' de AI Agents](../../assets/images/2026-07-27-dynatrace-autonomous-sre-agents-nocode.jpg)
 
 
 La carrera por inyectar agentes en operaciones de infraestructura sigue a tope. **Dynatrace** acaba de anunciar nuevas capacidades en su plataforma, atacando directamente "la parte más difícil de las operaciones con IA": la remediación autónoma.

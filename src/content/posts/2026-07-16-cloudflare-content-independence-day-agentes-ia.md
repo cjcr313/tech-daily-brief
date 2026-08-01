@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare lanzó controles granulares de bots de IA para todos sus clientes (incluso free tier): Search, Agent y Training. 52% del tráfico de crawlers ya es para entrenamiento de IA."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Cloudflare Content Independence Day año 2: controlar bots de IA ya no es 'bloquear todo'](../../assets/images/2026-07-16-cloudflare-content-independence-day-agentes-ia.jpg)
 
 
 Hace un año, Cloudflare declaró el primer **Content Independence Day**: bloqueo por defecto de crawlers de IA para nuevos dominios, más un marketplace de Pay-Per-Crawl. La idea era simple: si los bots de IA se llevan tu contenido para entrenar modelos, debería haber compensación.

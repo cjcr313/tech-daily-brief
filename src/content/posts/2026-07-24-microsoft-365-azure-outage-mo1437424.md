@@ -11,7 +11,7 @@ tags:
 description: "Un update de networking de Microsoft derribó Teams, SharePoint, Outlook, OneDrive, Copilot y múltiples servicios de Azure por horas. Incidente MO1437424."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Microsoft se tira solo: outage masivo tumba Teams, SharePoint, Azure y Copilot por update de red](../../assets/images/2026-07-24-microsoft-365-azure-outage-mo1437424.jpg)
 
 
 Microsoft confirmó un outage masivo este miércoles 23 de julio que afectó a una cantidad brutal de servicios: **Teams, Outlook, SharePoint Online, OneDrive, Microsoft 365 Admin Center, Power Automate, Copilot Chat y Microsoft Loop**, además de servicios enteros de Azure incluyendo **AKS, Azure Firewall, ExpressRoute, API Management, Application Gateway, Azure AD B2C, Azure AI Search, Azure Database for PostgreSQL, Azure Databricks y VPN Gateway**, entre otros.

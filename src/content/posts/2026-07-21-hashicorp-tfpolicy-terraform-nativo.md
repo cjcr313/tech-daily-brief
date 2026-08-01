@@ -11,7 +11,7 @@ tags:
 description: "tfpolicy llega en beta pública para que los equipos escriban políticas de gobernanza directamente en HCL. Adiós a Sentinel y OPA como herramientas separadas?"
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![HashiCorp lanza tfpolicy: governance de Terraform escrito en HCL, sin lenguajes extra](../../assets/images/2026-07-21-hashicorp-tfpolicy-terraform-nativo.jpg)
 
 
 HashiCorp acaba de lanzar **tfpolicy** en beta pública. Es un framework de policy-as-code nativo de Terraform que te deja escribir reglas de governance en **HCL** — el mismo lenguaje que ya usas para definir infra.

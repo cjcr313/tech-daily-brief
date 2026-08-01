@@ -12,7 +12,7 @@ tags:
 description: "OpenShift 4.22 llega con Karpenter GA para auto-escalar, IA confidencial como preview, JobSet para entrenamiento distribuido y foco en bajar los costos de infraestructura."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Red Hat OpenShift 4.22: Karpenter GA, AI Confidencial y cuchillo en los costos cloud](../../assets/images/2026-07-16-openshift-4-22-costos-ai-confidencial.jpg)
 
 
 Red Hat sacó **OpenShift 4.22** el 14 de julio, y la jugada es clara: bajar los costos de infraestructura sin perder la carrera por IA. Veamos qué trae.

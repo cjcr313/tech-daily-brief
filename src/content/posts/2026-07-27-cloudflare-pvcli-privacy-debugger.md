@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare lanza pvcli open-source, un debugger para los protocolos de privacidad que usan Apple y Microsoft, con la mira puesta en el networking de los agentes IA."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Cloudflare abre el código de un debugger para protocolos de privacidad, enfocado en AI Agents](../../assets/images/2026-07-27-cloudflare-pvcli-privacy-debugger.jpg)
 
 
 Cloudflare continúa su estrategia de posicionarse como la capa de red por defecto para la era de la inteligencia artificial. Esta vez, **Cloudflare ha lanzado open-source un debugger para protocolos de privacidad**.

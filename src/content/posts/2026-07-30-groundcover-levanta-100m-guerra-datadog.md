@@ -11,7 +11,7 @@ tags:
 description: "La startup de observabilidad Groundcover aseguró $100 millones en su Serie C, apostando por mantener los datos en la nube del cliente y con Datadog en la mira."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Groundcover levanta $100M y le declara la guerra a Datadog](../../assets/images/2026-07-30-groundcover-levanta-100m-guerra-datadog.jpg)
 
 
 En el siempre competitivo mundo de la observabilidad, acaba de caer una noticia fuerte. **Groundcover**, la startup que promete mantener todos los datos de monitoreo directamente en la infraestructura del cliente, acaba de levantar **$100 millones de dólares** en una ronda Serie C liderada por One Peak (alcanzando una valoración de $500 millones).

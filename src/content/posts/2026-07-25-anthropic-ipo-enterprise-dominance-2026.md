@@ -11,7 +11,7 @@ tags:
 description: "Anthropic reporta ARR de US$47B, primer profit operativo en Q2 2026, y se prepara para IPO. El 80% de sus ingresos vienen de enterprise, vs 40% de OpenAI."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Anthropic acelera hacia el IPO: ARR de US$47B, primer profit operativo y ventaja enterprise sobre OpenAI](../../assets/images/2026-07-25-anthropic-ipo-enterprise-dominance-2026.jpg)
 
 
 Mientras el mundo discute si Claude Opus 5 es mejor que GPT-5.6 Sol, la historia más grande de Anthropic se cuenta en números: **la empresa está camino al IPO y en mejor forma de lo que se piensa**.

@@ -11,7 +11,7 @@ tags:
 description: "Modelos como OpenAI o1 y DeepSeek-R1 están marcando la tendencia: cambian velocidad por precisión en tareas complejas."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Miedo al RSI: Modelos razonadores vs el costo de inferencia](../../assets/images/2026-07-29-modelos-razonamiento-o1-deepseek-r1-costos.jpg)
 
 
 Si estás siguiendo de cerca las releases de IA, habrás notado un patrón claro en lo que va de mes. El enfoque pasó de "modelos más rápidos y baratos" a los llamados **"reasoning models"** (modelos de razonamiento).

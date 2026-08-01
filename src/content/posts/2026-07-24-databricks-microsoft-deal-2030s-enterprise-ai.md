@@ -11,7 +11,7 @@ tags:
 description: "Databricks profundiza su alianza con Microsoft: más servicios sobre Azure, CPUs Cobalt ARM y integración con Copilot, Power BI y Microsoft 365."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Databricks y Microsoft extienden su matrimonio hasta los 2030s: Azure, Cobalt y AI governance](../../assets/images/2026-07-24-databricks-microsoft-deal-2030s-enterprise-ai.jpg)
 
 
 Casi una década de relación y ahora oficial hasta los **2030s**. Databricks y Microsoft anunciaron una expansión profunda de su alianza que básicamente convierte a Azure en la casa de Databricks y mete las herramientas de IA de Databricks directamente en el ecosistema Microsoft.

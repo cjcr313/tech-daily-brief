@@ -11,7 +11,7 @@ tags:
 description: "NVIDIA, Microsoft, Meta, OpenAI, Mozilla y Linux Foundation firmaron una carta urging a Washington no restringir modelos open-weight. Contexto: sanciones a Kimi K3."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Jensen Huang abre X con carta de 32 empresas defendiendo AI open-weight ante Washington](../../assets/images/2026-07-25-jensen-huang-open-weight-ai-letter-washington.jpg)
 
 
 Jensen Huang hizo su **primer post en X ever** este viernes, y no fue para mostrar una GPU — fue para lobby.

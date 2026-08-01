@@ -12,7 +12,7 @@ tags:
 description: "OpenAI aumentó su presupuesto de infraestructura 25% arriba de su estimación anterior. El primer gran proyecto: un campus de US$20B en Georgia que consumirá 3.2 GW. Stargate sigue estancado."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![OpenAI sube su gasto en infraestructura a US$750 mil millones hasta 2030](../../assets/images/2026-07-22-openai-750b-infra-gasto-project-camellia-georgia.jpg)
 
 
 OpenAI acaba de anunciar que gastará **US$750 mil millones en infraestructura hasta 2030**, un incremento de 25% respecto a los US$600B que había proyectado a comienzos de año. El WSJ dio la primicia y ya todos en tech Twitter están procesando el número.

@@ -11,7 +11,7 @@ tags:
 description: "Tras la KubeCon Japan, el país experimentó una explosión de talento Cloud Native, con un aumento brutal en los exámenes y profesionales Kubestronauts."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Japón se pone las pilas con Kubernetes: 250% de aumento en certificaciones](../../assets/images/2026-07-29-cncf-japon-boom-kubestronauts.jpg)
 
 
 La CNCF soltó un dato que deja claro dónde se está cocinando el talento de infraestructura para la era de la IA: **Japón está viviendo un boom absoluto en skills Cloud Native**.

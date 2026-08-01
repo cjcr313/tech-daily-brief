@@ -11,7 +11,7 @@ tags:
 description: "AWS dejó de vender dos versiones de Outposts. La estrategia de edge computing on-prem del gigante se redefine."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![AWS descontinúa hardware Outposts para data centers privados](../../assets/images/2026-07-17-aws-descontinua-outposts-hardware.jpg)
 
 
 AWS dejó de vender **dos versiones de su hardware Outposts** diseñado para data centers privados, según reportó The Information. Las versiones descontinuadas estaban pensadas para lugares como tiendas retail y pisos de fábrica.

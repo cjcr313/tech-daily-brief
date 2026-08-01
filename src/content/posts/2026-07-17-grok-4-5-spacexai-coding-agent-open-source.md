@@ -11,7 +11,7 @@ tags:
 description: "SpaceXAI lanzó Grok 4.5 (#1 en uso agéntico) y abrió el código de Grok Build, su agente de coding tipo Claude Code."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Grok 4.5 y Grok Build: xAI libera su modelo coding y lo hace open source](../../assets/images/2026-07-17-grok-4-5-spacexai-coding-agent-open-source.jpg)
 
 
 xAI (ahora SpaceXAI) acaba de hacer dos movimientos pesados esta semana: lanzó **Grok 4.5** — su modelo enfocado en coding y tareas agénticas — y abrió el código de **Grok Build**, su agente de programación para terminal.

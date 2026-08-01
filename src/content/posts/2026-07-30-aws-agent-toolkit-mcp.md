@@ -12,7 +12,7 @@ tags:
 description: "AWS acaba de lanzar Agent Toolkit, una herramienta para darle acceso seguro a sus APIs a agentes de IA como Kiro, Claude Code y cualquier agente compatible con MCP."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![AWS lanza Agent Toolkit para darle llaves de infraestructura a tus agentes IA](../../assets/images/2026-07-30-aws-agent-toolkit-mcp.jpg)
 
 
 La guerra por ser la plataforma donde viven los agentes de IA se sigue calentando. AWS acaba de meter un golazo con el lanzamiento de **Agent Toolkit for AWS**, un set de herramientas diseñado específicamente para agentes de IA de código y operaciones (como Kiro, Claude Code, Codex y otros basados en el protocolo MCP - Model Context Protocol).

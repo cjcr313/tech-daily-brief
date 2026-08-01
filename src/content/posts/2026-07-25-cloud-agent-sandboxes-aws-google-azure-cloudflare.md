@@ -12,7 +12,7 @@ tags:
 description: "AWS, Google Cloud, Azure y Cloudflare ahora ofrecen agent code sandboxes nativos. Cada uno con stacks de aislamiento, lifecycles y modelos de gobernanza radicalmente distintos."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Los 4 grandes clouds ya tienen sandboxes para agentes IA — y ninguno lo hizo igual](../../assets/images/2026-07-25-cloud-agent-sandboxes-aws-google-azure-cloudflare.jpg)
 
 
 La carrera por ofrecer **sandboxes de código para agentes IA** como primitiva nativa de cloud ya tiene todos los contendientes en la pista. AWS, Google Cloud, Microsoft Azure y Cloudflare ahora ofrecen execution aislada — pero cada uno construyó algo fundamentalmente diferente.

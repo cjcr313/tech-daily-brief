@@ -12,7 +12,7 @@ tags:
 description: "Alphabet reportó ingresos de US$24.8B en Google Cloud para Q2 2026, un crecimiento del 82% YoY impulsado por demanda de infraestructura IA. Ya es el 21% de los ingresos de Alphabet."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Google Cloud se disparó 82% en Q2 2026: US$24.8B gracias a la IA](../../assets/images/2026-07-23-google-cloud-q2-2026-82pct-ai.jpg)
 
 
 Google Cloud dejó de ser el chiste de los hyperscalers. Las cifras de Q2 2026 de Alphabet son una paliza completa:

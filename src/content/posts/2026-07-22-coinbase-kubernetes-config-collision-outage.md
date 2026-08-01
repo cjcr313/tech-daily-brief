@@ -11,7 +11,7 @@ tags:
 description: "Un cambio de configuración 'de bajo riesgo' causó una colisión de nombres de recursos en un cluster K8s productivo. El gateway cayó, la plataforma entera se fue a dormir por 50 minutos."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Coinbase publicó su postmortem: un conflicto de nombres en Kubernetes tumbó la plataforma por 50 minutos](../../assets/images/2026-07-22-coinbase-kubernetes-config-collision-outage.jpg)
 
 
 La frase "era un cambio de bajo riesgo" debería ya tener su propio cementerio. Coinbase publicó ayer el postmortem de su outage del 14 de julio, y la causa raíz es tan clásica como dolorosa: **dos recursos de Kubernetes terminaron con el mismo nombre**.

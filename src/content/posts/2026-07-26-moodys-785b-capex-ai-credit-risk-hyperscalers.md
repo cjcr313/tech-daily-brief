@@ -11,7 +11,7 @@ tags:
 description: "Moody's Ratings advierte que el gasto en infraestructura de IA está erosionando el credit rating de Microsoft, Amazon, Meta, Alphabet, Oracle y CoreWeave. Capex proyectado de US$785B en 2026 camino a US$1T."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Moody's alerta: la carrera de IA se está comiendo el cash flow de los hyperscalers — US$785B en capex y subiendo](../../assets/images/2026-07-26-moodys-785b-capex-ai-credit-risk-hyperscalers.jpg)
 
 
 La carrera por construir infraestructura de IA tiene un precio que nadie quería mirar de cerca. **Moody's Ratings** soltó un reporte esta semana que pone los pelos de punta: el modelo de negocio de los hyperscalers está cambiando de "asset-light" a "asset-heavy", y las consecuencias financieras son brutales.

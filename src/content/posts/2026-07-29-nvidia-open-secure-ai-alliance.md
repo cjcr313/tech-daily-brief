@@ -11,7 +11,7 @@ tags:
 description: "Nvidia y otras 36 organizaciones forman una alianza para asegurar agentes de IA, pero los grandes creadores de modelos cerrados brillan por su ausencia."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Nvidia lanza la 'Open Secure AI Alliance' sin OpenAI, Google ni Anthropic](../../assets/images/2026-07-29-nvidia-open-secure-ai-alliance.jpg)
 
 
 En un movimiento que está dando bastante que hablar en la industria, Nvidia junto a otras 36 organizaciones acaba de formar la **Open Secure AI Alliance**. ¿El objetivo? Desarrollar y compartir herramientas open source (como el framework NOOA) para asegurar el software y los agentes de IA en esta nueva era de autonomía algorítmica.

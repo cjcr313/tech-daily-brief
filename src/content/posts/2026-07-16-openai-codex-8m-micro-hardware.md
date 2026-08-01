@@ -11,7 +11,7 @@ tags:
 description: "Codex pasó de 1M a 8M de usuarios activos en menos de un año. OpenAI lanzó el Codex Micro, un macro pad de US$230 con teclas dedicadas para controlar agents."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![OpenAI Codex llega a 8M de usuarios y lanza su primer hardware: el Codex Micro](../../assets/images/2026-07-16-openai-codex-8m-micro-hardware.jpg)
 
 
 OpenAI reportó que **Codex** —su plataforma de coding agents— alcanzó **8 millones de usuarios activos** entre Codex y ChatGPT Work. La cifra la anunció Thibault Sottiaux (VP de Codex) el 14 de julio en X. Para ponerlo en perspectiva: Codex partió con **menos de 1 millón** de usuarios cuando la desktop app lanzó en febrero 2026. Eso es crecimiento de **8x en ~5 meses**.

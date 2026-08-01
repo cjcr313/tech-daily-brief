@@ -12,7 +12,7 @@ tags:
 description: "El Release Candidate más reciente de MCP hace un rewrite profundo: elimina las sesiones, borra el initialization handshake y transforma a los servidores en APIs stateless HTTP-like."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![El mayor update de MCP (Model Context Protocol) elimina las sesiones y el handshake](../../assets/images/2026-07-27-mcp-release-candidate-rewrite-stateless.jpg)
 
 
 El ecosistema de agentes de IA acaba de recibir un terremoto en su capa fundamental. Según reporta *The New Stack*, la última revisión mayor (Release Candidate) de **Model Context Protocol (MCP)** ha eliminado de tajo la maquinaria sobre la que se construyeron decenas de servidores en los últimos meses.

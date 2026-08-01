@@ -10,6 +10,8 @@ tags:
   - Cloud
 description: "La startup china de IA DeepSeek comenzó preparativos para salir a bolsa en China continental, con una valuación objetivo de US$71B. Otro round de funding de US$1.5B cerraría antes."
 ---
+![DeepSeek prepara IPO: busca valuación de US$71 mil millones y amenaza el dominio de OpenAI](../../assets/images/2026-07-15-deepseek-ipo-71b-china.jpg)
+
 
 
 ![2026-07-15-deepseek-ipo-71b-china](../../assets/images/2026-07-15-deepseek-ipo-71b-china.jpg)

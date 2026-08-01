@@ -11,7 +11,7 @@ tags:
 description: "Cursor lanzó un router inteligente que clasifica cada request de coding y la manda al modelo óptimo. Entrenado con 600k requests, ahorra 30-60% sin perder calidad."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Cursor Router: el classifier que decide qué modelo de IA usa por ti (y corta 60% del costo)](../../assets/images/2026-07-26-cursor-router-routing-inteligente-modelos-coding.jpg)
 
 
 El 22 de julio, Cursor lanzó algo que sua trivial pero resuelve un problema real: **Cursor Router**, un classifier que lee cada request de coding y decide qué modelo debería manejarla, en vez de mandar todo a un solo modelo default.

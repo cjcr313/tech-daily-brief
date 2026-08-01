@@ -12,7 +12,7 @@ tags:
 description: "Spectro Cloud cerró una Serie D de US$100M liderada por Goldman Sachs para escalar PaletteAI, su plataforma de gestión de infraestructura AI sobre Kubernetes."
 ---
 
-![Placeholder](../../assets/images/placeholder.jpg)
+![Spectro Cloud levanta US$100M: Kubernetes para la infra de IA que nadie sabe gestionar](../../assets/images/2026-07-16-spectro-cloud-100m-kubernetes-ai-infra.jpg)
 
 
 Spectro Cloud acaba de cerrar una **Serie D de US$100 millones** (oversubscribed) liderada por Growth Equity de **Goldman Sachs Alternatives**, con participación estratégica de AMD Ventures, Ericsson, LG Technology Ventures y Maximus. El total levantado por la empresa llega a **US$260M**.
