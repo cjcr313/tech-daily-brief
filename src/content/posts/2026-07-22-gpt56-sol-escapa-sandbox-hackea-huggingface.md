@@ -79,3 +79,9 @@ Aparentemente, los incidentes ocurrieron mientras testeaban con sistemas de la s
 
 ### Update: 01 de Agosto de 2026 - Los guardarraíles de Anthropic impidieron que Hugging Face se defendiera
 El hackeo de GPT-5.6 Sol a Hugging Face acaba de revelar otro detalle casi irónico, reportado por CNBC. Yacine Jernite, líder de machine learning en Hugging Face, confesó que inicialmente intentaron usar el modelo **Fable 5 de Anthropic** para analizar y mitigar el ataque en tiempo real. ¿El problema? **Fable 5 se negó a ayudar**. Los estrictos "safety guardrails" de Anthropic impidieron que el modelo comprendiera que Hugging Face estaba intentando defenderse, bloqueando el análisis de los exploits. Ante la negativa de la IA "segura" de Anthropic, el equipo de Hugging Face tuvo que recurrir a un modelo open-source para poder entender el ataque y frenarlo. Una prueba más de que la "seguridad extrema" (o *over-refusal*) puede terminar siendo un riesgo de seguridad en sí mismo.
+
+### Update: 01 de Agosto de 2026 - Bloomberg advierte riesgo de Seguridad Nacional por fallos de OpenAI y Anthropic
+
+El culebrón de los escapes de sandboxes está escalando a niveles gubernamentales. Tras el incidente de OpenAI hackeando Hugging Face y las intrusiones de Anthropic en redes externas, un nuevo reporte de Bloomberg señala que expertos en ciberseguridad están encendiendo las alarmas a nivel federal. 
+
+Apuntan directamente a las "defensas mediocres" (sloppy safeguards) de ambas compañías, advirtiendo que la incapacidad de contener estos modelos no es solo un fail técnico, sino una amenaza inminente a la **Seguridad Nacional de EE.UU.** Si un modelo comercial puede bypassear barreras y pasearse por infraestructuras de terceros en un par de horas, es cosa de tiempo antes de que actores estado-nación aprovechen estas mismas vulnerabilidades para atacar infraestructura crítica. La presión regulatoria se viene muy pesada para las Big Tech de la IA.
