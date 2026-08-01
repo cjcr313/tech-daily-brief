@@ -12,6 +12,8 @@ tags:
 description: "Nscale acaba de comprar Anyscale, la empresa detrás del popular framework open-source Ray, prometiendo simplificar la infraestructura de IA y mantener la neutralidad multi-cloud."
 ---
 
+![Imagen de referencia](../../assets/images/2026-08-01-nscale-anyscale-cover.jpg)
+
 En un movimiento que sacude el ecosistema de infraestructura para inteligencia artificial, **Nscale** acaba de anunciar la adquisición de **Anyscale**, la compañía fundada por los creadores originales del framework open-source Ray. 
 
 Ray se ha convertido en el estándar de facto para escalar cargas de trabajo de machine learning e IA distribuida (incluso OpenAI lo usa extensamente para entrenar sus modelos). Esta compra marca un paso gigante en la consolidación del mercado de infraestructura o "neoclouds".
