@@ -52,3 +52,6 @@ El dato clave: según datos de Vercel y OpenRouter, **DeepSeek ya procesa más d
 Con V4 en GA, pricing peak/off-peak, y la API legacy ya cortada, DeepSeek está enviando una señal clara: **ya no son un experimento, son infraestructura de producción**. Si tu estrategia multi-modelo no los tiene en el stack, probablemente estás pagando de más.
 
 *Fuentes: [DeepSeek oficial](https://www.deepseek.com/en/), [tech-insider.org](https://tech-insider.org/au/deepseek-v4-general-availability-2026/), [OpenRouter](https://openrouter.ai/deepseek/deepseek-v4-pro), [BenchLM](https://benchlm.ai/deepseek/api-pricing)*
+
+### Update: 01 de Agosto de 2026 - DeepSeek lanza silenciosamente la versión V4-Flash-0731
+Solo unos días después de pasar a GA, DeepSeek actualizó en silencio el endpoint de su API con el modelo **DeepSeek-V4-Flash-0731**. Aunque la arquitectura se mantiene (284B de parámetros totales, ~13B activos), el modelo recibió un "re-post-training" agresivo específicamente para mejorar su desempeño en tareas agentiles. Según la comunidad en Reddit y Hugging Face (donde también liberaron los pesos abiertos), este upgrade es una respuesta directa al volumen masivo que están manejando. La actualización aplica automáticamente al usar el endpoint `deepseek-v4-flash`, consolidando su estrategia de dominar el mercado de agentes de bajo costo.
