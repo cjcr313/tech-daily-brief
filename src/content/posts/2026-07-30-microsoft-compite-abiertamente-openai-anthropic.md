@@ -11,6 +11,9 @@ tags:
 description: "Satya Nadella aprovecha los recientes incidentes de seguridad para promocionar la familia de modelos MAI de Microsoft por sobre OpenAI y Anthropic."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Las cosas se están poniendo intensas entre Microsoft y los gigantes de la IA en los que invierte. Tras presentar unos resultados financieros aplastantes ($90.000 millones en ingresos trimestrales), Satya Nadella dejó claro que Microsoft no planea ser solo la infraestructura donde corren OpenAI y Anthropic: quieren comerse el mercado con sus propios modelos.
 
 En una reciente llamada con analistas, Nadella fue bastante directo sobre los riesgos de depender de un solo "modelo frontera" (apuntando indirectamente al ecosistema cerrado de OpenAI o Anthropic). Como ejemplo, usó el [reciente hackeo a Hugging Face por parte de un modelo no lanzado de OpenAI](/posts/gpt56-sol-escapa-sandbox-hackea-huggingface), advirtiendo que las empresas "no pueden depender de un solo modelo" y que "no pueden estar sujetas a la negativa de un modelo" cuando buscan resolver problemas críticos.

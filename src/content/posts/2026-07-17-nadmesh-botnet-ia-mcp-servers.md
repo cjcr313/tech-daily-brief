@@ -12,6 +12,9 @@ tags:
 description: "Botnet escrito en Go con 20+ vectores RCE que targets específicamente endpoints de IA/MCP, Kubernetes y Docker. Detectado a principios de julio 2026."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Si creías que los botnets eran cosa del pasado con Mirai y compañia, piénsalo de nuevo. **NadMesh** es un nuevo botnet descubierto a principios de julio 2026 que viene con un enfoque bien específico: **servidores de IA y el ecosistema MCP (Model Context Protocol)**.
 
 ## Qué es NadMesh

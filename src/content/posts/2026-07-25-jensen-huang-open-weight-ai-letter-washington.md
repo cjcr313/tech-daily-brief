@@ -11,6 +11,9 @@ tags:
 description: "NVIDIA, Microsoft, Meta, OpenAI, Mozilla y Linux Foundation firmaron una carta urging a Washington no restringir modelos open-weight. Contexto: sanciones a Kimi K3."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Jensen Huang hizo su **primer post en X ever** este viernes, y no fue para mostrar una GPU — fue para lobby.
 
 El CEO de NVIDIA compartió una carta firmada por **32 empresas y organizaciones** urging a los policymakers de EE.UU. a **no restringir los modelos AI open-weight**. La carta llega en el peor momento político: el gobierno Trump está evaluando sanciones contra Moonshot AI (creadores del Kimi K3) por presunta distilación ilegal desde modelos de Anthropic.

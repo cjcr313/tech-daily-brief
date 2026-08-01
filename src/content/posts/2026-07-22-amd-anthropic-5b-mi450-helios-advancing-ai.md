@@ -12,6 +12,9 @@ tags:
 description: "En su evento Advancing AI 2026, AMD anunció inversión de US$5B en Anthropic, deal de 2 GW con MI450, Zen 6 Venice en TSMC 2nm, y el rack Helios con 72 GPUs. NVIDIA tiene competencia real."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 El evento **Advancing AI 2026** de AMD arrancó hoy en Moscone West, San Francisco, y vieron todos los fierros. En medio del lanzamiento de Zen 6 "Venice", los nuevos Instinct MI450, y el sistema rack-scale Helios, AMD tiró la bomba: **inversión estratégica de hasta US$5 mil millones en Anthropic**.
 
 ## El deal AMD-Anthropic

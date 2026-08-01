@@ -11,6 +11,9 @@ tags:
 description: "Modelos como OpenAI o1 y DeepSeek-R1 están marcando la tendencia: cambian velocidad por precisión en tareas complejas."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Si estás siguiendo de cerca las releases de IA, habrás notado un patrón claro en lo que va de mes. El enfoque pasó de "modelos más rápidos y baratos" a los llamados **"reasoning models"** (modelos de razonamiento).
 
 Exponentes como **OpenAI o1** y el reciente **DeepSeek-R1** están definiendo el estándar: **intercambian latencia (velocidad) por precisión**. En vez de predecir el siguiente token a lo loco, se toman su tiempo, simulan pasos de razonamiento (Chain-of-Thought oculto) y luego entregan respuestas mucho más precisas en problemas matemáticos, lógica pura o coding avanzado.

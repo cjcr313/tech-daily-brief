@@ -12,6 +12,9 @@ tags:
 description: "Google reconoce que el Kubernetes control plane no fue diseñado para el comportamiento de AI agents. Su respuesta: Agent Substrate, un runtime que se superpone a K8s."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 The New Stack publicó un artículo brutal: **Google está construyendo un nuevo runtime sobre Kubernetes porque admite que el API server de K8s nunca fue diseñado para cómo se comportan los AI agents.** Se llama Agent Substrate, y viene a cambiar la conversación sobre infraestructura para AI.
 
 ## El problema

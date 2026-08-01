@@ -13,6 +13,9 @@ tags:
 description: "Resumen de AWS: Claude Opus 5 llega a la nube, nueva Local Zone en Atenas y Lambda introduce durable execution para .NET."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 El último *AWS Weekly Roundup* de julio nos deja un par de bombas interesantes tanto para la gente de IA como para los arquitectos de backend. 
 
 Primero, en el frente de inteligencia artificial, **Claude Opus 5 de Anthropic ya está disponible en AWS** (a través de Amazon Bedrock). Esto sigue consolidando a AWS como el principal canal de distribución enterprise para los modelos de Anthropic, ofreciendo a las empresas seguridad y privacidad dentro de su propia VPC.

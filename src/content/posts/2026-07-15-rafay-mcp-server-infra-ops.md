@@ -11,6 +11,8 @@ tags:
   - IA
 description: "Rafay introduce un servidor MCP que conecta asistentes de IA con contexto operativo de Kubernetes, con RBAC y gobernanza integrada."
 ---
+![Rafay Systems lanza MCP Server para gobernar IA en operaciones de infraestructura](../../assets/images/2026-07-15-rafay-mcp-server-infra-ops.jpg)
+
 
 Rafay Systems acaba de anunciar un **Model Control Protocol (MCP) Server** para su plataforma de orquestación de infraestructura. La idea es simple pero poderosa: dar a los asistentes de IA acceso gobernado al contexto operativo de tu infraestructura — clusters, namespaces, políticas, health, costos — sin exportar datos ni construir integraciones one-off.
 

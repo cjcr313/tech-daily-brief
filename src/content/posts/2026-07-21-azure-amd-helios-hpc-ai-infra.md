@@ -12,6 +12,9 @@ tags:
 description: "Microsoft anunció expansión de Azure con AMD Helios para inference, VMs HDv2 con ~500 cores EPYC para data processing, y HXv2 para diseño de chips. Heterogeneidad total."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Microsoft no quiere depender solo de NVIDIA. Ayer anunció una expansión importante de la infra de Azure con **AMD como socio principal**, sumando tres nuevos tipos de VMs para AI y HPC.
 
 ## ND MI455X v7 — inference con AMD Helios

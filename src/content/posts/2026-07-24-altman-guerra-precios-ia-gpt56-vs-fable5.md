@@ -10,6 +10,9 @@ tags:
 description: "Sam Altman dijo estar dispuesto a ofrecer GPT-5.6 Sol a 1/4 del precio de Claude Fable 5. Mientras los modelos chinos bajan los costos, la guerra de precios se acelera."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La guerra de precios en IA entró en otra fase. Sam Altman dijo públicamente que OpenAI estaría dispuesto a ofrecer **GPT-5.6 Sol a un cuarto del precio de Claude Fable 5** de Anthropic. La frase suena contundente, pero hay un detalle: **la tarifa publicada de Sol sigue siendo $5/$30 por millón de tokens** (input/output). El descuento prometido aún no se materializa en la rate card.
 
 ## Lo que dijo Altman

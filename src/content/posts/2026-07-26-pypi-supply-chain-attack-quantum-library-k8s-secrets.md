@@ -11,6 +11,9 @@ tags:
 description: "Un paquete PyPI secuestrado inyectó un credential stealer en una librería cuántica que busca SSH keys, secrets de cloud y configs de K8s al hacer import. Anthropic responde con Claude Security plugin."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La supply chain de Python volvió a dar sustos. Esta semana se detectó que **un paquete hijackeado en PyPI envenenó una librería de computing cuántico** con un credential stealer que se ejecuta al momento del `import`. Sí, ni siquiera necesitas llamar una función — con solo importar el paquete, ya estás comprometido.
 
 ## Qué hace el malware

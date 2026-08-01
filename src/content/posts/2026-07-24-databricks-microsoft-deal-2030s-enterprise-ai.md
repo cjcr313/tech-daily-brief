@@ -11,6 +11,9 @@ tags:
 description: "Databricks profundiza su alianza con Microsoft: más servicios sobre Azure, CPUs Cobalt ARM y integración con Copilot, Power BI y Microsoft 365."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Casi una década de relación y ahora oficial hasta los **2030s**. Databricks y Microsoft anunciaron una expansión profunda de su alianza que básicamente convierte a Azure en la casa de Databricks y mete las herramientas de IA de Databricks directamente en el ecosistema Microsoft.
 
 ## Los puntos clave

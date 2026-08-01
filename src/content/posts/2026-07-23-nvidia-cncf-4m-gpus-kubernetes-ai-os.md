@@ -12,6 +12,9 @@ tags:
 description: "NVIDIA se comprometió con US$4M y GPUs reales para CI/testing del CNCF. K8s ya corre el 66% de workloads de IA generativa, pero solo 7% despliega modelos a diario."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Erin Boyd, Senior Director de NVIDIA y miembro del CNCF Governing Board, publicó hoy un post que es básicamente una declaración de principios: **el futuro de IA se construye en abierto, y Kubernetes es ese terreno**.
 
 ## Los datos que importan

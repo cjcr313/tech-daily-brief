@@ -11,6 +11,9 @@ tags:
 description: "GCP anunció la disponibilidad general de algoritmos de criptografía post-cuántica en Cloud KMS, preparando la infraestructura para la era cuántica."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Mientras todos hablan de modelos de lenguaje e inteligencia artificial, **Google Cloud** acaba de dar un paso gigantesco (y silencioso) para el futuro de la seguridad en la nube: anunció la disponibilidad general de algoritmos de **criptografía post-cuántica** en **Cloud KMS** (Key Management Service).
 
 ## ¿Qué liberaron exactamente?

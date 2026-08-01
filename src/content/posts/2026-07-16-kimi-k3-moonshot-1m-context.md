@@ -10,6 +10,9 @@ tags:
 description: "Moonshot AI lanzó oficialmente Kimi K3, su modelo flagship más potente: 2.5 trillones de parámetros MoE, ventana de contexto de 1 millón de tokens y benchmarks de coding que superan a GPT-5.5."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Moonshot AI se cansó de esperar y hoy **16 de julio lanzó oficialmente Kimi K3**, su modelo más ambicioso hasta la fecha. Y los números son bestiales.
 
 ## Especificaciones clave

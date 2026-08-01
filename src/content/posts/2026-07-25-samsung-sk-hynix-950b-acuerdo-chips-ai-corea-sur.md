@@ -12,6 +12,9 @@ tags:
 description: "Samsung y SK Group cerraron US$950B en acuerdos con NVIDIA, Broadcom, OpenAI y Anthropic. El presidente Lee presentó la 'Declaración de San Francisco' en una cumbre con los CEOs del tech mundial."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La carrera por asegurar la cadena de suministro de IA acaba de tener su momento más grande. Este 25 de julio, el presidente surcoreano **Lee Jae-myung** anunció **US$950 mil millones** (S$1.23 trillones) en nuevos acuerdos de IA durante una cumbre en San Francisco attended por los CEOs de **NVIDIA, OpenAI, Anthropic y Broadcom**.
 
 ## Los números

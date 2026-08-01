@@ -11,6 +11,9 @@ tags:
 description: "Un outage de AWS en Oregon derribó DoorDash, Reddit, Hulu, Apple Pay y decenas de servicios. Se resolvió en ~3 horas, pero el blast radius fue enorme."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Justo cuando estábamos digiriendo el outage masivo de Microsoft de ayer, hoy le tocó a AWS. **US-West-2** (Oregón) tuvo problemas de conectividad que tumbaron una cantidad impresionante de servicios.
 
 ## Qué pasó

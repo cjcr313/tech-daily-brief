@@ -10,6 +10,9 @@ tags:
   - Cloud
 description: "Ante la feroz competencia global de modelos como Claude y DeepSeek, OpenAI decide bajar fuertemente los costos de su API para retener a los desarrolladores."
 ---
+
+![Placeholder](../../assets/images/placeholder.jpg)
+
 Parece que la competencia le está doliendo al bolsillo a los gigantes. En medio de un mercado saturado donde Anthropic, modelos open weights y gigantes chinos como DeepSeek están entregando resultados brutales a una fracción del costo, **OpenAI ha decidido recortar drásticamente los precios de su API**.
 
 ### ¿Qué significa esto para nosotros?

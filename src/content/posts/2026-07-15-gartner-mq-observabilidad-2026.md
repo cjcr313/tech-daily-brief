@@ -11,6 +11,9 @@ tags:
 description: "Gartner publicó su Magic Quadrant para Observability Platforms 2026. Dynatrace lleva 16 años como Leader, Grafana furthest in Vision, Datadog highest in Execution, Chronosphere y Coralogix entran al cuadrante."
 ---
 
+
+![2026-07-15-gartner-mq-observabilidad-2026](../../assets/images/2026-07-15-gartner-mq-observabilidad-2026.jpg)
+
 Gartner sacó su **Magic Quadrant para Observability Platforms 2026** (firmado el 13 de julio, con anuncios masivos hoy 15 de julio) y el cuadrante de Leaders está más peleado que nunca.
 
 ## Los Leaders

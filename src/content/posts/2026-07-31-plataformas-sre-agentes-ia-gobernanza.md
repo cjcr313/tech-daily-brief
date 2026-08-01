@@ -12,6 +12,9 @@ tags:
   - Arquitectura
 description: "El código autogenerado y los agentes autónomos están forzando a replantear la ingeniería de plataformas, los límites de permisos y el rol de SRE."
 ---
+
+![Placeholder](../../assets/images/placeholder.jpg)
+
 Las herramientas impulsadas por IA y los agentes autónomos están escribiendo y ejecutando código a una velocidad que las plataformas tradicionales no pueden seguir. Según varios análisis recientes en la industria, esto está forzando un rediseño total en las estrategias de **Platform Engineering** y **Site Reliability Engineering (SRE)**.
 
 ## Más allá del "linting" y los permisos estáticos

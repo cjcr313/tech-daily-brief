@@ -12,6 +12,9 @@ tags:
 description: "Tres hitos clave convergen en KubeCon Japan: GPU Scheduling maduro, OpenTelemetry graduado y Autorización MCP lista para agentes de IA."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Llevamos un par de años escuchando que Kubernetes es "el sistema operativo para la IA", pero la realidad en las trincheras de infraestructura era un poco más áspera. En la **KubeCon + CloudNativeCon Japan 2026**, la CNCF acaba de mandar un mensaje clarísimo: los bloqueos técnicos por fin se resolvieron. Ya no hay excusas para no montar tu stack de agentes IA en K8s.
 
 Tres hitos clave convergieron esta semana:

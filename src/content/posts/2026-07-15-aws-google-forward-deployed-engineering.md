@@ -12,6 +12,9 @@ tags:
 description: "AWS, Google Cloud y Microsoft están inyectando miles de millones en programas de Forward Deployed Engineering: ingenieros embebidos gratis en empresas. Pero el lock-in es real."
 ---
 
+
+![2026-07-15-aws-google-forward-deployed-engineering](../../assets/images/2026-07-15-aws-google-forward-deployed-engineering.jpg)
+
 La nueva moda en cloud no es un servicio ni un producto: son **ingenieros embebidos gratis**. AWS, Google Cloud y Microsoft están compitiendo a billetazos por colocar a sus mejores ingenieros directamente dentro de las empresas cliente, todo bajo la promesa de "acelerar tu transformación con IA".
 
 ## Los números detrás del modelo

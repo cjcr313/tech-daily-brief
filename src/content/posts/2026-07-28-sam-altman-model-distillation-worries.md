@@ -11,6 +11,9 @@ tags:
 description: "A pesar de la controversia sobre empresas usando modelos de OpenAI para entrenar sus propios modelos pequeños, Altman le resta importancia."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La destilación de modelos (*Model Distillation*) ha sido un tema candente últimamente. Básicamente, consiste en usar las respuestas de un modelo "frontera" gigante y caro (como GPT-5.6 o Claude Opus) para entrenar o afinar modelos más pequeños, baratos y rápidos, ahorrándose millones en I+D.
 
 Muchas empresas de IA tienen términos de servicio estrictos que prohíben explícitamente usar el *output* de sus modelos para entrenar a la competencia. Sin embargo, en una reciente declaración, **Sam Altman (CEO de OpenAI) le bajó el perfil a esta práctica.**

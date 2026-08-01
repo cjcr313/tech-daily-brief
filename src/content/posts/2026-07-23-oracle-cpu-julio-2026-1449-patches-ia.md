@@ -11,6 +11,9 @@ tags:
 description: "Oracle publicó su Critical Patch Update de julio 2026 con 1.449 parches y 1.434 CVEs en 334 productos. La mayoría fueron descubiertos por modelos de IA como Claude Mythos y GPT-5.x Cyber."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Oracle acaba de tirar el **Critical Patch Update (CPU) más grande de su historia**: **1.449 parches** que remedian más de 1.200 vulnerabilidades a través de **334 productos**. No es un typo.
 
 ## Los números

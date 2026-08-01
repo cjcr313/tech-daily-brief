@@ -10,6 +10,8 @@ tags:
   - Cloud
 description: "Microsoft batió su propio récord con 570 vulnerabilidades parcheadas en julio 2026, incluyendo 3 zero-days. La IA ahora descubre más flaws que los atacantes."
 ---
+![Microsoft Patch Tuesday Julio 2026: 570 vulnerabilidades y 3 zero-days, un récord histórico](../../assets/images/2026-07-15-microsoft-patch-tuesday-julio-2026.jpg)
+
 
 Microsoft tiró la casa por la ventana este Patch Tuesday de julio: **570 vulnerabilidades parcheadas**, batiendo todos los records anteriores. Y de esas, **3 son zero-days**, dos de ellas ya explotadas activamente en ataques.
 

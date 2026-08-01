@@ -10,6 +10,9 @@ tags:
 description: "OpenRouter confirma que modelos chinos open-weight mueven el triple de tokens semanales que los estadounidenses. El precio, no solo la performance, está decidiendo."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La narrativa lleva meses construyéndose: modelos chinos open-weight alcanzando a los estadounidenses. Pero ahora los datos lo confirman con números duros.
 
 ## El dato

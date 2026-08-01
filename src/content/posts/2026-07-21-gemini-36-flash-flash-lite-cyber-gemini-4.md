@@ -11,6 +11,9 @@ tags:
 description: "Google DeepMind sacó tres modelos nuevos hoy: Flash más eficiente, Flash-Lite más barato, y Flash Cyber para seguridad. Además, ya empezaron el pre-entrenamiento de Gemini 4."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Google DeepMind tuvo un lanzamiento cargado hoy. Tres modelos nuevos de la familia Gemini Flash, enfocados en eficiencia, costo y seguridad. Y de yapa, confirmaron que Gemini 4 ya está en pre-entrenamiento.
 
 ## Gemini 3.6 Flash — el workhorse que gastó dieta

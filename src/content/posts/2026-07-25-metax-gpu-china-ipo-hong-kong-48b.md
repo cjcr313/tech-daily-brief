@@ -11,6 +11,9 @@ tags:
 description: "MetaX Integrated Circuits, diseñador shanghaiense de GPUs de alto rendimiento valorado en US$48B, presentó confidencialmente su listing en Hong Kong. El objetivo: cerrar el IPO antes de fin de año."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Mientras el mundo mira los acuerdos Samsung-SK Hynix-NVIDIA, en el otro lado de la cuerda está **MetaX Integrated Circuits**, uno de los diseñadores de GPUs en los que China confía para **aflojar el control de NVIDIA** sobre sus data centers.
 
 ## Qué sabemos

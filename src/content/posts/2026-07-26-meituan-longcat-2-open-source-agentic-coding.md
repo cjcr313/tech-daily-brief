@@ -12,6 +12,9 @@ tags:
 description: "Meituan liberó LongCat-2.0 bajo licencia MIT: 1.6T parámetros MoE con 48B activos, contexto de 1M y entrenado sin Nvidia. Incluye VitaBench 2.0 y datos de 3.607 incidentes reales de agentes."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Meituan —sí, el gigante chino del delivery y servicios locales— soltó una bomba en el mundo open source AI: **LongCat-2.0**, un modelo de 1.6 trillones de parámetros diseñado específicamente para agentic coding.
 
 ## Los números del modelo

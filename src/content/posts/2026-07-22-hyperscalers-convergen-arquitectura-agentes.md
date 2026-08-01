@@ -11,6 +11,9 @@ tags:
 description: "Los tres hyperscalers llegaron al mismo diseño: runtime, memoria, tool gateway, identidad, observabilidad y gobernanza. Google jubiló Vertex AI. La plataforma de agentes es el nuevo OS."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 The New Stack publicó ayer un análisis que dejó clara una cosa: **Amazon, Microsoft y Google independently llegaron a la misma arquitectura para agentes enterprise**. Y no es coincidencia — es que el problema los forzó a la misma respuesta.
 
 ## La arquitectura convergente

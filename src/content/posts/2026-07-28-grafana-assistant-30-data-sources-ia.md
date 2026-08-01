@@ -11,6 +11,9 @@ tags:
 description: "La guerra por el AIOps se intensifica: Grafana expande su asistente de IA para competir de igual a igual con Datadog y Dynatrace."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La pelea por dominar la **Observabilidad impulsada por IA** está desatada. Grafana acaba de dar un golpe en la mesa anunciando que su **Grafana Assistant** ahora se integra con más de 30 fuentes de datos.
 
 Hasta hace poco, la gracia de las herramientas open-source (y sus versiones enterprise) era simplemente *juntar* la telemetría (logs, métricas, traces). Pero el mercado cambió. Herramientas como **Datadog** (con su Bits AI) o **Dynatrace** (con Davis AI) están moviendo la vara hacia el **análisis de causa raíz automatizado**. O sea, no me muestres un dashboard en rojo, dime *por qué* está en rojo y cómo lo arreglo.

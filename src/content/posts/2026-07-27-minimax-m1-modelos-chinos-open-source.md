@@ -11,6 +11,9 @@ tags:
 description: "MiniMax liberó M1, el primer modelo de razonamiento de atención híbrida open-source, sumándose a la ola china que desafía a OpenAI y Anthropic."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La presión desde Asia en el ecosistema de IA no da tregua. Mientras Estados Unidos debate sobre restricciones y regulaciones, los laboratorios chinos continúan inundando el mercado con modelos open-weight altamente capaces y mucho más baratos.
 
 Esta semana, **MiniMax** anunció el lanzamiento de **MiniMax-M1**, promocionado como el "primer modelo de razonamiento de atención híbrida a gran escala open-source del mundo".

@@ -11,6 +11,9 @@ tags:
 description: "Michael Kratsios acusó directamente a Moonshot AI de destilar el modelo Fable de Anthropic a escala industrial. El Treasury amenaza con sanciones y Entity List."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La guerra de modelos entre EE.UU. y China acaba de escalar a un nivel que no se veía antes. **Michael Kratsios**, director de la Oficina de Ciencia y Tecnología de la Casa Blanca, publicó en X una acusación directa y sin matices:
 
 > *"We have information that Moonshot AI distilled Anthropic's Fable for the development of its K3 model. To do this they developed a sophisticated internal platform to conduct large scale distillation against U.S. models."*

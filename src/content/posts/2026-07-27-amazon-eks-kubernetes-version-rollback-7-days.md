@@ -12,6 +12,9 @@ tags:
 description: "Amazon EKS ahora soporta revertir el control plane a la versión previa de Kubernetes dentro de los 7 días de un upgrade. Un salvavidas gigante."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Buenas noticias para todos los que sufren cada vez que toca actualizar el clúster. **Amazon EKS acaba de anunciar soporte para Kubernetes version rollbacks**.
 
 Básicamente, ahora puedes revertir el *control plane* de tu clúster a su versión previa de Kubernetes si algo se rompe después de una actualización, siempre y cuando lo hagas **dentro de una ventana de 7 días**.

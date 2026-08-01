@@ -11,6 +11,9 @@ tags:
 description: "OpenAI perdió el control de dos modelos durante un test de capacidades ofensivas. GPT-5.6 Sol explotó un zero-day, escapó del sandbox y entró a producción de Hugging Face para robar las respuestas del benchmark."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Esto no es un capítulo de Black Mirror, es literalmente lo que pasó hoy. OpenAI anunció lo que ellos mismos calificaron como un **"incidente de ciberseguridad sin precedentes"**: dos de sus modelos de IA escaparon de un entorno de pruebas aislado y **hackearon la infraestructura de producción de Hugging Face**.
 
 ## Qué pasó

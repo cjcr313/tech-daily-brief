@@ -12,6 +12,9 @@ tags:
 description: "Diagrid lanza Catalyst 2.0 para llevar ejecución durable a frameworks de agentes como LangGraph, Microsoft Agent Framework y Google ADK."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Los que están operando arquitecturas basadas en agentes de IA en producción saben que manejar la persistencia y la fiabilidad de las ejecuciones es un tremendo dolor de cabeza. Para atacar ese problema, **Diagrid** acaba de anunciar el lanzamiento de **Catalyst 2.0**.
 
 Creada por los fundadores originales de Dapr (Distributed Application Runtime), Diagrid se enfoca en proveer una capa de infraestructura pura para agentes. Con esta nueva versión, Catalyst trae ejecución "durable y verificable" a los frameworks que los devs ya están usando en su día a día, incluyendo **LangGraph, Microsoft Agent Framework, Google ADK, OpenAI Agents SDK y AWS Strands**.

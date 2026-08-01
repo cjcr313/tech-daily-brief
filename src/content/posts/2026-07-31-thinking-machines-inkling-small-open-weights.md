@@ -11,6 +11,9 @@ tags:
 description: "La startup liderada por Mira Murati lanza un enorme modelo Mixture-of-Experts (MoE) de 276B de parámetros con pesos abiertos en Hugging Face."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Justo cuando creíamos que la carrera de los modelos de pesos abiertos (*open-weights*) estaba dominada exclusivamente por DeepSeek y Meta, **Thinking Machines Lab**, la startup liderada por Mira Murati (ex CTO de OpenAI), acaba de patear el tablero.
 
 Han lanzado **Inkling-Small**, un modelo masivo con arquitectura *Mixture-of-Experts* (MoE), que ya está disponible para la comunidad.

@@ -12,6 +12,9 @@ tags:
 description: "El CEO de NVIDIA asegura que pasaremos de miles de millones de humanos usando computadoras, a 100 mil millones de agentes IA y robots interactuando con ellas."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La industria del hardware sigue frotándose las manos con la era de la inteligencia artificial. Jensen Huang, CEO de NVIDIA, lanzó otra de sus predicciones potentes hoy, declarando que **los agentes de IA podrían impulsar un "boom" de computación de 5 a 10 veces su tamaño actual**.
 
 Según Huang, el cambio de paradigma es claro: ya no estamos optimizando computadoras para que las usen un par de miles de millones de humanos. *"En lugar de mil millones de personas usando computadoras, tendremos 100 mil millones de agentes y miles de millones de robots, todos usando computadoras"*, señaló.

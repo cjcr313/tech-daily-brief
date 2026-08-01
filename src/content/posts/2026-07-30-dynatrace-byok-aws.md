@@ -12,6 +12,9 @@ tags:
 description: "Dynatrace ahora permite a sus clientes SaaS en AWS gestionar sus propias claves de encriptación (KMS) para proteger datos en reposo."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 El tema de la soberanía de los datos y la seguridad en la nube sigue siendo un dolor de cabeza, especialmente para la banca y el sector salud. Para apañar con esto, **Dynatrace acaba de anunciar la disponibilidad general de Bring Your Own Key (BYOK)** para todos sus clientes SaaS que corren sobre AWS.
 
 En simple: en vez de depender de las llaves de encriptación que maneja por defecto la plataforma, ahora puedes integrarlo directo con tu propio AWS Key Management Service (KMS). Tú tienes el control total de las llaves.

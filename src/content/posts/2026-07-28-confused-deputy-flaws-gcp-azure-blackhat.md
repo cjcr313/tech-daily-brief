@@ -11,6 +11,9 @@ tags:
 description: "Investigadores revelarán en Black Hat USA 2026 cómo romper cadenas de identidad administrada en las nubes de Microsoft y Google."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Parecía un tema superado, pero el patrón de diseño sigue pasándole factura a los hyperscalers. Investigadores de seguridad acaban de advertir (vía DarkReading) que las vulnerabilidades del tipo **"Confused Deputy" (CWE-114)** siguen presentes y vivitas en **Google Cloud Platform (GCP)** y **Microsoft Azure**.
 
 Para los que no cachan el término, un *confused deputy* ocurre cuando una entidad con bajos privilegios logra engañar a un servicio con altos privilegios para que ejecute acciones maliciosas en su nombre.

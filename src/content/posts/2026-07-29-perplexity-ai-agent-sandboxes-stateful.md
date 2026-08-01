@@ -12,6 +12,9 @@ tags:
 description: "El VP de Infraestructura de Perplexity explica los desafíos de manejar el estado (pausar, resumir y forkear) en millones de sandboxes para agentes de IA."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Armar la infraestructura para que los agentes de IA corran seguros no es llegar y llevar. En una entrevista reciente con The New Stack, Nate Kupp (VP de Infraestructura de Perplexity) tiró la dura: **"los sistemas con estado (stateful) son increíblemente difíciles de construir"**.
 
 ## El problema del estado

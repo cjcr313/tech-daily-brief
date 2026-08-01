@@ -12,6 +12,9 @@ tags:
 description: "Claude Code y otros agentes ahora pueden administrar Cloudflare usando Model Context Protocol (MCP) sin lidiar con tokens ni APIs rotas."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 El ecosistema de herramientas para agentes de IA sigue creciendo rapidísimo. Hoy Composio anunció su integración nativa de **Cloudflare vía MCP (Model Context Protocol)**. 
 
 ¿Qué significa esto en la práctica? Que si estás usando **Claude Code, Codex, o cualquier agente compatible**, ahora puedes pedirle en lenguaje natural que administre tu infraestructura en Cloudflare. Literalmente puedes decirle al agente: *"Revisa todas las reglas del firewall para mi zona y bloquea los bots de OpenAI"*, y el agente se conecta por MCP, ejecuta los cambios, actualiza los DNS o lo que le pidas.

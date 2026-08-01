@@ -10,6 +10,9 @@ tags:
 description: "EE.UU. y China entre los 21 miembros de APEC que respaldaron el open-source AI con garantías de seguridad. Primera declaración ministerial que incluye cooperación open-source."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Las 21 economías de **APEC** — incluyendo EE.UU. y China — firmaron este jueves la **"Declaración de Chengdu sobre IA"**, el primer acuerdo a nivel ministerial que menciona explícitamente la cooperación en **IA open-source**.
 
 ## Lo que dice la declaración

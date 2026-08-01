@@ -11,6 +11,9 @@ tags:
 description: "Datadog compró Adaptive ML para fortalecer sus capacidades de operaciones autónomas impulsadas por IA, acelerando la investigación de incidentes."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 En un movimiento estratégico para consolidar su posición en el mercado de la observabilidad, **Datadog** adquirió **Adaptive ML** (las bases se sentaron en junio y los ecos resuenan fuerte ahora, impulsando la ola de operaciones autónomas).
 
 ## ¿Qué significa esta adquisición?

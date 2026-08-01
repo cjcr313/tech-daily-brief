@@ -11,6 +11,9 @@ tags:
 description: "Startup fundada por Ari Zilka (ex-Hortonworks CTO) lanza SmartHub, plataforma open source que procesa telemetría cerca de la fuente en vez de mandar todo a un vendor. US$12M seed liderado por Copper Sky Capital."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 El mercado de observabilidad sigue calentándose. **MyDecisive**, startup fundada por **Ari Zilka** (ex-CTO de Hortonworks y fundador de Terracotta), acaba de levantar **US$12M en ronda seed** liderada por Copper Sky Capital, y lanzó **SmartHub**, su plataforma open source.
 
 ## La tesis: procesar en el edge, no en el vendor

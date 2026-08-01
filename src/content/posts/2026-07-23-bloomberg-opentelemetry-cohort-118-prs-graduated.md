@@ -11,6 +11,9 @@ tags:
 description: "El CNCF y Bloomberg ejecutaron un cohort de 10 semanas con 48 ingenieros en OpenTelemetry. 118 PRs, 70 mergeeados, 842 horas voluntarias."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 El CNCF, el proyecto OpenTelemetry y el Open Source Program Office de Bloomberg publicaron hoy los resultados de un **cohort estructurado de contribuidores** que ejecutaron entre abril y junio de 2026. Los números son notables.
 
 ## Resultados del cohort

@@ -11,6 +11,9 @@ tags:
 description: "Sysdig documentó el primer ransomware completamente autónomo impulsado por LLM. Reconnaissance, robo de credenciales, lateral movement y destrucción sin intervención humana."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La ciberseguridad acaba de cruzar un umbral. **Sysdig** publicó el análisis de **JadePuffer**, lo que afirman es el primer ransomware campaign completamente impulsado por un LLM — sin operador humano detrás.
 
 Y no es un proof of concept académico. Fue un ataque real contra una instancia **Langflow** expuesta a internet.

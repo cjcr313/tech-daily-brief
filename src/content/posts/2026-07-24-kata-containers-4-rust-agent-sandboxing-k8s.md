@@ -11,6 +11,9 @@ tags:
 description: "La OpenInfra Foundation liberó Kata Containers 4.0 con runtime en Rust y posicionado como runtime clave para Agent Sandbox de Kubernetes SIG Apps. Dragonball, el nuevo hipervisor ligero, llega para contener agentes IA."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Si hay un problema que nadie ha resuelto bien todavía, es cómo aislar agentes IA en producción. Los contenedores tradicionales asumen workloads deterministas; los agentes son todo lo contrario. La OpenInfra Foundation acaba de hacer su apuesta: **Kata Containers 4.0**, con un runtime reescrito en Rust y posicionado directamente como infraestructura para agent sandboxing en Kubernetes.
 
 ## Qué es Kata Containers (versión corta)

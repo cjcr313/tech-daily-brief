@@ -11,6 +11,8 @@ tags:
   - IA
 description: "Nebius Group actualiza su plataforma AI-native cloud con Echo, un agente de DevOps impulsado por IA, mayor integración con SkyPilot y mejoras de seguridad enterprise."
 ---
+![Nebius lanza Cloud 3.6: agente Echo AI DevOps y mayor integración con SkyPilot](../../assets/images/2026-07-15-nebius-cloud-36-ai-devops.jpg)
+
 
 Nebius Group (NASDAQ: NBIS) acaba de lanzar **Cloud 3.6**, una actualización sustancial de su plataforma cloud AI-native. La jugada es clara: quieren competir head-to-head con los hyperscalers pero enfocándose exclusivamente en workloads de IA.
 

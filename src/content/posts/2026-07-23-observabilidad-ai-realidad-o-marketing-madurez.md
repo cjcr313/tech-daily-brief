@@ -11,6 +11,9 @@ tags:
 description: "Un análisis brillante de Glancer AI destapa la brecha: todos los vendors tienen AI story, pero solo 4% de organizaciones la ha operationalizado. MCP fue la verdadera revolución de 2026."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Hay un artículo de Glancer AI que vale su peso en oro y que vale la pena destapar. La pregunta es simple: **¿la observabilidad realmente adoptó IA, o solo se rebrandeó alrededor de ella?**
 
 ## El número que lo cambia todo

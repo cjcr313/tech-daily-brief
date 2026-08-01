@@ -11,6 +11,9 @@ tags:
 description: "El Bank of England, PRA y FCA empezaron a supervisar directamente a los cuatro hyperscalers desde el 13 de julio. Así es el nuevo régimen de critical third parties."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Desde el **13 de julio de 2026**, los reguladores financieros del Reino Unido comenzaron a supervisar directamente a los cuatro grandes del cloud: **AWS, Microsoft (Azure), Google Cloud y Oracle**. Es el resultado de años de preocupación por el riesgo sistémico que genera la concentración en pocos proveedores.
 
 ## Quién está detrás

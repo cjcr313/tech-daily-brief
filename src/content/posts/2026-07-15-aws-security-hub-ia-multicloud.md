@@ -12,6 +12,9 @@ tags:
 description: "AWS añade protección de workloads de IA y monitoreo de Azure a Security Hub, consolidando la seguridad multicloud."
 ---
 
+
+![2026-07-15-aws-security-hub-ia-multicloud](../../assets/images/2026-07-15-aws-security-hub-ia-multicloud.jpg)
+
 AWS le metió una actualización seria a Security Hub. Ahora no solo junta findings de AWS, sino que también **descubre y monitorea recursos de Microsoft Azure** — VMs, imágenes de contenedores, Function Apps e identidades — evaluándolos contra el CIS Microsoft Azure Foundations Benchmark. Los findings de Azure aparecen en el mismo formato y con los mismos workflows de automatización que los de AWS. Un solo panel para tu estate completo.
 
 ## Protección de workloads de IA

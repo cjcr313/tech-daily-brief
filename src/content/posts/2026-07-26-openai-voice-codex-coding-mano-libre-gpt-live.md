@@ -11,6 +11,9 @@ tags:
 description: "OpenAI integró ChatGPT Voice en la app de desktop, conectada directo a Codex. Ahora puedes hablarle, lanzar agentes de coding en paralelo y coordinarlos sin tocar el teclado."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 El 23 de julio, OpenAI hizo algo que suena simple pero cambia la forma de trabajar con code agents: **metió ChatGPT Voice dentro de la app de desktop** (macOS y Windows), conectada directo a Codex y ChatGPT Work. El resultado: puedes hablarle a tus coding agents y coordinarlos sin tocar el teclado.
 
 ## Qué se lanzó exactamente

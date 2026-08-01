@@ -11,6 +11,9 @@ tags:
 description: "La startup Modus asegura financiamiento para darle a los agentes de IA contexto empresarial sin sobreexponer datos sensibles."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Meter agentes de IA a operar y leer la data interna de la empresa está demostrando ser un desafío de seguridad bastante rudo. ¿La propuesta de **Modus**? Acaban de levantar **$10 millones de dólares** para construir lo que bautizaron como un *"Context Warehouse"*.
 
 La premisa de la startup es súper directa: **darle a los agentes de IA solo el contexto que necesitan para operar y ni un byte más**.

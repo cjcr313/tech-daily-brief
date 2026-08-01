@@ -10,6 +10,8 @@ tags:
   - Infraestructura
 description: "Un update de configuración de red en Google Cloud rompió conectividad inter-zone en stretched clusters de VMware Engine por más de 10 horas."
 ---
+![Google Cloud VMware Engine sufre outage multi-región por config update](../../assets/images/2026-07-15-google-cloud-vmware-engine-outage.jpg)
+
 
 Google Cloud tuvo un incidente serio anoche. Un **update de configuración de red** defectuoso causó un outage de más de 10 horas en Google Cloud VMware Engine (GCVE), afectando stretched clusters en Sydney, Melbourne y Frankfurt.
 

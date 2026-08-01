@@ -11,6 +11,9 @@ tags:
 description: "ChatGPT experimenta un outage global el 25 de julio de 2026 afectando web, móvil, API y servicios de voz. OpenAI confirma que investiga el problema."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Si intentaste usar ChatGPT hoy y no funcionó, no eres el único. **ChatGPT lleva caído desde la madrugada** en lo que ya es uno de los outages más grandes del servicio en su historia.
 
 ## Qué está pasando

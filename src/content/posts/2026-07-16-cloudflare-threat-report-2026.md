@@ -12,6 +12,9 @@ tags:
 description: "Cloudflare publicó su primer Threat Report anual. El ataque DDoS más grande de la historia, nation-states usando SaaS legítimo como C2, y por qué los session tokens son el nuevo MFA bypass."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Cloudflare sacó su **primer Threat Report anual** vía Cloudforce One (su equipo de inteligencia de amenazas), y la conclusión principal es escalofriante: **la era del "brute force" hacking está terminando**. En su lugar, llegaron los atacantes industriales que optimizan por throughput, no por sofisticación.
 
 ## El concepto clave: MOE (Measure of Effectiveness)

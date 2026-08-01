@@ -11,6 +11,9 @@ tags:
 description: "La startup china de IA DeepSeek comenzó preparativos para salir a bolsa en China continental, con una valuación objetivo de US$71B. Otro round de funding de US$1.5B cerraría antes."
 ---
 
+
+![2026-07-15-deepseek-ipo-71b-china](../../assets/images/2026-07-15-deepseek-ipo-71b-china.jpg)
+
 DeepSeek, la startup china de IA que ya le metió miedo a medio Silicon Valley, está preparando su salida a bolsa. Según Bloomberg, la compañía con sede en Hangzhou comenzó los preparativos formales para un IPO en China continental, con una潜在 presentación que podría materializarse este año 2026.
 
 ## Los números

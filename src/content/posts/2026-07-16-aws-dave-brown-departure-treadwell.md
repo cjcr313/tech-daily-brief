@@ -11,6 +11,9 @@ tags:
 description: "Dave Brown, el SVP de Compute y ML Services de AWS, deja Amazon tras 19 años. Lo reemplaza Dave Treadwell. Cambio de guardia en pleno boom de demanda AI."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 AWS anunció el 15 de julio que **Dave Brown** deja la compañía después de casi 19 años. Brown era SVP de **Compute and Machine Learning Services**, y su partida es un cambio de guardia importante en pleno boom de IA.
 
 ## Quién es quién

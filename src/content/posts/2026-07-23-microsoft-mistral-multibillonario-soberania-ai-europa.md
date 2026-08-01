@@ -12,6 +12,9 @@ tags:
 description: "Microsoft invertirá miles de millones en Mistral AI para expandir infraestructura Azure en Europa. Modelos en datacenters franceses, IA soberana para regulados y deploy desconectado."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Microsoft y Mistral AI anunciaron ayer la expansión de su partnership estratégico, y los números son serios: **un deal multibillonario** que redefine cómo las empresas europeas van a consumir IA de frontera.
 
 ## ¿Qué incluye el acuerdo?

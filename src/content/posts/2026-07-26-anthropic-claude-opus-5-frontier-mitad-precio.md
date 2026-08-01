@@ -10,6 +10,9 @@ tags:
 description: "Claude Opus 5 llega a US$5/$25 por millón de tokens, con benchmarks que duplican a Opus 4.8 y rozan Fable 5. Contexto de 1M, Fast mode y cache mid-conversation."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 Anthropic terminó la semana con un lanzamiento que cambia las cuentas de cualquier equipo que use LLMs en producción: **Claude Opus 5**, disponible desde el 24 de julio. El mensaje es simple — inteligencia casi frontier a la mitad del precio del modelo más caro de la familia.
 
 ## Precios y posicionamiento

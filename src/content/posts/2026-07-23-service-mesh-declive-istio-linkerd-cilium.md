@@ -12,6 +12,9 @@ tags:
 description: "La encuesta CNCF 2025 muestra que la adopción de service mesh cayó de 18% a 8% en dos años. Istio, Linkerd y Cilium representan tres apuestas distintas sobre cómo sobrevivir."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 La encuesta **CNCF State of Cloud Native Development 2025** trajo un dato brutal: la adopción de service mesh **cayó de 18% de los developers en Q3 2023 a solo 8% en Q3 2025**. Se cortó por la mitad en dos años.
 
 Y no es lo único: **42% de las organizaciones están consolidando microservicios de vuelta a unidades más grandes**. El sueño de partir todo en microservicios que hizo que el service mesh se sintiera obligatorio en 2019-2020 se está revirtiendo.

@@ -11,6 +11,7 @@ tags:
   - Infraestructura
 description: "Nscale compró Anyscale, los creadores detrás de Ray, en un movimiento clave para evitar el vendor lock-in y promover la neutralidad multi-cloud en infraestructura de IA."
 ---
+![Nscale adquiere Anyscale: En busca de la neutralidad multi-cloud en IA](../../assets/images/2026-08-01-nscale-compra-anyscale.jpg)
 Tremendo movimiento en el mundo del cloud y la infraestructura para IA. **Nscale acaba de adquirir Anyscale**, la empresa detrás del popular framework de computación distribuida Ray (sí, el mismo que usa OpenAI para entrenar sus modelos).
 
 ### ¿Por qué importa esto?

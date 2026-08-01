@@ -10,6 +10,9 @@ tags:
   - Infraestructura
 description: "Se filtra transcripción de 4 horas del fundador de DeepSeek, Liang Wenfeng, revelando secretos de su arquitectura."
 ---
+
+![Placeholder](../../assets/images/placeholder.jpg)
+
 Una filtración masiva sacude el ecosistema de IA hoy. Se ha liberado la transcripción de una reunión para inversores de 4 horas con el fundador de DeepSeek, Liang Wenfeng.
 
 En el documento filtrado, Wenfeng discute abiertamente las predicciones de la compañía sobre el futuro de la inteligencia artificial. Pero lo más jugoso para nosotros, los ingenieros de infraestructura, es la revelación detallada de su arquitectura *bare-metal* y las técnicas de *fine-tuning* que les permiten mantener costos absurdamente bajos frente a sus rivales norteamericanos.

@@ -11,6 +11,9 @@ tags:
 description: "Desde el 27 de julio, GitHub reduce los pagos públicos de bug bounty al menos 50% en cada nivel. Las recompensas máximas se mueven a un programa VIP cerrado."
 ---
 
+![Placeholder](../../assets/images/placeholder.jpg)
+
+
 GitHub anunció un cambio brutal en su programa de bug bounty: **desde el 27 de julio, los pagos públicos se reducen al menos a la mitad** en todos los niveles de severidad. Y las recompensas más altas se mudan a un programa VIP cerrado, solo por invitación.
 
 ## Los números
