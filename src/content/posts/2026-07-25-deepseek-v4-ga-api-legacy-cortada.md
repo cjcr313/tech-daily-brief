@@ -58,3 +58,22 @@ Con V4 en GA, pricing peak/off-peak, y la API legacy ya cortada, DeepSeek está 
 
 ### Update: 01 de Agosto de 2026 - DeepSeek lanza silenciosamente la versión V4-Flash-0731
 Solo unos días después de pasar a GA, DeepSeek actualizó en silencio el endpoint de su API con el modelo **DeepSeek-V4-Flash-0731**. Aunque la arquitectura se mantiene (284B de parámetros totales, ~13B activos), el modelo recibió un "re-post-training" agresivo específicamente para mejorar su desempeño en tareas agentiles. Según la comunidad en Reddit y Hugging Face (donde también liberaron los pesos abiertos), este upgrade es una respuesta directa al volumen masivo que están manejando. La actualización aplica automáticamente al usar el endpoint `deepseek-v4-flash`, consolidando su estrategia de dominar el mercado de agentes de bajo costo.
+
+### Update: 01 de Agosto de 2026 - Los benchmarks de V4-Flash-0731 son una bestialidad
+Los números completos del V4-Flash-0731 se publicaron el 31 de julio y son alarmantes. **Sin cambiar absolutamente nada de la arquitectura** — mismo MoE 284B, mismos ~13B parámetros activos por token, mismo contexto de 1M — DeepSeek solo hizo re-post-training y los resultados en benchmarks agentiles se dispararon:
+
+| Benchmark | V4-Flash-0731 | V4-Flash (Preview) | V4-Pro (Preview) |
+|---|---|---|---|
+| Terminal Bench 2.1 | **82.7** | 61.8 | 72.1 |
+| DeepSWE | **54.4** | 7.3 | 12.8 |
+| Cybergym | **76.7** | 38.7 | 52.7 |
+| Toolathlon-Verified | **70.3** | 49.7 | 55.9 |
+| NL2Repo | **54.2** | 39.4 | 38.5 |
+
+DeepSWE saltó de **7.3 a 54.4** — un **7.5x** de mejora solo con post-training. Y ojo: **le gana al V4-Pro Preview (1.6T parámetros) en los 9 benchmarks agentiles publicados**, teniendo apenas un cuarto de los parámetros activos por token.
+
+En Artificial Analysis, el modelo alcanzó un **Intelligence Index de 50**, bastante arriba del promedio para modelos open-weight de su tamaño. Eso sí, destacan que es **inusualmente verboso**: generó 210M tokens en el suite de evaluación vs un promedio de 100M. Y cuando pagas por output token, esa verbosidad tiene costo real.
+
+**La lección de fondo:** este es el experimento natural más limpio que el mundo open-weights ha entregado este año. Si congelas la arquitectura y solo cambias post-training, cada punto de mejora es atribuible al post-training. Y la conclusión es brutal: **el comportamiento agentil se enseña, no se escala con parámetros**.
+
+Pesos MIT disponibles en [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731). Pricing: $0.14/$0.28 por millón de tokens input/output.
