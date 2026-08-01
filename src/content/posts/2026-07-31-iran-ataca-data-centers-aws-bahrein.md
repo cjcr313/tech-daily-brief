@@ -9,10 +9,9 @@ tags:
   - Cloud
   - Infraestructura
 description: "Imágenes satelitales confirman daños en centros de datos de Amazon Web Services en Bahréin tras ataques con misiles por parte de Irán."
-ogImage: "/aws-bahrein-attack.jpg"
 ---
 
-![AWS Data Center Bahrain](/aws-bahrein-attack.jpg)
+![Imagen de referencia](../../assets/images/2026-07-31-aws-bahrein-cover.jpg)
 
 Lo que antes era un riesgo teórico en auditorías de disaster recovery acaba de volverse peligrosamente real. La escalada de tensiones en Medio Oriente ha cruzado la línea hacia la infraestructura crítica en la nube: **Irán ha atacado directamente las instalaciones de Amazon Web Services (AWS) en Bahréin**.
 
