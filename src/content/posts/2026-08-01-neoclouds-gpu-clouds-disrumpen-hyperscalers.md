@@ -60,3 +60,17 @@ El patrón emergente es **híbrido**: usar hyperscalers para stateful services y
 Los neoclouds no van a matar a AWS, Azure o GCP. Pero sí les van a quitar una porción significativa del mercado de compute de IA — que es justamente el segmento de mayor crecimiento. Para cualquier equipo que esté haciendo training o inference a escala, ignorar esta opción es básicamente regalar plata.
 
 **Fuentes:** [Thunder Compute](https://www.thundercompute.com/blog/neoclouds-the-new-gpu-clouds-changing-ai-infrastructure), [SemiAnalysis](https://newsletter.semianalysis.com/p/ai-neocloud-playbook-and-anatomy), [Gartner 2026](https://www.gartner.com/en/newsroom/press-releases/2026-02-26-gartner-says-surging-memory-costs-will-reduce-global-pc-and-smartphone-shipments-in-2026)
+
+### Update: 2 de Agosto de 2026 - Goldman Sachs confirma: la inversión en IA ya se está democratizando más allá de los hyperscalers
+
+Goldman Sachs soltó un reporte de investigación que valida exactamente la tesis de este artículo. Según el banco, la inversión en infraestructura de IA durante julio **continuó ampliándose más allá de los hyperscalers**, con tres motores de crecimiento claros:
+
+1. **Adopción enterprise:** las empresas ya no solo consumen IA через APIs — están construyendo su propia infraestructura de compute, a menudo fuera de los grandes clouds.
+2. **Iniciativas soberanas:** gobiernos de todo el mundo están invirtiendo en capacidad de IA nacional (lo que Goldman llama "sovereign AI initiatives"). Países que no quieren depender de AWS/Azure/GCP para su inteligencia.
+3. **GPU backstop programs:** los neoclouds están usando programas de "backstop" de GPUs para expandir la disponibilidad de compute — básicamente, garantizando capacity a precios competitivos que los hyperscalers no pueden igualar.
+
+Goldman lo llama el **"ciclo de inversión más hambriento de capital en la historia"** — un superciclo de capex que se extiende más allá de chips y chatbots hacia energía, infraestructura y data centers. Y las rippling effects van a tocar prácticamente todos los sectores.
+
+Esto confirma lo que dijimos arriba: los neoclouds no son un fenómeno temporal. Son una **reestructuración del mercado** de compute de IA, y vienen para quedarse.
+
+**Fuente:** [Goldman Sachs via Moneycontrol](https://www.moneycontrol.com/news/business/ai-infrastructure-expansion-broadens-beyond-hyperscalers-as-enterprise-sovereign-demand-grows-goldman-sachs-13990861.html)
