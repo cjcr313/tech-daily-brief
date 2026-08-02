@@ -11,6 +11,8 @@ tags:
 description: "AWS subió los precios de EC2 Capacity Blocks para ML en ~20% el 1 de julio. Es la segunda alza del año. Las GPUs más caras ahora cuestan $14/hr por acelerador."
 ---
 
+![AWS EC2 Capacity Blocks sube 20%](../../assets/images/2026-08-02-aws-ec2-capacity-blocks.jpg)
+
 Si pensabas que alquilar GPUs en AWS ya estaba caro, bueno... se puso peor. El 1 de julio, AWS subió silenciosamente los precios de **EC2 Capacity Blocks for ML** — su producto de clusters GPU reservados — en aproximadamente **20%**. Y esto no es la primera vez este año: en enero ya habían subido ~15%. Dos alzas en seis meses.
 
 ## Qué son los Capacity Blocks

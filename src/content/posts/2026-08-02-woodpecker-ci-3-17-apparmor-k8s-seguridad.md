@@ -11,6 +11,8 @@ tags:
 description: "Woodpecker CI 3.17 trae perfiles AppArmor custom para Docker, bloqueo de nodeSelector en K8s sin permiso explícito, generación automática de secrets gRPC y métricas Prometheus mejoradas."
 ---
 
+![Woodpecker CI 3.17: AppArmor, K8s y seguridad](../../assets/images/2026-08-02-woodpecker-ci-3-17-apparmor-k8s.jpg)
+
 Woodpecker CI, la alternativa open-source a Drone/GitHub Actions que muchos equipos están adoptando para self-hosted, acaba de sacar la versión **3.17**. Y aunque no es un release que rompa internet, tiene varios cambios de seguridad y operabilidad que valen la pena conocer.
 
 ## Lo destacado

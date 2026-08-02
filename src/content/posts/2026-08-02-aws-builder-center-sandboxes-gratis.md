@@ -11,6 +11,8 @@ tags:
 description: "AWS lanzó sandboxes gratis y sin tarjeta de crédito para workshops. 8 horas de acceso pre-aprovisionado, limpio y con auto-cleanup. El último hyperscaler en ofrecer algo así."
 ---
 
+![AWS Builder Center Sandboxes gratis](../../assets/images/2026-08-02-aws-builder-center-sandboxes.jpg)
+
 Si alguna vez intentaste aprender AWS y te detuvo el miedo a dejar una EC2 corriendo por accidente y recibir una boleta inesperada, esto es para ti. **AWS Builder Center** ahora ofrece **sandboxes gratuitos y sin cuenta personal** para hacer workshops.
 
 ## Cómo funciona

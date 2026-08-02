@@ -12,6 +12,8 @@ tags:
 description: "Los neoclouds — proveedores de GPU bare-metal con virtualización ligera — cobran 70-80% menos que los hyperscalers por el mismo silicio. La escasez estructural de GPUs los está catapultando."
 ---
 
+![Neoclouds: nubes GPU-only disrumpiendo los hyperscalers](../../assets/images/2026-08-01-neoclouds-gpu-clouds.jpg)
+
 Si has intentado alquilar una GPU H100 en AWS últimamente, sabes que duele. Y no solo el precio: los lead times para enterprise llegan a **52 semanas** en 2026. Ahí es donde entran los **neoclouds**, una nueva categoría de proveedores cloud que está reescribiendo las reglas.
 
 ## Qué es un neocloud

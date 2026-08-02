@@ -12,6 +12,8 @@ tags:
 description: "HashiCorp introdujo tfpolicy, un framework de policy-as-code basado en HCL integrado directamente en Terraform. Sentinel queda relegado y llega un agente de IA para generar políticas."
 ---
 
+![HashiCorp tfpolicy: policy-as-code en HCL](../../assets/images/2026-08-01-hashicorp-tfpolicy.jpg)
+
 HashiCorp acaba de meterle un cambio importante a cómo se hace governance en Terraform. El **31 de julio** lanzó **tfpolicy**, un framework de policy-as-code que usa el mismo lenguaje HCL que ya conoces, integrado directamente en el workflow de Terraform. Está en **beta pública dentro de HCP Terraform**.
 
 ## Qué cambia
