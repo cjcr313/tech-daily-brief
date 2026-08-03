@@ -58,4 +58,29 @@ La pregunta ya no es si los modelos chinos van a alcanzar a los gringos — ya l
 
 ---
 
-**Fuentes:** [Axios](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war), [Artificial Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash), [OpenRouter](https://openrouter.ai/deepseek/deepseek-v4-flash), [XenoSpectrum](https://xenospectrum.com/en/deepseek-v4-flash-0731-pricing/), [DeepSeek API Docs](https://api-docs.deepseek.com/quick_start/pricing/)
+### Update: 3 de agosto — Artificial Analysis publica benchmarks completos y Alibaba lanza Qwen3.8-Max
+
+Hoy Reuters publicó datos de **Artificial Analysis** que ponen los números en perspectiva real. No es solo que DeepSeek sea barato por token: es barato **por tarea completa**. La firma calculó el costo promedio por evaluación:
+
+| Modelo | Costo promedio por tarea | Intelligence Index (0-100) |
+|---|---|---|
+| **DeepSeek V4-Flash** | **$0.03** | 50 |
+| **Kimi K3** (Moonshot) | $0.86 | 57 |
+| **GPT-5.6 Sol** (OpenAI) | $1.86 | ~59+ |
+| **Claude Fable 5** (Anthropic) | **$3.15** | ~59+ |
+| **Gemini 3.6 Flash** (Google) | — | 50 |
+| **GLM-5.2** (Z.AI/Zhipu) | — | 51 |
+
+El dato brutal: **V4-Flash cuesta 100 veces menos por tarea que Claude Fable 5**. Y empata en intelligence index con Gemini 3.6 Flash de Google.
+
+Claro, los modelos frontier (Opus 5, Fable 5, GPT-5.6) siguen siendo **9+ puntos más altos** en el Intelligence Index. Si necesitas razonamiento de élite, DeepSeek no está ahí todavía. Pero para el 80% de los use cases (coding rutina, chat, extracción, tool use), el score de 50 es perfectamente usable.
+
+**Lo otro que pasó hoy:** Alibaba lanzó **Qwen3.8-Max**, su modelo más grande y capaz hasta la fecha, compitiendo directamente con Kimi K3 de Moonshot en tamaño. La carrera china no se desacelera — se acelera.
+
+DeepSeek también estaría preparando una **potencial IPO** según fuentes de Reuters, y tiene V4-Pro en camino (sin fecha confirmada todavía).
+
+La conclusión se refuerza: la carrera a cero no es una anécdota, es la tendencia estructural de 2026. Construye tu arquitectura asumiendo que cada trimestre habrá un modelo más barato y competitivo.
+
+---
+
+**Fuentes:** [Axios](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war), [Artificial Analysis vía Reuters/CNA](https://www.channelnewsasia.com/business/deepseeks-new-ai-model-far-cheapest-well-known-models-run-research-firm-says-6294731), [OpenRouter](https://openrouter.ai/deepseek/deepseek-v4-flash), [DeepSeek API Docs](https://api-docs.deepseek.com/quick_start/pricing/)
