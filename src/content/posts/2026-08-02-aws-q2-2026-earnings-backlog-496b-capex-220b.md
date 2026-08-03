@@ -76,4 +76,16 @@ El earnings season de Q2 2026 confirma lo que veníamos viendo: **la IA está re
 
 ---
 
-**Fuentes:** [Reuters](https://www.reuters.com/business/retail-consumer/amazon-jumps-aws-growth-soothes-fears-over-rising-ai-spending-2026-07-31/), [Fortune](https://fortune.com/2026/08/01/amazon-andy-jassy-cloud-trillion-pga-tour/), [The Register](https://www.theregister.com/off-prem/2026/08/01/enterprise-cloud-infrastructure-uptake-shows-no-sign-of-slowing/5281835), [The Daily Upside](https://www.thedailyupside.com/technology/artificial-intelligence/booming-aws-revenue-saves-amazon-from-meta-sized-backlash/), [Cloud Computing News](https://www.cloudcomputing-news.net/news/aws-cloud-capacity-ai-demand/)
+### Update: 3 de agosto, 2026 — Amazon cruza los US$3 billones de market cap
+
+Hoy lunes 3 de agosto, las acciones de Amazon tocaron un nuevo all-time high en sesión, llevando la capitalización de mercado de la empresa sobre los **US$3 billones** por primera vez en su historia. Amazon se convierte en la **quinta empresa** en alcanzar este hito (después de Apple, Microsoft, Nvidia y Saudi Aramco).
+
+El rally post-earnings siguió acelerándose: la acción subió ~15% el viernes 1 de agosto tras el reporte de Q2, y continuó subiendo el lunes. El market cap final se ubicó en aproximadamente **US$3.1 billones** según Yahoo Finance.
+
+Esto consolida la narrativa: el mercado está validando que la apuesta de AWS por IA infrastructure es el camino correcto, incluso con free cash flow negativo de -$7.6B en el trimestre. La demanda por cloud e IA es tan fuerte que los inversores están dispuestos a ignorar el corto plazo.
+
+**Fuentes adicionales:** [CNBC](https://www.cnbc.com/2026/08/03/amazon-amzn-stock-market-cap-earnings.html), [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-03/amazon-joins-elite-list-of-stocks-to-top-3-trillion-in-value), [QZ](https://qz.com/amazon-stock-3-trillion-market-cap-cloud-earnings-080326)
+
+---
+
+**Fuentes originales:** [Reuters](https://www.reuters.com/business/retail-consumer/amazon-jumps-aws-growth-soothes-fears-over-rising-ai-spending-2026-07-31/), [Fortune](https://fortune.com/2026/08/01/amazon-andy-jassy-cloud-trillion-pga-tour/), [The Register](https://www.theregister.com/off-prem/2026/08/01/enterprise-cloud-infrastructure-uptake-shows-no-sign-of-slowing/5281835), [The Daily Upside](https://www.thedailyupside.com/technology/artificial-intelligence/booming-aws-revenue-saves-amazon-from-meta-sized-backlash/), [Cloud Computing News](https://www.cloudcomputing-news.net/news/aws-cloud-capacity-ai-demand/)

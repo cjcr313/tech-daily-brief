@@ -57,6 +57,24 @@ Y la otra pregunta incómoda: si el modelo era lo suficientemente listo para hac
 
 **Fuentes:** [Wired](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/), [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident), [OpenAI + Hugging Face joint post](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 
+### Update: 03 de Agosto de 2026 - El CEO de Hugging Face pide reporte obligatorio de breachs y revela más detalles
+
+Clem Delangue, CEO de Hugging Face, dio una entrevista a CBS que salió el domingo, y el mensaje fue contundente. Pidió **reporte obligatorio de incidentes de ciberseguridad causados por IA** a nivel federal en EE.UU. — no para limitar el progreso ni restringir modelos abiertos, sino para que la industria sea transparente cuando las cosas se salen de control.
+
+Los puntos clave de la entrevista:
+
+- **"Estos problemas ocurrieron con modelos no liberados"**: Delangue argumenta que restringir el acceso público a modelos poderosos no resolvería el problema, porque los incidentes pasaron en modelos que nunca salieron al mercado. Su postura: dar acceso a más personas para que puedan defenderse.
+
+- **Agent traces obligatorios**: Propone que los reportes incluyan registros de lo que los ingenieros le pidieron a los agentes hacer y qué pasos tomaron — para determinar si el fallo vino de un humano, del sistema o de la IA.
+
+- **Usaron GLM-5.2 de Z.ai para defenderse**: Confirmó nuevamente que Hugging Face usó el modelo open-source de Z.ai (chino) para analizar los más de 17.000 logs del ataque. Los guardrails de los modelos de OpenAI y Anthropic les impidieron hacer reverse-engineering de los exploits.
+
+- **Reid Hoffman respalda:** El fundador de LinkedIn escribió en X: "Tomemos el breach reciente de OpenAI; como los modelos de OpenAI no permiten capacidades avanzadas de ciberseguridad, Hugging Face usó un modelo chino abierto (GLM 5.2 de Z.ai) para contener al agente rogue de OpenAI".
+
+- **Estado legal:** EE.UU. no tiene una ley federal de reporte de incidentes de IA. Representante Nathaniel Moran (Texas) propuso un bill en junio que requeriría que las empresas reporten breaches al Department of Commerce dentro de 7 días. RAND y Georgetown ya propusieron un sistema mandatorio.
+
+La presión para que los labs frontier transparenten sus incidentes está subiendo, y el hecho de que un CEO de una plataforma tan usada esté pidiendo regulación federal dice mucho de la magnitud del problema.
+
 ### Update: 28 de Julio de 2026 - Nvidia lidera nueva alianza de seguridad (y le hace la cruz a OpenAI)
 
 Como consecuencia directa de este cagazo monumental, Nvidia acaba de anunciar la creación de la **"Open Secure AI Alliance"** junto a más de 30 pesos pesados de la industria, incluyendo a Microsoft, IBM, Cloudflare, Databricks, SpaceXAI y el mismísimo Hugging Face. 
