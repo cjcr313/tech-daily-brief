@@ -54,3 +54,21 @@ Las empresas chinas están compitiendo sin seguir el mismo playbook económico d
 Si usas modelos vía API, Qwen3.8-Max es drop-in compatible con OpenAI. Cambias la base URL y el model ID y listo. Si quieres on-premise, el modelo de 27B es el que cabe en hardware razonable. El de 2.4T es para quienes tienen datacenter de verdad.
 
 **Fuentes:** [MarkTechPost](https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/), [TechNode](https://technode.com/2026/08/03/alibaba-launches-qwen3-8-with-2-4-trillion-parameters/), [CNBC](https://www.cnbc.com/2026/08/03/alibaba-ai-model-qwen-rival-anthropic.html), [CryptoBriefing](https://cryptobriefing.com/alibaba-unveils-qwen38-max-ai-model-with-24t-parameters-2/)
+
+---
+
+### Update: 4 de agosto, 2026 — Qwen3.8-Max programó solo durante 16 días seguidos y el audit trail es público
+
+El equipo de Qwen publicó tres case studies demostrando capacidades de **codificación autónoma de larga duración** con Qwen3.8-Max, y a diferencia de los típicos demos de vendor, **el repositorio está público en GitHub** (`qwen-code-dev-bot/oh-my-cli`).
+
+**Caso 1 — CLI autónomo (16 días):** El modelo tomó requests de usuarios, los convirtió en GitHub issues, se los auto-asignó, escribió código, corrió tests y mejoró iterativamente. Resultado: **265 commits, 127 pull requests y 151 issues** al 30 de julio, **cero intervención humana**.
+
+**Caso 2 — Reproducción de paper científico (~5 días, 125 hrs de compute):** Le entregaron el paper "Unified Data Selection for LLM Reasoning" sin código base. El modelo escribió **7,600 líneas de código**, corrió **33 jobs de entrenamiento en GPU**, reprodujo los 6 resultados principales del paper y luego **mejoró el método original** superándolo por 2.7 puntos en el benchmark AIME24 de matemáticas. Probó 18 ideas propias en 4 rondas.
+
+**Caso 3 — Diseño de chips:** Le pidieron diseñar un bloque criptográfico. Empezó con un diseño funcional pero inflado de **8,298 puertas lógicas** y lo redujo a **678 puertas** en ~500 iteraciones. Tras el pase de layout con OpenROAD, el área del chip bajó de 106×106 a **46×46 micrómetros** — una reducción del **81%**.
+
+**Caso 4 — Competiciona contra humanos:** En el challenge WWW2025 Multimodal Dialogue Intent Recognition (526 equipos humanos), el modelo fine-tuneó varios modelos chinos + Qwen2.5-VL-7B, armó un sistema de voting, y en 24 horas y 45 submissions logró **0.853 de accuracy** — superando a **458 de los 526 equipos humanos**.
+
+Lo notable: el modelo sigue haciendo **cambios estructurales profundos** incluso después de cientos de iteraciones, en vez de conformarse con tweaks superficiales. Esto sugiere que los LLMs ya entraron en la fase de **agentic coding real** — no son solo copilotos que autocompletan, sino agentes que pueden sostener un proyecto complejo durante días.
+
+**Fuentes adicionales:** [The New Stack](https://thenewstack.io/qwen-autonomous-coding-audit/), [The Decoder](https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/), [Apidog](https://apidog.com/blog/qwen-3-8-for-coding/), [Developer Tech](https://www.developer-tech.com/news/alibaba-qwen3-8-max-claims-16-day-autonomous-coding-run/)
