@@ -84,3 +84,13 @@ La conclusión se refuerza: la carrera a cero no es una anécdota, es la tendenc
 ---
 
 **Fuentes:** [Axios](https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war), [Artificial Analysis vía Reuters/CNA](https://www.channelnewsasia.com/business/deepseeks-new-ai-model-far-cheapest-well-known-models-run-research-firm-says-6294731), [OpenRouter](https://openrouter.ai/deepseek/deepseek-v4-flash), [DeepSeek API Docs](https://api-docs.deepseek.com/quick_start/pricing/)
+
+---
+
+### Update: 7 de agosto — Se acabó la fiesta: DeepSeek anuncia alzas de precios significativas
+
+El mercado tiene otras reglas y la empresa china acaba de golpear los frenos. Según reportes de Bloomberg y confirmaciones a desarrolladores, DeepSeek anunció que implementará un aumento "significativo" en los precios de todos sus servicios API.
+
+Aunque aún no han dado fecha exacta ni el porcentaje del alza, el aviso de que el salto será "sustancial" cambia por completo la estrategia de quienes estaban migrando workloads pesados a sus modelos para aprovechar el costo casi cero. Las posibles razones van desde problemas para sostener los costos de infraestructura (Capex), un esfuerzo por controlar la abrumadora demanda, hasta preparativos para mostrar mejores márgenes antes de una posible IPO.
+
+Esto le da un respiro a gigantes como OpenAI y Anthropic, que la semana pasada habían reaccionado bajando precios. La carrera a cero acaba de tropezar con la realidad financiera.
