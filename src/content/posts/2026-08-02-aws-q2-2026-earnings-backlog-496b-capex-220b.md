@@ -89,3 +89,23 @@ Esto consolida la narrativa: el mercado está validando que la apuesta de AWS po
 ---
 
 **Fuentes originales:** [Reuters](https://www.reuters.com/business/retail-consumer/amazon-jumps-aws-growth-soothes-fears-over-rising-ai-spending-2026-07-31/), [Fortune](https://fortune.com/2026/08/01/amazon-andy-jassy-cloud-trillion-pga-tour/), [The Register](https://www.theregister.com/off-prem/2026/08/01/enterprise-cloud-infrastructure-uptake-shows-no-sign-of-slowing/5281835), [The Daily Upside](https://www.thedailyupside.com/technology/artificial-intelligence/booming-aws-revenue-saves-amazon-from-meta-sized-backlash/), [Cloud Computing News](https://www.cloudcomputing-news.net/news/aws-cloud-capacity-ai-demand/)
+
+---
+
+### Update: 9 de agosto, 2026 — AWS le dice a sus propios ingenieros que apaguen EC2 idle: el cuento del tío aplicado internamente
+
+Si querías la prueba definitiva de que la escasez de capacidad en cloud es real, aquí está: **AWS está auditando a sus propios ingenieros** para que liberen instancias EC2 ociosas. The Information lo reportó el 7 de agosto y es una anomalía cultural enorme.
+
+Los datos internos son brutalmente reveladores:
+- **~65% de las instancias EC2** medidas en un periodo de 30 días tienen **utilización promedio de CPU inferior al 20%**
+- AWS actualizó su **Compute Optimizer** con recomendaciones más agresivas para identificar recursos subutilizados
+- Se están revisando activamente entornos de desarrollo y testing de los propios equipos internos de Amazon
+
+O sea: la empresa que vende cloud al mundo entero no tiene suficiente compute para su propia gente. Cuando el backlog es de US$496 mil millones y la demanda supera la oferta hasta 2028, cada instancia EC2 idle es literalmente dinero dejado sobre la mesa.
+
+Esto refuerza tres tendencias que los equipos de infra ya deberían estar abordando:
+1. **FinOps deja de ser opcional.** Si AWS internamente no puede darse el lujo de tener instancias ociosas, tu empresa tampoco. Herramientas de rightsizing, scheduling de entornos no-productivos, y policies de auto-shutdown son urgencia.
+2. **La capacidad es el nuevo bottleneck geopolítico.** No es solo dinero — es que físicamente no hay suficientes chips y datacenters. Amazon subió capex a US$220B y Jassy dice que aún así no darán abasto en 2026.
+3. **Los neoclouds (CoreWeave, Nebius, Crusoe) ganan por default.** Si AWS raciona su propia capacidad interna, los clientes externos van a buscar alternatives for real.
+
+**Fuente adicional:** [The Information vía Data Center Richness](https://datacenterrichness.substack.com/p/5-notable-data-center-links-aug-8), [IBTimes](https://www.ibtimes.com/amazons-ai-spending-keeps-rising-andy-jassy-says-memory-costs-drove-20-billion-capex-increase-3806189)

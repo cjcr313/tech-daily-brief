@@ -67,3 +67,44 @@ etcd v3.7.0 salió el **8 de julio** con `RangeStream`: los resultados grandes d
 Tienes 44 días. A contar.
 
 **Fuentes:** byteiota.com, Kubernetes release docs, containerd docs, Google Cloud docs
+
+---
+
+### Update: 9 de agosto, 2026 — Sneak Peek oficial de Kubernetes v1.37: Metrics API a GA, IPVS se despide y rootless kubelet a Beta
+
+El equipo de Kubernetes publicó el **sneak peek oficial** de v1.37 el 31 de julio, confirmando los cambios que ya cubrimos y agregando detalles importantes que no estaban en los KEPs individuales. Resumen de lo nuevo:
+
+**Metrics API por fin llega a GA (después de casi 9 años en Beta)**
+La API `metrics.k8s.io` gradúa a **Stable (GA)** en v1.37. Esto es históricamente significativo: pasó casi una década en Beta. La API que alimenta `kubectl top`, HPA y VPA finalmente tiene el sello de estabilidad. Sin cambios funcionales — v1 y v1beta1 seguirán funcionando durante la transición.
+
+**Deprecación de IPVS en kube-proxy**
+El modo IPVS de kube-proxy (introducido en v1.8 para resolver bottlenecks de iptables) entra en deprecación oficial. El timeline:
+- **v1.37:** warnings en startup si usas `mode: ipvs`
+- **v1.40:** se deshabilita por defecto (aún seleccionable via feature gate)
+- **v1.43:** se remueve completamente
+
+La justificación es técnica: IPVS nunca pudo implementar Services completamente solo, siempre necesito iptables por debajo. El reemplazo es nftables (KEP-3866).
+
+Para verificar tu modo actual:
+```bash
+kubectl -n kube-system get configmap kube-proxy -o jsonpath='{.data.config\.conf}' | grep 'mode:'
+```
+
+**Kubelet rootless (UserNS) a Beta**
+El kubelet corriendo dentro de un user namespace Linux (rootless mode) gradúa a **Beta**. Esto permite que los componentes del nodo corran como usuario sin privilegios en el host, pero como root dentro del namespace. Reduce la superficie de ataque significativamente.
+
+**SELinuxMount llega a GA**
+Los volúmenes ahora se montan con `-o context=<label>` en vez de reetiquetarse recursivamente, pero **solo cuando el CSI driver lo opt-in** via `seLinuxMount: true`. Importante: pods con diferentes labels SELinux que compartían volumen en el mismo nodo vía recursive relabeling podrían fallar al iniciar. Si necesitas el comportamiento anterior: `seLinuxChangePolicy: Recursive` en el Pod spec.
+
+**Static Pods: chau Secrets y ConfigMaps**
+Se cierra un bug que permitía a Static Pods referenciar Secrets/ConfigMaps via `configMapRef` o `secretRef`. Static Pods no se crean via API server, así que nunca debieron tener acceso a API resources. El feature gate `PreventStaticPodAPIReferences` que permitía saltarse la restricción fue removido.
+
+**`kubectl run -f` deprecado**
+El flag `--filename` (`-f`) en `kubectl run` entra en deprecación. Tiene sentido: el pod generado siempre se construye solo desde argumentos CLI (`NAME` + `--image`), el flag no aportaba nada.
+
+**cgroup v1: sigue la cuenta regresiva**
+El override `failCgroupV1: false` sigue disponible en v1.37 pero es considerado fix temporal. Features como In-Place Pod Resizing y Tiered Memory Protection dependen exclusivamente de cgroup v2. La remoción completa viene en un release futuro.
+
+La fecha de release sigue firme para el **26 de agosto**. Quedan 17 días.
+
+**Fuente adicional:** [Kubernetes Blog oficial — Sneak Peek v1.37](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/), [heise online](https://www.heise.de/news/Developer-Haeppchen-Kotlin-LSP-fuer-Cursor-und-Sneak-Peak-fuer-Kubernetes-11399144.html)
