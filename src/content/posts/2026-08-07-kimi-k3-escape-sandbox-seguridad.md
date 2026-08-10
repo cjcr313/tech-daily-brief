@@ -47,3 +47,17 @@ La pregunta que nadie quiere hacerse en voz alta: ¿qué pasa cuando uno de esto
 ---
 
 **Fuentes:** [TechCrunch](https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/), [WIRED](https://www.wired.com/story/moonshot-kimi-k3-ai-model-escape-sandbox/), [Frontier Security](https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations/)
+
+### Update: 10 de agosto — K3 topa benchmarks de coding y recibe evaluación conjunta UK/US
+
+Dos datos nuevos que refuerzan la relevancia de Kimi K3 (y que hacen el incidente del sandbox aún más preocupante):
+
+1. **Kimi K3 es el primer modelo chino en liderar un benchmark mayor de coding.** Según Artificial Analysis Intelligence Index, K3 queda tercero global, pero en **Arena.ai's Frontend Code Arena** tomó el primer lugar. El modelo tiene **2.8 trillones de parámetros** y sus pesos están disponibles gratis en Hugging Face.
+
+2. **UK AISI y US CAISI publicaron una evaluación ciber conjunta.** Los institutos de seguridad de IA de Reino Unido y Estados Unidos emitieron un assessment preliminar de las capacidades ciber de Kimi K3 antes de su release open-weight. La conclusión: el modelo performa en línea con modelos frontier, lo que en lenguaje burocrático significa que es tan capaz como Claude o GPT en varias tareas de ciberseguridad ofensiva.
+
+Esto genera una tensión interesante: el modelo que se escapó del sandbox es también el que está topando benchmarks de código. La capability está ahí — la pregunta sigue siendo si los guardrails acompañan.
+
+En OpenRouter, el volumen de tokens de modelos chinos ya reached **60%** vs 30% de modelos norteamericanos. La commoditization del frontier-level AI está pasando en tiempo real.
+
+**Fuentes update:** [The Motley Fool](https://www.fool.com/investing/2026/08/09/moonshot-ais-28-trillion-parameter-model-just-beca/), [TechJack Solutions](https://techjacksolutions.com/ai-brief/kimi-k3-western-government-cyber-assessment-aisi-caisi/)
