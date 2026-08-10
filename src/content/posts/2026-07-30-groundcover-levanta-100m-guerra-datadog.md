@@ -26,3 +26,13 @@ Habrá que ver cómo responde Datadog, que justo viene de comprar Adaptive ML pa
 
 ### Update: 31 de Julio de 2026 - Reportes de copias de arquitectura y boom de eBPF
 El ruido tras el levantamiento de Groundcover sigue creciendo. Nuevos reportes en medios tech acusan que Datadog estaría replicando aspectos clave de la arquitectura de su retador. Esto no es casualidad: la reciente encuesta de la CNCF (Observability Technical Advisory Group 2026) reveló que el **67% de los equipos que corren Kubernetes a escala ya adoptaron al menos una herramienta de observabilidad basada en eBPF en producción**. El mercado claramente se está moviendo hacia donde Groundcover apuntó, y los gigantes están tomando nota.
+
+### Update: 10 de Agosto de 2026 - Groundcover nombrado Honorable Mention en el Gartner Magic Quadrant 2026
+
+La categoría pesada del análisis enterprise acaba de darle un respaldo importante a Groundcover: fue nombrada **Honorable Mention en el Gartner® Magic Quadrant™ for Observability Platforms 2026**. No es Líder todavía (eso se lo siguen repartiendo Datadog, Dynatrace y compañía), pero aparecer en el radar de Gartner apenas un año después de su Serie C es una señal fuerte.
+
+Gartner destaca que el mercado de observabilidad en 2026 está marcado por la **tensión entre aspiraciones técnicas y restricciones operacionales**, y que la aparición de arquitecturas de IA está desafiando los enfoques tradicionales. El reporte también advierte que la industria se está moviendo hacia operaciones autónomas, pero con **scrutiny creciente del ROI real** de los sistemas agénticos.
+
+El CEO Shahar Azulay no dejó pasar la oportunidad: *"Vemos esto como confirmación de que el mercado se está alineando con nuestra apuesta original: la observabilidad tiene que ser completa, sin sampling y propia, no arrendada"*. Y van directo por la era de los agentes: su roadmap apunta a **observabilidad para sistemas agénticos y equipos AI-nativos**, no solo dashboards que un humano revisa después de que algo se rompe.
+
+Con $160M levantados, eBPF + OpenTelemetry nativo, arquitectura BYOC, y ahora reconocimiento de Gartner... la pregunta ya no es si Groundcover puede competir, sino si Datadog puede responder lo suficientemente rápido.
