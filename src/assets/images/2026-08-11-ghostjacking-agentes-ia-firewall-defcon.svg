@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#1a0033"/>
+      <stop offset="50%" stop-color="#0d0017"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="ghost" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00ff88" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00ff88" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="flame" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#bb00ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#bb00ff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glow2">
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <!-- Server rack grid -->
+  <g opacity="0.15" stroke="#00ff88" stroke-width="1" fill="none">
+    <rect x="150" y="200" width="120" height="400" rx="4"/>
+    <rect x="290" y="200" width="120" height="400" rx="4"/>
+    <rect x="614" y="200" width="120" height="400" rx="4"/>
+    <rect x="754" y="200" width="120" height="400" rx="4"/>
+    <line x1="150" y1="250" x2="270" y2="250"/>
+    <line x1="150" y1="300" x2="270" y2="300"/>
+    <line x1="150" y1="350" x2="270" y2="350"/>
+    <line x1="150" y1="400" x2="270" y2="400"/>
+    <line x1="150" y1="450" x2="270" y2="450"/>
+    <line x1="150" y1="500" x2="270" y2="500"/>
+    <line x1="150" y1="550" x2="270" y2="550"/>
+    <line x1="290" y1="250" x2="410" y2="250"/>
+    <line x1="290" y1="300" x2="410" y2="300"/>
+    <line x1="290" y1="350" x2="410" y2="350"/>
+    <line x1="290" y1="400" x2="410" y2="400"/>
+    <line x1="290" y1="450" x2="410" y2="450"/>
+    <line x1="290" y1="500" x2="410" y2="500"/>
+    <line x1="290" y1="550" x2="410" y2="550"/>
+    <line x1="614" y1="250" x2="734" y2="250"/>
+    <line x1="614" y1="300" x2="734" y2="300"/>
+    <line x1="614" y1="350" x2="734" y2="350"/>
+    <line x1="614" y1="400" x2="734" y2="400"/>
+    <line x1="614" y1="450" x2="734" y2="450"/>
+    <line x1="614" y1="500" x2="734" y2="500"/>
+    <line x1="614" y1="550" x2="734" y2="550"/>
+    <line x1="754" y1="250" x2="874" y2="250"/>
+    <line x1="754" y1="300" x2="874" y2="300"/>
+    <line x1="754" y1="350" x2="874" y2="350"/>
+    <line x1="754" y1="400" x2="874" y2="400"/>
+    <line x1="754" y1="450" x2="874" y2="450"/>
+    <line x1="754" y1="500" x2="874" y2="500"/>
+    <line x1="754" y1="550" x2="874" y2="550"/>
+    <!-- Server LEDs -->
+    <circle cx="255" cy="240" r="3" fill="#00ff88" opacity="0.6"/>
+    <circle cx="395" cy="240" r="3" fill="#ff0044" opacity="0.8"/>
+    <circle cx="660" cy="240" r="3" fill="#00ff88" opacity="0.6"/>
+    <circle cx="800" cy="240" r="3" fill="#ff0044" opacity="0.8"/>
+    <circle cx="255" cy="340" r="3" fill="#ffaa00" opacity="0.7"/>
+    <circle cx="395" cy="340" r="3" fill="#00ff88" opacity="0.6"/>
+    <circle cx="660" cy="340" r="3" fill="#ff0044" opacity="0.8"/>
+    <circle cx="800" cy="440" r="3" fill="#ffaa00" opacity="0.7"/>
+  </g>
+  <!-- Ghost figure (central) -->
+  <g filter="url(#glow2)" opacity="0.85">
+    <!-- Ghost body -->
+    <path d="M 512 180 Q 380 180 380 320 L 380 600 Q 380 640 410 640 Q 430 620 440 640 Q 460 620 470 640 Q 490 620 500 640 Q 520 620 530 640 Q 550 620 560 640 Q 580 620 600 640 Q 620 620 644 640 L 644 320 Q 644 180 512 180 Z" fill="url(#ghost)"/>
+    <!-- Ghost eyes -->
+    <ellipse cx="460" cy="340" rx="18" ry="25" fill="#000000" opacity="0.7"/>
+    <ellipse cx="564" cy="340" rx="18" ry="25" fill="#000000" opacity="0.7"/>
+    <ellipse cx="460" cy="335" rx="8" ry="12" fill="#00ff88"/>
+    <ellipse cx="564" cy="335" rx="8" ry="12" fill="#00ff88"/>
+    <!-- Puppet strings from ghost to servers -->
+    <line x1="410" y1="400" x2="270" y2="350" stroke="#bb00ff" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,4"/>
+    <line x1="380" y1="450" x2="210" y2="450" stroke="#bb00ff" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,4"/>
+    <line x1="644" y1="400" x2="754" y2="350" stroke="#bb00ff" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,4"/>
+    <line x1="644" y1="450" x2="814" y2="450" stroke="#bb00ff" stroke-width="1.5" opacity="0.5" stroke-dasharray="4,4"/>
+  </g>
+  <!-- Crumbling shield (firewall) -->
+  <g filter="url(#glow)" opacity="0.6">
+    <path d="M 480 720 L 512 700 L 544 720 L 544 770 L 512 790 L 480 770 Z" fill="none" stroke="#ff4444" stroke-width="3" stroke-dasharray="6,8"/>
+    <path d="M 460 730 L 470 760" stroke="#ff4444" stroke-width="2" opacity="0.5"/>
+    <path d="M 554 735 L 568 755" stroke="#ff4444" stroke-width="2" opacity="0.5"/>
+    <path d="M 500 790 L 495 810" stroke="#ff4444" stroke-width="2" opacity="0.4"/>
+    <path d="M 525 790 L 535 815" stroke="#ff4444" stroke-width="2" opacity="0.4"/>
+  </g>
+  <!-- Floating log/code lines (attacker payload) -->
+  <g font-family="monospace" font-size="11" fill="#bb00ff" opacity="0.5">
+    <text x="100" y="130">[BLOCKED] eval(atob('...'))</text>
+    <text x="600" y="120">[ALERT] exec("rm -rf /")</text>
+    <text x="80" y="680">[LOG] dns_rewrite(target)</text>
+    <text x="680" y="680">[EVENT] agent.run(payload)</text>
+  </g>
+  <!-- Title accent dots -->
+  <g opacity="0.7">
+    <circle cx="512" cy="850" r="2" fill="#00ff88"/>
+    <circle cx="532" cy="850" r="2" fill="#bb00ff"/>
+    <circle cx="492" cy="850" r="2" fill="#ff4444"/>
+  </g>
+</svg>
