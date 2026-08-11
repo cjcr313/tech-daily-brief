@@ -60,4 +60,14 @@ La caída arrastró a todo el sector software, con la pregunta flotando: **¿có
 
 ---
 
+### Update: 11 de agosto — Datadog rebota 11.5%
+
+Un día después del crash del 19%, Datadog **recuperó 11.5%** el lunes 10 de agosto, con un volumen de trading de US$2.21B. Los inversores reconsideraron la caída tan brusca y varios analistas subieron de precio objetivo, citando el crecimiento sostenido de AI workloads en la plataforma.
+
+Sin embargo, la sombra del cliente AI-native que reduce uso sigue ahí. Como señala TS2: *"las acciones probablemente continuarán su rebote solo si el crecimiento general de clientes supera la demanda reducida del mayor cliente AI"*.
+
+Q2 dejó números innegablemente sólidos — 36% growth, FCF de US$279M, cinco trimestres consecutivos acelerando — pero la pregunta estructural sobre el pricing usage-based de la observabilidad no desapareció con el rebote.
+
+---
+
 Va a ser interesante ver Q3 y Q4. Si otros clientes AI-natives siguen el mismo patrón, el mercado de observabilidad va a tener que repensar su modelo de negocio. Y rápido.
