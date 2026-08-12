@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="bgfd" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1f2d"/>
+      <stop offset="100%" stop-color="#1a3340"/>
+    </linearGradient>
+    <radialGradient id="glowfd" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff8c42" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ff8c42" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bgfd)"/>
+  <circle cx="512" cy="512" r="400" fill="url(#glowfd)"/>
+  <!-- Pipeline -->
+  <rect x="150" y="480" width="724" height="64" rx="8" fill="none" stroke="#2a8c7a" stroke-width="2" opacity="0.4"/>
+  <!-- Package boxes -->
+  <g opacity="0.7">
+    <rect x="200" y="460" width="40" height="40" rx="4" fill="#e8c468" opacity="0.6"/>
+    <rect x="260" y="460" width="40" height="40" rx="4" fill="#e8c468" opacity="0.6"/>
+    <rect x="320" y="460" width="40" height="40" rx="4" fill="#ff4444" opacity="0.8"/>
+    <rect x="380" y="460" width="40" height="40" rx="4" fill="#e8c468" opacity="0.6"/>
+    <rect x="440" y="460" width="40" height="40" rx="4" fill="#ff4444" opacity="0.8"/>
+    <rect x="500" y="460" width="40" height="40" rx="4" fill="#e8c468" opacity="0.6"/>
+    <rect x="560" y="460" width="40" height="40" rx="4" fill="#e8c468" opacity="0.6"/>
+    <rect x="620" y="460" width="40" height="40" rx="4" fill="#ff4444" opacity="0.8"/>
+    <rect x="680" y="460" width="40" height="40" rx="4" fill="#e8c468" opacity="0.6"/>
+    <rect x="740" y="460" width="40" height="40" rx="4" fill="#e8c468" opacity="0.6"/>
+    <rect x="800" y="460" width="40" height="40" rx="4" fill="#ff4444" opacity="0.8"/>
+  </g>
+  <!-- Serpent shape above pipeline -->
+  <path d="M200 380 Q300 340 400 380 Q500 420 600 360 Q700 300 800 380" stroke="#ff6b35" stroke-width="4" fill="none" opacity="0.8"/>
+  <path d="M200 420 Q280 390 380 420 Q480 450 580 400 Q680 350 780 410" stroke="#cc5028" stroke-width="3" fill="none" opacity="0.5"/>
+  <!-- DNS symbols -->
+  <circle cx="300" cy="250" r="30" fill="none" stroke="#4a9eff" stroke-width="2" opacity="0.4"/>
+  <text x="300" y="258" font-size="14" fill="#4a9eff" opacity="0.5" text-anchor="middle" font-family="monospace">TXT</text>
+  <circle cx="724" cy="250" r="30" fill="none" stroke="#4a9eff" stroke-width="2" opacity="0.4"/>
+  <text x="724" y="258" font-size="14" fill="#4a9eff" opacity="0.5" text-anchor="middle" font-family="monospace">DNS</text>
+  <!-- Binary stream -->
+  <text x="150" y="650" font-size="16" fill="#2a8c7a" opacity="0.3" font-family="monospace">01001010 11010110 10101011 00110101</text>
+  <text x="200" y="680" font-size="16" fill="#2a8c7a" opacity="0.2" font-family="monospace">10010110 01101001 11010110 01011010</text>
+  <text x="250" y="710" font-size="16" fill="#2a8c7a" opacity="0.15" font-family="monospace">00110101 10101010 01011010 11001010</text>
+  <!-- Warning -->
+  <text x="512" y="350" font-size="40" fill="#ff4444" opacity="0.5" text-anchor="middle">⚠</text>
+</svg>

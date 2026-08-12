@@ -56,4 +56,23 @@ La jugada de Cloudflare es inteligente: en vez de competir con AWS en GPUs (dond
 
 Agents Week va a traer anuncios concretos durante los próximos días. Mantengan los ojos abiertos.
 
-*Fuentes: [Cloudflare Blog](https://blog.cloudflare.com/agents-week-welcome/), [StartupHub.ai](https://www.startuphub.ai/ai-news/artificial-intelligence/2026/cloudflare-plans-for-the-agent-cloud)*
+### Update: 12 de agosto — Agents Week cerró con todo lo que se lanzó
+
+Agents Week terminó y Cloudflare publicó el **recap oficial** con todo lo anunciado. Aquí va el resumen de lo importante:
+
+**Lunes (Fundaciones de runtime):**
+- **`@cloudflare/computer`** — un nuevo runtime diseñado para agentes que puede elegir el entorno correcto para cada tarea (no un container genérico)
+- **Workers RPC entre Python y JavaScript** — los Workers de ambos lenguajes ahora se comunican directamente
+- Soporte para **Kimi K2.7 y GLM** corriendo a escala en el edge de Cloudflare
+- **Billable Usage API** — visibilidad programática de costos para self-serve
+- **Workers + Containers con TCP inbound y gRPC** — ideal para voice AI backends
+
+**Martes (Agent Development Lifecycle):**
+- **ADLC** — Cloudflare formaliza el ciclo de vida de desarrollo de agentes como sucesor del SDLC
+- **Cloudflare Agents** — build, trace, replay y human-in-the-loop approvals en producción
+- **Local tracing** — distributed tracing en dev local para que los agentes debugueen antes de producción
+- **Cloudflare Wallets** — wallet programable para que agentes hagan transacciones en la economía agentil
+
+**Lo relevante:** la jugada de Cloudflare es clara — no quieren competir en GPUs, quieren ser **la capa edge donde viven los agentes**. Con 330+ ciudades, tracing integrado, wallets para transacciones agentiles y un runtime diseñado desde cero para workloads autónomos, se están posicionando como la infraestructura del "Agentic Internet".
+
+*Fuentes: [Cloudflare Blog - Agents Week Recap](https://blog.cloudflare.com/agents-week-review-august-2026/), [Cloudflare Blog - Welcome to Agents Week](https://blog.cloudflare.com/agents-week-welcome/)*
