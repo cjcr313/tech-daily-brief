@@ -57,3 +57,15 @@ kagent ya soporta Agent Substrate como alternativa al modelo de un-Pod-por-agent
 
 🔗 [Post original en CNCF Blog](https://www.cncf.io/blog/2026/07/14/is-a-pod-the-right-deployment-unit-for-an-ai-agent/)
 🔗 [Artículo en InfoQ](https://www.infoq.com/news/2026/08/pod-deployment-unit-ai-agents/)
+
+### Update: 12 de agosto, 2026 — kagent v0.9 trae Agent Sandbox nativo
+
+kagent acaba de sacar **v0.9** y es un release bastante gordo para la historia de agentes en Kubernetes:
+
+- **Agent Sandbox nativo**: ahora puedes correr agentes en sandboxes aislados usando el proyecto Kubernetes agent-sandbox (kubernetes-sigs). Un nuevo `SandboxAgent` CRD crea instancias con filesystem y red restringidos, con allowlists configurables para runtimes Go y Python. Esto resuelve directamente el problema de aislar workloads de agentes no confiables.
+- **OIDC Proxy Authentication**: autenticación enterprise vía oauth2-proxy (Cognito, Okta, Dex). El controller confía en JWT tokens del header Authorization. Por ahora solo auth, sin access control granular todavía.
+- **SAP AI Core provider**: nuevo model provider vía Orchestration Service de SAP.
+- **Migración de DB**: saltaron de GORM + AutoMigrate a golang-migrate + sqlc. Más robusto para producción.
+- **Bedrock embeddings**: modelos de embedding nativos de AWS Bedrock para memoria de agentes.
+
+El Agent Sandbox es probablemente lo más relevante del release — es la implementación práctica de lo que hablábamos arriba sobre separar unidad de ejecución de unidad de lifecycle, ahora con aislamiento real de red y filesystem.
