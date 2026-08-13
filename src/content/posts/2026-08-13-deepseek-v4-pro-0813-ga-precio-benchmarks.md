@@ -54,3 +54,13 @@ Todo esto con apenas **~20,000 GPUs H100** en su infraestructura. Una fracción 
 El model de pricing de DeepSeek cambia el cálculo de **costo por inferencia** para cualquier equipo que esté corriendo LLMs en producción. Si tu workload hace sentido con un modelo open-weight de este nivel, los números hacen que self-hosting o usar la API de DeepSeek sean dramáticamente más baratos que las alternativas cerradas.
 
 La pregunta es si la infraestructura de DeepSeek va a aguantar la demanda. Ya hay reportes de inference speeds que bajan significativamente en horas peak. Con V4-Pro en GA, ese problema probablemente se agrave antes de mejorar.
+
+### Update: 13 de agosto, 2026 — DeepSeek sube precios de V4 hasta 1.100%
+
+Pocas horas después del lanzamiento, DeepSeek anunció que **subirá los precios de API de V4-Pro y V4-Flash desde 50% hasta 1.100%** dependiendo del modelo, tipo de token y horario. Las nuevas tarifas entran en vigor el **17 de agosto a las 16:00 UTC**.
+
+Lo más notable: introducen **pricing peak y off-peak**, marcando un cambio fundamental en la estrategia de costos agresivamente bajos que caracterizó a DeepSeek.
+
+¿Por qué importa? La demanda de inferencia no es uniforme — hay horas donde el tráfico explota y otras donde está tranquilo. El pricing variable incentiva a mover workloads no críticos a horarios más baratos, ayudando a DeepSeek a gestionar la carga de infraestructura.
+
+Pero para equipos corriendo grandes volúmenes de agentes en horario laboral, un alza de 1.100% puede **cambiar dramáticamente la economía** que hacía a DeepSeek atractivo en primer lugar. La pregunta que quedó flotando en el lanzamiento —¿aguantará la infraestructura?— acaba de conseguir su respuesta parcial: sí, pero vas a pagar más por ello.
