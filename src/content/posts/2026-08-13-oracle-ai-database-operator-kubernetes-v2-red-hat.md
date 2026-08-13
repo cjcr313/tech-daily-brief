@@ -46,3 +46,15 @@ Esto es relevante para equipos que:
 3. Quieren llevar inferencia de modelos (vLLM + GPU) al mismo cluster donde están sus datos
 
 No es la noticia más sexy de la semana, pero es el tipo de actualización **enterprise que mueve presupuestos reales**.
+
+### Update: 13 de agosto — OKE GPU Add-ons
+
+Oracle también anunció **tres add-ons nuevos para OKE** (Oracle Kubernetes Engine) orientados a **workloads GPU-acelerados** en clusters enhanced:
+
+1. **NVIDIA GPU Operator:** automatiza el deploy de drivers, container runtime, device plugins y monitoring de GPUs. Se acabó el dolor de configurar manualmente cada nodo GPU.
+2. **NVIDIA Network Operator:** maneja drivers de red, RDMA y networking secundario para workloads HPC/AI que necesitan baja latencia.
+3. **Node Feature Discovery:** detecta y etiqueta automáticamente las capacidades de hardware de cada nodo (tipo de GPU, cantidad de VRAM, características especiales).
+
+Estos add-ons son **opcionales y vienen deshabilitados por defecto**. Oracle maneja el lifecycle completo (incluyendo updates automáticos compatibles con la versión de K8s del cluster).
+
+La movida tiene sentido: si Oracle quiere que la gente corra **PrivateAI workloads con vLLM + GPU** en OKE (que es justamente lo que el AI Database Operator habilita), facilitar la configuración GPU es un requisito básico. Antes tenías que alinear drivers, runtime, plugins y labels manualmente. Ahora es toggle on/off.
