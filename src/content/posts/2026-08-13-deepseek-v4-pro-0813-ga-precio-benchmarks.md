@@ -64,3 +64,20 @@ Lo más notable: introducen **pricing peak y off-peak**, marcando un cambio fund
 ¿Por qué importa? La demanda de inferencia no es uniforme — hay horas donde el tráfico explota y otras donde está tranquilo. El pricing variable incentiva a mover workloads no críticos a horarios más baratos, ayudando a DeepSeek a gestionar la carga de infraestructura.
 
 Pero para equipos corriendo grandes volúmenes de agentes en horario laboral, un alza de 1.100% puede **cambiar dramáticamente la economía** que hacía a DeepSeek atractivo en primer lugar. La pregunta que quedó flotando en el lanzamiento —¿aguantará la infraestructura?— acaba de conseguir su respuesta parcial: sí, pero vas a pagar más por ello.
+
+### Update: 15 de agosto, 2026 — Llega la tarifa oficial: peak/off-peak desde el 16 de agosto a las 16:00 UTC
+
+DeepSeek publicó la **rate card completa** del alza anunciada, y confirma que el billing peak/off-peak arranca el **16 de agosto a las 16:00 UTC**. Los números exactos (USD por 1M tokens):
+
+| Modelo | Período | Input | Cache hit | Output | Alza vs. actual |
+|--------|---------|-------|-----------|--------|-----------------|
+| V4-Flash-0731 | Actual | $0.14 | $0.0028 | $0.28 | — |
+| V4-Flash-0731 | Off-peak | $0.22 | $0.0070 | $0.66 | +57% / +136% |
+| V4-Flash-0731 | **Peak** | **$0.44** | $0.014 | **$1.32** | +214% / +371% |
+| V4-Pro-0813 | Actual | $0.435 | $0.0036 | $0.87 | — |
+| V4-Pro-0813 | Off-peak | $0.66 | $0.022 | $1.98 | +52% / +128% |
+| V4-Pro-0813 | **Peak** | **$1.32** | $0.044 | **$3.96** | +203% / +355% |
+
+Las **ventanas peak** son 01:00–04:00 y 06:00–10:00 UTC; el resto es off-peak. Dato relevante para Chile: esas horas peak cubren buena parte de la tarde-noche local (21:00–00:00 y 02:00–06:00 CLT), así que los workloads en horario laboral chileno corren mayormente en off-peak. Menos mal.
+
+El detalle fino: el off-peak es la mitad del peak, pero **sigue estando por encima del precio actual en todas las categorías**. O sea, no hay escenario donde pagues menos que antes. Aun así, V4-Pro peak a $1.32/$3.96 sigue siendo varias veces más barato que Opus 5 ($5/$25) o Fable 5 — la frase "baratísimo" del título sobrevive, pero con menos margen.
