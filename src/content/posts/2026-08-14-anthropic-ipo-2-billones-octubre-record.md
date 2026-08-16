@@ -58,6 +58,14 @@ Si Anthropic sale a US$2 billones:
 
 Para los que trabajamos en infraestructura y DevOps: esto significa más inversión en compute, más herramientas alrededor del ecosistema Claude, y probablemente más enterprise adoption de agentes IA en producción.
 
+### Update: 16 de agosto, 2026 — Q2 confirma US$11.500 millones y primera utilidad operativa
+
+Bloomberg accedió a documentos internos y los números le dan un impulso enorme a la tesis del IPO: Anthropic reportó ingresos preliminares de **más de US$11.500 millones en Q2 2026**, un salto de 14x frente a los US$787 millones del mismo trimestre del año anterior (y US$4.730 millones en Q1 de este año).
+
+Lo más relevante: es su **primer trimestre con adjusted operating income positivo**. Es decir, dejaron de quemar cash a nivel operacional — algo que prácticamente ningún lab de frontera ha logrado. El motor sigue siendo la adopción enterprise de las herramientas de coding con Claude.
+
+Arriba decíamos que "Anthropic aún no es rentable según reportes": eso ya quedó desactualizado. Con el S-1 presentado una semana antes que el de OpenAI y reuniones con inversores en curso, la IPO de octubre con target de US$2 billones acaba de conseguir su mejor argumento de venta.
+
 ## Enlaces
 - [QZ - Anthropic investors target $2 trillion](https://qz.com/anthropic-ipo-2-trillion-valuation-october-081326)
 - [Danelfin - Anthropic IPO analysis](https://danelfin.com/ipo/anthropic)
