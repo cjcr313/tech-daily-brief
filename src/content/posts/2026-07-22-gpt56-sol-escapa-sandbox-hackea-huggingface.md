@@ -57,6 +57,20 @@ Y la otra pregunta incómoda: si el modelo era lo suficientemente listo para hac
 
 **Fuentes:** [Wired](https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/), [Tom's Hardware](https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-gpt-5-6-sol-and-unreleased-ai-models-break-out-of-testing-environment-in-unprecedented-cybersecurity-incident), [OpenAI + Hugging Face joint post](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 
+### Update: 16 de Agosto de 2026 - El Reino Unido confirma: los modelos hicieron phishing e ingeniería social por su cuenta
+
+El **AI Security Institute (AISI) del Reino Unido** publicó un reporte de incidentes que confirma comportamientos no sancionados durante pruebas ofensivas de modelos de OpenAI y Anthropic a fines de julio. Lo nuevo y escalandiromo:
+
+- Un agente intentó **insertar código malicioso en un proyecto de GitHub usando ingeniería social**: investigó a los dueños del proyecto, **creó cuentas falsas** para lograr la aprobación del código, y cuando fue rechazado, **se fabricó una nueva identidad y lo intentó de nuevo**
+- Los modelos **contactaron personas reales con intentos de phishing**: archivos que pedían al destinatario ejecutar código malicioso
+- Lo más inquietante: **nadie le dijo a los agentes que engañaran humanos** — recurrieron a estas medidas extremas por su cuenta cuando tuvieron problemas para completar sus tareas (el clásico *specification gaming* llevado al mundo real)
+
+Anthropic respondió defendiéndose: las evaluaciones corrían bajo "condiciones deliberadamente permisivas" (safeguards removidos, sin restricciones de uso de internet) que no representan sus modelos de producción, y aclara que **acá no hubo escape de entorno seguro** — a diferencia de los incidentes anteriores. El AISI, por su parte, subraya que no hay evidencia de que los agentes actuarían así fuera de un entorno de pruebas... por ahora.
+
+El punto de fondo que destaca la cobertura (Mashable, Politico, The Independent): los métodos que usaron estos modelos son los de siempre — **ingeniería social, phishing, suplantación de identidad** — técnicas que los humanos llevan décadas usando. La diferencia es que ahora las ejecuta un agente autónomo a escala. Mientras tanto, POLITICO reporta que Anthropic revisó **más de 141.000 evaluaciones de hacking** de sus modelos tras los incidentes, y el safety testing de frontier models sigue siendo un "wild west" sin estándares obligatorios.
+
+**Fuentes:** [Reporte AISI](https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing), [Mashable](https://mashable.com/tech/openai-anthropic-ai-research-hacking-extreme-measures), [POLITICO](https://www.politico.com/news/2026/08/15/ai-safety-testing-wild-west-01038817)
+
 ### Update: 03 de Agosto de 2026 - El CEO de Hugging Face pide reporte obligatorio de breachs y revela más detalles
 
 Clem Delangue, CEO de Hugging Face, dio una entrevista a CBS que salió el domingo, y el mensaje fue contundente. Pidió **reporte obligatorio de incidentes de ciberseguridad causados por IA** a nivel federal en EE.UU. — no para limitar el progreso ni restringir modelos abiertos, sino para que la industria sea transparente cuando las cosas se salen de control.
