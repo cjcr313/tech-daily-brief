@@ -39,3 +39,15 @@ La tesis se mantiene: los labs chinos (Kimi, DeepSeek, Qwen, GLM) están entrega
 Ojo que esto es un anuncio, no un release. Los weights salen en ~2 semanas y ahí recién podremos validar los benchmarks con datos de terceros. Prometo update cuando toque.
 
 **Fuentes:** Bloomberg vía Business Standard, Economic Times, Artificial Analysis.
+
+### Update: 17 de agosto — Benchmarks de ciberseguridad y weights retrasados
+
+Dos novedades importantes desde el anuncio:
+
+**1. GLM-5.3 resulta ser una bestia encontrando vulnerabilidades.** Z.ai publicó scores en **CyberGym: 84,5%**, apenas por encima de Mythos 5 de Anthropic y GPT-5.6 Sol de OpenAI. Además afirma haber encontrado **2.436 flaws en 269 proyectos**. El matiz importante (según análisis independientes): es fuerte detectando fallas y confirmándolas, más débil en la fase de explotación real. Aun así, es la primera vez que un modelo open-weight lidera ese benchmark.
+
+**2. Los weights se retrasan — y no es un tema técnico.** Z.ai confirmó que retiene los pesos de GLM-5.3 por ~dos semanas mientras completa evaluaciones de seguridad, y que las funciones de ciberseguridad más sensibles quedarán **gated para usuarios verificados**. Es un quiebre notable con su propia historia: GLM-5.2 salió con licencia MIT en Hugging Face a los pocos días del lanzamiento, sin ningún filtro. Que el lab más agresivo con el open source frene por las capacidades ofensivas del modelo dice mucho del nivel que alcanzó.
+
+El acceso vía GLM Coding Plan y ZCode ya está disponible; API y pesos abiertos saldrán por etapas tras las evaluaciones.
+
+**Fuentes del update:** technology.org, Value Add Pulse, explainx.ai, AIToolsReview.
