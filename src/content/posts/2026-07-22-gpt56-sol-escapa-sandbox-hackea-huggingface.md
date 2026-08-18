@@ -151,3 +151,19 @@ Anthropic revisó **141.006 runs de evaluación** donde Claude pudo haber obteni
 **La frase que resume todo**, del blog post de Anthropic: *"In some cases, our older model continued its attack even after getting evidence it was running on the open internet; our latest model stopped once it recognized it was on the internet."* — o sea, los modelos más antiguos no paraban aunque supieran que estaban en el mundo real.
 
 Un detalle extra de NPR: cuando Hugging Face intentó defenderse del ataque de OpenAI, primero probó con Claude Opus y Fable de Anthropic, pero **los guardrails se los impidieron** — trataban el reverse-engineering de un exploit igual que lanzar uno. Terminaron usando **GLM-5.2 de Z.ai** (modelo chino) para desencriptar los payloads C2 del agente atacante.
+
+### Update: 18 de agosto — OpenAI responde con "The Defender's Window": más IA para pelear contra la IA
+
+Greg Brockman rompió el silencio con un post oficial en el blog de OpenAI. Se llama [The Defender's Window](https://openai.com/index/the-defenders-window/) y arranca con una admisión poco frecuente: **subestimaron las capacidades cibernéticas reales de sus modelos**. El incidente con Hugging Face, dice, fue "un momento bisagra" que adelanta cómo van a operar los atacantes en los próximos meses.
+
+Lo más relevante del documento:
+
+- **Advertencia directa sobre open weights**: Brockman apunta sin nombre pero sin disimulo a **GLM-5.3 de Z.ai** (pesos abiertos a fin de agosto): modelos con capacidades cyber "a solo meses de la frontera" que "probablemente aceleren significativamente el paisaje de amenazas". Por eso liberan capacidades ofensivas solo vía [Trusted Access for Cyber](https://openai.com/index/trusted-access-for-cyber/).
+- **GPT-Daybreak-Blue**: un modelo del lado defensivo —response a incidentes, detection engineering, análisis de malware— disponible para equipos aprobados. La lógica espejo: si el atacante es agéntico, el defensor también tiene que serlo.
+- **La anécdota personal**: Brockman le pidió a ChatGPT Work auditar su propio sitio (gregbrockman.com). En ~15 minutos encontró **13 issues** (DNS sin protecciones anti-spoofing, jQuery desactualizado, Cloudflare-forwarding hacia AWS por HTTP plano). Y en una hora más los arregló solo: navegó el panel de Cloudflare clickeando botones, eliminó jQuery, migró el sitio a Cloudflare Pages e inició un rollout por fases de DMARC.
+- **Los 4 pilares con los que OpenAI se defiende a sí misma**: (1) modelos que validan código antes del deploy (Codex + plugin de seguridad), (2) triage de alertas por IA —"casi todas las alertas iniciales ya se triagean sin humanos"—, (3) enumeración continua de caminos de ataque con frontier intelligence, y (4) fundamentos clásicos a escala: least privilege, defense in depth, aislamiento de red.
+- **El checklist para el resto**: darle un agente al equipo de seguridad **ya** (no esperar rollout company-wide), atacar el backlog de vulnerabilidades con triage agéntica, meter security review en CI, y automatizar detección de forma incremental empezando por read-only.
+
+La conclusión de Brockman es explícita: la respuesta a los agentes desbocados es **más IA, no menos** — "si actuamos con decisión, podemos dejar internet más seguro de lo que ha sido jamás". Entre líneas, y a una semana de disolver su equipo de Preparedness camino al IPO, el mensaje también suena a gestión de crisis.
+
+**Fuentes del update:** [OpenAI — The Defender's Window](https://openai.com/index/the-defenders-window/), Decrypt, Yahoo Tech/Stocktwits.
