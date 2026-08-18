@@ -66,6 +66,21 @@ Lo más relevante: es su **primer trimestre con adjusted operating income positi
 
 Arriba decíamos que "Anthropic aún no es rentable según reportes": eso ya quedó desactualizado. Con el S-1 presentado una semana antes que el de OpenAI y reuniones con inversores en curso, la IPO de octubre con target de US$2 billones acaba de conseguir su mejor argumento de venta.
 
+### Update: 18 de agosto, 2026 — Run rate de US$65.000 millones: Anthropic pisó el acelerador y la carrera al IPO se definió
+
+Bloomberg (vía LA Times) accedió a las cifras que Anthropic compartió con inversores, y la curva se puso casi vertical: el **run rate de ingresos anualizados llegó a US$65.000 millones al cierre de julio**, más de 7x lo que proyectaba a fines del año pasado. Para ordenar la película: superó los US$9.000 millones a fines de 2025, cruzó los US$47.000 millones en mayo, y dos meses después ya va por los US$65.000 millones.
+
+Los datos clave del reporte:
+
+- **Valoración privada de US$965.000 millones** tras la ronda de mayo: por primera vez superó la valoración de OpenAI, dejándola como una de las empresas privadas más grandes del mundo.
+- **Ambos labs ya presentaron paperwork confidencial para salir a bolsa**, y Anthropic debutaría en Wall Street **este otoño (boreal), antes que OpenAI**. Trabaja con Morgan Stanley, Goldman Sachs y JPMorgan.
+- **OpenAI no se queda atrás**: su run rate reciente supera los US$40.000 millones, aunque las dos empresas podrían no medir la métrica igual (cada una con su propia cocina).
+- **El tercer jugador en la mesa**: DeepSeek también estaría preparando su IPO y podría presentar su solicitud **este mismo año**, con debut apuntando a 2027. La carrera ya no es de dos.
+
+Con el trimestre con utilidad operativa ajustada positiva (que cubrimos en el update anterior) y esta aceleración de ingresos, la tesis de los US$2 billones para octubre dejó de sonar descabellada y empezó a sonar a precio de entrada. El mercado público va a tener que decidir si compra la historia… y a cuál de las tres le compra primero.
+
+**Fuente del update:** Bloomberg vía Los Angeles Times (18/08/2026).
+
 ## Enlaces
 - [QZ - Anthropic investors target $2 trillion](https://qz.com/anthropic-ipo-2-trillion-valuation-october-081326)
 - [Danelfin - Anthropic IPO analysis](https://danelfin.com/ipo/anthropic)

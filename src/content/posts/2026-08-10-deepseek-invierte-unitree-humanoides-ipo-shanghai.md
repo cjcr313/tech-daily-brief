@@ -49,6 +49,21 @@ Estos cinco eventos vistos en conjunto pintan algo claro: **la competencia globa
 2. **China está construyendo un stack vertical completo.** Modelos (DeepSeek, Qwen) + hardware (Unitree) + marketplace (Alibaba). Lo que EEUU tiene fragmentado entre OpenAI + Boston Dynamics + Amazon, China lo está consolidando.
 3. **El "embodied AI" es el próximo battleground.** Tesla Optimus, Figure AI y ahora Unitree+DeepSeek. 2027 va a ser el año de los humanoides en producción.
 
+### Update: 18 de agosto, 2026 — El debut que ya rompió récords: mañana cotiza en Shanghai con 8.000x de sobresuscripción
+
+Lo del IPO de Unitree pasó de "test del sector" a fenómeno bursátil puro. La oferta minorista en la bolsa de Shanghai quedó **sobresuscrita más de 8.000 veces — récord histórico del STAR Market** — y la compañía debutará este miércoles 19 de agosto con todo el mercado mirando.
+
+Los números finales:
+
+- **Levantado**: ¥6.100 millones (~US$905 millones), igual al plan original.
+- **Valoración al debut**: ~US$9.000 millones (precio fijado en ¥150,80 por acción).
+- **Tasa de asignación**: la lot-winning rate para minoristas quedó en apenas ~0,018%, de lo peña que fue la pelea por acciones.
+- **Strategic investors**: además de DeepSeek (que ya habíamos cubierto acá), entraron CNPC y otros gigantes state-backed.
+
+El frenesí llevó a Unitree a aprovechar la vitrina: esta misma semana presentó su robot **"Superman"** horas antes del debut, y confirmó que ya produjo y entregó **~18.000 humanoides bipedos acumulados**. Para el contexto que nos importa: por primera vez el mercado público pone un precio en vivo a la industria de humanoides — y la apuesta de DeepSeek de US$20,8M (con lock-up de 36 meses) ya se ve como una jugada de timing impecable.
+
+**Fuentes del update:** CNN Business, Forbes, Japan Times, CNBC.
+
 ---
 
 **Fuentes:** [Global Times](https://www.globaltimes.cn/page/202608/1367807.shtml), [VnExpress](https://e.vnexpress.net/news/tech/personalities/world-s-largest-humanoid-robot-maker-unitree-s-founder-becomes-billionaire-ahead-of-ipo-5107043.html), [ChinaTechNews](https://www.chinatechnews.com/2026/08/10/127008-chinas-humanoid-robots-are-moving-faster-unitree-ipo-puts-robot-boom-to-the-test-can-it-beat-the-us), [Foreign Affairs Forum](https://www.faf.ae/home/2026/8/9/the-fracture-point-how-chinas-ai-ecosystem-strategy-openais-cybersecurity-alarm-and-the-embodied-intelligence-race-are-redrawing-the-global-technology-order), [Reuters](https://www.reuters.com/business/retail-consumer/apple-says-mac-users-china-can-connect-alibabas-qwen-ai-service-2026-08-08/)
