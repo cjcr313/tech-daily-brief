@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#131a2b"/>
+    </linearGradient>
+    <linearGradient id="stream" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset="1" stop-color="#3b82f6"/>
+    </linearGradient>
+    <radialGradient id="coreGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <!-- AI core (right) -->
+  <circle cx="1180" cy="512" r="230" fill="url(#coreGlow)"/>
+  <circle cx="1180" cy="512" r="120" fill="none" stroke="#3b82f6" stroke-width="6" opacity="0.9"/>
+  <circle cx="1180" cy="512" r="80" fill="#1d4ed8" opacity="0.35"/>
+  <circle cx="1180" cy="512" r="44" fill="#60a5fa"/>
+  <!-- orbit dots -->
+  <g fill="#93c5fd">
+    <circle cx="1180" cy="352" r="8"/><circle cx="1330" cy="512" r="8"/><circle cx="1180" cy="672" r="8"/><circle cx="1030" cy="512" r="8"/>
+  </g>
+  <!-- data streams from cloud folders (left) to core -->
+  <g fill="none" stroke="url(#stream)" stroke-width="7" opacity="0.85">
+    <path d="M240 220 C 560 220, 760 360, 1060 470"/>
+    <path d="M240 420 C 560 420, 800 460, 1060 500"/>
+    <path d="M240 640 C 560 640, 800 560, 1060 530"/>
+    <path d="M240 840 C 560 840, 760 660, 1060 555"/>
+  </g>
+  <!-- stream particles dissolving near switch -->
+  <g fill="#f59e0b" opacity="0.9">
+    <circle cx="640" cy="265" r="5"/><circle cx="700" cy="282" r="4"/><circle cx="770" cy="310" r="3"/>
+    <circle cx="660" cy="428" r="5"/><circle cx="720" cy="435" r="4"/><circle cx="790" cy="452" r="3"/>
+    <circle cx="660" cy="620" r="5"/><circle cx="730" cy="600" r="4"/><circle cx="800" cy="580" r="3"/>
+    <circle cx="670" cy="800" r="5"/><circle cx="750" cy="750" r="4"/><circle cx="810" cy="700" r="3"/>
+  </g>
+  <!-- cloud folder icons (left) -->
+  <g>
+    <g transform="translate(120,180)">
+      <path d="M0 30 h40 l12 16 h60 a8 8 0 0 1 8 8 v40 a8 8 0 0 1 -8 8 H0 a8 8 0 0 1 -8 -8 V38 a8 8 0 0 1 8 -8 z" fill="#f59e0b" opacity="0.9"/>
+      <path d="M60 0 h56 l12 14 h84 a10 10 0 0 1 10 10 v52 H40 V10 a10 10 0 0 1 10 -10 z" fill="#fbbf24" opacity="0.75"/>
+    </g>
+    <g transform="translate(120,390)">
+      <path d="M0 30 h40 l12 16 h60 a8 8 0 0 1 8 8 v40 a8 8 0 0 1 -8 8 H0 a8 8 0 0 1 -8 -8 V38 a8 8 0 0 1 8 -8 z" fill="#3b82f6" opacity="0.9"/>
+      <path d="M60 0 h56 l12 14 h84 a10 10 0 0 1 10 10 v52 H40 V10 a10 10 0 0 1 10 -10 z" fill="#60a5fa" opacity="0.7"/>
+    </g>
+    <g transform="translate(120,610)">
+      <path d="M0 30 h40 l12 16 h60 a8 8 0 0 1 8 8 v40 a8 8 0 0 1 -8 8 H0 a8 8 0 0 1 -8 -8 V38 a8 8 0 0 1 8 -8 z" fill="#f59e0b" opacity="0.9"/>
+      <path d="M60 0 h56 l12 14 h84 a10 10 0 0 1 10 10 v52 H40 V10 a10 10 0 0 1 10 -10 z" fill="#fbbf24" opacity="0.75"/>
+    </g>
+    <g transform="translate(120,810)">
+      <path d="M0 30 h40 l12 16 h60 a8 8 0 0 1 8 8 v40 a8 8 0 0 1 -8 8 H0 a8 8 0 0 1 -8 -8 V38 a8 8 0 0 1 8 -8 z" fill="#3b82f6" opacity="0.9"/>
+      <path d="M60 0 h56 l12 14 h84 a10 10 0 0 1 10 10 v52 H40 V10 a10 10 0 0 1 10 -10 z" fill="#60a5fa" opacity="0.7"/>
+    </g>
+  </g>
+  <!-- big toggle switch cutting streams (center) -->
+  <g transform="translate(600,470)">
+    <rect x="-90" y="-24" width="180" height="180" rx="90" fill="#111827" stroke="#475569" stroke-width="6"/>
+    <rect x="-90" y="-24" width="180" height="180" rx="90" fill="none" stroke="#e63946" stroke-width="8" opacity="0.0"/>
+    <circle cx="0" cy="66" r="52" fill="#e63946"/>
+    <rect x="-10" y="-90" width="20" height="150" rx="10" fill="#e2e8f0" transform="rotate(28 0 -15)"/>
+    <circle cx="30" cy="-95" r="16" fill="#f8fafc"/>
+  </g>
+  <!-- cut marks -->
+  <g stroke="#e63946" stroke-width="8" stroke-linecap="round">
+    <path d="M560 300 l24 -24 M584 300 l-24 -24"/>
+    <path d="M560 720 l24 -24 M584 720 l-24 -24"/>
+  </g>
+</svg>

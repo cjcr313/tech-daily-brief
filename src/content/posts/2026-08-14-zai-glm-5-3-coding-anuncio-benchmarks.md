@@ -51,3 +51,15 @@ Dos novedades importantes desde el anuncio:
 El acceso vía GLM Coding Plan y ZCode ya está disponible; API y pesos abiertos saldrán por etapas tras las evaluaciones.
 
 **Fuentes del update:** technology.org, Value Add Pulse, explainx.ai, AIToolsReview.
+
+### Update: 19 de agosto — Greg Brockman (OpenAI) apunta a GLM-5.3: "likely to significantly accelerate the threat landscape"
+
+El presidente y cofundador de OpenAI publicó un ensayo sobre seguridad empresencial usando el incidente OpenAI–Hugging Face como anécdota central, y en el camino dejó una frase que es prácticamente un headline: un modelo open-weight chino que saldría **fines de agosto** parece estar destinado a **"acelerar significativamente el panorama de amenazas"**.
+
+No lo dijo con nombre y apellido, pero **linkeó directo al lanzamiento de GLM-5.3** de Z.ai. La lógica de Brockman: OpenAI lleva meses liberando capacidades ciber solo a defensores verificados, pero otros labs están soltando modelos open-weight con capacidades cyber a solo unos meses de la frontera. Con los scores de CyberGym de GLM-5.3 (líder en detección de vulnerabilidades entre los open-weight, tercero en explotación real detrás de Fable 5 y GPT-5.6 Sol), la aritmética es simple: lo que hoy es un test interno de OpenAI, mañana corre en cualquier GPU.
+
+Su llamado: las empresas deben armar defensas asistidas por IA **antes** de que los modelos ampliamente disponibles cierren la brecha con los atacantes — porque la deuda técnica acumulada (permisos olvidados, bugs enterrados) es exactamente lo que estos modelos encuentran rápido. O sea: la misma herramienta que encuentra el fallo la tiene que usar el defensor primero.
+
+Dato curioso para el que sigue la serie: este es el mismo Brockman cuyo equipo pausó entrenamientos dos semanas tras el incidente (ver update en nuestro post de Astra). El ecosistema de seguridad de IA está en plena mudanza de marketing a fire drill.
+
+**Fuentes del update:** The New Stack, Artificial Analysis, developer-tech.

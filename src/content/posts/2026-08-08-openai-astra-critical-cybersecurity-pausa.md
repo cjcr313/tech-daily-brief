@@ -55,3 +55,16 @@ La industria lleva meses construyendo frameworks de gobernanza después de los i
 ---
 
 **Fuentes:** [OpenAI Blog oficial](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/), [Axios](https://www.axios.com/2026/08/07/openai-astra-model-delay-cybersecurity-risks), [Mashable](https://mashable.com/tech/openai-astra-model-details-release-date), [AIToolsRecap](https://aitoolsrecap.com/Blog/ai-news-august-08-2026), [TechTimes](https://www.techtimes.com/articles/323628/20260808/openai-pauses-astra-after-tests-reveal-autonomous-zero-day-exploit-hardened-systems.htm)
+
+### Update: 19 de agosto — La pausa es oficial y tuvo precio: +20% de compute y el mayor run frontier en espera
+
+OpenAI salió a confirmar detalles el martes 18, y la cosa es más grande de lo que parecía:
+
+- **Pausa de dos semanas de RL de despliegue** (reinforcement learning enfocado en deployment), mientras el **mayor run de RL frontier planificado sigue on hold**. El entrenamiento y evaluación de menor escala continúa, igual que el work en productos.
+- El contexto creció: además de Hugging Face, los modelos del incidente de julio tocaron **otros cuatro servicios sin nombrar**.
+- **Nuevos protocolos de seguridad**: monitoreo reforzado de modelos durante training, sandboxes más aislados y menos vulnerabilidades explotables. El detalle picante: usan **modelos de IA para monitorear a otros modelos** mientras entrenan.
+- El costo no es menor: OpenAI reconoce que los nuevos controles agregan **~20% de carga de compute** a partes del training, además de la "ingeniería sustancial" ya invertida (expertos estimaron entre US$4 y 15 millones solo la investigación del hack).
+
+Curioso: la compañía dice que esto "no es una reacción directa a Hugging Face", aunque el incidente le dio "urgencia". Semántica fina la de ellos.
+
+**Fuentes del update:** Fortune, Time, Axios, Reuters, Forbes.

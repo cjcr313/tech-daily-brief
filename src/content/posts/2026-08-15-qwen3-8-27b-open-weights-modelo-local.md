@@ -41,3 +41,12 @@ Alibaba además abrió los pesos de **Qwen3.8-2.4T-A95B** (la versión Max de la
 Para los que andan viendo correr agentes IA en hardware propio, esto recalibra el estándar: la pelea local de 2026 ya no es "¿puede un modelo pequeño ser útil?", sino "¿puede pegarle a los frontier en las tareas que importan?". Por lo menos en coding, la respuesta empieza a ser sí.
 
 **Fuentes:** anuncio oficial de Qwen, Hugging Face (unsloth/Qwen3.8-27B-GGUF), officechai, unsloth.ai, blog AMD.
+
+### Update: 19 de agosto — Artificial Analysis lo confirma: empata a GPT-5.6 Luna y supera a Claude Opus 4.8 en tareas agénticas
+
+Los benchmarks oficiales siempre hay que tomarlos con pinza, así que cuando **Artificial Analysis** valida independiente, la noticia sube de peso. Según SCMP citando al índice de AA (lunes 18):
+
+- En el **Intelligence Index**, Qwen3.8-27B (52 puntos) quedó **empatado con GPT-5.6 Luna** de OpenAI — el modelo que la casapresentó como el más costo-eficiente de su serie insignia — y a solo un punto de GLM-5.2 y DeepSeek V4-Pro-0813 (modelos de 753B y 1.7T parámetros, o sea, entre 28x y 63x más grandes).
+- En el **Agentic Index** (workflows de agentes IA), el modelo chico de Alibaba **superó a GPT-5.6 Terra** (el mid-tier de OpenAI) y nada menos que a **Claude Opus 4.8** de Anthropic.
+
+La narrativa que se está instalando en la industria: el gap entre "modelo local liviano" y "frontier" ya no está en inteligencia bruta, sino en reasoning extremo y contexto masivo. Para coding agéntico y tareas de agente — que es lo que la gente realmente ejecuta hoy — 27B parámetros corriendo en tu GPU alcanzaron la mesa adulta.
