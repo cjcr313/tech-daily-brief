@@ -44,6 +44,21 @@ Validada oficialmente para **Kubernetes 1.34+**, con defaults multi-tenant más 
 
 Subaru ganó un concurso de case studies de la CNCF usando Kubernetes + Argo CD para bajar el tiempo de pull de **imágenes de contenedores de IA de más de 30 GB: de 3 horas a 3 minutos**. Cuando la comunidad dice que K8s es la base de la IA en producción, no está bromean.
 
+### Update: 19 de agosto — Oficial: la CNCF graduó Kubeflow
+
+Se cayó la toga. La CNCF anunció la **graduación de Kubeflow**, su máxima designación de madurez, confirmando lo que veníamos siguiendo en este post. La ceremonia viene con números de contexto que explican por qué ahora:
+
+- **~260 millones de descargas** de sus paquetes Python en PyPI
+- **Más de 6.600 contribuidores** de **+1.000 organizaciones**, y 33.000+ estrellas en GitHub
+- **NVIDIA, Red Hat, Spotify y Bloomberg** entre los usuarios de sus subproyectos
+- Superó una **auditoría de seguridad independiente** y formalizó su **steering committee**, requisitos obligatorios de la graduación
+
+El timing no es casual: con la IA enterprise saliendo de la etapa experimental, las empresas necesitan operar modelos de forma confiable a escala, y Kubeflow les ofrece el ciclo completo (datos, entrenamiento, fine-tuning, inferencia, serving) sobre Kubernetes **sin amarrarse a un vendor**. El roadmap post-graduación apunta justo a lo más caro de la IA: orquestación de LLMs, post-training, data engineering avanzado y agentes.
+
+Para los platform teams que venían postergando la decisión: graduación = señal de longevidad y gobernanza. El stack Kale 2.0 + Notebooks v2 + Trainer + KServe que revisamos arriba ya no es apuesta, es infraestructura con sello CNCF.
+
+**Fuente del update:** [Cloud Native Now](https://cloudnativenow.com/features/cncf-graduates-kubeflow-for-production-ai-on-kubernetes/)
+
 ---
 
 **Fuente:** [InfoQ](https://www.infoq.com/news/2026/08/kubeflow/) · [CNCF Blog](https://www.cncf.io/blog/2026/07/28/kubeflow-unveils-new-cloud-native-innovations-to-supercharge-ai/)
