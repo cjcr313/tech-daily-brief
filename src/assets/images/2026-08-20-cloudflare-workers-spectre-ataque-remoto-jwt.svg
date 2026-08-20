@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1626"/>
+      <stop offset="1" stop-color="#12233d"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d3a5f"/>
+      <stop offset="1" stop-color="#0f2440"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff9e2c" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#2cd4ff" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2cd4ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2cd4ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+
+  <!-- circuit traces -->
+  <g stroke="#1e3a5c" stroke-width="3" fill="none" opacity="0.6">
+    <path d="M0 140 H300 l40 40 H520"/>
+    <path d="M1536 220 H1240 l-40 40 H1010"/>
+    <path d="M0 880 H260 l40 -40 H480"/>
+    <path d="M1536 900 H1280 l-40 -40 H1060"/>
+    <path d="M240 0 V220 l40 40 V420"/>
+    <path d="M1290 1024 V820 l-40 -40 V600"/>
+  </g>
+  <g fill="#2cd4ff" opacity="0.5">
+    <circle cx="520" cy="180" r="6"/><circle cx="1010" cy="260" r="6"/>
+    <circle cx="480" cy="840" r="6"/><circle cx="1060" cy="560" r="6"/>
+    <circle cx="280" cy="420" r="6"/><circle cx="1250" cy="600" r="6"/>
+  </g>
+
+  <!-- aura behind chip -->
+  <circle cx="768" cy="512" r="330" fill="url(#aura)"/>
+
+  <!-- module left (glass container) -->
+  <g>
+    <rect x="150" y="352" width="240" height="320" rx="18" fill="#0e1e33" stroke="#2cd4ff" stroke-opacity="0.55" stroke-width="3"/>
+    <rect x="178" y="392" width="184" height="16" rx="8" fill="#2cd4ff" opacity="0.35"/>
+    <rect x="178" y="428" width="120" height="12" rx="6" fill="#2cd4ff" opacity="0.25"/>
+    <rect x="178" y="456" width="150" height="12" rx="6" fill="#2cd4ff" opacity="0.2"/>
+    <!-- padlock -->
+    <g transform="translate(238,510)">
+      <rect x="0" y="26" width="64" height="48" rx="10" fill="#ff9e2c"/>
+      <path d="M14 26 V16 a18 18 0 0 1 36 0 V26" fill="none" stroke="#ff9e2c" stroke-width="9"/>
+      <circle cx="32" cy="50" r="7" fill="#0e1e33"/>
+    </g>
+  </g>
+
+  <!-- module right (glass container) -->
+  <g>
+    <rect x="1146" y="352" width="240" height="320" rx="18" fill="#0e1e33" stroke="#2cd4ff" stroke-opacity="0.55" stroke-width="3"/>
+    <rect x="1174" y="392" width="184" height="16" rx="8" fill="#2cd4ff" opacity="0.35"/>
+    <rect x="1174" y="428" width="120" height="12" rx="6" fill="#2cd4ff" opacity="0.25"/>
+    <rect x="1174" y="456" width="150" height="12" rx="6" fill="#2cd4ff" opacity="0.2"/>
+    <!-- token card -->
+    <g transform="translate(1174,510)">
+      <rect x="0" y="0" width="184" height="96" rx="12" fill="#16304f" stroke="#2cd4ff" stroke-opacity="0.6" stroke-width="2"/>
+      <circle cx="34" cy="48" r="14" fill="#ff9e2c"/>
+      <rect x="60" y="34" width="100" height="10" rx="5" fill="#2cd4ff" opacity="0.7"/>
+      <rect x="60" y="54" width="70" height="10" rx="5" fill="#2cd4ff" opacity="0.4"/>
+    </g>
+  </g>
+
+  <!-- CPU chip -->
+  <g>
+    <rect x="648" y="392" width="240" height="240" rx="20" fill="url(#chip)" stroke="#2cd4ff" stroke-width="3"/>
+    <!-- pins -->
+    <g stroke="#2cd4ff" stroke-width="5" opacity="0.7">
+      <path d="M676 392 V352 M728 392 V352 M780 392 V352 M832 392 V352"/>
+      <path d="M676 632 V672 M728 632 V672 M780 632 V672 M832 632 V672"/>
+      <path d="M648 420 H608 M648 472 H608 M648 524 H608 M648 576 H608"/>
+      <path d="M888 420 H928 M888 472 H928 M888 524 H928 M888 576 H928"/>
+    </g>
+    <rect x="688" y="432" width="160" height="160" rx="10" fill="none" stroke="#ff9e2c" stroke-width="2" opacity="0.8"/>
+    <circle cx="768" cy="512" r="34" fill="#ff9e2c" opacity="0.25" filter="url(#soft)"/>
+    <circle cx="768" cy="512" r="22" fill="#ff9e2c"/>
+  </g>
+
+  <!-- leaking bits between containers and chip -->
+  <g>
+    <path d="M390 480 H648" stroke="url(#glow)" stroke-width="4" stroke-dasharray="2 26" stroke-linecap="round" opacity="0.95"/>
+    <path d="M888 480 H1146" stroke="url(#glow)" stroke-width="4" stroke-dasharray="2 26" stroke-linecap="round" opacity="0.95" transform="rotate(180 1017 480)"/>
+    <path d="M390 560 H648" stroke="#2cd4ff" stroke-width="3" stroke-dasharray="1 34" stroke-linecap="round" opacity="0.7"/>
+    <path d="M888 560 H1146" stroke="#ff9e2c" stroke-width="3" stroke-dasharray="1 34" stroke-linecap="round" opacity="0.7"/>
+    <g fill="#ff9e2c">
+      <circle cx="470" cy="480" r="6"/><circle cx="560" cy="470" r="4"/><circle cx="520" cy="492" r="3"/>
+    </g>
+    <g fill="#2cd4ff">
+      <circle cx="960" cy="486" r="6"/><circle cx="1040" cy="470" r="4"/><circle cx="1090" cy="494" r="3"/>
+    </g>
+  </g>
+
+  <!-- bottom subtle grid -->
+  <g stroke="#16304f" stroke-width="1" opacity="0.5">
+    <path d="M0 960 H1536"/><path d="M0 990 H1536"/>
+  </g>
+</svg>

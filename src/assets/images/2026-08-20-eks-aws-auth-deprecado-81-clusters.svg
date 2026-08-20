@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101820"/>
+      <stop offset="1" stop-color="#182838"/>
+    </linearGradient>
+    <radialGradient id="spot" cx="0.5" cy="0.45" r="0.6">
+      <stop offset="0" stop-color="#ff9e2c" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#ff9e2c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f4468"/>
+      <stop offset="1" stop-color="#152b45"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#spot)"/>
+
+  <!-- nodes background -->
+  <g stroke="#274763" stroke-width="2" opacity="0.7">
+    <path d="M120 160 L260 240 M260 240 L420 150 M260 240 L260 400"/>
+    <path d="M1320 860 L1180 780 M1180 780 L1020 870 M1180 780 L1180 620"/>
+    <path d="M150 700 L300 620 L460 710"/>
+    <path d="M1380 180 L1230 260 L1070 170"/>
+  </g>
+  <g fill="#2cd4ff" opacity="0.55">
+    <circle cx="120" cy="160" r="8"/><circle cx="420" cy="150" r="8"/><circle cx="260" cy="400" r="8"/>
+    <circle cx="1320" cy="860" r="8"/><circle cx="1020" cy="870" r="8"/><circle cx="1180" cy="620" r="8"/>
+    <circle cx="150" cy="700" r="8"/><circle cx="460" cy="710" r="8"/>
+    <circle cx="1380" cy="180" r="8"/><circle cx="1070" cy="170" r="8"/>
+  </g>
+
+  <!-- Kubernetes helm (left) -->
+  <g transform="translate(420,512)">
+    <circle r="210" fill="#132435" stroke="#2cd4ff" stroke-width="5" opacity="0.95"/>
+    <circle r="150" fill="none" stroke="#2cd4ff" stroke-width="3" opacity="0.5"/>
+    <!-- spokes -->
+    <g stroke="#2cd4ff" stroke-width="14" stroke-linecap="round">
+      <path d="M0 -210 V-96"/><path d="M0 210 V96"/><path d="M-210 0 H-96"/><path d="M210 0 H96"/>
+      <path d="M-148 -148 L-68 -68"/><path d="M148 148 L68 68"/>
+      <path d="M-148 148 L-68 68"/><path d="148 -148 L68 -68"/>
+    </g>
+    <!-- containers on spokes -->
+    <g fill="#1f4468" stroke="#7fb7d9" stroke-width="3">
+      <rect x="-26" y="-236" width="52" height="42" rx="6"/>
+      <rect x="-26" y="194" width="52" height="42" rx="6"/>
+      <rect x="-236" y="-21" width="42" height="52" rx="6"/>
+      <rect x="194" y="-21" width="42" height="52" rx="6"/>
+      <rect x="-186" y="-186" width="46" height="46" rx="6" transform="rotate(45 -163 -163)"/>
+      <rect x="140" y="140" width="46" height="46" rx="6" transform="rotate(45 163 163)"/>
+      <rect x="-186" y="140" width="46" height="46" rx="6" transform="rotate(-45 -163 163)"/>
+      <rect x="140" y="-186" width="46" height="46" rx="6" transform="rotate(-45 163 -163)"/>
+    </g>
+    <circle r="34" fill="#2cd4ff"/>
+  </g>
+
+  <!-- old rusty padlock fading (right of helm) -->
+  <g transform="translate(770,470)" opacity="0.85">
+    <path d="M-60 10 V-24 a60 60 0 0 1 120 0 V10" fill="none" stroke="#8a6a3d" stroke-width="18" stroke-linecap="round"/>
+    <rect x="-86" y="10" width="172" height="130" rx="16" fill="#7a5c34" stroke="#a08050" stroke-width="4"/>
+    <circle cx="0" cy="62" r="16" fill="#3a2c18"/>
+    <rect x="-7" y="62" width="14" height="38" rx="6" fill="#3a2c18"/>
+    <!-- crack lines to suggest deprecated -->
+    <path d="M-70 130 l24 -28 l-12 -20 l30 -24" fill="none" stroke="#c98548" stroke-width="4" stroke-linecap="round"/>
+    <g opacity="0.5">
+      <path d="M120 -40 l14 22 M138 10 l-16 14 M112 40 l20 12" stroke="#c98548" stroke-width="4" stroke-linecap="round"/>
+    </g>
+  </g>
+
+  <!-- modern glowing keycard with checkmark (bottom right) -->
+  <g transform="translate(1120,600) rotate(-6)">
+    <rect x="-170" y="-104" width="340" height="208" rx="22" fill="url(#card)" stroke="#2cd4ff" stroke-width="4"/>
+    <rect x="-170" y="52" width="340" height="52" rx="22" fill="#0f2236" opacity="0.8"/>
+    <circle cx="-104" cy="-34" r="34" fill="#ff9e2c"/>
+    <circle cx="-104" cy="-34" r="44" fill="none" stroke="#ff9e2c" stroke-width="3" opacity="0.4"/>
+    <!-- checkmark badge -->
+    <g transform="translate(96,-52)">
+      <circle r="46" fill="#22c55e"/>
+      <path d="M-20 2 L-4 20 L24 -16" fill="none" stroke="#0b2b16" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <rect x="-46" y="10" width="180" height="14" rx="7" fill="#7fb7d9" opacity="0.8"/>
+    <rect x="-46" y="40" width="120" height="14" rx="7" fill="#7fb7d9" opacity="0.45"/>
+  </g>
+
+  <!-- migration arrow -->
+  <g>
+    <path d="M700 800 H1010" stroke="#2cd4ff" stroke-width="8" stroke-dasharray="18 16" stroke-linecap="round" opacity="0.9"/>
+    <path d="M1010 780 L1060 800 L1010 820 Z" fill="#2cd4ff" opacity="0.95"/>
+  </g>
+
+  <!-- small stat gauge: 81 percent donut, no digits -->
+  <g transform="translate(1120,236)">
+    <circle r="86" fill="none" stroke="#274763" stroke-width="26"/>
+    <path d="M0 -86 A86 86 0 1 1 -76.7 40.1" fill="none" stroke="#ff9e2c" stroke-width="26" stroke-linecap="round"/>
+  </g>
+</svg>

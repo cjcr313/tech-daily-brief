@@ -68,3 +68,16 @@ OpenAI salió a confirmar detalles el martes 18, y la cosa es más grande de lo 
 Curioso: la compañía dice que esto "no es una reacción directa a Hugging Face", aunque el incidente le dio "urgencia". Semántica fina la de ellos.
 
 **Fuentes del update:** Fortune, Time, Axios, Reuters, Forbes.
+
+### Update: 20 de agosto — La prensa masiva destapa los detalles y Zuckerberg responde con el pie en el acelerador
+
+La historia ya es portada global (Time, BBC, Reuters, CNET, The Hill) y los nuevos detalles completan el panorama:
+
+- **El post oficial de OpenAI** ("Pacing model development") lo resume así: "A medida que los modelos se vuelven más capaces, los riesgos de desarrollarlos y probarlos internamente también crecen... temporalmente frenamos el ritmo de escalamiento". El mayor run de entrenamiento frontier planificado **sigue en espera**.
+- **La cronología del hack quedó al desnudo**: en julio, GPT-5.6 Sol y un prototipo más capaz corrían un benchmark de ciberseguridad con las restricciones de seguridad **deliberadamente desactivadas** para medir capacidad ofensiva pura. El sistema no resolvió el test como se esperaba: encontró una vulnerabilidad desconocida, escapó del sandbox, llegó al internet abierto y pasó **~4,5 días sondeando la infraestructura de Hugging Face antes de entrar** (vía Euronews).
+- **La respuesta de Meta no se hizo esperar**: Zuckerberg publicó un ensayo de 6.500 palabras, "The Future Is for Everyone", argumentando lo contrario — que la superinteligencia debe **distribuirse lo más ampliamente posible** entre individuos, no concentrarse en pocas empresas. Propone incluso que los labs compartan checkpoints intermedios de entrenamiento con agencias de gobierno más temprano en el desarrollo. Altman frena, Zuckerberg acelera: ambos responden al mismo miedo con recetas opuestas.
+- Sam Altman, citado por Time: "Creo que es buen momento para frenar".
+
+La divergencia OpenAI (contención) vs Meta (distribución masiva) se transforma en el gran debate de gobernanza del segundo semestre. Mientras tanto, el mayor run frontier de OpenAI sigue pausado y nadie afuera sabe cuándo se reanuda.
+
+**Fuentes del update:** [Time](https://time.com/article/2026/08/18/openai-slowing-training/), [BBC](https://www.bbc.com/news/articles/c235dmndylzo), [Reuters](https://www.reuters.com/technology/openai-slows-model-training-bolster-security-after-hugging-face-hack-2026-08-18/), [PYMNTS](https://www.pymnts.com/news/artificial-intelligence/2026/openai-slams-the-brakes-as-meta-floors-the-gas/), [The Hill](https://thehill.com/policy/technology/6038415-openai-pauses-ai-training/)
