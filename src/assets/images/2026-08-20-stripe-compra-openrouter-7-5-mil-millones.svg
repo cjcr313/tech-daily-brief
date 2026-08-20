@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="80%">
+      <stop offset="0%" stop-color="#101c33"/>
+      <stop offset="100%" stop-color="#070d1c"/>
+    </radialGradient>
+    <linearGradient id="hub" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="trail1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="trail2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="trail3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="14" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+
+  <!-- subtle circuit grid -->
+  <g stroke="#1b2a4a" stroke-width="1.5" opacity="0.5">
+    <path d="M0 128 H400 V260 H760"/>
+    <path d="M1536 200 H1180 V340 H900"/>
+    <path d="M0 820 H340 V700 H620"/>
+    <path d="M1536 880 H1240 V760 H980"/>
+    <path d="M240 0 V180 H520"/>
+    <path d="M1300 1024 V860 H1050"/>
+  </g>
+  <g fill="#24406b">
+    <circle cx="400" cy="260" r="5"/><circle cx="1180" cy="340" r="5"/>
+    <circle cx="340" cy="700" r="5"/><circle cx="1240" cy="760" r="5"/>
+    <circle cx="520" cy="180" r="5"/><circle cx="1050" cy="860" r="5"/>
+  </g>
+
+  <!-- light trails converging to hub -->
+  <g stroke-width="4" fill="none" filter="url(#glow)">
+    <path d="M180 180 C 480 220, 620 300, 736 470" stroke="url(#trail1)"/>
+    <path d="M140 512 C 400 500, 560 500, 726 512" stroke="url(#trail3)"/>
+    <path d="M210 860 C 480 820, 620 730, 736 560" stroke="url(#trail2)"/>
+    <path d="M1360 170 C 1060 210, 920 300, 800 470" stroke="url(#trail2)"/>
+    <path d="M1400 512 C 1140 520, 960 520, 810 512" stroke="url(#trail1)"/>
+    <path d="M1330 860 C 1060 820, 920 730, 800 560" stroke="url(#trail3)"/>
+  </g>
+
+  <!-- outer model nodes -->
+  <g filter="url(#glow)">
+    <circle cx="180" cy="180" r="34" fill="#0f2b4d" stroke="#38bdf8" stroke-width="3"/>
+    <circle cx="140" cy="512" r="26" fill="#132c47" stroke="#2dd4bf" stroke-width="3"/>
+    <circle cx="210" cy="860" r="38" fill="#181238" stroke="#a78bfa" stroke-width="3"/>
+    <circle cx="1360" cy="170" r="30" fill="#221040" stroke="#c084fc" stroke-width="3"/>
+    <circle cx="1400" cy="512" r="28" fill="#0e2a44" stroke="#22d3ee" stroke-width="3"/>
+    <circle cx="1330" cy="860" r="36" fill="#0d2f3f" stroke="#34d399" stroke-width="3"/>
+    <!-- hex nodes -->
+    <path d="M420 90 l30 17 v35 l-30 17 -30 -17 v-35 z" fill="#101c3a" stroke="#818cf8" stroke-width="3"/>
+    <path d="M1090 954 l30 17 v35 l-30 17 -30 -17 v-35 z" fill="#0f1f3a" stroke="#f472b6" stroke-width="3"/>
+    <path d="M760 130 l28 16 v33 l-28 16 -28 -16 v-33 z" fill="#12203d" stroke="#facc15" stroke-width="3"/>
+  </g>
+  <!-- node inner details -->
+  <g fill="#7dd3fc" opacity="0.85">
+    <circle cx="180" cy="180" r="8"/><circle cx="1360" cy="170" r="7"/><circle cx="140" cy="512" r="6"/>
+  </g>
+  <g fill="#c4b5fd" opacity="0.85">
+    <circle cx="210" cy="860" r="9"/><circle cx="1330" cy="860" r="8"/><circle cx="1400" cy="512" r="6"/>
+  </g>
+
+  <!-- central payment hub -->
+  <g filter="url(#glow)">
+    <path d="M768 380 l92 53 v106 l-92 53 -92 -53 V433 z" fill="url(#hub)" opacity="0.95"/>
+    <path d="M768 380 l92 53 v106 l-92 53 -92 -53 V433 z" fill="none" stroke="#e0f2fe" stroke-width="3" opacity="0.7"/>
+  </g>
+  <!-- card chip glyph inside hub -->
+  <g transform="translate(742,452)" fill="#06121f" opacity="0.85">
+    <rect x="0" y="0" width="52" height="38" rx="6"/>
+    <rect x="8" y="8" width="14" height="10" rx="2" fill="#0e2a3f"/>
+    <rect x="30" y="8" width="14" height="10" rx="2" fill="#0e2a3f"/>
+    <rect x="8" y="22" width="14" height="8" rx="2" fill="#0e2a3f"/>
+    <rect x="30" y="22" width="14" height="8" rx="2" fill="#0e2a3f"/>
+  </g>
+
+  <!-- orbit ring -->
+  <ellipse cx="768" cy="512" rx="250" ry="118" fill="none" stroke="#334f7d" stroke-width="2" opacity="0.6" stroke-dasharray="10 14"/>
+
+  <!-- floating token dots -->
+  <g fill="#5eead4" opacity="0.9">
+    <circle cx="500" cy="360" r="6"/><circle cx="1040" cy="640" r="7"/><circle cx="560" cy="680" r="5"/>
+    <circle cx="980" cy="350" r="5"/><circle cx="768" cy="240" r="6"/><circle cx="768" cy="790" r="6"/>
+  </g>
+</svg>

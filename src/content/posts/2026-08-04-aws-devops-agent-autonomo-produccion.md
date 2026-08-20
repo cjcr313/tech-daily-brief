@@ -27,3 +27,11 @@ No es solo otro asistente tipo chatbot; este agente hace *troubleshooting* direc
 Ya veníamos viendo cómo la IA se metía en la observabilidad, pero que AWS integre un agente de forma tan nativa para interactuar directamente con Kubernetes y CloudWatch es un paso gigante. 
 
 Esto consolida la tendencia del "autonomous troubleshooting" en 2026. La inteligencia artificial ya no solo ayuda a escribir código, ahora también se está encargando del triaje operativo, buscando reducir drásticamente el MTTR (Mean Time to Recovery). Falta ver cómo lo adoptan los equipos SRE y qué tantas políticas de seguridad requerirá para funcionar en entornos críticos, pero la promesa es tremenda.
+
+### Update: 20 de agosto de 2026
+
+AWS publicó un **walkthrough completo de integración CI/CD**: el DevOps Agent ahora puede **investigar fallas de pipeline en CodePipeline correlacionándolas con los commits de GitHub**. El flujo completo: CloudWatch detecta la anomalía (build fallido, rollback, breach de métricas) → el estado ALARM invoca una Lambda "WebHook Executor" → ésta manda un POST autenticado al agente con un request de investigación estructurado → el agente cruza la falla contra el historial de commits y pull requests del repo conectado y devuelve una hipótesis de causa raíz, con **audit trail de su propio razonamiento** para revisar antes de actuar.
+
+Además se confirmó la lista de integraciones nativas de observabilidad: **CloudWatch, Dynatrace, Datadog, Grafana, New Relic y Splunk**, más repositorios y pipelines CI/CD (Azure DevOps incluido). El setup requiere IAM roles para el Agent Space, el webhook guardado en Secrets Manager y los repos de GitHub registrados vía la pestaña Capabilities. AWS lo posiciona dentro del pilar *Operational Excellence* del Well-Architected Framework y publicó un [repo de ejemplo en GitHub](https://github.com/aws-samples/sample-aws-devops-agent-cloudwatch) con la implementación de referencia que dispara la investigación cuando una alarma entra en estado ALARM.
+
+**Fuente del update:** [Developer Tech News](https://www.developer-tech.com/news/aws-devops-agent-traces-pipeline-failures-github-commits/)
