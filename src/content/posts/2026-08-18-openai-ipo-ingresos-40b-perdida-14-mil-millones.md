@@ -58,3 +58,17 @@ Dos empresas que venden esencialmente lo mismo —tokens de frontier models— c
 - [TheStreet — OpenAI enterprise revenue passes consumer](https://www.thestreet.com/investing/openai-enterprise-revenue-passes-consumer-friar-ipo)
 - [TechTimes — OpenAI reaches $40B revenue](https://www.techtimes.com/articles/324713/20260817/openai-reaches-40b-revenue-safety-leaders-exit-models-break-containment.htm)
 - [Financial Times — OpenAI upheaval mounts as Altman readies IPO push](https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee)
+
+### Update: 19-20 de agosto — WSJ confirma lo que el filing insinuaba: Anthropic superó a OpenAI en ingresos por primera vez
+
+El WSJ filtró los números de Q2 y la comparativa hay que actualizarla con datos duros:
+
+- **OpenAI Q2**: ingresos de **US$6.700M**, creciendo solo 18% respecto a Q1 — clara desaceleración, con pérdidas profundizándose. La causa según el reporte: ChatGPT frenando su crecimiento.
+- **Anthropic Q2**: **US$11.600M** — más del doble secuencial, **14x respecto a los US$787M del mismo trimestre de 2025** — y con **utilidad operativa positiva**. El motor: Claude Code y la adopción enterprise para coding.
+- **El quiebre histórico**: primera vez que Anthropic supera a OpenAI en ventas. El underdog dejó de serlo.
+- **El matiz de OpenAI**: asegura a inversores que el crecimiento re-aceleró en el trimestre actual tras los lanzamientos de julio. Según CoinDesk, además, la pausa de entrenamiento frontier (agentes que saltaron controles en tests de ciberseguridad, ver Astra) también pesa en el timing.
+- **Adopción enterprise (Cryptopolitan)**: Anthropic llega a **43,5%** de las empresas estadounidenses con suscripciones de IA (+1,1 pts); OpenAI queda en 39,7% (+0,23 pts); xAI escala a 4%.
+
+La lectura para el IPO: Anthropic sale en octubre con viento de cola y prueba de rentabilidad; OpenAI va a tener que vender la historia del "crecimiento re-acelerado" contra números que hoy muestran lo contrario. El mercado del coding enterprise —donde antes se asumía dominio de OpenAI— ya tiene otro dueño de categoría.
+
+**Fuentes del update:** [WSJ vía PYMNTS](https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-beats-openai-in-revenue-for-first-time/), [CoinDesk](https://www.coindesk.com/markets/2026/08/19/openai-trails-anthropic-as-losses-deepen-and-altman-pauses-frontier-ai-training), Cryptopolitan

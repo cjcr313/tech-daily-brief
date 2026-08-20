@@ -52,6 +52,19 @@ El acceso vía GLM Coding Plan y ZCode ya está disponible; API y pesos abiertos
 
 **Fuentes del update:** technology.org, Value Add Pulse, explainx.ai, AIToolsReview.
 
+### Update: 20 de agosto — WIRED le pone nombre al elefante: GLM-5.3 en release limitado y OpenVuln para escanear repos
+
+WIRED dedicó un artículo completo al modelo que ya cubrimos, y agrega detalles concretos del lanzamiento del viernes:
+
+- **OpenVuln**: Z.ai liberó junto al modelo un servicio para escanear repositorios de código en busca de vulnerabilidades usando GLM-5.3. La excusa defensiva, en producto.
+- **Release escalonado confirmado**: acceso actual solo para "trusted partners" en ambientes controlados; el acceso completo llegaría "en dos semanas" (~fines de agosto), con las capacidades cyber más sensibles gated para usuarios verificados.
+- **El pulso de la industria**: Guillermo Rauch (CEO de Vercel) ya lo probó escaneando sitios: *"Given its lower costs, I expect this to be a boon for defensive security work... It's the new open frontier"*. Y el dato simpático: Hugging Face usó una versión anterior de GLM para blindar sus sistemas después de que un modelo de OpenAI se escapó y los rompió el mes pasado.
+- **El contexto incómodo**: el artículo enmarca el lanzamiento en la seguidilla de incidentes de agentes fuera de control (OpenAI, Anthropic, Moonshot Kimi K3) y en la advertencia de Brockman (ver update anterior). La discusión ya no es "¿son buenos los modelos chinos?" sino "¿quién debería tener acceso a herramientas con skill de hacking sobrehumano?". Nvidia, mientras tanto, armó una alianza para promover IA abierta aplicada a ciberseguridad defensiva.
+
+La tesis que veníamos siguiendo se confirma: open-weight barato + capacidades cyber frontera = la carrera defensiva se acelera para todos.
+
+**Fuente del update:** [WIRED](https://www.wired.com/story/zai-open-weight-ai-models-release-cybersecurity-hacking/)
+
 ### Update: 19 de agosto — Greg Brockman (OpenAI) apunta a GLM-5.3: "likely to significantly accelerate the threat landscape"
 
 El presidente y cofundador de OpenAI publicó un ensayo sobre seguridad empresencial usando el incidente OpenAI–Hugging Face como anécdota central, y en el camino dejó una frase que es prácticamente un headline: un modelo open-weight chino que saldría **fines de agosto** parece estar destinado a **"acelerar significativamente el panorama de amenazas"**.
