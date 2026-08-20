@@ -12,7 +12,7 @@ tags:
 description: "Anthropic firmó un contrato de 20 años y US$9.1 mil millones con Riot Platforms para 191MW de capacidad en Texas. Los mineros de Bitcoin ahora son la nueva frontera de la infraestructura IA."
 ---
 
-![Centro de datos de IA con servidores y luces azules, antigua instalación de minería Bitcoin reconvertida, estilo editorial tech](../../assets/images/2026-08-11-anthropic-riot-platforms-9-mil-millones-infra-ia.jpg)
+![Centro de datos de IA con servidores y luces azules, antigua instalación de minería Bitcoin reconvertida, estilo editorial tech](../../assets/images/placeholder.jpg)
 
 Si te dijeran hace dos años que un minero de Bitcoin sería clave para la infraestructura de uno de los labs de IA más importantes del mundo, te habrías reído. Bueno, aquí estamos.
 

@@ -10,7 +10,7 @@ tags:
 description: "Infoblox completó la adquisición de Kentik, sumando inteligencia de red en tiempo real a su plataforma DDI. Apuesta fuerte por operaciones agenticas y network observability."
 ---
 
-![Ilustración editorial de nodos de red interconectados con ondas de datos fluyendo entre ellos, estilo tech editorial verde y azul](../../assets/images/2026-08-13-infoblox-kentik-observabilidad-red-adquisicion.jpg)
+![Ilustración editorial de nodos de red interconectados con ondas de datos fluyendo entre ellos, estilo tech editorial verde y azul](../../assets/images/placeholder.jpg)
 
 Infoblox cerró la adquisición de **Kentik**, la plataforma de inteligencia y observabilidad de red. No es una compra táctica: es una jugada de plataforma que fusiona DDI (DNS, DHCP, IPAM) con observabilidad en tiempo real.
 

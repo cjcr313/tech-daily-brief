@@ -10,7 +10,7 @@ tags:
 description: "Z.ai (Zhipu) prepara GLM-5.3 sobre la base de ~700B parámetros, con weights abiertos en dos semanas y benchmarks que prometen superar a GLM-5.2 y rozar a Claude Fable 5. Aprovecha además el alza de precios de DeepSeek."
 ---
 
-![Ilustración editorial de un cerebro de circuitos dorados y rojos escribiendo código en pantallas flotantes, carrera tecnológica de fondo, estilo tech editorial](../../assets/images/2026-08-14-zai-glm-5-3-coding-anuncio-benchmarks.jpg)
+![Ilustración editorial de un cerebro de circuitos dorados y rojos escribiendo código en pantallas flotantes, carrera tecnológica de fondo, estilo tech editorial](../../assets/images/placeholder.jpg)
 
 Z.ai (antes Zhipu) volvió a mover pieza en la carrera china de IA: anunció **GLM-5.3**, la próxima iteración de su modelo insignia, con mejoras fuertes en **coding** que según la compañía le permiten cerrar la brecha con los toppers de los leaderboards, como **Claude Fable 5** de Anthropic.
 

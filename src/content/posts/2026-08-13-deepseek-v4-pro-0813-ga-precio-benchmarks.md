@@ -10,7 +10,7 @@ tags:
 description: "DeepSeek lanzó V4-Pro-0813 con 1.6T parámetros, contexto de 1M tokens y precios que son la fracción de la competencia. Ya es el segundo mayor consumidor de tokens del mundo, solo detrás de Anthropic."
 ---
 
-![Ilustración editorial de un cohete rojo despegando con elementos de datos y tokens flotando alrededor, estilo tech editorial](../../assets/images/2026-08-13-deepseek-v4-pro-0813-ga-precio-benchmarks.jpg)
+![Ilustración editorial de un cohete rojo despegando con elementos de datos y tokens flotando alrededor, estilo tech editorial](../../assets/images/placeholder.jpg)
 
 DeepSeek no para. El lab chino acaba de mandar V4-Pro-0813 a producción general (GA) y los números son una locura.
 

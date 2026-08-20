@@ -11,7 +11,7 @@ tags:
 description: "Un pod pide nvidia.com/gpu: 1 y se adueña de una H100 completa usándola al 10%. MIG, MPS, time-slicing y DRA son las herramientas para dejar de desperdiciar silicon carísimo."
 ---
 
-![Ilustración editorial de una GPU siendo dividida en particiones con símbolos de Kubernetes, mostrando optimización de recursos, estilo tech editorial azul](../../assets/images/2026-08-13-kubernetes-gpus-mig-mps-dra-compartir-silicon.jpg)
+![Ilustración editorial de una GPU siendo dividida en particiones con símbolos de Kubernetes, mostrando optimización de recursos, estilo tech editorial azul](../../assets/images/placeholder.jpg)
 
 El dashboard de costos no mentía: un cluster de nodos con 8 GPUs cada uno, todas mostrando "Allocated: 1/1". Finance preguntando por qué la boleta parecía un data center chico. Y al correr `nvidia-smi` por todo el fleet: utilización al 10%. Un modelo 7B en BF16 ocupando un dieciseisavo de 80 GB de VRAM.
 

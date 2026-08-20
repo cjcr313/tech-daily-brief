@@ -12,7 +12,7 @@ tags:
 description: "Novee Security reveló en Black Hat/DEF CON que las configuraciones default de Claude Code, Gemini CLI y repos de agentes de OpenAI permiten que un GitHub Issue sin auth ejecute código en CI y acceda a secrets."
 ---
 
-![Claude Code Gemini CLI CI Secrets Vulnerability](../../assets/images/2026-08-09-claude-code-gemini-cli-github-issues-ci-secrets.jpg)
+![Claude Code Gemini CLI CI Secrets Vulnerability](../../assets/images/placeholder.jpg)
 
 Si usas **Claude Code**, **Gemini CLI** o los **agent repos de OpenAI** en tus pipelines de CI, lee esto con atención. La firma **Novee Security** reveló en el contexto de **Black Hat / DEF CON 2026** una vulnerabilidad que afecta las configuraciones por defecto de las tres herramientas principales de coding agents.
 

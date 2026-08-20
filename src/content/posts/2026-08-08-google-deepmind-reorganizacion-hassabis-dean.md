@@ -10,7 +10,7 @@ tags:
 description: "Sundar Pichai anunció cambios en Google DeepMind: Demis Hassabis deja operaciones y pasa a Chief Scientist de Alphabet. Koray Kavukcuoglu asume como SVP."
 ---
 
-![Google DeepMind leadership reorganization](../../assets/images/2026-08-08-google-deepmind-reorganizacion.jpg)
+![Google DeepMind leadership reorganization](../../assets/images/placeholder.jpg)
 
 Google acaba de anunciar una reorganización significativa en **Google DeepMind (GDM)**, y los movimientos son para analizar.
 

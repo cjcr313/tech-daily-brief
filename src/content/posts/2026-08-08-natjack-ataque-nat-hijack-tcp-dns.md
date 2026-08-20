@@ -12,7 +12,7 @@ tags:
 description: "Investigador Malcolm Stagg presentó NatJack en Black Hat USA 2026: una nueva clase de ataque que manipula tablas NAT para secuestrar conexiones TCP, spoofear DNS y agotar conexiones. Afecta Windows, Linux y macOS."
 ---
 
-![NatJack - Ataque a tablas NAT](../../assets/images/2026-08-08-natjack-ataque-nat-hijack-tcp-dns.jpg)
+![NatJack - Ataque a tablas NAT](../../assets/images/placeholder.jpg)
 
 Esto es de los que te hacen repensar tu arquitectura de red. En el **Black Hat USA 2026**, el investigador **Malcolm Stagg** (a través de SODIUM-24) presentó **NatJack** — una nueva clase de ataque que rompe un supuesto que todos dábamos por sentado: que los hosts detrás del mismo NAT no pueden manipularse entre sí.
 

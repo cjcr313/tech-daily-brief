@@ -11,7 +11,7 @@ tags:
 description: "El mercado de observabilidad para LLMs llega a US$2.69 mil millones en 2026. Cuatro plataformas dominan: Langfuse, LangSmith, Braintrust y Arize. Esta es la guía práctica."
 ---
 
-![Ilustración editorial de dashboards de monitoring con trazas de agentes de IA, gráficos de tokens y métricas de calidad](../../assets/images/2026-08-10-llm-observabilidad-langfuse-langsmith-arize-2026.jpg)
+![Ilustración editorial de dashboards de monitoring con trazas de agentes de IA, gráficos de tokens y métricas de calidad](../../assets/images/placeholder.jpg)
 
 La observabilidad de LLMs dejó de ser opcional. Según Gartner, para 2028 el **50% de los deployments de GenAI** tendrán inversión dedicada en observabilidad (hoy apenas 15%). Y el mercado ya refleja la presión: **US$2.69 mil millones en 2026**, con proyección de US$9.26 mil millones para 2030.
 

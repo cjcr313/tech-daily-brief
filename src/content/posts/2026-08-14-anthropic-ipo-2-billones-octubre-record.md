@@ -11,7 +11,7 @@ tags:
 description: "Los inversores de Anthropic buscan una valoración de US$2 billones para su IPO de octubre. Esto superaría cualquier oferta pública inicial previa y redefiniría el panorama de la IA."
 ---
 
-![Ilustración editorial de una campana de bolsa gigante con símbolos de IA flotando alrededor, estilo tech editorial](../../assets/images/2026-08-14-anthropic-ipo-2-billones-octubre-record.jpg)
+![Ilustración editorial de una campana de bolsa gigante con símbolos de IA flotando alrededor, estilo tech editorial](../../assets/images/placeholder.jpg)
 
 Según el Financial Times, los inversores de Anthropic esperan que la empresa salga a bolsa en **octubre con una valoración de US$2 billones o más**. Si se concreta, sería **la IPO más grande de la historia**.
 

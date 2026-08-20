@@ -11,7 +11,7 @@ tags:
 description: "EKS ahora permite ajustar parámetros del API server, scheduler y controller manager directamente. Menos nodes ociosos, autoscaling más rápido y migraciones sin proxies."
 ---
 
-![Ilustración editorial de un plano de control de Kubernetes con engranajes y nodos de cómputo optimizándose](../../assets/images/aws-eks-configuracion-avanzada-control-plane.jpg)
+![Ilustración editorial de un plano de control de Kubernetes con engranajes y nodos de cómputo optimizándose](../../assets/images/placeholder.jpg)
 
 AWS acaba de habilitar la **configuración avanzada del control plane en Amazon EKS**, y es de esas noticias que suenan aburridas hasta que te das cuenta del dolor que se ahorró la gente.
 

@@ -11,7 +11,7 @@ tags:
 description: "HashiCorp parchó tres vulnerabilidades críticas en terraform-mcp-server, incluyendo un CVSS 10.0 que permite robar tokens de Terraform entre usuarios en deployments compartidos."
 ---
 
-![Ilustración editorial de un candado roto sobre código de infraestructura con conexiones de red en rojo](../../assets/images/2026-08-10-terraform-mcp-server-cvss-10-sesion-hijack.jpg)
+![Ilustración editorial de un candado roto sobre código de infraestructura con conexiones de red en rojo](../../assets/images/placeholder.jpg)
 
 Si tienes un Terraform MCP Server compartido en tu equipo, **actualiza ahora mismo**. HashiCorp parchó tres vulnerabilidades críticas la semana pasada, y la peor tiene **CVSS 10.0 perfecto**.
 

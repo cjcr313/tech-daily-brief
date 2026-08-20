@@ -11,7 +11,7 @@ tags:
 description: "CVE-2026-64638: un XSS en la pantalla de login de WordPress encadenado a RCE. 500M+ sitios vulnerables. Patched en WP 7.0.3."
 ---
 
-![XSS2Shell vulnerability in WordPress](../../assets/images/2026-08-08-wordpress-xss2shell.jpg)
+![XSS2Shell vulnerability in WordPress](../../assets/images/placeholder.jpg)
 
 Si tienes un sitio en WordPress, deja lo que estás haciendo y actualiza. En serio.
 

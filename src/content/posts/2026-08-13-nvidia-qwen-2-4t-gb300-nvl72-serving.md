@@ -11,7 +11,7 @@ tags:
 description: "NVIDIA publicó un recipe técnico para servir Qwen3.8-Max (2.4T parámetros, 95B activos) en GB300 NVL72 con +4K tokens/s por GPU. Arquitectura MoE híbrida, contexto de 1M y razonamiento ajustable."
 ---
 
-![Ilustración editorial de un rack de servidores GPU procesando flujos de datos masivos, estilo tech editorial azul y naranjo](../../assets/images/2026-08-13-nvidia-qwen-2-4t-gb300-nvl72-serving.jpg)
+![Ilustración editorial de un rack de servidores GPU procesando flujos de datos masivos, estilo tech editorial azul y naranjo](../../assets/images/placeholder.jpg)
 
 NVIDIA publicó un blog técnico detallando cómo servir **Qwen3.8-2.4T-A95B** (también conocido como Qwen3.8-Max) en su hardware GB300 NVL72. Los números son impresionantes y la arquitectura del modelo es una clase magistral de diseño para inferencia.
 

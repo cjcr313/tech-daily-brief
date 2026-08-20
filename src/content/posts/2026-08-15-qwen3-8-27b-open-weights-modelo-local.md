@@ -10,7 +10,7 @@ tags:
 description: "Alibaba lanzó Qwen3.8-27B con open weights Apache 2.0: 262K de contexto, multimodal, y benchmarks que superan a Muse Glimmer 30B y hasta a Opus 4.6 Max en coding real."
 ---
 
-![Ilustración editorial de un modelo de IA compacto corriendo localmente en una GPU, estilo tech editorial](../../assets/images/2026-08-15-qwen3-8-27b-open-weights-modelo-local.jpg)
+![Ilustración editorial de un modelo de IA compacto corriendo localmente en una GPU, estilo tech editorial](../../assets/images/placeholder.jpg)
 
 La guerra de los modelos locales tiene un nuevo contendiente, y esta vez viene con todo: **Qwen3.8-27B**, lanzado ayer por Alibaba a las 15:00 UTC, con **open weights desde el día uno bajo licencia Apache 2.0**. Nada de "esperen unas semanas": los pesos ya están en Hugging Face (incluidos los GGUF de Unsloth).
 

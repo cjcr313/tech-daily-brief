@@ -10,7 +10,7 @@ tags:
 description: "DeepSeek invierte US$20.8 millones en Unitree Robotics como inversionista estratégico de su IPO en Shanghai (valuada en US$9 mil millones). La IA china pasa del server al mundo físico."
 ---
 
-![Ilustración editorial de un robot humanoide con circuitos de IA brillantes, estilo tech editorial](../../assets/images/2026-08-10-deepseek-invierte-unitree-humanoides-ipo-shanghai.jpg)
+![Ilustración editorial de un robot humanoide con circuitos de IA brillantes, estilo tech editorial](../../assets/images/placeholder.jpg)
 
 DeepSeek, el lab chino que revolucionó el mercado de LLMs con modelos baratos y eficientes, acaba de dar un giro estratégico que nadie esperaba: **inversión de US$20.8 millones (140.8 millones de yuanes) en Unitree Robotics**, el mayor fabricante de robots humanoides del mundo.
 

@@ -11,7 +11,7 @@ tags:
 description: "Meta liberó Muse Glimmer, un modelo denso de 30B parámetros con licencia Apache 2.0, diseñado para agentes IA que corren localmente en una sola GPU. 131K de contexto, tool use y razonamiento configurable."
 ---
 
-![Ilustración editorial de un chip GPU brillando con luz cálida en un entorno local, representando IA on-device, estilo tech editorial](../../assets/images/2026-08-14-meta-muse-glimmer-30b-open-weight-agentes-locales.jpg)
+![Ilustración editorial de un chip GPU brillando con luz cálida en un entorno local, representando IA on-device, estilo tech editorial](../../assets/images/placeholder.jpg)
 
 Zuckerberg publicó un essay de más de 6.000 palabras usando la palabra "superinteligencia" unas 55-60 veces, y junto con el manifiesto lanzó algo concreto: **Muse Glimmer**, un modelo open-weight de 30B parámetros diseñado específicamente para **agentes IA locales**.
 

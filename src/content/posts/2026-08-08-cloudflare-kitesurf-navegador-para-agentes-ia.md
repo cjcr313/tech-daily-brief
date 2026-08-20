@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare lanzó Kitesurf, un navegador cloud-hosted diseñado para que agentes de IA naveguen la web de forma eficiente. Corre sobre Workers."
 ---
 
-![Cloudflare Kitesurf browser for AI agents](../../assets/images/2026-08-08-cloudflare-kitesurf.jpg)
+![Cloudflare Kitesurf browser for AI agents](../../assets/images/placeholder.jpg)
 
 Cloudflare acaba de lanzar **Kitesurf**, y la idea es de esas que suenan obvias una vez que las escuchas: un navegador diseñado desde cero para **agentes de IA**, no para personas.
 

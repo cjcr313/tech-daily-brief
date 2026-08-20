@@ -11,7 +11,7 @@ tags:
 description: "Dynatrace pagará US$915 millones por Arize, la plataforma líder en AI observability. La jugada une evaluación de modelos y monitoreo de producción en un solo sistema, anticipando un mercado de US$10 mil millones para 2030."
 ---
 
-![Ilustración editorial de dos esferas de datos fusionándose en un dashboard de observabilidad con trazas de agentes de IA y métricas, estilo tech editorial](../../assets/images/2026-08-14-dynatrace-compra-arize-915m-observabilidad-ia.jpg)
+![Ilustración editorial de dos esferas de datos fusionándose en un dashboard de observabilidad con trazas de agentes de IA y métricas, estilo tech editorial](../../assets/images/placeholder.jpg)
 
 Movida grande en observabilidad: **Dynatrace (NYSE: DT) firmó acuerdo definitivo para comprar Arize** en una transacción de US$915 millones (cash y stock). Unas ~$815M en efectivo más equity de reemplazo para los empleados que se integran a Dynatrace. Cierre esperado para fin de trimestre o principios del Q3 fiscal.
 
