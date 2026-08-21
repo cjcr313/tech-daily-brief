@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1428"/>
+      <stop offset="1" stop-color="#122741"/>
+    </linearGradient>
+    <radialGradient id="hubGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb347" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#ffb347" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tealGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hubFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffc46b"/>
+      <stop offset="1" stop-color="#e08b2d"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64,0 L0,0 0,64" fill="none" stroke="#2dd4bf" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#grid)"/>
+
+  <!-- scattered clouds with control-plane nodes -->
+  <g>
+    <g opacity="0.9">
+      <rect x="90" y="120" width="240" height="110" rx="34" fill="#1a3355"/>
+      <rect x="130" y="90" width="150" height="70" rx="26" fill="#22406b"/>
+      <circle cx="170" cy="175" r="9" fill="#2dd4bf" opacity="0.9"/>
+      <circle cx="215" cy="160" r="7" fill="#2dd4bf" opacity="0.6"/>
+      <circle cx="258" cy="178" r="8" fill="#ffb347" opacity="0.8"/>
+    </g>
+    <g opacity="0.9">
+      <rect x="1180" y="90" width="250" height="115" rx="34" fill="#1a3355"/>
+      <rect x="1225" y="60" width="155" height="70" rx="26" fill="#22406b"/>
+      <circle cx="1265" cy="150" r="8" fill="#ffb347" opacity="0.85"/>
+      <circle cx="1310" cy="135" r="7" fill="#2dd4bf" opacity="0.7"/>
+      <circle cx="1352" cy="152" r="9" fill="#2dd4bf" opacity="0.9"/>
+    </g>
+    <g opacity="0.85">
+      <rect x="60" y="760" width="230" height="105" rx="32" fill="#1a3355"/>
+      <rect x="105" y="735" width="140" height="62" rx="24" fill="#22406b"/>
+      <circle cx="150" cy="815" r="8" fill="#2dd4bf" opacity="0.8"/>
+      <circle cx="200" cy="800" r="7" fill="#ffb347" opacity="0.7"/>
+      <circle cx="240" cy="818" r="8" fill="#2dd4bf" opacity="0.6"/>
+    </g>
+    <g opacity="0.85">
+      <rect x="1210" y="780" width="255" height="110" rx="34" fill="#1a3355"/>
+      <rect x="1262" y="752" width="150" height="66" rx="25" fill="#22406b"/>
+      <circle cx="1305" cy="840" r="9" fill="#ffb347" opacity="0.8"/>
+      <circle cx="1355" cy="825" r="7" fill="#2dd4bf" opacity="0.9"/>
+      <circle cx="1398" cy="843" r="8" fill="#2dd4bf" opacity="0.6"/>
+    </g>
+  </g>
+
+  <!-- connectors to hub -->
+  <g stroke="#2dd4bf" stroke-opacity="0.4" stroke-width="2.5" fill="none">
+    <path d="M215,160 C400,220 520,320 700,430"/>
+    <path d="M1310,135 C1130,200 1000,310 840,430"/>
+    <path d="M180,800 C380,720 560,620 700,520"/>
+    <path d="M1350,828 C1150,740 980,640 845,530"/>
+  </g>
+  <g fill="#2dd4bf" opacity="0.9">
+    <circle cx="400" cy="220" r="4"/>
+    <circle cx="560" cy="320" r="4"/>
+    <circle cx="1130" cy="205" r="4"/>
+    <circle cx="990" cy="315" r="4"/>
+    <circle cx="390" cy="722" r="4"/>
+    <circle cx="565" cy="625" r="4"/>
+    <circle cx="1145" cy="742" r="4"/>
+    <circle cx="985" cy="640" r="4"/>
+  </g>
+
+  <!-- central hub glow + hexagon -->
+  <ellipse cx="768" cy="480" rx="330" ry="300" fill="url(#hubGlow)"/>
+  <ellipse cx="768" cy="480" rx="460" ry="420" fill="url(#tealGlow)"/>
+  <g transform="translate(768,480)">
+    <polygon points="0,-150 130,-75 130,75 0,150 -130,75 -130,-75" fill="none" stroke="#2dd4bf" stroke-opacity="0.5" stroke-width="2"/>
+    <polygon points="0,-110 95,-55 95,55 0,110 -95,55 -95,-55" fill="url(#hubFill)" opacity="0.95"/>
+    <polygon points="0,-70 60,-35 60,35 0,70 -60,35 -60,-35" fill="#0a1428" opacity="0.85"/>
+    <circle r="26" fill="#ffb347"/>
+    <circle r="12" fill="#fff3dd"/>
+  </g>
+
+  <!-- shared gate: two identical badges crossing the same portal -->
+  <g>
+    <rect x="628" y="700" width="280" height="200" rx="26" fill="none" stroke="#ffb347" stroke-opacity="0.65" stroke-width="3" stroke-dasharray="14 10"/>
+    <!-- human arm (warm) -->
+    <path d="M560,960 C600,900 640,870 680,858" stroke="#f0955a" stroke-width="16" stroke-linecap="round" fill="none"/>
+    <circle cx="688" cy="856" r="8" fill="#f0a96f"/>
+    <circle cx="700" cy="848" r="7" fill="#f0a96f"/>
+    <!-- robot arm (metal) -->
+    <path d="M976,960 C936,900 896,870 856,858" stroke="#7d90a8" stroke-width="16" stroke-linecap="round" fill="none"/>
+    <circle cx="848" cy="856" r="8" fill="#96a8bd"/>
+    <circle cx="836" cy="848" r="7" fill="#96a8bd"/>
+    <!-- identical badges -->
+    <g>
+      <polygon points="0,-26 22,-13 22,13 0,26 -22,13 -22,-13" fill="#2dd4bf" transform="translate(718,838)"/>
+      <circle cx="718" cy="838" r="6" fill="#062a26"/>
+    </g>
+    <g>
+      <polygon points="0,-26 22,-13 22,13 0,26 -22,13 -22,-13" fill="#2dd4bf" transform="translate(818,838)"/>
+      <circle cx="818" cy="838" r="6" fill="#062a26"/>
+    </g>
+    <path d="M744,838 L792,838" stroke="#ffb347" stroke-width="3" stroke-dasharray="8 8" opacity="0.8"/>
+  </g>
+</svg>

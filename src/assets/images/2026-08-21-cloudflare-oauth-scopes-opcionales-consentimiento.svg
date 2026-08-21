@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e1826"/>
+      <stop offset="1" stop-color="#1d2f45"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#24395395"/>
+      <stop offset="1" stop-color="#1a2b42"/>
+    </linearGradient>
+    <radialGradient id="amberGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f6821f" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#f6821f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tealGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#38bdf8" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="72" height="72" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="2" fill="#38bdf8" fill-opacity="0.06"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#dots)"/>
+  <ellipse cx="768" cy="512" rx="620" ry="460" fill="url(#tealGlow)"/>
+
+  <!-- floating permission tokens around the card -->
+  <g opacity="0.85">
+    <circle cx="330" cy="300" r="14" fill="none" stroke="#38bdf8" stroke-opacity="0.55" stroke-width="3"/>
+    <circle cx="1210" cy="280" r="10" fill="none" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="3"/>
+    <circle cx="1230" cy="740" r="14" fill="none" stroke="#f6821f" stroke-opacity="0.5" stroke-width="3"/>
+    <circle cx="320" cy="760" r="10" fill="none" stroke="#f6821f" stroke-opacity="0.4" stroke-width="3"/>
+    <path d="M300,530 l0,-18 l14,9 z" fill="#38bdf8" fill-opacity="0.5"/>
+    <path d="M1246,530 l0,-18 l14,9 z" fill="#f6821f" fill-opacity="0.5"/>
+  </g>
+
+  <!-- consent card -->
+  <g>
+    <rect x="456" y="200" width="624" height="624" rx="36" fill="url(#card)"/>
+    <rect x="456" y="200" width="624" height="624" rx="36" fill="none" stroke="#3d5a7d" stroke-opacity="0.6" stroke-width="2"/>
+    <rect x="456" y="200" width="624" height="96" rx="36" fill="#f6821f" fill-opacity="0.16"/>
+    <rect x="456" y="262" width="624" height="34" fill="#f6821f" fill-opacity="0.16"/>
+    <circle cx="524" cy="248" r="20" fill="none" stroke="#f6821f" stroke-width="4"/>
+    <rect x="516" y="246" width="16" height="13" rx="2.5" fill="#f6821f"/>
+
+    <!-- required scope: big amber toggle ON -->
+    <g>
+      <rect x="516" y="372" width="504" height="104" rx="24" fill="#0f1d30" stroke="#22405f" stroke-width="2"/>
+      <ellipse cx="680" cy="424" rx="150" ry="70" fill="url(#amberGlow)"/>
+      <rect x="540" y="402" width="128" height="44" rx="22" fill="#f6821f"/>
+      <circle cx="646" cy="424" r="18" fill="#ffe3c4"/>
+      <rect x="700" y="408" width="230" height="16" rx="8" fill="#7e97b5" fill-opacity="0.85"/>
+      <rect x="700" y="436" width="150" height="12" rx="6" fill="#54718f" fill-opacity="0.7"/>
+    </g>
+
+    <!-- optional scope 1: teal toggle ON -->
+    <g>
+      <rect x="516" y="510" width="504" height="96" rx="24" fill="#0f1d30" stroke="#22405f" stroke-width="2"/>
+      <rect x="540" y="534" width="104" height="40" rx="20" fill="#38bdf8"/>
+      <circle cx="624" cy="554" r="16" fill="#e0f4ff"/>
+      <rect x="676" y="540" width="190" height="14" rx="7" fill="#7e97b5" fill-opacity="0.7"/>
+      <rect x="676" y="566" width="120" height="11" rx="5.5" fill="#54718f" fill-opacity="0.6"/>
+    </g>
+
+    <!-- optional scope 2: teal toggle being switched OFF -->
+    <g>
+      <rect x="516" y="634" width="504" height="96" rx="24" fill="#0f1d30" stroke="#f6821f" stroke-opacity="0.7" stroke-width="3"/>
+      <ellipse cx="600" cy="682" rx="120" ry="60" fill="url(#tealGlow)"/>
+      <rect x="540" y="658" width="104" height="40" rx="20" fill="#24425f"/>
+      <circle cx="560" cy="678" r="16" fill="#38bdf8"/>
+      <rect x="676" y="664" width="190" height="14" rx="7" fill="#7e97b5" fill-opacity="0.7"/>
+      <rect x="676" y="690" width="130" height="11" rx="5.5" fill="#54718f" fill-opacity="0.6"/>
+      <!-- cursor arrow clicking the toggle -->
+      <path d="M700,640 l58,20 -26,10 16,24 -14,8 -16,-24 -18,22 z" fill="#ffffff" fill-opacity="0.92" stroke="#0e1826" stroke-width="2.5"/>
+    </g>
+
+    <!-- deny / allow hint bars -->
+    <rect x="516" y="758" width="240" height="40" rx="20" fill="#24425f"/>
+    <rect x="780" y="758" width="240" height="40" rx="20" fill="#f6821f"/>
+  </g>
+</svg>
