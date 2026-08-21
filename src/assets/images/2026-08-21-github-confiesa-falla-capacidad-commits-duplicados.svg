@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1628"/>
+      <stop offset="1" stop-color="#132b4a"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e6fd9" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#3b9dff" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#7fc4ff" stop-opacity="0.95"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb340" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#ffb340" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+
+  <!-- dotted grid -->
+  <g fill="#2c4a73" opacity="0.35">
+    <circle cx="80" cy="80" r="3"/><circle cx="200" cy="80" r="3"/><circle cx="320" cy="80" r="3"/><circle cx="440" cy="80" r="3"/><circle cx="560" cy="80" r="3"/>
+    <circle cx="80" cy="200" r="3"/><circle cx="200" cy="200" r="3"/><circle cx="320" cy="200" r="3"/><circle cx="440" cy="200" r="3"/><circle cx="560" cy="200" r="3"/>
+    <circle cx="80" cy="320" r="3"/><circle cx="200" cy="320" r="3"/><circle cx="320" cy="320" r="3"/><circle cx="440" cy="320" r="3"/><circle cx="560" cy="320" r="3"/>
+  </g>
+
+  <!-- server rack -->
+  <g>
+    <rect x="880" y="180" width="420" height="620" rx="18" fill="#0e2038" stroke="#31557f" stroke-width="4"/>
+    <g fill="#16294a">
+      <rect x="910" y="220" width="360" height="64" rx="10"/>
+      <rect x="910" y="304" width="360" height="64" rx="10"/>
+      <rect x="910" y="388" width="360" height="64" rx="10"/>
+      <rect x="910" y="472" width="360" height="64" rx="10"/>
+      <rect x="910" y="556" width="360" height="64" rx="10"/>
+      <rect x="910" y="640" width="360" height="64" rx="10"/>
+      <rect x="910" y="724" width="360" height="64" rx="10"/>
+    </g>
+    <g fill="#48ff9b" opacity="0.9">
+      <circle cx="940" cy="252" r="8"/><circle cx="940" cy="336" r="8"/><circle cx="940" cy="420" r="8"/>
+    </g>
+    <g fill="#ff5d5d">
+      <circle cx="940" cy="504" r="8"/><circle cx="940" cy="588" r="8"/><circle cx="940" cy="672" r="8"/><circle cx="940" cy="756" r="8"/>
+    </g>
+    <g stroke="#25507f" stroke-width="3" opacity="0.8">
+      <line x1="970" y1="252" x2="1240" y2="252"/><line x1="970" y1="336" x2="1240" y2="336"/><line x1="970" y1="420" x2="1240" y2="420"/>
+      <line x1="970" y1="504" x2="1240" y2="504"/><line x1="970" y1="588" x2="1240" y2="588"/><line x1="970" y1="672" x2="1240" y2="672"/><line x1="970" y1="756" x2="1240" y2="756"/>
+    </g>
+  </g>
+
+  <!-- amber warning glow -->
+  <circle cx="1090" cy="120" r="180" fill="url(#glow)"/>
+  <g transform="translate(1090,120)">
+    <path d="M0,-46 L52,44 L-52,44 Z" fill="none" stroke="#ffb340" stroke-width="10" stroke-linejoin="round"/>
+    <line x1="0" y1="-12" x2="0" y2="16" stroke="#ffb340" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="0" cy="32" r="6" fill="#ffb340"/>
+  </g>
+
+  <!-- commit wave -->
+  <g>
+    <path d="M-40,700 C240,560 420,760 700,640 C980,520 1180,640 1580,460 L1580,1064 L-40,1064 Z" fill="url(#wave)" opacity="0.55" filter="url(#soft)"/>
+    <path d="M-40,780 C260,660 480,840 760,720 C1040,600 1260,720 1580,560 L1580,1064 L-40,1064 Z" fill="url(#wave)" opacity="0.7"/>
+    <g fill="#bfe3ff">
+      <circle cx="120" cy="640" r="9"/><circle cx="220" cy="590" r="12"/><circle cx="330" cy="660" r="8"/>
+      <circle cx="430" cy="560" r="11"/><circle cx="540" cy="630" r="9"/><circle cx="640" cy="540" r="13"/>
+      <circle cx="750" cy="610" r="8"/><circle cx="850" cy="520" r="11"/><circle cx="960" cy="590" r="9"/>
+    </g>
+    <g stroke="#9fd1ff" stroke-width="3" opacity="0.7">
+      <line x1="120" y1="640" x2="220" y2="590"/><line x1="220" y1="590" x2="330" y2="660"/>
+      <line x1="330" y1="660" x2="430" y2="560"/><line x1="430" y1="560" x2="540" y2="630"/>
+      <line x1="540" y1="630" x2="640" y2="540"/><line x1="640" y1="540" x2="750" y2="610"/>
+      <line x1="750" y1="610" x2="850" y2="520"/><line x1="850" y1="520" x2="960" y2="590"/>
+    </g>
+  </g>
+
+  <!-- clock (7h47m) -->
+  <g transform="translate(300,300)">
+    <circle r="110" fill="#0c1e36" stroke="#ffb340" stroke-width="10"/>
+    <circle r="110" fill="none" stroke="#ff5d5d" stroke-width="6" stroke-dasharray="4 14" opacity="0.7"/>
+    <line x1="0" y1="0" x2="0" y2="-78" stroke="#e8f2ff" stroke-width="10" stroke-linecap="round"/>
+    <line x1="0" y1="0" x2="52" y2="24" stroke="#e8f2ff" stroke-width="8" stroke-linecap="round"/>
+    <circle r="9" fill="#ffb340"/>
+    <line x1="0" y1="0" x2="-92" y2="-40" stroke="#3b9dff" stroke-width="4" opacity="0.85"/>
+  </g>
+
+  <!-- capacity gauges -->
+  <g transform="translate(120,860)">
+    <rect x="0" y="0" width="360" height="34" rx="17" fill="#0c1e36" stroke="#31557f" stroke-width="3"/>
+    <rect x="6" y="6" width="330" height="22" rx="11" fill="#ff5d5d"/>
+    <circle cx="352" cy="17" r="10" fill="#ffb340"/>
+  </g>
+  <g transform="translate(520,860)">
+    <rect x="0" y="0" width="360" height="34" rx="17" fill="#0c1e36" stroke="#31557f" stroke-width="3"/>
+    <rect x="6" y="6" width="348" height="22" rx="11" fill="#ff5d5d"/>
+    <circle cx="352" cy="17" r="10" fill="#ff5d5d"/>
+  </g>
+</svg>
