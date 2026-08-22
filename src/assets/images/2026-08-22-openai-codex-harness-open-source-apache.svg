@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1428"/>
+      <stop offset="1" stop-color="#122741"/>
+    </linearGradient>
+    <radialGradient id="coreGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffc46b" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#ffc46b" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="tealGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd98a"/>
+      <stop offset="1" stop-color="#e08b2d"/>
+    </linearGradient>
+    <linearGradient id="shell" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1e3a5f"/>
+      <stop offset="1" stop-color="#152a47"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64,0 L0,0 0,64" fill="none" stroke="#2dd4bf" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#grid)"/>
+
+  <!-- ambient glows -->
+  <circle cx="768" cy="512" r="420" fill="url(#coreGlow)"/>
+  <circle cx="300" cy="220" r="260" fill="url(#tealGlow)"/>
+  <circle cx="1280" cy="830" r="240" fill="url(#tealGlow)"/>
+
+  <!-- circuit traces radiating from core -->
+  <g stroke="#2dd4bf" stroke-opacity="0.35" stroke-width="2.5" fill="none">
+    <path d="M768,512 L768,180 L920,180"/>
+    <path d="M768,512 L1080,360 L1230,360"/>
+    <path d="M768,512 L1120,640 L1270,640"/>
+    <path d="M768,512 L768,850 L600,850"/>
+    <path d="M768,512 L440,660 L300,660"/>
+    <path d="M768,512 L430,340 L290,340"/>
+  </g>
+  <g fill="#2dd4bf">
+    <circle cx="920" cy="180" r="7"/>
+    <circle cx="1230" cy="360" r="7"/>
+    <circle cx="1270" cy="640" r="7"/>
+    <circle cx="600" cy="850" r="7"/>
+    <circle cx="300" cy="660" r="7"/>
+    <circle cx="290" cy="340" r="7"/>
+  </g>
+
+  <!-- open shell halves (treasure-chest engine) -->
+  <g>
+    <path d="M470,430 Q768,320 930,430 L930,650 Q768,760 470,650 Z" fill="url(#shell)" stroke="#2dd4bf" stroke-opacity="0.5" stroke-width="3"/>
+    <path d="M1066,430 Q868,320 868,430 L868,650 Q868,760 1066,650 Z" fill="url(#shell)" stroke="#2dd4bf" stroke-opacity="0.5" stroke-width="3" transform="rotate(18 968 540)"/>
+  </g>
+
+  <!-- inner core: concentric rings -->
+  <g fill="none" stroke-linecap="round">
+    <circle cx="768" cy="512" r="210" stroke="#e08b2d" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="14 22"/>
+    <circle cx="768" cy="512" r="150" stroke="url(#gold)" stroke-opacity="0.7" stroke-width="5"/>
+    <circle cx="768" cy="512" r="96" stroke="#ffd98a" stroke-opacity="0.55" stroke-width="3" stroke-dasharray="4 14"/>
+  </g>
+  <circle cx="768" cy="512" r="58" fill="url(#gold)"/>
+
+  <!-- gears -->
+  <g fill="#ffd98a" fill-opacity="0.9">
+    <g transform="translate(640 380)">
+      <path d="M0,-34 L8,-30 L11,-19 L23,-19 L30,-27 L38,-20 L33,-9 L40,2 L34,12 L22,14 L17,26 L6,30 L-4,22 L-17,24 L-24,13 L-20,1 L-29,-7 L-24,-20 L-11,-24 Z"/>
+      <circle cx="0" cy="0" r="10" fill="#0a1428"/>
+    </g>
+    <g transform="translate(905 620) scale(0.8)">
+      <path d="M0,-34 L8,-30 L11,-19 L23,-19 L30,-27 L38,-20 L33,-9 L40,2 L34,12 L22,14 L17,26 L6,30 L-4,22 L-17,24 L-24,13 L-20,1 L-29,-7 L-24,-20 L-11,-24 Z"/>
+      <circle cx="0" cy="0" r="10" fill="#0a1428"/>
+    </g>
+  </g>
+
+  <!-- spark particles rising from open core -->
+  <g fill="#ffd98a">
+    <circle cx="720" cy="300" r="5" fill-opacity="0.8"/>
+    <circle cx="810" cy="250" r="4" fill-opacity="0.6"/>
+    <circle cx="768" cy="200" r="3" fill-opacity="0.45"/>
+    <circle cx="680" cy="240" r="3.5" fill-opacity="0.5"/>
+    <circle cx="860" cy="330" r="4.5" fill-opacity="0.7"/>
+  </g>
+
+  <!-- floating module chips -->
+  <g>
+    <rect x="200" y="760" width="110" height="70" rx="14" fill="#1a3355" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="2.5"/>
+    <rect x="1230" y="210" width="110" height="70" rx="14" fill="#1a3355" stroke="#2dd4bf" stroke-opacity="0.45" stroke-width="2.5"/>
+    <rect x="1180" y="780" width="96" height="62" rx="12" fill="#1a3355" stroke="#ffc46b" stroke-opacity="0.45" stroke-width="2.5"/>
+    <rect x="260" y="150" width="96" height="62" rx="12" fill="#1a3355" stroke="#ffc46b" stroke-opacity="0.45" stroke-width="2.5"/>
+  </g>
+</svg>

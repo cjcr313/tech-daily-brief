@@ -81,6 +81,16 @@ Con el trimestre con utilidad operativa ajustada positiva (que cubrimos en el up
 
 **Fuente del update:** Bloomberg vía Los Angeles Times (18/08/2026).
 
+### Update: 22 de agosto, 2026 — El prospecto del IPO listará el rechazo a la IA como factor de riesgo
+
+CNBC accedió a fuentes familiarizadas con el proceso: en el prospecto del IPO de Anthropic —que aterrizaría en las próximas semanas— **el sentimiento negativo hacia la IA y los data centers figurará formalmente como risk factor**.
+
+No es un detalle cosmético. Que un lab de frontera que apunta a US$2 billones tenga que admitir en su S-1 que parte del público le tiene bronca a la industria es una señal de los tiempos: presión regulatoria, rechazo social a los data centers energívoros y el debate público sobre el impacto de la IA ya no son ruido externo, sino variables que un inversor institucional debe precioar.
+
+Viniendo de la empresa que se vende como la opción "segura y responsable" de la IA, el contraste es irónico — y honesto. El papeleo llegaría pocas semanas antes del debut bursátil de octubre, así que atentos al documento completo cuando caiga.
+
+**Fuente del update:** CNBC (21/08/2026).
+
 ## Enlaces
 - [QZ - Anthropic investors target $2 trillion](https://qz.com/anthropic-ipo-2-trillion-valuation-october-081326)
 - [Danelfin - Anthropic IPO analysis](https://danelfin.com/ipo/anthropic)

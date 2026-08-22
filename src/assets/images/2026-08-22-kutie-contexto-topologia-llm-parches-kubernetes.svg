@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1428"/>
+      <stop offset="1" stop-color="#122741"/>
+    </linearGradient>
+    <radialGradient id="shieldGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amberGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffb347" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#ffb347" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shieldFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#0ea5b7" stop-opacity="0.1"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64,0 L0,0 0,64" fill="none" stroke="#2dd4bf" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#grid)"/>
+  <circle cx="768" cy="512" r="380" fill="url(#shieldGlow)"/>
+  <circle cx="380" cy="780" r="260" fill="url(#amberGlow)"/>
+  <circle cx="1240" cy="240" r="240" fill="url(#amberGlow)"/>
+
+  <!-- service graph edges -->
+  <g stroke="#5eead4" stroke-opacity="0.45" stroke-width="3">
+    <line x1="768" y1="512" x2="480" y2="330"/>
+    <line x1="768" y1="512" x2="480" y2="700"/>
+    <line x1="768" y1="512" x2="768" y2="240"/>
+    <line x1="768" y1="512" x2="1060" y2="330"/>
+    <line x1="768" y1="512" x2="1060" y2="700"/>
+    <line x1="480" y1="330" x2="768" y2="240"/>
+    <line x1="1060" y1="330" x2="1260" y2="500"/>
+    <line x1="1060" y1="700" x2="1260" y2="500"/>
+    <line x1="480" y1="700" x2="380" y2="860"/>
+    <line x1="480" y1="330" x2="300" y2="180"/>
+    <line x1="1060" y1="700" x2="900" y2="860"/>
+  </g>
+
+  <!-- animated-style pulse dots on edges -->
+  <g fill="#5eead4">
+    <circle cx="620" cy="420" r="7"/>
+    <circle cx="920" cy="420" r="7"/>
+    <circle cx="620" cy="610" r="7"/>
+    <circle cx="920" cy="610" r="7"/>
+    <circle cx="768" cy="380" r="6" fill-opacity="0.7"/>
+    <circle cx="1160" cy="415" r="6" fill-opacity="0.7"/>
+    <circle cx="430" cy="795" r="6" fill-opacity="0.7"/>
+  </g>
+
+  <!-- outer nodes (pods) -->
+  <g>
+    <circle cx="480" cy="330" r="42" fill="#1a3355" stroke="#5eead4" stroke-opacity="0.6" stroke-width="3"/>
+    <circle cx="480" cy="700" r="42" fill="#1a3355" stroke="#5eead4" stroke-opacity="0.6" stroke-width="3"/>
+    <circle cx="768" cy="240" r="42" fill="#1a3355" stroke="#5eead4" stroke-opacity="0.6" stroke-width="3"/>
+    <circle cx="1060" cy="330" r="42" fill="#1a3355" stroke="#5eead4" stroke-opacity="0.6" stroke-width="3"/>
+    <circle cx="1060" cy="700" r="42" fill="#1a3355" stroke="#5eead4" stroke-opacity="0.6" stroke-width="3"/>
+    <circle cx="1260" cy="500" r="38" fill="#1a3355" stroke="#5eead4" stroke-opacity="0.5" stroke-width="3"/>
+    <circle cx="380" cy="860" r="34" fill="#1a3355" stroke="#ffb347" stroke-opacity="0.5" stroke-width="3"/>
+    <circle cx="300" cy="180" r="34" fill="#1a3355" stroke="#ffb347" stroke-opacity="0.5" stroke-width="3"/>
+    <circle cx="900" cy="860" r="34" fill="#1a3355" stroke="#ffb347" stroke-opacity="0.5" stroke-width="3"/>
+  </g>
+
+  <!-- central shield-protected node -->
+  <g>
+    <path d="M768,330 L872,372 L872,490 Q872,578 768,632 Q664,578 664,490 L664,372 Z"
+          fill="url(#shieldFill)" stroke="#2dd4bf" stroke-width="6"/>
+    <path d="M712,496 L750,534 L830,452" fill="none" stroke="#5eead4" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="768" cy="512" r="58" fill="none" stroke="#5eead4" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="6 16"/>
+  </g>
+
+  <!-- scan sweep arcs -->
+  <g fill="none" stroke="#ffb347" stroke-opacity="0.35" stroke-width="3" stroke-dasharray="10 18">
+    <path d="M330,200 Q768,-40 1220,220"/>
+    <path d="M330,850 Q768,1090 1220,830"/>
+  </g>
+</svg>
