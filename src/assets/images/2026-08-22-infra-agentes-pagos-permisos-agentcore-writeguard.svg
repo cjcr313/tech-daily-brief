@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1026"/>
+      <stop offset="1" stop-color="#141b36"/>
+    </linearGradient>
+    <linearGradient id="gate" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1f2b52"/>
+      <stop offset="1" stop-color="#182140"/>
+    </linearGradient>
+    <radialGradient id="orbC" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbG" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fbbf24"/>
+      <stop offset="1" stop-color="#fbbf24" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.0"/>
+      <stop offset="0.5" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0.0"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64,0 L0,0 0,64" fill="none" stroke="#38bdf8" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#grid)"/>
+
+  <!-- corridor floor perspective -->
+  <path d="M0,1024 L768,470 L1536,1024 Z" fill="#101838" opacity="0.9"/>
+  <path d="M0,1024 L768,470 L1536,1024 Z" fill="none" stroke="#38bdf8" stroke-opacity="0.18" stroke-width="2"/>
+
+  <!-- corridor side walls -->
+  <path d="M0,1024 L0,300 L768,470 L340,1024 Z" fill="#0e1631" opacity="0.85"/>
+  <path d="M1536,1024 L1536,300 L768,470 L1196,1024 Z" fill="#0e1631" opacity="0.85"/>
+
+  <!-- guide beam along corridor -->
+  <rect x="200" y="560" width="1136" height="5" fill="url(#beam)"/>
+
+  <!-- gate 1 (permission door) -->
+  <g transform="translate(430,430)">
+    <rect x="-14" y="-40" width="28" height="230" rx="8" fill="url(#gate)" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="2"/>
+    <rect x="146" y="-40" width="28" height="230" rx="8" fill="url(#gate)" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="2"/>
+    <!-- padlock -->
+    <g transform="translate(53,-8)">
+      <rect x="-20" y="-6" width="40" height="34" rx="8" fill="#fbbf24" opacity="0.92"/>
+      <path d="M-12,-6 v-10 a12,12 0 0 1 24,0 v10" fill="none" stroke="#fbbf24" stroke-width="6"/>
+      <circle cx="0" cy="10" r="4" fill="#0b1026"/>
+    </g>
+  </g>
+
+  <!-- gate 2 (payment meter) -->
+  <g transform="translate(1060,430)">
+    <rect x="-14" y="-40" width="28" height="230" rx="8" fill="url(#gate)" stroke="#fbbf24" stroke-opacity="0.4" stroke-width="2"/>
+    <rect x="146" y="-40" width="28" height="230" rx="8" fill="url(#gate)" stroke="#fbbf24" stroke-opacity="0.4" stroke-width="2"/>
+    <!-- coin stack -->
+    <g transform="translate(53,10)">
+      <ellipse cx="0" cy="40" rx="26" ry="9" fill="#f59e0b" opacity="0.9"/>
+      <ellipse cx="0" cy="26" rx="26" ry="9" fill="#fbbf24"/>
+      <ellipse cx="0" cy="12" rx="26" ry="9" fill="#fcd34d"/>
+      <ellipse cx="0" cy="0" rx="26" ry="9" fill="#fde68a"/>
+    </g>
+  </g>
+
+  <!-- persistent state containers -->
+  <g transform="translate(690,840)" opacity="0.95">
+    <rect x="-90" y="-52" width="180" height="104" rx="14" fill="#101a3c" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="2"/>
+    <rect x="-70" y="-30" width="140" height="10" rx="5" fill="#38bdf8" opacity="0.4"/>
+    <rect x="-70" y="-8" width="100" height="8" rx="4" fill="#38bdf8" opacity="0.25"/>
+    <rect x="-70" y="10" width="118" height="8" rx="4" fill="#38bdf8" opacity="0.18"/>
+    <circle cx="66" cy="-34" r="6" fill="#22d3ee"/>
+  </g>
+
+  <!-- agent orbs -->
+  <g>
+    <circle cx="300" cy="580" r="60" fill="url(#orbC)" opacity="0.8"/>
+    <circle cx="300" cy="580" r="14" fill="#22d3ee"/>
+    <circle cx="300" cy="580" r="26" fill="none" stroke="#67e8f9" stroke-width="2" opacity="0.7">
+      <animate attributeName="r" values="18;34;18" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="768" cy="520" r="70" fill="url(#orbG)" opacity="0.7"/>
+    <circle cx="768" cy="520" r="15" fill="#fbbf24"/>
+    <circle cx="768" cy="520" r="28" fill="none" stroke="#fcd34d" stroke-width="2" opacity="0.7">
+      <animate attributeName="r" values="20;38;20" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="1230" cy="580" r="58" fill="url(#orbC)" opacity="0.8"/>
+    <circle cx="1230" cy="580" r="13" fill="#67e8f9"/>
+    <circle cx="1230" cy="580" r="25" fill="none" stroke="#a5f3fc" stroke-width="2" opacity="0.7">
+      <animate attributeName="r" values="17;33;17" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- token sparks flowing -->
+  <g fill="#fbbf24" opacity="0.85">
+    <circle cx="620" cy="540" r="5"/>
+    <circle cx="660" cy="510" r="4"/>
+    <circle cx="700" cy="545" r="3"/>
+    <circle cx="900" cy="560" r="4"/>
+    <circle cx="950" cy="530" r="5"/>
+    <circle cx="990" cy="560" r="3"/>
+  </g>
+
+  <!-- ambient dots -->
+  <g fill="#a5b4fc" opacity="0.5">
+    <circle cx="140" cy="160" r="3"/>
+    <circle cx="760" cy="120" r="4"/>
+    <circle cx="1380" cy="200" r="3"/>
+    <circle cx="1480" cy="520" r="3"/>
+    <circle cx="80" cy="480" r="3"/>
+    <circle cx="420" cy="240" r="2"/>
+    <circle cx="1120" cy="220" r="2"/>
+  </g>
+</svg>
