@@ -46,3 +46,15 @@ Si gestionas sitios web o APIs, esto cambia el juego:
 Cloudflare está apostando fuerte a ser **la capa de control del internet agentic**. Y con ~20% del web pasando por su red, tienen la posición para hacerlo.
 
 > **Fuente:** [Cloudflare Blog - AI traffic options](https://blog.cloudflare.com/content-independence-day-ai-options/), [Cloudflare Blog - Agentic Internet Report](https://blog.cloudflare.com/agentic-internet-bot-report/)
+
+### Update: 23 de agosto, 2026 — Bot Preference Sync: dilo una sola vez
+
+Cloudflare dio otro paso en esta misma línea con **Bot Preference Sync**, disponible para _todos_ los clientes desde el tier Free hasta Enterprise (anunciado el 21 de agosto).
+
+El problema que resuelve es el clásico dedo-en-la-llaga: terminas con un `robots.txt` que dice `Disallow` para cierto crawler, pero tus reglas de enforcement en el edge no lo bloquean (o al revés). Cuando tus preferencias declaradas y tus reglas reales no coinciden, **algunos crawlers tratan esa inconsistencia como pretexto para ignorar tus preferencias** o intentar bypasear tus reglas.
+
+Bot Preference Sync alinea automáticamente el `robots.txt` con tus políticas de bots de IA para los tres perfiles que lanzaron el 1 de julio: **Search, Agent y Training**. En vez de mantener archivos estáticos a mano en múltiples capas, declaras la política una vez y Cloudflare sincroniza tanto la señal (robots.txt gestionado) como el enforcement en el edge.
+
+Para los equipos que venían manejando esto con scripts caseros y drift permanente entre declaración y configuración, es una preocupación menos. Y refuerza la tesis del post original: Cloudflare sigue consolidándose como la capa de control del tráfico agentic.
+
+> **Fuente del update:** [Cloudflare Blog - Bot Preference Sync](https://blog.cloudflare.com/bot-preference-sync/)
