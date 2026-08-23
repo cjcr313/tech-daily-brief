@@ -43,3 +43,11 @@ La lógica: los hyperscalers tienen balances más gordos, contratos de suministr
 La era en que el hardware bare metal era la opción económica predecible está mutando. La demanda de IA no solo llena datacenters: **reprecia todo el silicio que queda afuera**.
 
 Fuentes: TechRadar, The Register, Clubic.
+
+### Update: 23 de agosto, 2026
+
+La historia sigue sumando respaldo. InfoQ retomó el anuncio esta semana y citó cifras más precisas del propio fundador Octave Klaba: **la memoria costaba seis veces más en junio que un año atrás**, con los fabricantes de RAM redestinando capacidad hacia la demanda de IA. Además de la gama gaming (+87%), los servidores recientes de otras líneas subirían entre **40% y 59%**, con las alzas aplicando desde septiembre.
+
+La lectura de fondo se mantiene igual que en el post original: la demanda de IA está "repreciando" la infraestructura no-AI, y el silicio bare metal dejó de ser la opción económica predecible. Si AWS/Azure mueven precios después, el efecto será mucho más grande que este correo de OVH.
+
+Fuente adicional: InfoQ.
