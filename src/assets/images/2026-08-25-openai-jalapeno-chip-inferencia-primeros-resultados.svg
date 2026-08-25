@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07110a"/>
+      <stop offset="1" stop-color="#0e2416"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64,0 L0,0 0,64" fill="none" stroke="#34d399" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#grid)"/>
+  <circle cx="768" cy="512" r="380" fill="url(#glow)"/>
+
+  <!-- chip body -->
+  <rect x="560" y="360" width="416" height="416" rx="28" fill="#0b1f14" stroke="url(#chip)" stroke-width="6"/>
+  <rect x="596" y="396" width="344" height="344" rx="16" fill="#123227"/>
+  <!-- die -->
+  <rect x="660" y="460" width="216" height="216" rx="8" fill="url(#chip)" opacity="0.9"/>
+  <path d="M660 500 h216 M660 540 h216 M660 580 h216 M660 620 h216" stroke="#0b1f14" stroke-width="2" opacity="0.4"/>
+  <path d="M700 460 v216 M740 460 v216 M780 460 v216 M820 460 v216" stroke="#0b1f14" stroke-width="2" opacity="0.4"/>
+
+  <!-- jalapeño emblem -->
+  <path d="M768 428 c-14 -22 -34 -26 -40 -40 c-6 -12 -2 -20 8 -22 c8 -2 14 4 20 10 c6 6 8 14 12 22 c4 -8 6 -16 12 -22 c6 -6 12 -12 20 -10 c10 2 14 10 8 22 c-6 14 -26 18 -40 40z" fill="#a3e635"/>
+  <path d="M768 436 c-2 10 -8 16 -14 16 c-8 0 -12 -8 -10 -18" fill="none" stroke="#4d7c0f" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- pins -->
+  <g stroke="#34d399" stroke-width="5" stroke-linecap="round">
+    <path d="M600 360 v-26 M640 360 v-26 M680 360 v-26 M720 360 v-26 M760 360 v-26 M800 360 v-26 M840 360 v-26 M880 360 v-26 M920 360 v-26"/>
+    <path d="M600 776 v26 M640 776 v26 M680 776 v26 M720 776 v26 M760 776 v26 M800 776 v26 M840 776 v26 M880 776 v26 M920 776 v26"/>
+    <path d="M560 400 h-26 M560 440 h-26 M560 480 h-26 M560 520 h-26 M560 560 h-26 M560 600 h-26 M560 640 h-26 M560 680 h-26 M560 720 h-26"/>
+    <path d="M976 400 h26 M976 440 h26 M976 480 h26 M976 520 h26 M976 560 h26 M976 600 h26 M976 640 h26 M976 680 h26 M976 720 h26"/>
+  </g>
+
+  <!-- data streams -->
+  <g stroke="url(#accent)" stroke-width="3" fill="none" opacity="0.85">
+    <path d="M240 300 L420 380"/>
+    <path d="M1296 300 L1116 380"/>
+    <path d="M240 740 L420 660"/>
+    <path d="M1296 740 L1116 660"/>
+  </g>
+  <g fill="#a78bfa">
+    <circle cx="240" cy="300" r="9"/><circle cx="1296" cy="300" r="9"/>
+    <circle cx="240" cy="740" r="9"/><circle cx="1296" cy="740" r="9"/>
+  </g>
+</svg>
