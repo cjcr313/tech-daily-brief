@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0820"/>
+      <stop offset="1" stop-color="#1a1140"/>
+    </linearGradient>
+    <linearGradient id="cl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64,0 L0,0 0,64" fill="none" stroke="#a78bfa" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#grid)"/>
+  <circle cx="768" cy="512" r="400" fill="url(#glow)"/>
+
+  <!-- scattered log lines (left) -->
+  <g stroke="#a78bfa" stroke-width="8" stroke-linecap="round" opacity="0.5">
+    <line x1="210" y1="330" x2="430" y2="330"/>
+    <line x1="190" y1="420" x2="420" y2="420"/>
+    <line x1="230" y1="510" x2="440" y2="510"/>
+    <line x1="200" y1="600" x2="430" y2="600"/>
+    <line x1="220" y1="690" x2="440" y2="690"/>
+  </g>
+  <!-- dots on scattered lines -->
+  <g fill="#c4b5fd">
+    <circle cx="330" cy="330" r="8"/><circle cx="300" cy="420" r="8"/>
+    <circle cx="360" cy="510" r="8"/><circle cx="320" cy="600" r="8"/>
+    <circle cx="290" cy="690" r="8"/>
+  </g>
+
+  <!-- funnel / convergence -->
+  <path d="M470 300 L640 360 L640 660 L470 720 Z" fill="none" stroke="#7c3aed" stroke-width="4" opacity="0.6"/>
+
+  <!-- grouped pattern blocks (right) -->
+  <g>
+    <rect x="700" y="300" width="560" height="120" rx="14" fill="#231355" stroke="url(#cl)" stroke-width="4"/>
+    <g stroke="#c4b5fd" stroke-width="10" stroke-linecap="round">
+      <line x1="730" y1="340" x2="960" y2="340"/>
+      <line x1="730" y1="376" x2="880" y2="376"/>
+    </g>
+    <circle cx="1000" cy="340" r="12" fill="#f472b6"/>
+    <circle cx="920" cy="376" r="12" fill="#f472b6"/>
+
+    <rect x="700" y="450" width="560" height="120" rx="14" fill="#231355" stroke="url(#cl)" stroke-width="4"/>
+    <g stroke="#c4b5fd" stroke-width="10" stroke-linecap="round">
+      <line x1="730" y1="490" x2="900" y2="490"/>
+      <line x1="730" y1="526" x2="850" y2="526"/>
+    </g>
+    <circle cx="940" cy="490" r="12" fill="#f472b6"/>
+    <circle cx="890" cy="526" r="12" fill="#f472b6"/>
+
+    <rect x="700" y="600" width="560" height="120" rx="14" fill="#231355" stroke="url(#cl)" stroke-width="4"/>
+    <g stroke="#c4b5fd" stroke-width="10" stroke-linecap="round">
+      <line x1="730" y1="640" x2="980" y2="640"/>
+      <line x1="730" y1="676" x2="870" y2="676"/>
+    </g>
+    <circle cx="1020" cy="640" r="12" fill="#f472b6"/>
+    <circle cx="910" cy="676" r="12" fill="#f472b6"/>
+  </g>
+
+  <!-- severity tag -->
+  <rect x="1150" y="180" width="130" height="52" rx="12" fill="#7c3aed"/>
+  <text x="1215" y="215" font-family="monospace" font-size="24" fill="#fff" text-anchor="middle">DPL</text>
+</svg>

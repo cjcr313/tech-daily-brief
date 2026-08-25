@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1536 1024" width="1536" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#14110a"/>
+      <stop offset="1" stop-color="#241a08"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f97316" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#f97316" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64,0 L0,0 0,64" fill="none" stroke="#f97316" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1536" height="1024" fill="url(#bg)"/>
+  <rect width="1536" height="1024" fill="url(#grid)"/>
+  <circle cx="768" cy="512" r="400" fill="url(#glow)"/>
+
+  <!-- central cloud -->
+  <g>
+    <ellipse cx="768" cy="512" rx="180" ry="120" fill="#7c2d12" stroke="url(#flow)" stroke-width="6"/>
+    <circle cx="650" cy="470" r="70" fill="#7c2d12" stroke="#f97316" stroke-width="5"/>
+    <circle cx="870" cy="460" r="80" fill="#7c2d12" stroke="#f97316" stroke-width="5"/>
+    <circle cx="760" cy="430" r="72" fill="#9a3412" stroke="#f97316" stroke-width="5"/>
+    <!-- arrow inside -->
+    <path d="M700 512 h140 M810 482 l30 30 -30 30" fill="none" stroke="#fbbf24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- content flowing in (left) -->
+  <g stroke="#f59e0b" stroke-width="6" stroke-linecap="round" opacity="0.7">
+    <line x1="250" y1="420" x2="540" y2="460"/>
+    <line x1="260" y1="520" x2="540" y2="500"/>
+    <line x1="280" y1="620" x2="540" y2="560"/>
+  </g>
+  <g fill="#fbbf24">
+    <circle cx="290" cy="420" r="10"/>
+    <circle cx="300" cy="520" r="10"/>
+    <circle cx="320" cy="620" r="10"/>
+  </g>
+
+  <!-- content flowing out (right) -->
+  <g stroke="#f59e0b" stroke-width="6" stroke-linecap="round" opacity="0.7">
+    <line x1="1000" y1="460" x2="1290" y2="430"/>
+    <line x1="1000" y1="500" x2="1290" y2="510"/>
+    <line x1="1000" y1="560" x2="1290" y2="600"/>
+  </g>
+  <g fill="#fbbf24">
+    <circle cx="1240" cy="430" r="10"/>
+    <circle cx="1240" cy="510" r="10"/>
+    <circle cx="1240" cy="600" r="10"/>
+  </g>
+
+  <!-- gears -->
+  <g transform="translate(430,240)">
+    <circle r="44" fill="none" stroke="#93c5fd" stroke-width="10" stroke-dasharray="12 8"/>
+    <circle r="16" fill="#93c5fd"/>
+  </g>
+  <g transform="translate(1110,780)">
+    <circle r="44" fill="none" stroke="#93c5fd" stroke-width="10" stroke-dasharray="12 8"/>
+    <circle r="16" fill="#93c5fd"/>
+  </g>
+</svg>
