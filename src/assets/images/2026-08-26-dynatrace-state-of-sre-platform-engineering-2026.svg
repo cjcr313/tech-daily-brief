@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#2a1a3a"/>
+    </linearGradient>
+    <linearGradient id="brain" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#6d28d9"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <!-- grid -->
+  <g stroke="#1e3a5f" stroke-width="1" opacity="0.35">
+    <path d="M0 90 H1200 M0 210 H1200 M0 330 H1200 M0 450 H1200 M0 570 H1200"/>
+    <path d="M150 0 V630 M350 0 V630 M550 0 V630 M750 0 V630 M950 0 V630"/>
+  </g>
+  <!-- panel de control central -->
+  <g filter="url(#glow)">
+    <rect x="330" y="150" width="540" height="330" rx="22" fill="#0f172a" stroke="#7c3aed" stroke-width="4"/>
+  </g>
+  <!-- cerebro digital -->
+  <g transform="translate(600 260)" filter="url(#glow)">
+    <path d="M-90 0 a90 78 0 1 1 180 0 a90 78 0 1 1 -180 0 z" fill="url(#brain)"/>
+    <path d="M-30 -74 C -6 -50, 6 -50, 30 -74 M-70 -20 C -40 -4, 40 -4, 70 -20 M-60 44 C -30 26, 30 26, 60 44" stroke="#c4b5fd" stroke-width="5" fill="none" stroke-linecap="round"/>
+    <circle cx="-38" cy="-24" r="9" fill="#e9d5ff"/>
+    <circle cx="34" cy="18" r="9" fill="#e9d5ff"/>
+    <circle cx="0" cy="52" r="7" fill="#e9d5ff"/>
+  </g>
+  <!-- gráfico de líneas del panel -->
+  <g stroke="#34d399" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M370 420 l50 -34 l44 20 l52 -58 l46 26 l48 -44"/>
+  </g>
+  <circle cx="610" cy="330" r="0"/>
+  <!-- barras del panel -->
+  <g fill="#38bdf8" filter="url(#glow)">
+    <rect x="680" y="390" width="34" height="42" rx="6"/>
+    <rect x="726" y="372" width="34" height="60" rx="6"/>
+    <rect x="772" y="402" width="34" height="30" rx="6"/>
+    <rect x="818" y="360" width="34" height="72" rx="6"/>
+  </g>
+  <!-- anillo de estado -->
+  <g fill="none" stroke-width="10" filter="url(#glow)">
+    <circle cx="420" cy="400" r="26" stroke="#f59e0b" stroke-dasharray="120 43"/>
+    <circle cx="500" cy="430" r="18" stroke="#34d399" stroke-dasharray="70 43"/>
+  </g>
+  <!-- pulsos de vigilancia -->
+  <g stroke="#a78bfa" stroke-width="3" opacity="0.7" stroke-dasharray="6 10">
+    <path d="M600 130 V60"/>
+    <path d="M880 300 H1000"/>
+    <path d="M320 300 H200"/>
+    <path d="M450 490 V560"/>
+    <path d="M760 490 V560"/>
+  </g>
+  <circle cx="600" cy="60" r="10" fill="#a78bfa"/>
+  <circle cx="1000" cy="300" r="10" fill="#a78bfa"/>
+  <circle cx="200" cy="300" r="10" fill="#a78bfa"/>
+  <circle cx="450" cy="560" r="10" fill="#a78bfa"/>
+  <circle cx="760" cy="560" r="10" fill="#a78bfa"/>
+</svg>

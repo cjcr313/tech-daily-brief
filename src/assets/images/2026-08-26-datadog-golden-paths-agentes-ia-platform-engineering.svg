@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#1a2b1e"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fbbf24"/>
+      <stop offset="1" stop-color="#b45309"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="12" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g stroke="#1e3a5f" stroke-width="1" opacity="0.4">
+    <path d="M0 105 H1200 M0 315 H1200 M0 525 H1200"/>
+  </g>
+  <!-- autopista base -->
+  <path d="M80 560 C 350 470, 520 430, 600 315 C 680 200, 500 150, 380 120" fill="none" stroke="url(#road)" stroke-width="54" stroke-linecap="round" filter="url(#glow)"/>
+  <!-- bifurcación carril humano -->
+  <path d="M600 315 C 660 260, 760 210, 960 170" fill="none" stroke="#fbbf24" stroke-width="34" stroke-linecap="round" opacity="0.9"/>
+  <!-- bifurcación carril agente -->
+  <path d="M600 315 C 640 380, 740 430, 960 470" fill="none" stroke="#38bdf8" stroke-width="34" stroke-linecap="round" opacity="0.9"/>
+  <!-- señales -->
+  <g transform="translate(930 130)">
+    <rect x="-70" y="-46" width="140" height="92" rx="14" fill="#0f172a" stroke="#fbbf24" stroke-width="5"/>
+    <circle cx="0" cy="-14" r="16" fill="#fbbf24"/>
+    <rect x="-26" y="10" width="52" height="9" rx="4" fill="#fbbf24" opacity="0.85"/>
+    <rect x="-20" y="25" width="40" height="9" rx="4" fill="#fbbf24" opacity="0.55"/>
+  </g>
+  <g transform="translate(930 430)">
+    <rect x="-70" y="-46" width="140" height="92" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-width="5"/>
+    <rect x="-24" y="-30" width="48" height="48" rx="10" fill="none" stroke="#38bdf8" stroke-width="7"/>
+    <circle cx="-6" cy="-10" r="6" fill="#38bdf8"/>
+    <path d="M-24 16 l14 -12 l10 8 l12 -14" stroke="#38bdf8" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- humano (punto cálido) -->
+  <g filter="url(#glow)">
+    <circle cx="960" cy="170" r="20" fill="#f87171"/>
+    <rect x="948" y="196" width="24" height="34" rx="11" fill="#f87171"/>
+  </g>
+  <!-- agente (robot) -->
+  <g filter="url(#glow)">
+    <rect x="938" y="452" width="44" height="38" rx="10" fill="#22d3ee"/>
+    <circle cx="951" cy="471" r="5" fill="#0e7490"/>
+    <circle cx="969" cy="471" r="5" fill="#0e7490"/>
+    <rect x="944" y="444" width="32" height="8" rx="4" fill="#67e8f9"/>
+  </g>
+  <!-- líneas de flujo de datos -->
+  <g stroke="#34d399" stroke-width="3" opacity="0.6" stroke-dasharray="10 12">
+    <path d="M120 540 C 400 460, 560 420, 620 330"/>
+    <path d="M640 330 C 720 270, 820 220, 930 178"/>
+    <path d="M640 330 C 730 390, 830 440, 934 466"/>
+  </g>
+</svg>

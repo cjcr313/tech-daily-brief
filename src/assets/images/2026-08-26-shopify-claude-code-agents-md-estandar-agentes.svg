@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#14243a"/>
+    </linearGradient>
+    <linearGradient id="docA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#059669"/>
+    </linearGradient>
+    <linearGradient id="docB" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fb923c"/>
+      <stop offset="1" stop-color="#ea580c"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="14" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g stroke="#1e3a5f" stroke-width="1" opacity="0.5">
+    <path d="M0 90 H1200 M0 190 H1200 M0 290 H1200 M0 390 H1200 M0 490 H1200"/>
+    <path d="M120 0 V630 M320 0 V630 M520 0 V630 M720 0 V630 M920 0 V630"/>
+  </g>
+  <!-- árbol de directorios -->
+  <g stroke="#3b82f6" stroke-width="4" fill="none" opacity="0.85">
+    <path d="M600 560 V470"/>
+    <path d="M600 470 H380 V380"/>
+    <path d="M600 470 H820 V380"/>
+  </g>
+  <circle cx="600" cy="560" r="16" fill="#60a5fa"/>
+  <circle cx="600" cy="470" r="10" fill="#60a5fa"/>
+  <!-- documento verde -->
+  <g filter="url(#glow)">
+    <rect x="300" y="230" width="160" height="150" rx="14" fill="url(#docA)"/>
+    <rect x="330" y="260" width="100" height="10" rx="5" fill="#064e3b" opacity="0.7"/>
+    <rect x="330" y="285" width="100" height="10" rx="5" fill="#064e3b" opacity="0.7"/>
+    <rect x="330" y="310" width="70" height="10" rx="5" fill="#064e3b" opacity="0.7"/>
+  </g>
+  <!-- documento naranja -->
+  <g filter="url(#glow)">
+    <rect x="740" y="230" width="160" height="150" rx="14" fill="url(#docB)"/>
+    <rect x="770" y="260" width="100" height="10" rx="5" fill="#7c2d12" opacity="0.7"/>
+    <rect x="770" y="285" width="100" height="10" rx="5" fill="#7c2d12" opacity="0.7"/>
+    <rect x="770" y="310" width="70" height="10" rx="5" fill="#7c2d12" opacity="0.7"/>
+  </g>
+  <!-- enlace partido -->
+  <g stroke="#f87171" stroke-width="6" stroke-linecap="round" filter="url(#glow)">
+    <path d="M470 305 H560"/>
+    <path d="M640 305 H730"/>
+  </g>
+  <g fill="#f87171" filter="url(#glow)">
+    <path d="M585 305 l14 -14 v10 h14 v8 h-14 v10 z" transform="rotate(-90 600 305)" opacity="0"/>
+    <path d="M576 291 l16 14 -16 14 z"/>
+    <path d="M624 291 l-16 14 16 14 z"/>
+  </g>
+  <circle cx="380" cy="380" r="8" fill="#60a5fa"/>
+  <circle cx="820" cy="380" r="8" fill="#60a5fa"/>
+</svg>

@@ -12,7 +12,7 @@ tags:
 description: "El agente de codificación de Google ya está disponible en suscripciones Gemini Enterprise, con extensiones para VS Code, tope de gasto por proyecto y auditoría centralizada."
 ---
 
-![Ilustración editorial de un agente de IA de codificación trabajando dentro de un entorno empresarial seguro, con terminal, código y un escudo de gobernanza, estilo flat moderno](../../assets/images/2026-08-26-google-antigravity-empresas-ide-gobernanza.svg)
+![Ilustración editorial de un agente de IA de codificación trabajando dentro de un entorno empresarial seguro, con terminal, código y un escudo de gobernanza, estilo flat moderno](../../assets/images/2026-08-26-google-antigravity-empresas-ide-gobernanza.jpg)
 
 Google deja de vender Antigravity como experimento y lo pone sobre la mesa de los equipos de plataforma. Su agente de codificación, presentado en el I/O de mayo dentro de la **Gemini Enterprise Agent Platform**, ahora está **disponible de forma general en las suscripciones Gemini Enterprise**, con extensiones de IDE y una batería de controles de gobernanza pensados para que la adopción no sea un salto al vacío.
 
