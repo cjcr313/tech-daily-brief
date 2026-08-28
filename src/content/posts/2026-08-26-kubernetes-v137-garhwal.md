@@ -38,3 +38,20 @@ Garhwal es la región de los picos nevados, bosques de deodar y campos en terraz
 Si corres clusters: revisa si el watchcache endurecido te obliga a tocar tus controllers para manejar 429, y dale una mirada al HPA scale-to-zero si tienes workloads de cola o GPU que pagan tiempo muerto. El upgrade a v1.37 es la tarea de la semana para los que están cerca de EOL en versiones viejas.
 
 Fuente: anuncio oficial de Kubernetes v1.37 en kubernetes.io/blog (26-08-2026).
+
+### Update: 27-08-2026 — Metrics API se graduó a estable (metrics.k8s.io/v1)
+
+Un día después del release, SIG Instrumentation confirmó otra de las graduaciones de v1.37: la **Resource Metrics API** (`metrics.k8s.io`) pasó de `v1beta1` a **estable (`v1`)**. Es la API detrás de `kubectl top` y del autoscaling basado en métricas de recursos.
+
+Lo importante: **la superficie de la API es idéntica a v1beta1**. No hay campos renombrados ni cambios en el significado de los valores de CPU/memoria; es una graduación de versión, no un cambio en qué se recolecta. Expone dos tipos de recursos —`NodeMetrics` (CPU/memoria de un nodo) y `PodMetrics` (CPU/memoria por Pod, con desglose por contenedor)— y sigue siendo una API acotada a propósito: no reemplaza un pipeline de monitoreo completo ni la API de custom metrics (`custom.metrics.k8s.io`).
+
+Detalles operativos que conviene tener en cuenta:
+
+- **`kubectl top` soporta ambas versiones**: prefiere `v1` cuando está disponible y hace fallback automático a `v1beta1` en clusters que todavía no la sirven.
+- **El HPA sigue usando solo `v1beta1`** por ahora. El soporte para selección por discovery entre `v1` y `v1beta1` está planificado, pero no llega en v1.37.
+- No hay feature gate que habilitar: la API se sirve a través de la capa de agregación, por una implementación como **metrics-server**. Para que `v1` esté disponible en tu cluster, tu implementación debe servir `v1.metrics.k8s.io` y registrar el `APIService` correspondiente. Durante la transición, las implementaciones deberían servir `v1` y `v1beta1` en paralelo para no romper clientes viejos.
+- `v1beta1` sigue disponible en v1.37, así que no hay apuro en migrar.
+
+Para revisar qué versiones sirve tu cluster: `kubectl get --raw /apis/metrics.k8s.io/ | jq .`
+
+Fuente: [kubernetes.io/blog](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) (27-08-2026).

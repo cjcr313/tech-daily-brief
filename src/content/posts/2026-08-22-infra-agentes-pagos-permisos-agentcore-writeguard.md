@@ -45,3 +45,24 @@ Cuando los agentes pueden **firmar checos y escribir cambios**, la pregunta deja
 Si tu equipo está pilotando agentes: antes de darle acceso a producción, define budgets por agente, allowlists de escritura y trazabilidad de cada acción. Que la primera factura de un agente autónomo no sea una sorpresa del department store de AWS.
 
 **Fuentes:** AWS, Cloudflare, AI Agent Store (semana del 22/08/2026).
+
+### Update: 28-08-2026 — El stack de pagos agent-to-agent se estandariza (x402 Foundation operativa)
+
+Splunk publicó un análisis del "agent economy" que confirma lo que veníamos viendo: los pagos entre agentes dejaron de ser experimento. El dato duro es que el **14 de julio la Linux Foundation lanzó operativamente la x402 Foundation**, el organismo de estándares para pagos "internet-native" de agentes. Founding members de peso: **Visa, Mastercard, Ripple, American Express, Stripe, Adyen, Shopify, Google, AWS y Cloudflare**. Cuando las redes de tarjetas y los hyperscalers firman el mismo estándar la misma semana, es infraestructura asentándose.
+
+El análisis ordena el **"agentic web stack"** en cuatro capas:
+
+- **MCP**: cómo el agente actúa (herramientas, APIs, datos).
+- **A2A**: cómo dos agentes se descubren y delegan (vía AgentCards).
+- **Pagos**: cómo se liquida un servicio — la capa nueva.
+- **Identidad/confianza**: quién es quién y en quién confiar.
+
+Y describe tres familias de protocolos que compiten —o más bien se apilan— en la capa de pago:
+
+- **x402**: micropagos machine-to-machine.
+- **AP2**: pagos mandatados en nombre de un humano.
+- **ACP**: comercio online impulsado por agentes.
+
+La advertencia clave del post: **la criptografía no basta**. Un mandato puede estar perfectamente firmado y no corresponder a ninguna intención real — el prompt injection ataca la decisión, no la ejecución. La seguridad se define antes de la firma. Y cuando cada agente tiene billetera, la observabilidad deja de ser opcional: se convierte en el sistema de control financiero, seguridad y compliance en tiempo real de la flota de agentes.
+
+Fuente: [splunk.com](https://www.splunk.com/en_us/blog/artificial-intelligence/the-agent-economy-when-ais-pay-each-other.html) (28-08-2026).
