@@ -42,3 +42,13 @@ Porque marca el fin de una era: **la herramienta de coding favorita de los devel
 Mientras tanto, Copilot, Windsurf y Claude Code tienen una ventana para capturar a los incómodos con el nuevo dueño. Y Europa, literalmente, mirando desde afuera.
 
 **Fuentes:** gagadget, Verdict, Crowdfund Insider, The GPU, Ramp vía Digital Applied.
+
+## Update: 28 de agosto — OpenAI corta a Cursor
+
+Lo que era una pregunta incómoda se volvió un hecho: **OpenAI le notificó a SpaceX que va a terminar el contrato por el cual provee sus modelos a Cursor**, con fecha de corte propuesta para el **12 de noviembre de 2026**. Le están dando el máximo de aviso que permite el contrato, precisamente para que los developers tengan el mayor tiempo posible de acceso.
+
+El motivo, en palabras de OpenAI: "no podemos confiar en que SpaceX usará nuestra tecnología dentro de nuestros términos de servicio", basado en la experiencia con las empresas de Elon Musk rompiendo contratos. Dos antecedentes que citan: tras comprar Twitter, la compañía rompió los términos del contrato con OpenAI; y Musk admitió bajo juramento que **xAI (hoy parte de SpaceX) destiló datos de OpenAI para entrenar modelos**. Además, con el lanzamiento de **Astra** en el horizonte, OpenAI dice tener un nuevo nivel de responsabilidad sobre cómo se usa esa capacidad.
+
+El dato operativo: el acuerdo custom con Cursor les da una ventana limitada para cancelar tras un *change of control*, y la están ejecutando a última hora posible, pero **sin entregar modelos futuros a Cursor**. Dejan claro que respetan al equipo de Cursor y que los más afectados son los developers que usan modelos OpenAI dentro de Cursor.
+
+**Por qué importa:** la adquisición de SpaceX ya encendió las alarmas sobre la independencia de Cursor. Ahora, uno de los dos grandes proveedores de modelos (junto a Anthropic) **se baja oficialmente**. Para los equipos que corren OpenAI en Cursor, el 12 de noviembre es una fecha límite real. Y confirma que la guerra del AI coding también se pelea a nivel de contratos y lealtades de modelos, no solo de compute.

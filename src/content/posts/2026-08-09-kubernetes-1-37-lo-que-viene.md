@@ -72,3 +72,11 @@ El HPA ya podía escalar a cero con object/external metrics, pero no había form
 ---
 
 La versión todavía no está fuera, así que algunos detalles pueden cambiar. Pero si estás planificando el upgrade, estos son los puntos clave que conviene testear anticipadamente. La fecha es **26 de agosto**.
+
+## Update: 27-28 de agosto — Confirmed: Metrics API GA y Pod Certificates GA
+
+Ya con v1.37 liberado, se confirmaron los detalles finos:
+
+**Metrics API a Stable (v1).** `metrics.k8s.io/v1` es idéntico a v1beta1 —mismos resource types (`NodeMetrics` y `PodMetrics`) y mismos campos, cero cambios semánticos— solo cambia la versión de API. Lo importante: **`kubectl top` ya prefiere v1** y cae a v1beta1 automáticamente en clusters que aún no lo sirven; en cambio **el HPA todavía solo habla v1beta1** (el soporte de selección por discovery entre v1/v1beta1 está planificado, pero no llegó en v1.37). No necesitas activar ningún feature gate: depende de que tu implementación (metrics-server) sirva la API v1 y registres el APIService correspondiente.
+
+**Pod Certificates y Cluster Trust Bundles a GA.** Emisión de certificados X.509 para TLS/mTLS nativa del core: llave privada dentro del workload, certificado firmado por una CA, kubelet orquestando `PodCertificateRequest` y `ClusterTrustBundle` vía un signer controller pluggable. Por ahora es la fundación —los signers built-in (TLS de servidor y SPIFFE) todavía no están— pero ya es una alternativa real a los service account JWTs para identidad de producción.
