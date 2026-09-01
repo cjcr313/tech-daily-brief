@@ -29,3 +29,16 @@ Un estándar compartido para la interacción agente-hardware es la pieza que fal
 La jugada de Anthropic tiene lógica: definir el estándar antes que se convierta en un caos de integraciones propietarias, y posicionarse como la referencia para la IA que toca el mundo real.
 
 Fuente: [Anthropic News](https://www.anthropic.com/news)
+
+### Update: 1 de septiembre
+
+Salieron detalles nuevos del MHS que le dan cuerpo a la propuesta:
+
+- **El estándar no tiene IA adentro.** El dueño del instrumento escribe una descripción en lenguaje natural (qué mide, qué se puede ajustar, qué límites de seguridad tiene) y el estándar la convierte en un archivo de referencia que el agente lee para operar el dispositivo. Nada de código custom por equipo.
+- **El modelo llega al hardware por MCP** (Model Context Protocol), la misma vía que usa para APIs y archivos. Eso es lo que permite operar el equipo con lenguaje cotidiano en vez de scripts a medida.
+- **Prueba concreta:** en un trial, Claude alineó un láser por sí solo —hacía un ajuste, miraba por una cámara qué pasaba y repetía hasta lograrlo—. Después empaquetó lo aprendido en un script que hacía el trabajo en una sola pasada, sin razonar en cada paso.
+- **Socios:** Tecan, QIAGEN y AWS trabajan con Anthropic en el estándar. Hugging Face y Raspberry Pi lo están integrando en el hardware que venden.
+- **Setup en horas, no semanas:** Anthropic estima que configurar un equipo así toma horas o minutos, contra las semanas o meses de integración custom que reemplaza.
+- **Open source en camino:** la especificación se liberará como open source, pero sin fecha confirmada.
+
+La idea nació de una visita al HHMI Janelia Research Campus, donde el neurocientífico Arco Bast había unificado láseres, microscopios y cámaras bajo un solo punto de control para un experimento de memoria. Ahí Anthropic vio el patrón y decidió estandarizarlo.
