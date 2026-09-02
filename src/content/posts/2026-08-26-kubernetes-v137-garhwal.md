@@ -55,3 +55,11 @@ Detalles operativos que conviene tener en cuenta:
 Para revisar qué versiones sirve tu cluster: `kubectl get --raw /apis/metrics.k8s.io/ | jq .`
 
 Fuente: [kubernetes.io/blog](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) (27-08-2026).
+
+### Update: 02-09-2026 — etcd RangeStream a Beta y Storage Version Migration a GA
+
+Dos novedades más de v1.37 que se confirmaron estos días, ambas del lado del control plane y etcd:
+
+**etcd RangeStream (Beta).** Junto con etcd v3.7, este feature **reduce la memoria** que el API server y etcd necesitan para leer colecciones grandes (los típicos `LIST` que se llevan media RAM) y hace el **pico de uso más predecible**. Para clusters grandes con muchos objetos, alivia justo el cuello de botella de las listas masivas. Fuente: [kubernetes.io/blog](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/) (01-09-2026).
+
+**Storage Version Migration a GA.** La migración de versión de almacenamiento (`storagemigration.k8s.io/v1`) se graduó a **General Availability**, con el controlador **habilitado por defecto en todos los clusters**. Es la pieza que permite migrar datos persistidos a una versión de storage más nueva sin drama, y ahora viene prendida de fábrica. Fuente: [kubernetes.io/blog](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/) (31-08-2026).
