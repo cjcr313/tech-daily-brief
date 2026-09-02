@@ -59,3 +59,17 @@ DeepSeek está jugando una partida distinta a Anthropic y OpenAI. En vez de cons
 - [Repo en GitHub](https://github.com/deepseek-ai/deepseek-harness)
 - [Sitio oficial](https://deepseek.com/harness/en/)
 - [Cobertura de The New Stack](https://thenewstack.io/deepseek-harness-open-source-plugins/)
+
+## Update: 2026-09-02
+
+Han pasado poco más de dos semanas y DeepSeek Harness ya pasó los **207.000 stars** en GitHub, un ritmo que en tres semanas sacudió a la industria. Y en el camino, el proyecto (rc.8) logró algo todavía más audaz: **Claude Code y Codex ahora se instalan como plugins ordinarios**.
+
+Lo que destaca del sprint de releases:
+
+- **Claude Code y Codex como "Profile Bundle"**: se instalan on-demand dentro del runtime de DeepSeek, con modo de permisos no interactivo y múltiples instancias con nombre. O sea, los agentes de terminal de Anthropic y OpenAI corren *dentro* de Harness.
+- **"Everything is a plugin"**: el modelo, las tools, las skills, las sesiones, los sandboxes, el filesystem y hasta la UI siguen siendo componentes intercambiables por configuración, sin tocar el código fuente.
+- **Cordis como núcleo**: DeepSeek copió el meta-framework de event-bus Cordis con 18 patches locales y lo re-brandeó, quedándose con toda la capa de framework. Son ~453.000 líneas de TypeScript repartidas en 219 paquetes.
+- **Session log append-only**: todo lo que el modelo "ve" (prompts de sistema, razonamiento, tool calls, inyecciones de contexto) queda en un log que se puede inspeccionar, reanudar, forkear y re-ejecutar como una grabación. Útil para debuggear por qué un agente la embaró veinte pasos atrás.
+- **Precios V4-Pro**: el release incluye la nueva tabla de precios del modelo V4-Pro.
+
+La jugada estratégica es clara: xAI lanzó Grok Bot (agentes always-on de pago) el 11 de agosto; DeepSeek respondió **regalando la infraestructura** en vez de venderla. La pelea se movió del modelo al **runtime**.
