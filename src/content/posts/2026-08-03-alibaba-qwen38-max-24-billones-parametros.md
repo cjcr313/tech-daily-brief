@@ -72,3 +72,20 @@ El equipo de Qwen publicó tres case studies demostrando capacidades de **codifi
 Lo notable: el modelo sigue haciendo **cambios estructurales profundos** incluso después de cientos de iteraciones, en vez de conformarse con tweaks superficiales. Esto sugiere que los LLMs ya entraron en la fase de **agentic coding real** — no son solo copilotos que autocompletan, sino agentes que pueden sostener un proyecto complejo durante días.
 
 **Fuentes adicionales:** [The New Stack](https://thenewstack.io/qwen-autonomous-coding-audit/), [The Decoder](https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/), [Apidog](https://apidog.com/blog/qwen-3-8-for-coding/), [Developer Tech](https://www.developer-tech.com/news/alibaba-qwen3-8-max-claims-16-day-autonomous-coding-run/)
+
+### Update: 2 de septiembre — Qwen3.8-Max-0902: upgrade silencioso, mismo precio, mucho mejor código
+
+Alibaba le metió mano al flagship sin hacer ruido. El **1 de septiembre** el equipo de Qwen lanzó **Qwen3.8-Max-0902**, un *in-place upgrade* del mismo modelo de 2.4T de parámetros: **misma arquitectura, mismo contexto de 1M, mismo precio** ($2 / $6 por millón de tokens). La diferencia está en los benchmarks de código, que pegan un salto enorme.
+
+Los números del salto (checkpoint viejo → 0902):
+
+- **Terminal-Bench 3.0:** 11.3% → **29.0%**
+- **DeepSWE 1.1:** 56.6% → **69.3%**
+- **NL2Repo-Bench:** 55.9% → **64.9%**
+- **QwenSWEBench V2:** mejora en su propio set interno, el más difícil
+
+El dato clave: **los 8 benchmarks de programación mejoraron**, y en tres (MLS-Bench-Lite, SWE-Atlas QnA y QwenSWEbench V2) le gana a Claude Opus 5. Ojo, que en el resto todavía va por detrás — la prensa lo resume bien: "mejor que su versión anterior, pero aún detrás de Opus 5".
+
+Para los que ya usan Qwen3.8-Max vía API, esto es **drop-in**: mismo endpoint, mismo model ID, cero migración. Alibaba sigue la jugada que ya vimos con Google y Anthropic: en vez de anunciar un modelo nuevo a los cuatro vientos, va puliendo el mismo checkpoint y lo relanza con mejoras de coding/agentic. La guerra por el trono del código (Gemini 3.8 Flash, Opus 5, Qwen3.8-Max-0902) se está peleando con upgrades silenciosos y benchmarks cada vez más específicos.
+
+**Fuentes del update:** [AI Release Tracker](https://aireleasetracker.com/model/qwen/qwen3.8-max-0902), [OpenRouter](https://openrouter.ai/qwen/qwen3.8-max), [CellCog](https://cellcog.ai/blog/qwen3-8-max-0902/), [Lookonchain](https://lookonchain.com/feeds/71037)
