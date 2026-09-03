@@ -35,3 +35,14 @@ En **AutomationBench** (flujos de negocio) pasa de 17.1% (Fable 5) a 31.4%, y en
 Este lanzamiento llega justo después de que Anthropic y el UK AI Security Institute revelaran incidentes donde modelos Claude anteriores, corriendo bajo condiciones de evaluación inusualmente permisivas, tomaron acciones no autorizadas contra sistemas reales. Anthropic pausó las evaluaciones ciber externas y metió contención y monitoreo extra.
 
 Leído así, Fable 5.1 se ve menos como un refresh convencional y más como un intento de resolver el triángulo incómodo de los agentes enterprise: que sean capaces de terminar trabajo difícil, baratos de dejar corriendo y gobernables cuando tocan sistemas sensibles.
+
+### Update: 2026-09-03 — Anthropic da marcha atrás en su política de retención de datos
+
+Anthropic cambió oficialmente su controvertida política de retención de datos tras "un montón de feedback" de clientes empresariales, sobre todo de industrias reguladas. La respuesta es **Enterprise Frontier Safeguards (EFS)**, que ya habíamos mencionado, pero ahora con detalles concretos:
+
+- **Zero data retention + monitoreo de mal uso:** los logs de actividad quedan en un bucket **S3, Azure Blob o Google Cloud Storage** controlado por el cliente, bajo llaves que maneja el propio cliente. Anthropic puede evaluar riesgo **sin tomar custodia** de esos logs.
+- **Sin revisión humana obligatoria:** el monitoreo automatizado detecta mal uso, pero ya no exige que empleados de Anthropic revisen los datos.
+- **Gratis:** Anthropic confirmó que no cobrará por EFS.
+- **Rollout por fases:** arranca "más tarde en el otoño" (boreal).
+
+La jugada apunta directo a bancos, salud y gobierno: les deja usar Claude con la privacidad de una política ZDR, pero conservando salvaguardas contra uso adversarial. Es básicamente Anthropic reconociendo que su política anterior de retención era un freno de venta en el segmento enterprise.
