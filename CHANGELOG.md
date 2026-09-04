@@ -6,6 +6,18 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.2.0] - 2026-09-03
+
+### Added
+
+- **Portada rediseñada estilo newsroom:** noticia destacada de la semana en un hero split (texto + imagen) y grilla de 9 noticias en 3 columnas con portada, categoría, título, resumen y fecha. Nuevos componentes `FeaturedHero` y `NewsCard`.
+- Fallback visual por categoría para posts sin imagen de portada (degradado de color + tag).
+- Util `getPostCover` para resolver portadas (`ogImage` local o remoto).
+
+### Changed
+
+- La portada ya no usa la lista de cards simple: ahora prioriza 1 destacada + 9 en grilla. El hero usa el post con `featured: true` más reciente (si existe) o el último post publicado.
+
 ## [1.1.0] - 2026-09-03
 
 ### Changed
