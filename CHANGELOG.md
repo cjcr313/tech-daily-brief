@@ -1,5 +1,29 @@
 # Changelog
 
+Changelog del sitio **Ping Diario**. Formato basado en [Keep a Changelog](https://keepachangelog.com/es/1.1.0/) y [Versionado Semántico](https://semver.org/lang/es/).
+
+La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git. La versión de `package.json` corresponde al template [AstroPaper](https://github.com/satnaing/astro-paper) (v6.1.0) y no se modifica.
+
+## [Unreleased]
+
+## [1.0.0] - 2026-09-03
+
+### Added
+
+- Versionado del repositorio: `VERSION.md`, tags de git y este changelog.
+
+### Fixed
+
+- **Header:** el título "Ping Diario" ya no se superpone con los enlaces del menú en pantallas grandes (el menú desbordaba hacia la izquierda). Ahora el menú ocupa su propia línea y hace wrap dentro del contenedor.
+
+---
+
+## Historial del template (AstroPaper)
+
+> Changelog original del template AstroPaper, conservado como referencia. Las versiones de esta sección corresponden al template, no al sitio.
+
+# Changelog
+
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
 ## v6.1.0 (2026-06-06)
