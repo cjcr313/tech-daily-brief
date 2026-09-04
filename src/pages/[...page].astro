@@ -1,4 +1,5 @@
 ---
+import type { GetStaticPaths } from "astro";
 import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
 import IconRss from "@/assets/icons/IconRss.svg";
@@ -7,23 +8,34 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import FeaturedHero from "@/components/FeaturedHero.astro";
 import NewsCard from "@/components/NewsCard.astro";
+import Pagination from "@/components/Pagination.astro";
 import { getMainSortedPosts } from "@/utils/getSortedPosts";
 import config from "@/config";
 
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getCollection("posts", ({ data }) => !data.draft);
+  const sortedPosts = getMainSortedPosts(posts);
+  return paginate(sortedPosts, { pageSize: 10 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+
 const locale = Astro.currentLocale ?? config.site.lang;
 
-const posts = await getCollection("posts");
-const sortedPosts = getMainSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const heroPost = featuredPosts[0] ?? sortedPosts[0];
-const gridPosts = sortedPosts.filter(p => p.id !== heroPost?.id).slice(0, 9);
+const heroPost = page.data[0];
+const gridPosts = page.data.slice(1);
 
 const homePath = getRelativeLocaleUrl(locale, "");
 const rssUrl = `${import.meta.env.BASE_URL.replace(/\/?$/, "/")}rss.xml`;
 const archivePath = getRelativeLocaleUrl(locale, "posts");
+const isFirstPage = page.currentPage === 1;
 ---
 
-<Layout>
+<Layout
+  title={
+    isFirstPage ? undefined : `Página ${page.currentPage} · ${config.site.title}`
+  }
+>
   <Header />
   <main
     id="main-content"
@@ -65,14 +77,18 @@ const archivePath = getRelativeLocaleUrl(locale, "posts");
         <section class="pt-10">
           <div class="flex items-baseline justify-between">
             <h2 class="text-xl font-semibold tracking-tight">
-              Últimas noticias
+              {isFirstPage ? "Últimas noticias" : "Más noticias"}
             </h2>
-            <a
-              href={archivePath}
-              class="text-sm text-accent hover:underline"
-            >
-              Ver archivo completo →
-            </a>
+            {
+              isFirstPage && (
+                <a
+                  href={archivePath}
+                  class="text-sm text-accent hover:underline"
+                >
+                  Ver archivo completo →
+                </a>
+              )
+            }
           </div>
           <ul
             class="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3"
@@ -84,8 +100,12 @@ const archivePath = getRelativeLocaleUrl(locale, "posts");
         </section>
       )
     }
+
+    <div class="pt-12">
+      <Pagination page={page} base="" />
+    </div>
   </main>
-  <Footer />
+  <Footer noMarginTop={page.lastPage > 1} />
 </Layout>
 
 <script>

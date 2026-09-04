@@ -10,9 +10,11 @@ import config from "@/config";
 
 type Props = {
   page: Page<CollectionEntry<"posts">>;
+  /** Ruta de la lista paginada. Vacío = paginación en la home (raíz). */
+  base?: string;
 };
 
-const { page } = Astro.props;
+const { page, base = "posts" } = Astro.props;
 
 const t = useTranslations(Astro.currentLocale);
 const locale = Astro.currentLocale ?? config.site.lang;
@@ -34,7 +36,9 @@ for (const n of nums) {
 }
 
 const pageHref = (n: number) =>
-  getRelativeLocaleUrl(locale, n === 1 ? "posts" : `posts/${n}`);
+  n === 1
+    ? getRelativeLocaleUrl(locale, base)
+    : getRelativeLocaleUrl(locale, `${base ? `${base}/` : ""}${n}`);
 ---
 
 {
