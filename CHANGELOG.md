@@ -6,6 +6,13 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-09-03
+
+### Changed
+
+- **Layout:** contenedor del sitio más ancho en escritorio (768px → 1152px) para aprovechar mejor la pantalla.
+- **Header:** el menú de navegación vuelve a una sola fila junto al título en escritorio (≥ ~1130px). En anchos intermedios hace wrap sin superponerse con el título.
+
 ## [1.0.0] - 2026-09-03
 
 ### Added
