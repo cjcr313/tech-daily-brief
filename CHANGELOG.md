@@ -6,6 +6,12 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.2.1] - 2026-09-03
+
+### Fixed
+
+- **Portada:** el hero y las cards ahora muestran la imagen real del artículo. `getPostCover` lee la primera imagen del cuerpo del post como fallback cuando el frontmatter no tiene `ogImage` (375 de 387 posts tienen imagen en el cuerpo, así que casi toda la portada muestra fotos).
+
 ## [1.2.0] - 2026-09-03
 
 ### Added
