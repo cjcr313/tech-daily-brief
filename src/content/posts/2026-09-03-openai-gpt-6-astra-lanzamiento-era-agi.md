@@ -50,3 +50,15 @@ Jakub Pachocki, chief scientist, lo resumió con la frase que define la postura 
 Si tienes agentes o workloads con OpenAI en la API, Astra es la señal de que la frontera se está moviendo hacia **computer use autónomo + ciberseguridad como métrica de primer orden**. El rollout por etapas significa que no todos tendrán el modelo al mismo tiempo, y las capacidades ofensivas más potentes van a estar restringidas. Ojo con los proveedores que prometan "GPT-6 Astra completo" de inmediato: OpenAI está dosificando el acceso a propósito.
 
 **Fuentes:** [CNET](https://www.cnet.com/tech/services-and-software/openai-gpt-6-astra-release-ai-agi-chatgpt/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-03/openai-rolls-out-gpt-6-astra-model-with-added-cyber-guardrails), [Forbes](https://www.forbes.com/sites/ronschmelzer/2026/09/03/openai-announces-gpt-6-astra-or-does-it/), [Axios](https://www.axios.com/2026/09/03/openai-critical-infrastructure-cyber-ai-models), [Android Headlines](https://www.androidheadlines.com/2026/09/openai-releases-gpt-6-astra-agi-era.html), [AI Weekly](https://aiweekly.co/ai-news-today/edition/2026-09-03)
+
+### Update: 5 de septiembre
+
+El lanzamiento del jueves tuvo su contrapunto de humildad casi de inmediato. Horas después del anuncio, **Sam Altman salió a pedir disculpas en X por un "rollout desprolijo" ("messy rollout")**: los usuarios de pago —Plus, Pro, Business y Enterprise— que esperaban acceso inmediato se quedaron esperando, sin fecha firme.
+
+- El plan original era que todos los planes de pago accedieran a Astra, pero a horas del lanzamiento **ni los clientes de API ni los suscriptores de ChatGPT tenían acceso amplio todavía**.
+- Altman dijo que el rollout masivo debería partir "en el futuro cercano", empezando por suscriptores Pro, y que tenía la esperanza (sin prometerlo) de que pudieran usarlo durante el fin de semana del **5-6 de septiembre**.
+- La causa de fondo es la misma que apuntamos arriba: el acceso por etapas ligado al **framework de seguridad**, con las capacidades de ciberseguridad más fuertes gateadas para defensores aprobados.
+
+Para el que esté evaluando la API: no cuentes con Astra en producción de inmediato. El "salto generacional" viene con fila de espera, y OpenAI está dosificando el acceso con criterio de seguridad, no de demanda.
+
+Fuente: [The Verge](https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout), [The New Stack](https://thenewstack.io/gpt6-astra-developer-access-delayed/), [Unite.AI](https://www.unite.ai/sam-altman-apologizes-as-gpt-6-astra-staged-launch-denies-paid-access/) (04-09-2026).

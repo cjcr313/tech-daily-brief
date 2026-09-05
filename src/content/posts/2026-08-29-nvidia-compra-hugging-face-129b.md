@@ -40,3 +40,16 @@ La otra cara, y de la que la comunidad ya está hablando: Hugging Face era el **
 Para los equipos de infraestructura: nada cambia mañana, pero si tu estrategia de modelos depende de Hugging Face (y probablemente depende), ahora tienes un proveedor más arriba en la cadena del que preocuparte.
 
 Fuentes: [The Information](https://www.theinformation.com/) vía [The New Stack](https://thenewstack.io/nvidia-open-models-chips/) y [análisis de neutralidad](https://thenewstack.io/nvidia-hugging-face-acquisition-neutrality/) (27-28-08-2026).
+
+### Update: 5 de septiembre
+
+Lo que en agosto era un rumor bien fundado de The Information ahora es oficial y con firma: el jueves Nvidia presentó el **filing ante la SEC** y Jensen Huang publicó el anuncio en el blog de la compañía. Las cifras no cambiaron —**US$12.930.300.000**—, pero aparecieron detalles que antes no estaban:
+
+- **Cierre estimado:** primera mitad de 2027. O sea, todavía queda un proceso regulatorio completo por delante (y con el historial antimonopolio que arrastra Nvidia, ojo ahí).
+- **Los números oficiales de Hugging Face:** más de **18 millones de desarrolladores**, **3 millones de modelos**, **500.000 datasets**, **1 millón de aplicaciones** y más de **200.000 empresas** usando la plataforma.
+- **La promesa de neutralidad, por escrito:** Hugging Face "seguirá siendo una plataforma abierta para todo el ecosistema". Los desarrolladores elegirán modelos, frameworks, nubes y proveedores de inferencia a su gusto, y **no se requerirá hardware Nvidia** para construir o desplegar sobre HF. Multi-cloud y multi-acelerador garantizado.
+- Huang aprovechó de colgarse de su carta abierta sobre open weights: Nvidia dice ser el mayor contribuyente de modelos y datos abiertos a HF (**500+ modelos y 250+ datasets** publicados).
+
+Traducción para el equipo: la tesis defensiva del post original se confirma casi al pie de la letra. La diferencia es que ahora la "neutralidad" viene con compromiso público explícito —justo lo que pedía la comunidad—, pero el incentivo estructural (que el open source siga corriendo en CUDA) no desaparece. A vigilar el proceso de aprobación regulatoria durante 2026-2027.
+
+Fuente: [NVIDIA Blog](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/), [Reuters](https://www.reuters.com/technology/nvidia-talks-acquire-hugging-face-13-billion-deal-business-insider-reports-2026-08-27/), [CNBC](https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html) (03-09-2026).
