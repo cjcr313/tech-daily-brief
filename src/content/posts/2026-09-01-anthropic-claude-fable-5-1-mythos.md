@@ -46,3 +46,17 @@ Anthropic cambió oficialmente su controvertida política de retención de datos
 - **Rollout por fases:** arranca "más tarde en el otoño" (boreal).
 
 La jugada apunta directo a bancos, salud y gobierno: les deja usar Claude con la privacidad de una política ZDR, pero conservando salvaguardas contra uso adversarial. Es básicamente Anthropic reconociendo que su política anterior de retención era un freno de venta en el segmento enterprise.
+
+### Update: 2026-09-07 — Fable 5.1 aterriza en AWS Bedrock con gobernanza de datos
+
+La relación AWS-Anthropic sigue apretándose. Este fin de semana **Claude Fable 5.1 ya está disponible en Amazon Bedrock y en Claude Platform on AWS**, y el lanzamiento viene con una capa de gobernanza que va más allá del hosting típico de modelos.
+
+Lo nuevo que hay que saber:
+
+- **Covered Model:** Anthropic designó a Fable 5.1 como *Covered Model*, una categoría que arrastra políticas extra de retención, revisión de seguridad y acceso donde sea que el modelo se ofrezca. En AWS eso significa retención de datos de **hasta 30 días** con revisión humana por parte de personal de Amazon, dentro del boundary de AWS. Ojo: Amazon Bedrock **no comparte datos con Anthropic**, una diferencia importante frente a otros clouds que pasan los datos al proveedor del modelo para revisión.
+- **EFS llega a Bedrock:** los *Enterprise Frontier Safeguards* se construyeron en conjunto entre AWS y Anthropic, y permitirán que clientes elegibles usen Covered Models manteniendo sus datos en un entorno cloud que ellos controlan. Eso sí, AWS no ha publicado **quién califica para EFS ni los detalles técnicos** de la implementación.
+- **El pitch técnico:** Anthropic posiciona Fable 5.1 como capaz de "hacerse cargo" de una mayor parte de un proyecto de software por sí solo —features a lo largo de una codebase completa, code review y trabajo de performance en sesiones largas—. Apunta directo a equipos de ingeniería que quieren delegar tareas complejas de varios pasos.
+
+Para los equipos en AWS, la traducción práctica es una: Fable 5.1 ya es usable en Bedrock, pero la gobernanza (Covered Model + retención + EFS) es ahora parte del trato. En industrias reguladas, esa ventana de retención de 30 días con revisión humana puede chocar con políticas estrictas de residencia de datos — justo el dolor que EFS intenta resolver, aunque todavía con elegibilidad opaca.
+
+Fuente: [Inside AI](https://insideai.news/news/ai-in-business/claude-fable-5-1-aws/9853/), [AWS ML Blog](https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/) (07-09-2026).
