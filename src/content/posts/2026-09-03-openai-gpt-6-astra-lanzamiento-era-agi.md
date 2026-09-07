@@ -62,3 +62,17 @@ El lanzamiento del jueves tuvo su contrapunto de humildad casi de inmediato. Hor
 Para el que esté evaluando la API: no cuentes con Astra en producción de inmediato. El "salto generacional" viene con fila de espera, y OpenAI está dosificando el acceso con criterio de seguridad, no de demanda.
 
 Fuente: [The Verge](https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout), [The New Stack](https://thenewstack.io/gpt6-astra-developer-access-delayed/), [Unite.AI](https://www.unite.ai/sam-altman-apologizes-as-gpt-6-astra-staged-launch-denies-paid-access/) (04-09-2026).
+
+### Update: 7 de septiembre
+
+El "futuro cercano" del que hablaba Altman llegó antes del fin de semana: el **5 de septiembre** el acceso se abrió de lleno para **suscriptores ChatGPT Plus y Business**, con los cupos de uso de ambos planes reiniciados al mismo tiempo. Es la primera vez que el nombre "GPT-6" aparece en las cuentas de suscriptores comunes.
+
+Lo que se confirma ahora en la API:
+
+- **Precio oficial:** **$10 por millón de tokens** de entrada y **$50 por millón** de salida. Ojo con el salto: es **2,5 veces más caro** que el precio promocional del flagship anterior, GPT-5.6 Sol ($4/$20).
+- **Contexto de 1.050.000 tokens**, salida máxima de **128.000 tokens** y corte de conocimiento en **abril de 2026**. En la práctica, un solo request puede tragarse una codebase completa sin recortes ni RAG.
+- **"Full rollout" no significa todo desbloqueado:** OpenAI mantiene un acceso en **dos carriles**. La versión pública rechaza tareas de ciberataque avanzadas a nivel de modelo; las capacidades "críticas" (construcción de exploits, etc.) se entregan por separado a organizaciones vetadas vía **Daybreak**.
+
+Traducción para quien esté en la API: Astra ya es usable, pero la brecha entre el modelo público y el que OpenAI controla internamente sigue siendo la frontera técnica más importante de este lanzamiento. No compres la idea de "Astra completo" a secas: el de ciberseguridad fuerte sigue gateado.
+
+Fuente: [Winzheng](https://www.winzheng.com/en/article/gpt-6-astra-plus-business-rollout-pricing-analysis), [aipricing.guru](https://www.aipricing.guru/openai-pricing/) (07-09-2026).
