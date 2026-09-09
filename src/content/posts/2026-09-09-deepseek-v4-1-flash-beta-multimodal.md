@@ -1,0 +1,43 @@
+---
+title: "DeepSeek abre beta de V4.1 Flash: arquitectura nueva y multimodal nativo, sin pagar extra"
+author: Carlos
+pubDatetime: 2026-09-09T03:00:00Z
+slug: deepseek-v4-1-flash-beta-multimodal
+featured: false
+draft: false
+tags:
+  - IA
+  - Open Source
+  - Modelos chinos
+description: "DeepSeek liberó por API un beta de dos días de V4.1 Flash, con arquitectura rediseñada y soporte multimodal nativo (texto, imagen y audio), al mismo precio que V4 Flash."
+---
+
+![Ilustración editorial de un modelo de IA multimodal que procesa simultáneamente texto, imagen y audio dentro de una arquitectura rediseñada, estilo tech editorial con acentos en azul profundo](../../assets/images/2026-09-09-deepseek-v4-1-flash-beta-multimodal.jpg)
+
+El lunes por la tarde (hora china) **DeepSeek** abrió de forma silenciosa una **beta limitada de V4.1 Flash**, su modelo intermedio de nueva generación. La ventana de prueba es corta: dos días y se apaga solo el **10 de septiembre**. Para probarlo no hay que cambiar nada de `base_url`, basta con cambiar el ID del modelo a `deepseek-v4.1-flash-expires-on-0910`.
+
+## La novedad de fondo no es "otro modelo más"
+
+Lo interesante acá no es que DeepSeek saque otra versión, sino el detalle técnico que viene en la documentación oficial: **"arquitectura de modelo completamente nueva"**. La familia V4 usa la arquitectura existente; V4.1 Flash viene con un **rediseño a nivel arquitectónico**, no un simple ajuste de parámetros.
+
+Y lo más relevante para el que corre modelos en producción: el **multimodal ahora es nativo**. Texto, imagen y audio se procesan de forma unificada dentro del modelo, en vez de la lógica de "parche" que usa V4 Flash con su expansión Vision colgada por fuera. Es la diferencia entre que una capacidad esté integrada de fábrica versus ser un accesorio.
+
+## Precio y rendimiento
+
+El precio **es idéntico a V4 Flash**, sin recargo por ser beta. En horario valle, por millón de tokens:
+
+- **Input cache hit:** US$0,007
+- **Input cache miss:** US$0,22
+- **Output:** US$0,66
+
+En horario punta, el doble en toda la línea (en RMB: ¥0,05 / ¥1,5 / ¥4,5). Los benchmarks que andan circulando entre desarrolladores hablan de velocidades de salida que **superan los 300 tokens/s, con picos de 507 tokens/s**.
+
+La única restricción fuerte: la beta limita cada cuenta a **20 requests concurrentes**, contra los 2.500 de la versión de producción. Señal clara de que esto es una validación funcional, no un release para tirar a producción.
+
+## La jugada estratégica
+
+Junto con el beta, DeepSeek lanzó una encuesta anónima pensada para responder una sola pregunta: **¿puede V4.1 Flash reemplazar a V4 Pro?** La intención es obvia —validar si la nueva arquitectura Flash es capaz de absorber cargas de trabajo que hoy están reservadas para el modelo insignia, a una fracción del costo.
+
+Para el equipo de infraestructura: no es noticia para correr a migrar, pero sí es un adelanto de hacia dónde apunta DeepSeek. Si la arquitectura nueva cumple, la línea entre el modelo "barato y liviano" y el "grande y caro" se va a correr. Como siempre con DeepSeek, la jugada se pelea por precio y adopción, no por lock-in.
+
+Fuentes: [BigGo Finance](https://finance.biggo.com/news/7b620419-2be7-4cee-b1c9-972a80342d89), [PANews](https://panews.io/articles/01a0801e-ba9d-7361-a37b-88d642cf38a5), [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/) (08-09-2026).
