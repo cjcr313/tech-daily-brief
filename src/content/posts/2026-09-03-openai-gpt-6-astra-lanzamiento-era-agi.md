@@ -76,3 +76,19 @@ Lo que se confirma ahora en la API:
 Traducción para quien esté en la API: Astra ya es usable, pero la brecha entre el modelo público y el que OpenAI controla internamente sigue siendo la frontera técnica más importante de este lanzamiento. No compres la idea de "Astra completo" a secas: el de ciberseguridad fuerte sigue gateado.
 
 Fuente: [Winzheng](https://www.winzheng.com/en/article/gpt-6-astra-plus-business-rollout-pricing-analysis), [aipricing.guru](https://www.aipricing.guru/openai-pricing/) (07-09-2026).
+
+### Update: 9 de septiembre
+
+Astra desembarca formalmente en la nube de AWS. El **8-9 de septiembre** OpenAI y Amazon hicieron **disponibilidad general de GPT-6 Astra en Amazon Bedrock**, según confirmó el AWS Machine Learning Blog: es, dicen, el modelo "más capaz" de OpenAI hasta la fecha, y queda junto a GPT-5.6 Sol/Terra/Luna, GPT-5.5 y GPT-5.4 en el catálogo de modelos frontier del servicio.
+
+Lo que suma para quien esté evaluando correrlo en producción:
+
+- **Acceso directo vía API de Bedrock** o configurándolo en **ChatGPT Work y Codex**, con nuevos plugins enterprise de ChatGPT Work como parte del lanzamiento.
+- **Contexto de hasta 1 millón de tokens de entrada**, pensado para review de contratos de cientos de páginas, análisis de codebases completas y finanzas con fuentes en conflicto.
+- **Computer y browser use avanzado:** puede operar aplicaciones y manejar interfaces de software directamente cuando no hay API ni conector disponible.
+- **Prompt caching implícito y explícito** en Bedrock, clave para workflows que reutilizan contexto (review recurrente de documentos, agentes anclados a estándares de la empresa).
+- Corre sobre el **motor de inferencia de Bedrock**, con los controles de AWS para gobernanza de acceso y auditoría de invocaciones.
+
+Traducción DevOps: la ruta "Astra en producción" deja de pasar solo por la API de OpenAI. Si tu stack ya vive en AWS, puedes invocar el modelo por Bedrock y mantener gobernanza, caching y auditoría dentro del mismo proveedor. Eso sí, sigue vigente lo que apuntamos arriba: las capacidades de ciberseguridad fuertes siguen gateadas por el framework de seguridad de OpenAI, independiente del canal.
+
+Fuente: [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/), [Unite.AI](https://www.unite.ai/openais-gpt-6-astra-reaches-general-availability-on-amazon-bedrock/) (08-09-2026).
