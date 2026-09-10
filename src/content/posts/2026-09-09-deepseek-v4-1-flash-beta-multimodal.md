@@ -49,3 +49,18 @@ DeepSeek confirmó lo que el beta dejaba entrever: **V4.1 Flash sale oficialment
 La parte más jugosa para el que opera en producción: **hasta que salga V4.1 Pro, todas las requests a V4 Pro se van a redirigir a V4.1 Flash, facturadas al precio de V4.1 Flash**. Traducido: los que hoy pagan por V4 Pro van a recibir el modelo nuevo, más barato y más rápido, sin mover un dedo. Es la confirmación de que la apuesta de DeepSeek era real —la arquitectura nueva Flash estaba pensada para comerse el espacio del modelo insignia.
 
 Fuentes: [Odaily](https://www.odaily.news/en/newsflash/516591), [PANews](https://panews.io/articles/01a0856e-2bce-75c8-bca5-2be6af74ffd9), [TechFlow](https://www.techflowpost.com/en-US/newsletter/135519).
+
+### Update: 10 de septiembre de 2026 — pesos abiertos en Hugging Face
+
+DeepSeek cumplió y fue más allá del aviso por API: **V4.1 Flash ya está en Hugging Face con pesos abiertos**. El repo `deepseek-ai/DeepSeek-V4.1-Flash` salió el mismo 10 de septiembre bajo **licencia MIT**, sin gating, repartido en **48 shards safetensors**.
+
+Los números técnicos que confirma el README:
+- **Multimodal MoE** con backbone de **552B** de parámetros y contexto de hasta **1 millón de tokens**.
+- Arquitectura **Causal Encoder-Decoder** con activaciones de **8B por token en prefill** y **16B en decode**.
+- En el changelog oficial muestran **GPQA Diamond en 90.9**.
+
+En la API, la identidad nueva es `deepseek-flash`. Los nombres legacy `deepseek-v4-flash` y `deepseek-v4-flash-vision-exp` se redirigen temporalmente a V4.1 Flash. Y ojo con el calendario: **desde el 14 de septiembre a las 12:00 (hora de Beijing)**, y hasta que salga V4.1 Pro, las requests a `deepseek-v4-pro` se van a rutear a V4.1 Flash facturadas al precio Flash.
+
+Traducido para el que opera infra: es la primera vez que DeepSeek suelta el modelo nuevo en pesos abiertos el mismo día del lanzamiento por API. El que quiera correrlo local tiene el camino de conversión abierto; el que use la API solo cambia el ID del modelo.
+
+Fuentes: [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash), [DeepSeek API updates](https://api-docs.deepseek.com/updates/), [AIBase](https://news.aibase.com/news/30949).
