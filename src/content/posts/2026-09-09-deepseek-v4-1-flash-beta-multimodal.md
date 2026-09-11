@@ -64,3 +64,20 @@ En la API, la identidad nueva es `deepseek-flash`. Los nombres legacy `deepseek-
 Traducido para el que opera infra: es la primera vez que DeepSeek suelta el modelo nuevo en pesos abiertos el mismo día del lanzamiento por API. El que quiera correrlo local tiene el camino de conversión abierto; el que use la API solo cambia el ID del modelo.
 
 Fuentes: [Hugging Face](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash), [DeepSeek API updates](https://api-docs.deepseek.com/updates/), [AIBase](https://news.aibase.com/news/30949).
+
+### Update: 11 de septiembre de 2026 — DeepSeek da marcha atrás y mantiene V4 Pro
+
+Ojo, que acá hubo un giro que contradice lo que se había anunciado. En el changelog oficial del release, DeepSeek confirmó que **"en respuesta a la demanda de los usuarios, decidimos seguir ofreciendo el servicio de API de DeepSeek V4 Pro después del 14 de septiembre de 2026, manteniendo el método de facturación sin cambios"**.
+
+Traducido: se cae la jugada que se daba por cerrada —que las requests a `deepseek-v4-pro` se redirigieran a V4.1 Flash facturadas al precio Flash—. **V4 Pro sigue vivo y con su facturación intacta**, al menos por ahora. Los que operaban con V4 Pro no van a recibir ningún cambio silencioso de modelo ni de precio.
+
+Lo que sí se mantiene firme del release:
+- **V4 Flash y V4 Flash Vision Exp quedaron retirados.** Los nombres `deepseek-v4-flash` y `deepseek-v4-flash-vision-exp` se redirigen temporalmente a V4.1 Flash solo por compatibilidad.
+- El modelo nuevo se llama por API como **`deepseek-flash`**.
+- Con el lanzamiento, **los precios de la API bajaron** en toda la línea.
+
+DeepSeek además publicó los benchmarks oficiales del modelo en el changelog, con varios números llamativos: **GPQA Diamond en 90.9**, **Codeforces (rating) 3471**, **Terminal-Bench 2.1 en 90.6** y **DeepSWE v1.1 en 74.2**. Números que respaldan la tesis del beta: la arquitectura nueva Flash rinde a nivel de un modelo insignia, a precio de modelo liviano.
+
+Para el que opera infra: la lección es no dar por cerrada una deprecación hasta que la documentación oficial la confirme en firme. DeepSeek se echó para atrás en menos de 24 horas, y el que hubiera automatizado un cambio de modelo a ciegas se habría comido un cambio de planes innecesario.
+
+Fuente: [DeepSeek API updates](https://api-docs.deepseek.com/updates/).
