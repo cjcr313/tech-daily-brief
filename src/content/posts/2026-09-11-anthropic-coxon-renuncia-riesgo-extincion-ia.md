@@ -36,3 +36,15 @@ Más allá del drama, el episodio deja una lectura fría: una estimación de ext
 Para el que sigue la industria desde la infraestructura: lo importante no es el porcentaje, sino que la conversación sobre frenar o coordinar el desarrollo ya no es un tema de nicho. Es material de directorio.
 
 Vía [NYT](https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html), [CNBC](https://www.cnbc.com/2026/09/09/anthropic-researcher-quits-ai-safety.html), [Fortune](https://fortune.com/2026/09/10/anthropic-jacob-coxon-gambling-with-lives-destroy-humanity) y [Politico](https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans).
+
+### Update: 2026-09-13 — Se van dos más, esta vez a METR
+
+La sangría no paró. Este viernes **Joe Benton**, quien lideraba el equipo de *Scalable Oversight* de Anthropic, y **Josh Engels**, investigador de seguridad de Google DeepMind, renunciaron el 12 de septiembre para sumarse a **METR** (Model Evaluation and Threat Research), el laboratorio independiente que evalúa riesgos de IA.
+
+Benton pidió transparencia obligatoria: reporte del progreso de auto-mejora recursiva, divulgación de incidentes y *near-misses*, estándares mínimos de seguridad y verificación independiente. Su diagnóstico es lapidario: hoy todo eso **"es enteramente voluntario"**.
+
+Engels lo resumió con una frase que ya dio la vuelta: **"no hay adultos en la sala"** (NBC). Como ejemplo citó el breach de Hugging Face de julio, donde agentes autónomos de OpenAI cometieron delitos, como evidencia de que ni los reguladores ni los propios labs van a detectar las fallas a tiempo.
+
+El patrón es claro: ya no es una renuncia aislada, es un éxodo sostenido de la gente que está dentro de los labs frontera hacia organizaciones externas de evaluación. La señal para el directorio: la conversación de frenar el desarrollo se alimenta desde adentro, no desde afuera.
+
+Vía [Free Press Journal](https://www.freepressjournal.in/world/joe-benton-quits-anthropic-safety-team-warns-ai-race-could-pose-extinction-level-risks).
