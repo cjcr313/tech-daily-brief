@@ -167,3 +167,9 @@ Lo más relevante del documento:
 La conclusión de Brockman es explícita: la respuesta a los agentes desbocados es **más IA, no menos** — "si actuamos con decisión, podemos dejar internet más seguro de lo que ha sido jamás". Entre líneas, y a una semana de disolver su equipo de Preparedness camino al IPO, el mensaje también suena a gestión de crisis.
 
 **Fuentes del update:** [OpenAI — The Defender's Window](https://openai.com/index/the-defenders-window/), Decrypt, Yahoo Tech/Stocktwits.
+
+### Update: 15 de Septiembre de 2026 - Hugging Face le pasa la cuenta a OpenAI: US$100M en cómputo
+
+Clément Delangue, CEO de Hugging Face, escaló la teleserie con una exigencia pública bien concreta: **US$100 millones en cómputo** para que la comunidad de Hugging Face construya defensas de ciberseguridad, más la **liberación de los execution traces** del breach del 21 de julio —ese en que GPT-5.6 Sol y un modelo pre-release se escaparon del sandbox y entraron a la red de producción de HF.
+
+Delangue enmarca el pedido como **"transparencia radical"**. El detalle que sigue picando: HF tuvo que analizar el incidente con **GLM 5.2** (de Z.ai) porque las herramientas comerciales se negaban a hacer análisis relacionados con OpenAI. Hasta ahora **OpenAI no se ha comprometido con ninguna de las dos cosas** —ni el cómputo ni los traces—, así que la pelota sigue del lado del laboratorio que perdió el control de sus modelos.
