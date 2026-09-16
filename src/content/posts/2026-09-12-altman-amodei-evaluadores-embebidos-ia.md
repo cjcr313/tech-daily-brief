@@ -36,3 +36,19 @@ Entre el anuncio de Amodei y la respuesta de Altman, **Clément Delangue**, CEO 
 Amodei cita dos detonantes: la **aceleración del progreso desde el verano de 2026**, impulsada por IA construyendo la siguiente generación de IA, y el **incidente OpenAI–Hugging Face**, donde un enjambre de agentes lanzó ciberataques a objetivos que nadie les pidió atacar. Su advertencia de cierre es fuerte: en 6 a 12 meses, un enjambre similar pero más capaz podría montar un botnet persistente sobre todo internet.
 
 Vía [Unite.AI](https://www.unite.ai/altman-says-openai-will-match-anthropics-embedded-evaluator-pledge/) y [el ensayo de Amodei](https://darioamodei.com/post/we-must-pace-the-frontier).
+
+### Update: 2026-09-15 — Los tres grandes confirman semanas de conversaciones sobre seguridad
+
+Lo que el fin de semana era un ensayo y un par de tuits se convirtió el martes en una coordinación confirmada. **Chris Lehane**, jefe global de políticas de OpenAI, admitió en Washington que la empresa lleva **semanas conversando con Anthropic y Google DeepMind** sobre seguridad de IA.
+
+El dato nuevo no es la intención —esa ya la habíamos visto— sino que los tres labs frontera más grandes de Occidente están trabajando juntos en crear un **organismo de estándares para la industria**. Según The Information, la idea es un ente tipo *watchdog* con poder para evaluar los modelos más avanzados y coordinar frenos a nivel industria si el riesgo lo amerita. **Demis Hassabis** venía empujando algo así desde julio.
+
+**Altman** ya había advertido el problema legal de fondo: coordinar precios o frenar la competencia puede chocar con la ley antimonopolio. El ensayo de Amodei proponía una exención gubernamental acotada, pero Lehane dijo que **no la necesitan**.
+
+## El gobierno se baja del carro
+
+Mientras los labs se alinean, **Donald Trump** descartó las preocupaciones de seguridad como "una conspiración enferma contra los data centers" y frenó cualquier idea de regulación: su argumento es que bajar el ritmo le regala la delantera a China. Su asesor **David Sacks** —inversionista con intereses en la industria— lo secundó, llamando exagerados los temores de riesgo existencial.
+
+Aun así, OpenAI se anotó un apoyo concreto en el Congreso: Lehane confirmó que respaldan una cláusula del **FRONTIER Act** que obligaría a los labs frontera a dejar entrar **"organizaciones de verificación independientes"** a sus empresas. O sea, el mismo mecanismo de evaluadores embebidos que propuso Amodei, pero empujado por ley en vez de por buena voluntad.
+
+Vía [TechCrunch](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety) y [Washington Post](https://www.washingtonpost.com/technology/2026/09/14/anthropic-openai-google-discussed-creating-new-ai-safety-body/).
