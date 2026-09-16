@@ -45,3 +45,21 @@ En autoscaling también hay avance concreto: el **HPA ahora puede escalar hasta 
 Como siempre, hay que mirar las deprecaciones: **kube-dns queda oficialmente obsoleto** (a migrar a CoreDNS), el **modo IPVS de kube-proxy** va camino a la salida, y se insiste en migrar a **cgroup v2** antes de que cgroup v1 desaparezca definitivamente.
 
 **Fuentes:** Kubernetes Blog (anuncio oficial y posts de features), Linuxiac, fosstopia.
+
+### Update: 2026-09-16 — Memory QoS se gradúa a Beta y queda encendido por defecto
+
+Un feature que no salió en el anuncio grande de Garhwal ahora da el salto: **Memory QoS** gradúa de Alpha a **Beta** en v1.37 y, ojo con esto, **queda habilitado por defecto** en los nodos Linux que usan **cgroup v2**.
+
+La gracia del feature es usar el *memory controller* del kernel para darle mejores señales sobre cómo tratar la memoria de cada contenedor. Llegó como Alpha en la v1.22 y en v1.36 sumó la **reserva de memoria por niveles (tiered reservation)**.
+
+Lo importante para operadores es que **encenderlo por defecto es seguro**, y acá está el detalle fino: el `memoryThrottlingFactor` ahora por defecto es **`null`** (antes era `0.9`). Traducido: el kubelet **no** escribe `memory.high`, `memory.min` ni `memory.low` a los cgroups a menos que tú lo configures explícitamente. O sea, subir a v1.37 no cambia el comportamiento en runtime de los clusters existentes.
+
+Si quieres activarlo a mano, en `KubeletConfiguration`:
+- `memoryThrottlingFactor: 0.9` → habilita throttling vía `memory.high` en pods Burstable y BestEffort.
+- `memoryReservationPolicy: TieredReservation` → activa protección por niveles con `memory.min` y `memory.low`.
+
+Para desactivarlo, basta con `featureGates: { MemoryQoS: false }` (y el kubelet te rechaza la config si dejaste `memoryThrottlingFactor` en algo distinto a `0.9` o `TieredReservation` activo).
+
+**Limitación a tener en cuenta:** la reserva de memoria es **a nivel de nodo**, no por pod —todos los pods Guaranteed reciben `memory.min` y los Burstable `memory.low`, sin opción de excluir pods puntuales—. SIG Node lo está trackeando en `kubernetes/kubernetes#140246`. El próximo hito es **GA**.
+
+Vía [Kubernetes Blog](https://kubernetes.io/blog/2026/09/14/kubernetes-v1-37-memory-qos-graduates-to-beta/).
