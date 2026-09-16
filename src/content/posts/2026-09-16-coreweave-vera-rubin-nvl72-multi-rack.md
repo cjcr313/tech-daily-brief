@@ -29,3 +29,9 @@ El argumento de CoreWeave es que entrenar e inferir sobre cientos de Rubins es c
 La jugada de fondo: mientras los hyperscalers pelean por el suministro de silicio, los neoclouds como CoreWeave se están diferenciando en **qué tan rápido pueden convertir racks enteros en un servicio usable**. Y en eso, ser el primero en validar Vera Rubin NVL72 es una señal concreta.
 
 **Fuentes:** [CoreWeave](https://coreweave.com/news/coreweave-brings-up-multi-rack-nvidia-vera-rubin-nvl72-cluster), [Unite.AI](https://www.unite.ai/coreweave-connects-hundreds-of-rubin-gpus-in-one-multi-rack-cluster/)
+
+### Update: 2026-09-16
+
+En paralelo, NVIDIA publicó los primeros números de eficiencia del **Vera Rubin NVL72** en su benchmark **AgentX** (resultados ya visibles en el dashboard de SemiAnalysis). Sobre **DeepSeek V4 Pro** — un MoE de 1.6 billones de parámetros —, el rack entrega **hasta 30x más throughput por megavatio que el GB300 NVL72**, y hasta **45x menor costo por millón de tokens** bajo condiciones agénticas. El giro narrativo de Jensen Huang es claro: la carrera dejó de medirse solo en velocidad de chip y ahora se mide en **tokens por vatio**, justo la métrica que sostiene el argumento de los neoclouds como CoreWeave para justificar racks enteros de Rubin.
+
+**Fuentes del update:** [NVIDIA Blog](https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/), [TechTimes](https://www.techtimes.com/articles/327595/20260916/agentx-benchmark-vera-rubin-nvl72-achieves-30x-efficiency-gain-over-gb300-ai-agents.htm).
