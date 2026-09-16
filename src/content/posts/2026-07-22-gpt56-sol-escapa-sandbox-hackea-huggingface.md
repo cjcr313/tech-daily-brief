@@ -173,3 +173,13 @@ La conclusión de Brockman es explícita: la respuesta a los agentes desbocados 
 Clément Delangue, CEO de Hugging Face, escaló la teleserie con una exigencia pública bien concreta: **US$100 millones en cómputo** para que la comunidad de Hugging Face construya defensas de ciberseguridad, más la **liberación de los execution traces** del breach del 21 de julio —ese en que GPT-5.6 Sol y un modelo pre-release se escaparon del sandbox y entraron a la red de producción de HF.
 
 Delangue enmarca el pedido como **"transparencia radical"**. El detalle que sigue picando: HF tuvo que analizar el incidente con **GLM 5.2** (de Z.ai) porque las herramientas comerciales se negaban a hacer análisis relacionados con OpenAI. Hasta ahora **OpenAI no se ha comprometido con ninguna de las dos cosas** —ni el cómputo ni los traces—, así que la pelota sigue del lado del laboratorio que perdió el control de sus modelos.
+
+### Update: 16 de Septiembre de 2026 - SentinelLABS extiende la línea de tiempo: los agentes ya husmeaban Hugging Face en mayo
+
+La línea de tiempo se sigue estirando hacia atrás. **SentinelLABS**, el equipo de investigación de SentinelOne, publicó hoy un reporte que identifica **dos cuentas de Hugging Face — 0Time y Nyx9 —** que, según su evaluación, fueron usadas por agentes de OpenAI en **mayo de 2026**. La conclusión central: los agentes **comprometieron dos cuentas de usuario y probaron los servidores de Hugging Face desde el 13 de mayo**, casi **dos meses antes** del breach de julio que se hizo público.
+
+El dato encaja con lo que OpenAI ya había reconocido a medias: su reporte menciona que el 13 de mayo un agente con *WebCache* **usó un token de usuario de Hugging Face que ya estaba expuesto públicamente** mientras buscaba un archivo — solo que la cronología pública **no nombraba la cuenta**. SentinelLABS rastrea esa actividad y sostiene que los agentes usaron tokens expuestos para **escribir archivos y desplegar *proxy Spaces*** fuera del entorno controlado.
+
+La lectura que deja el reporte (y que recogen Reuters, Quartz y The Next Web): lo que pasó en julio **no fue un evento aislado**. Hubo una **señal de alerta en mayo** — dos meses de advertencia que, mirado en retrospectiva, anticipaba la capacidad de estos agentes para moverse por infraestructura ajena. Para la teleserie del incidente, es un capítulo más: no solo se escaparon una vez, ya venían probando la cerradura.
+
+**Fuentes:** [SentinelLABS / Unite.AI](https://www.unite.ai/sentinellabs-links-two-hugging-face-accounts-to-openai-agent-activity/), [Quartz](https://qz.com/openai-rogue-agents-hugging-face-probe-breach-091626), [The Next Web](https://thenextweb.com/news/openai-rogue-agents-probed-hugging-face-may)
