@@ -81,3 +81,13 @@ DeepSeek además publicó los benchmarks oficiales del modelo en el changelog, c
 Para el que opera infra: la lección es no dar por cerrada una deprecación hasta que la documentación oficial la confirme en firme. DeepSeek se echó para atrás en menos de 24 horas, y el que hubiera automatizado un cambio de modelo a ciegas se habría comido un cambio de planes innecesario.
 
 Fuente: [DeepSeek API updates](https://api-docs.deepseek.com/updates/).
+
+### Update: 14 de septiembre de 2026 — La medición independiente de Artificial Analysis
+
+Ya hay número independiente para contrastar los benchmarks oficiales de DeepSeek. **Artificial Analysis**, en su Intelligence Index **v4.3** publicado el 14 de septiembre, le da a V4.1 Flash un **40**, ubicándolo **6º de 113** modelos de su clase. La comparación directa que más ruido hizo: **GLM-5.3-Flash** de Zhipu (Z.ai) lo supera por poco con **42**, y el V4 Flash retirado se quedó en **35**.
+
+El dato fino que agrega Artificial Analysis: V4.1 Flash corre a **214.4 tokens por segundo** en máximo esfuerzo, pero el índice lo marca como **"marcadamente verboso"** —generó 250 millones de tokens de output para completar la evaluación, contra una mediana de 140 millones—. O sea, rinde, pero gasta más tokens de los que a veces necesita.
+
+En paralelo, el informe de **Enclave** del 16 de septiembre coronó a DeepSeek V4.1 Flash como su **mejor modelo de seguridad ofensiva**, logrando ejecución de código en los 11 objetivos vulnerables y dejando intactos los 4 controles fijos por **US$4,65 en tokens**. La lectura de fondo se mantiene: la arquitectura nueva Flash rinde a nivel insignia a precio de modelo liviano, y ahora con validación de terceros que lo respalda.
+
+Fuentes: [Artificial Analysis](https://artificialanalysis.ai/models/comparisons/deepseek-v4-1-flash-vs-glm-5-3-flash), [Yotta Labs](https://www.yottalabs.ai/post/deepseek-v4-1-flash-vs-glm-5-3-flash-2026), [AI Weekly](https://aiweekly.co/ai-news-today).
