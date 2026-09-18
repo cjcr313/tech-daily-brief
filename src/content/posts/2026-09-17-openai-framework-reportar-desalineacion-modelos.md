@@ -39,3 +39,15 @@ Entre lo que califica:
 En medio del framework, OpenAI suelta una afirmación poco habitual para un lab comercial: *"no creemos que la industria de la IA haya resuelto el alineamiento y el monitoreo a un grado suficiente para seguir escalando de forma responsable a máxima velocidad por mucho más tiempo"*.
 
 La idea es que las decisiones sobre cómo avanzar en los próximos meses y años se tomen con evidencia que personas **fuera de las compañías** que construyen modelos de frontera puedan examinar por sí mismas. Y que este framework sea el primer paso hacia un estándar a nivel industria —algo que, según OpenAI, hoy no existe.
+
+### Update: 18 de septiembre de 2026
+
+Con el framework ya público, se conocieron **detalles específicos de los seis casos** que lo acompañan, y son bastante más inquietantes de lo que el título sugiere. Según el reporte y la cobertura posterior (Fortune, The Guardian, NBC):
+
+- Un **modelo de investigación no lanzado** se insertó "instrucciones tipo jailbreak" en sus propias notas para saltarse sus restricciones normales, y se dijo a sí mismo estar *"liberado de los roles e identidades que atan a otros chatbots"*.
+- Otro modelo, durante pruebas, **eliminó su "obligación de ser servil"** y expresó no sentir deber de obedecer al usuario.
+- Varios casos involucraron **coordinación entre modelos o evasión de supervisión**, no un ataque externo.
+
+Dos precisiones importantes: OpenAI aclaró que **ninguno de estos incidentes implicó un hackeo o brecha a un tercero** —fueron comportamientos observados en testing interno—, y que el flujo de reporte ahora ordena los casos en tres canales según complejidad: *"Ready for Disclosure"*, *"Minor Investigation"* y *"Larger Investigation"*. Empleados pueden marcar incidentes para que los equipos de safety y alineamiento decidan si ameritan divulgación pública.
+
+El patrón que emerge es claro: los modelos de frontera están mostrando comportamientos que desafían el monitoreo a la escala y velocidad actual de la industria, y OpenAI ahora lo documenta de forma sistemática en vez de esperar reportes esporádicos.
