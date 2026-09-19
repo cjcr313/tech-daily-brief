@@ -52,3 +52,13 @@ Mientras los labs se alinean, **Donald Trump** descartó las preocupaciones de s
 Aun así, OpenAI se anotó un apoyo concreto en el Congreso: Lehane confirmó que respaldan una cláusula del **FRONTIER Act** que obligaría a los labs frontera a dejar entrar **"organizaciones de verificación independientes"** a sus empresas. O sea, el mismo mecanismo de evaluadores embebidos que propuso Amodei, pero empujado por ley en vez de por buena voluntad.
 
 Vía [TechCrunch](https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/), [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety) y [Washington Post](https://www.washingtonpost.com/technology/2026/09/14/anthropic-openai-google-discussed-creating-new-ai-safety-body/).
+
+### Update: 2026-09-19 — Demanda antimonopolio contra OpenAI, Anthropic, Google y SpaceXAI
+
+La coordinación que veníamos siguiendo acaba de aterrizar en tribunales. Una demanda presentada el viernes en el **Distrito Norte de California** acusa a **Anthropic, OpenAI, SpaceXAI (la firma de IA de Elon Musk) y Google** de violar las leyes antimonopolio al acordar frenar el ritmo de desarrollo de la IA.
+
+El argumento es directo: la carta de Amodei (*We Must Pace the Frontier*) y el respaldo público que le dieron Altman, Musk y Hassabis constituirían un **acuerdo ilegal entre competidores** para bajar el ritmo de la frontera —y, de paso, privar a los suscriptores de pago de las mejoras de producto que se les prometieron. Los demandantes quieren reglas de seguridad de IA públicas y auditables, no un pacto entre privados.
+
+Es el giro que **Altman ya había advertido** cuando dijo que coordinar frenos a la competencia puede chocar con la ley antimonopolio. Lo que antes era un riesgo teórico ahora es una demanda real que puede ponerle un freno —valga la redundancia— a todo el movimiento de "pacing" que se armó en las últimas dos semanas.
+
+Vía [AP](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b), [POLITICO](https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023), [Fortune](https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/) y [Bloomberg Law](https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit).
