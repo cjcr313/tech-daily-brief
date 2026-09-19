@@ -91,6 +91,20 @@ Viniendo de la empresa que se vende como la opción "segura y responsable" de la
 
 **Fuente del update:** CNBC (21/08/2026).
 
+### Update: 19 de septiembre, 2026 — La IPO se mueve a noviembre y apunta a levantar hasta US$100.000 millones
+
+El calendario cambió. Según The Wall Street Journal (vía fuentes anónimas), Anthropic **movería su debut bursátil de octubre a noviembre**, más tarde de lo que esperaban los inversores. La fecha se habría elegido para que la empresa pueda presentar sus resultados del tercer trimestre, que se esperan fuertes — y, según el reporte, se definió *antes* del reciente debate sobre si la IA avanza demasiado rápido.
+
+Los números que maneja el reporte:
+
+- **Valoración objetivo:** ~US$2 billones.
+- **Capital a levantar:** hasta **US$100.000 millones**, superando el récord que SpaceX marcó en junio.
+- **Caveat:** el timing todavía puede cambiar.
+
+En paralelo, Bloomberg (citando un artículo del New York Times) reporta que Anthropic está preparando el IPO. Nuestra tesis original de octubre sigue viva en lo estructural —utilidad operativa, run rate de US$65.000 millones—, solo que el debut se desliza un mes y el tamaño de la operación sube de tono. Para el mundo infra/DevOps: un IPO de esta escala inyecta capital masivo al ecosistema Claude, lo que se traduce en más compute, más tooling y más enterprise adoption de agentes.
+
+**Fuente del update:** The Wall Street Journal vía PYMNTS (18/09/2026).
+
 ## Enlaces
 - [QZ - Anthropic investors target $2 trillion](https://qz.com/anthropic-ipo-2-trillion-valuation-october-081326)
 - [Danelfin - Anthropic IPO analysis](https://danelfin.com/ipo/anthropic)
