@@ -21,3 +21,11 @@ Pero lo más llamativo no es quién está, sino quién *falta*. Los gigantes det
 Esta alianza surge como respuesta a la necesidad urgente de mitigar vulnerabilidades y trazar un estándar de seguridad transversal, especialmente tras recientes reportes de brechas en entornos de agentes.
 
 La negativa de las empresas de "IA cerrada" a participar levanta la duda de si la industria terminará fracturándose entre el bando del ecosistema abierto liderado por gigantes de hardware/cloud y aquellos que prefieren manejar el riesgo bajo llave. Estaremos atentos a si la presión del mercado los hace ceder.
+
+### Update: 2026-09-19
+
+La alianza acaba de dar un paso institucional grande: la **Open Secure AI Alliance se mudó a la Linux Foundation**, buscando una gobernanza neutral que evite que un solo vendor controle el stack de defensa de IA de punta a punta. La idea es que industria, academia y gobiernos colaboren en herramientas abiertas, estándares compartidos y prácticas basadas en evidencia.
+
+El anuncio viene con una iniciativa concreta: el **Shared AI Findings Exchange (SAFE)**, un mecanismo para recolectar y analizar de forma confidencial incidentes de seguridad en IA, notificar a los afectados y convertir las fallas recurrentes en controles accionables. La propuesta está abierta a comentarios (RFC) y el plazo para contribuir cierra el 21 de septiembre.
+
+La movida la posiciona a la par de comunidades de seguridad ya establecidas como la **OpenSSF**, apuntando a que las defensas de software open source y de IA avancen bajo un mismo techo. Sigue la duda de si los grandes de los modelos cerrados se integrarán alguna vez, pero por ahora el bando abierto sigue sumando músculo.
