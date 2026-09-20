@@ -105,6 +105,14 @@ En paralelo, Bloomberg (citando un artículo del New York Times) reporta que Ant
 
 **Fuente del update:** The Wall Street Journal vía PYMNTS (18/09/2026).
 
+### Update: 20 de septiembre, 2026 — Anthropic evalúa lanzar un nuevo modelo antes del IPO para responder a GPT-6 Astra
+
+Reuters (con fuentes anónimas) suma una pieza nueva al puzzle: Anthropic estaría evaluando **lanzar un nuevo modelo de IA antes del debut bursátil**, como respuesta directa al reciente **GPT-6 Astra de OpenAI**. No es rumor de pasillo — es un reporte exclusivo de Reuters que, de paso, expone la tensión interna entre acelerar releases y la postura del propio CEO.
+
+El contraste es el cuento: el mismo **Dario Amodei** que viene pidiendo **frenar el ritmo de mejora de los modelos** (su ensayo de 3.800 palabras del 12 de septiembre pintó un panorama sombrío de enjambres de agentes IA tomando control de internet) es el que ahora está bajo presión competitiva para no quedarse atrás de OpenAI. Si el modelo ve la luz antes de noviembre, sería el último gran empujón de producto antes de una IPO que apunta a ~US$2 billones y hasta US$100.000 millones levantados.
+
+**Fuente del update:** Reuters (19/09/2026).
+
 ## Enlaces
 - [QZ - Anthropic investors target $2 trillion](https://qz.com/anthropic-ipo-2-trillion-valuation-october-081326)
 - [Danelfin - Anthropic IPO analysis](https://danelfin.com/ipo/anthropic)
