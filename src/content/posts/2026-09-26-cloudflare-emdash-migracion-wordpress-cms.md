@@ -35,3 +35,7 @@ El setup en producción corre EmDash sobre un Cloudflare Worker, con varias capa
 Para el rollout usaron un proxy Worker que iba enrutando tráfico desde WordPress hacia EmDash de forma gradual, con una cookie de versión para decidir qué experiencia recibía cada request. Partieron con el 1% del tráfico y fueron subiendo hasta llegar al 100% en un solo día, con *fallback* automático al sitio legacy si aparecían errores 500.
 
 Fuente: [Cloudflare blog](https://blog.cloudflare.com/cloudflare-blog-uses-emdash/), vía [InfoQ](https://www.infoq.com/news/2026/09/cloudflare-emdash-migration/).
+
+### Update: 28 de septiembre, 2026
+
+EmDash llegó a **1.0**: estable, gratuito y open source. Trae un **registry de plugins descentralizado** — los desarrolladores publican sin ceder identidad ni releases a un marketplace central, y los dueños de sitios instalan plugins directo desde EmDash. El stack queda así: desarrolladores en Astro, editores en el admin de EmDash, y agentes trabajando vía API, CLI o el servidor MCP integrado. Fuente: [Cloudflare blog](https://blog.cloudflare.com/emdash-cms-plugin-registry/).

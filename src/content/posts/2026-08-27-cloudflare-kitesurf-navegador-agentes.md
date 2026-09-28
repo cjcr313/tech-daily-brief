@@ -39,3 +39,13 @@ Kitesurf **no es un reemplazo de Chromium**: le faltan video, WebGL, desafíos d
 Es otra señal de que la capa de infraestructura para agentes se está construyendo desde cero, en vez de adaptar herramientas humanas. Si hoy tus agentes de scraping o navegación pagan Chromium completo, esto apunta exactamente al cuello de botella que te sale caro.
 
 Vía [InfoQ](https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/).
+
+### Update: 28 de septiembre, 2026
+
+Cloudflare actualizó Kitesurf con tres avances concretos hacia el "navegador agéntico":
+
+- **WebMCP**: Kitesurf ahora soporta WebMCP, el estándar de Chrome que permite a los sitios exponer funcionalidad directo a los agentes (llamar `searchFlights()` en vez de simular clicks).
+- **Mejor rendimiento del DOM**: más APIs de estándares de navegador para renderizar páginas más sofisticadas.
+- **Renderizado basado en terminal**: con más de 730.000 subtests del Web Platform Tests pasando.
+
+Se puede probar en el [playground público de Kitesurf](https://kitesurf.cloudflare.app). Fuente: [Cloudflare blog](https://blog.cloudflare.com/kitesurf-update/).
