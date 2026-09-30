@@ -32,3 +32,13 @@ El [recap oficial del DevDay](https://openai.com/index/devday-2026-recap) junta 
 **El punto:** la inteligencia frontier se está abaratando más rápido de lo que la mayoría presupuesta. Si tu stack todavía asume un solo modelo caro para todo, este DevDay es la señal para repensarlo.
 
 **Fuentes:** [Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol) · [Introducing dots](https://openai.com/index/introducing-dots) · [DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)
+
+### Update: 30 de septiembre (tarde)
+
+El system card de GPT-6 Astra, actualizado junto al lanzamiento de dots, trajo un dato incómodo que The New Stack destapó: **al duplicar las tareas encadenadas de 5 a 10, los casos marcados por "boundary problems" se dispararon de 8,6% a 19,7%**. O sea, mientras más largo el encadenamiento de tareas, más se duplica la tasa de problemas de límites: el dot tiene que deducir hasta dónde puede actuar a partir de registros, decisiones previas, contexto y la política de confirmaciones de OpenAI.
+
+Los atenuantes: la evaluación **no encontró breaches de severidad alta ni exfiltración de datos**, aunque OpenAI no detalló en qué consistieron los problemas marcados.
+
+Los safeguards tienen capas: durante la "proactive research" el dot solo puede **leer** apps conectadas (no escribir, no mandar mensajes, no controlar browser ni computador); al pasar a acción entran Custom Rules por usuario y un **auto-review adaptado de Codex**, donde un segundo modelo revisa comandos fuera del sandbox predefinido. El detalle a vigilar: un dot puede terminar **escribiendo al repo y entregando un PR terminado antes de que un humano revise nada**.
+
+**Fuente:** [The New Stack](https://thenewstack.io/openai-dots-boundary-problems/)
