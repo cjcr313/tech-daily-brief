@@ -45,3 +45,7 @@ La idea es un solo servicio que haga ambas cosas: certificados clásicos y MTCs 
 Aún no emiten nada; esto es un compromiso público con hitos en el camino. Pero para el ecosistema —y para cualquiera que opere TLS a escala— tener a Cloudflare entrando a la fiesta de las CAs, con foco en redundancia, automatización obligatoria y post-cuántico, es noticia gruesa. La capa de confianza de la web encrypted acaba de conseguir un competidor serio.
 
 **Fuente:** [Cloudflare Blog](https://blog.cloudflare.com/cloudflare-certificate-authority/)
+
+### Update: 30 de septiembre, 2026
+
+Cloudflare publicó el deep-dive técnico del trozo más novedoso del anuncio: [cómo construirán la autoridad certificadora post-cuántica con Merkle Tree Certificates](https://blog.cloudflare.com/pq-ca-with-mtcs/). El post detalla el diseño detrás de los primeros certificados MTC prometidos para Q1 2027, incluyendo por qué las firmas post-cuánticas (basadas en ML-DSA) son tan grandes que romperían handshakes TLS y logs de transparencia si se meten en cadenas tradicionales, y cómo la estructura de Merkle Trees compacta y hace auditable la autenticación cuántico-resistente. Si el anuncio original era la intención, este es el plano engineering que la respalda.
