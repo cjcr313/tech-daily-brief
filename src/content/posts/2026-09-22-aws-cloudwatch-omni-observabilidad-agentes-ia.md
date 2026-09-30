@@ -46,3 +46,15 @@ Y un matiz honesto: empresas que ya tienen observabilidad madura con **Datadog, 
 El patrón es claro: los tres hyperscalers y los vendors tradicionales están corriendo a la misma meta — **ser el lugar donde se observa y evalúa la IA en producción**. AWS ya tenía Strands (el SDK de agentes open source) y ahora cierra el círculo con la capa de observabilidad. Para equipos de plataforma, la decisión de fondo no es "¿qué herramienta?", sino "¿me ato a un cloud o mantengo portabilidad con OpenTelemetry?". Omni, por ahora, juega para el primer bando.
 
 **Fuente:** InfoWorld, Zetik.
+
+### Update: 30 de septiembre, 2026
+
+InfoQ publicó hoy un análisis de CloudWatch Omni con detalles nuevos que no estaban en el lanzamiento original:
+
+- **Workspaces colaborativos:** Omni ahora se presenta como experiencia colaborativa a la que todo el equipo llega por **una sola URL con SSO empresarial, sin pasar por la consola de AWS** ("dual workspaces"), pensado para que on-call e investigadores compartan sesiones sin permisos de console.
+- **Extensión IDE gratis:** versión local para **VS Code y Kiro**, amigable para devs.
+- **Investigaciones con IA:** consultas en lenguaje natural sobre logs, métricas y traces, con **autodescubrimiento de servicios y mapeo de dependencias**, y el **AWS DevOps Agent** metiéndose a las sesiones de investigación para correlacionar señales y rastrear causas raíz.
+- **Estándares abiertos:** Omni usa **OpenInference y AWS Distro for OpenTelemetry (ADOT)**, y a la lista de frameworks se suma **LangChain** (antes: LangGraph, CrewAI, OpenAI SDK, Strands, Vercel AI SDK). También integra con **Amazon Bedrock AgentCore**.
+- **Reacciones:** el VP de AWS Chet Kapoor lo resumió como "atrapar problemas proactivamente, rastrearlos a su causa raíz e identificar mejoras en agentes, aplicaciones e infraestructura en un solo lugar". En Deutsche Bank destacan justamente el apego a estándares abiertos y los evaluadores incluidos.
+
+Ojo con el contexto competitivo: para workloads agénticos hay alternativas que combinan tracing, evaluación y experimentación de prompts — **LangSmith, LangFuse y Arize Phoenix** entre otras. Omni sigue siendo el camino natural si ya vives en AWS, pero la discusión de portabilidad vía OpenTelemetry sigue vigente.
