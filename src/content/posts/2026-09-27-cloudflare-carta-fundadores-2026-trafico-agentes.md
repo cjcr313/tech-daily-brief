@@ -47,3 +47,15 @@ Pese a todo, el tono de la carta es optimista: reconocen que el cambio trae disr
 Para cualquiera que opere infraestructura, el mensaje es claro: prepárense para un internet donde el tráfico mayoritario no es humano, y donde el costo de servir a los agentes es un problema de diseño que hay que resolver ahora, no después.
 
 *Fuente: [Cloudflare Blog — Annual Founders' Letter 2026](https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/)*
+
+### Update: 30 de septiembre de 2026
+
+Tres días después de la carta, llegó la respuesta concreta a esa "tragedia de los comunes": en el marco de su Birthday Week, Cloudflare lanzó las herramientas para que los sitios **vean quién los visita, decidan quién pasa y cobren por el acceso**:
+
+- **Monetization Gateway (beta cerrada)**: permite a los dueños de dominio cobrar a los agentes por acceso a sitios, APIs, herramientas MCP o datasets, con precio por uso (per request, per query, per token). Usa el código HTTP **402 Payment Required** con el pago embebido en la propia request — sin redirect a checkout — y hoy corre sobre **stablecoins** como rail de pagos, que es lo único que calza con las características de un comprador agente: barato, rápido y sin intervención humana. Ya hay casos en producción (Ceramic.ai, Stocktwits) y los sellers con base en EE.UU. pueden postular desde el dashboard.
+- **Pay Per Use**: para contenido de alto valor que se crawlea una vez y se usa mil veces — el dueño cobra por cada uso reportado, con una red de compradores verificados.
+- **"The Internet has a second audience"**: el post que ordena todo esto confirma que **más de la mitad del tráfico** que llega a sitios en Cloudflare ya es automatizado, con los agentes de IA como su segmento de mayor crecimiento.
+
+La tesis de la carta pasó de diagnóstico a producto en 72 horas. La web donde el agente paga por lo que consume dejó de ser una idea: tiene API, código de estado y beta.
+
+*Fuentes: [Monetization Gateway beta](https://blog.cloudflare.com/monetization-gateway-beta/) · [Pay Per Use](https://blog.cloudflare.com/pay-per-use/) · [The Internet has a second audience](https://blog.cloudflare.com/agentic-web/)*

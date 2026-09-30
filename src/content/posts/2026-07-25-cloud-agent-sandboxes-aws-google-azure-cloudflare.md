@@ -53,3 +53,16 @@ Que los hyperscalers ofrezcan sandboxes nativos es la respuesta del mercado a la
 La respuesta, al parecer, depende de en qué cloud estés.
 
 *Fuente: The New Stack*
+
+### Update: 30 de septiembre de 2026
+
+Cloudflare re-arquitecturó **Cloudflare Containers** de abajo hacia arriba, pensado específíficamente para sandboxes de agentes — y el enfoque "liviano" de esta comparativa ahora también ofrece Linux completo on demand:
+
+- **Nueva política de scheduling `durable_object`**: el código elige en runtime la imagen y el tipo de instancia de cada sandbox, en vez de dejar ambas decisiones congeladas al momento del deploy (antes, cada combinación imagen+instancia era su propia aplicación Containers con su propio namespace de Durable Objects).
+- **Arranque 6x más rápido**: en el benchmark independiente de ComputeSDK, el startup mediano bajó de algo más de 4 segundos a **648 milisegundos**. En pruebas de burst propias, crearon **cientos de miles de contenedores en segundos**.
+- **Filesystem snapshots en beta pública**: los workspaces se pueden guardar y restaurar — el agente pausa, duerme entre requests o retoma días después con sus archivos intactos.
+- Más capacidades llegan al API nativo `ctx.container` (el Durable Object controla su contenedor sin wrapper de por medio), y el modelo se lleva a **Sandbox SDK 1.0**.
+
+El patrón que lo motiva ya está en producción: Base44 (workspaces de app-building), Kilo Code (sesiones de cloud-agent), Cursor Cloud Agents, Devin Outposts, OpenAI Agents API y Claude Managed Agents. Agentes que crean sandboxes por tarea, esperan que estén listos al tiro y necesitan pausar/resumir. La brecha con el enfoque heavy de AWS (Firecracker) se acorta justo donde más dolía: el cold start.
+
+*Fuente: [Cloudflare Blog — Cloudflare Containers, rebuilt to scale agent sandboxes](https://blog.cloudflare.com/faster-agent-sandboxes/)*
