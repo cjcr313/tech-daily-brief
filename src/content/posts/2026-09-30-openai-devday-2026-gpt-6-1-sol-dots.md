@@ -42,3 +42,11 @@ Los atenuantes: la evaluación **no encontró breaches de severidad alta ni exfi
 Los safeguards tienen capas: durante la "proactive research" el dot solo puede **leer** apps conectadas (no escribir, no mandar mensajes, no controlar browser ni computador); al pasar a acción entran Custom Rules por usuario y un **auto-review adaptado de Codex**, donde un segundo modelo revisa comandos fuera del sandbox predefinido. El detalle a vigilar: un dot puede terminar **escribiendo al repo y entregando un PR terminado antes de que un humano revise nada**.
 
 **Fuente:** [The New Stack](https://thenewstack.io/openai-dots-boundary-problems/)
+
+### Update: 1 de octubre
+
+GPT-6.1 Sol ya está **generalmente disponible en Amazon Bedrock**, confirmó AWS en su boletín de novedades. La promesa se mantiene intacta del lado del provedor cloud: **rendimiento sólido a un quinto del costo de GPT-6 Astra**, posicionado explícitamente para workloads agénticos a escala — justo el perfil donde el descuento del 80% deja de ser anécdota y pasa a ser línea del presupuesto.
+
+Con esto, la migración de modelos OpenAI hacia Bedrock completa el circuito (ya estaban GPT-6 Sol y Luna): si tu infra está en AWS y tu factura de inferencia anda por las nubes, la opción barata del DevDay ahora vive a un clic de tu cuenta.
+
+**Fuente:** [AWS What's New](https://aws.amazon.com/about-aws/whats-new/2026/09/openai-gpt-6-1-sol-on-amazon-bedrock/)
