@@ -47,3 +47,16 @@ Por su parte, Amazon salió con **Strands Decider 2B** desde Strands Labs, su pr
 Dos semanas, cuatro jugadores. A este ritmo, para fines de mes "decision model" va a ser un ítem estándar en el stack de cualquier equipo que haga agentes serios.
 
 **Fuentes:** [Cloudflare Blog](https://blog.cloudflare.com/clef-decision-models/) · [Strands Agents](https://strandsagents.com/blog/introducing-strands-decider/) · [VentureBeat](https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second)
+
+### Update: 2 de octubre de 2026 — OpenAI formaliza su entrada con la Decision API (sobre Luna)
+
+Mencionamos de pasada que OpenAI ya tenía su Decisions API; ahora tenemos los detalles. En el DevDay (1 de octubre), OpenAI presentó su **Decision API construida sobre Luna**, su modelo chico y barato. La propuesta:
+
+- Devuelves un conjunto de preguntas con **respuestas predefinidas**, y la API responde con la opción elegida más un **confidence score** — no genera prosa conversacional.
+- Latencia de **~150 ms**, apuntando a clasificación de contenido, routing de requests y selección de acciones de agentes.
+- Acepta **texto e imagen** como contexto (acá Clef de Cloudflare también tiene encoder de visión, ojo).
+- El pricing **todavía no se conoce** — la gran incógnita frente a Jev, Clef y Strands Decider, donde dos de los cuatro son gratis y open source.
+
+Con esto quedan **cuatro jugadores formales en menos de un mes**: TypeSafe (Jev, el que encendió la categoría), Cloudflare (Clef/Clef-flash, Apache 2.0), Amazon (Strands Decider 2B, Apache 2.0) y OpenAI (Decision API, cerrado, sobre Luna). La pregunta deja de ser si los decision models son cosa seria y pasa a ser **qué distribución gana**: ¿open weights auto-hospedados o API hosted con la marca OpenAI detrás?
+
+**Fuente:** [The New Stack — OpenAI answers TypeSafe's Jev with a Decision API built on Luna](https://thenewstack.io/openai-decision-api-luna/)

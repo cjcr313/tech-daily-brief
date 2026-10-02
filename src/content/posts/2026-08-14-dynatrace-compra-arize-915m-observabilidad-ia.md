@@ -40,3 +40,19 @@ Esta compra no es un hecho aislado. Hace apenas días Infoblox se llevó Kentik 
 Si hace pocos días comentábamos el duelo Langfuse vs LangSmith vs Braintrust vs Arize, hoy una de las cuatro ya tiene dueño corporativo. Ojo con las demás: no me sorprendería ver más consolidación en los próximos meses.
 
 **Fuentes:** Dynatrace IR, Business Wire, Constellation Research.
+
+### Update: 2 de octubre de 2026 — la compra se cerró
+
+Dynatrace anunció el 1 de octubre que **completó la adquisición de Arize** (la que anunciamos arriba en agosto). Ya no es intención: es hecho, y con él la tesis de la "observabilidad de ciclo completo para IA" arranca oficialmente.
+
+Lo concreto del cierre:
+
+- **Arize aporta tracing AI-nativo, evaluación y experimentación** para los equipos de AI engineering: inspeccionar trayectorias de agentes, llamadas a modelos, retrieval, tool use, contexto, performance y costo; correr evals y comparar experimentos.
+- **Dynatrace aporta el lado SRE/platform**: observabilidad de aplicaciones, servicios, infraestructura, experiencia de usuario y procesos de negocio.
+- La unión apunta a conectar **cómo se construye y mejora un agente** con **cómo se comporta en producción y qué resultados entrega** — dos mundos que hoy viven en tools separadas.
+
+El razonamiento que destaco del anuncio: la IA **falla en silencio**. Un agente puede completar un workflow sin lanzar un solo error… y igual tomar el camino incorrecto, actualizar el registro equivocado o actuar sobre contexto viejo. Los servicios se ven sanos mientras el outcome es malo. Para eso no basta telemetry clásica: hacen falta evals continuas durante todo el ciclo de vida, no solo antes del deploy o después del incidente.
+
+Y el llamado de atención comercial que calza con lo que escribimos en agosto: las trayectorias ineficientes de agentes se traducen en **gasto inesperado**, y el acceso o acciones inapropiadas en **riesgo de seguridad y compliance**. El presupuesto se sigue moviendo desde el monitoreo tradicional hacia observar agentes — la consolidación que predijimos va según lo planificado.
+
+**Fuente:** [Dynatrace — completes acquisition of Arize](https://www.dynatrace.com/news/blog/dynatrace-completes-acquisition-of-arize/)

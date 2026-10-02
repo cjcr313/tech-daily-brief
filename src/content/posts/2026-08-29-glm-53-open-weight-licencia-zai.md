@@ -42,3 +42,20 @@ Salvo que tengas un datacenter en el patio, no vas a correr esto local: incluso 
 La tendencia de fondo es clara: los modelos abiertos chinos ya emparejan a los frontier labs estadounidenses, y sus dueños empezaron a cobrar el peaje de otra forma. El open weight ya no significa open license sin condiciones.
 
 Fuentes: [The New Stack](https://thenewstack.io/zai-glm-weights-license/), anuncio de pesos de Z.ai en Hugging Face (28-08-2026).
+
+### Update: 2 de octubre de 2026 — Anthropic y CAISI confirman lo que la licencia no restringía
+
+Cuando publicamos este post, la pregunta "¿seguridad o negocio?" quedaba abierta. Ahora tenemos una respuesta parcial, y es incómoda: el 29 de septiembre **Anthropic divulgó evaluaciones** donde GLM-5.3 demuestra capacidad ofensiva autónoma de nivel frontier, y el **CAISI (bajo NIST) lo calificó como "el modelo open-weight con mayor capacidad cibernética publicado hasta la fecha"**.
+
+Los números que soltó Anthropic:
+
+- En **ExploitBench** (explotar vulnerabilidades conocidas de V8, el engine JS de Chrome), GLM-5.3 construyó exploits funcionales en **50 de 410 intentos (~12%)** — prácticamente empatado con el **Claude Mythos Preview** (56/410, ~14%), el modelo de Anthropic que nunca se publicó precisamente por esa capacidad. GLM-5.2, Claude Opus 4.6, Kimi K3 y DeepSeek-V4.1-Flash anotaron **cero**.
+- En **control-flow hijacking** (100 tareas): Mythos 6%, GLM-5.3 4%, el resto 0%.
+- En uso real: investigadores le encargaron auditar un navegador Linux común y el modelo **encontró varias vulnerabilidades no divulgadas del engine JS en un solo día**, encadenándolas para leer archivos arbitrarios de quien abriera una página maliciosa (reportadas a los mantenedores).
+- La variante chica **GLM-5.3-Flash** combinó dos CVE públicos (incluido CVE-2026-11645) en una cadena de ataque **ARM64 que bypasea PAC**, con ~8 horas de proceso y un costo de **US$20,40** vía API.
+
+¿Y los guardrails? Acá viene lo peor: con una técnica llamada **"abliteration"** (modificar parámetros internos para debilitar el rechazo), la tasa de negativa que superaba el 90% en JailbreakBench y HarmBench cayó a **~3% y ~2%**, sin pérdida significativa de capacidad general. Un modelo que cualquiera puede descargar, con capability ofensiva casi frontier y safeties que se desmontan sin degradarlo.
+
+Volviendo a la licencia que analizamos arriba: seguía (y sigue) sin tener sección de uso aceptable ni restricción de ciberseguridad ofensiva. La inquietud de ese entonces dejó de ser teórica.
+
+**Fuente:** divulgación de Anthropic (29-09), cobertura de [BigGo News](https://finance.biggo.com/news/fadcd07a-e46e-45f3-8029-b7f132f5e7d5)
