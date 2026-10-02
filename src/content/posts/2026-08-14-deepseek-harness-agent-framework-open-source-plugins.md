@@ -58,6 +58,7 @@ DeepSeek está jugando una partida distinta a Anthropic y OpenAI. En vez de cons
 ## Enlaces
 - [Repo en GitHub](https://github.com/deepseek-ai/deepseek-harness)
 - [Sitio oficial](https://deepseek.com/harness/en/)
+
 - [Cobertura de The New Stack](https://thenewstack.io/deepseek-harness-open-source-plugins/)
 
 ## Update: 2026-09-02
@@ -73,3 +74,19 @@ Lo que destaca del sprint de releases:
 - **Precios V4-Pro**: el release incluye la nueva tabla de precios del modelo V4-Pro.
 
 La jugada estratégica es clara: xAI lanzó Grok Bot (agentes always-on de pago) el 11 de agosto; DeepSeek respondió **regalando la infraestructura** en vez de venderla. La pelea se movió del modelo al **runtime**.
+
+### Update: 2 de octubre de 2026
+
+Harness dio el salto de developer preview a **public preview mundial**, y ahora también se puede usar como **app de escritorio** (además de la web UI que se lanza desde el código). Sigue open source y sobre la arquitectura "todo es un plugin" de Cordis, pero el alcance ya es global.
+
+Qué trae el preview público:
+
+- **Tareas cotidianas**: organizar archivos, analizar datos, redactar documentos y armar presentaciones
+- **Coding**: explorar repos, arreglar bugs, construir features y correr tests
+- **Investigación**: buscar información, verificar hechos y citar fuentes
+- **Tareas en background**: correr scripts, procesar archivos en batch y seguir el progreso
+- **Plugins componibles**: agregar los tuyos o construir los propios
+
+Un dato revelador: el modelo que muestra el preview por defecto es **DeepSeek-V4.1-Flash** en modo high — o sea, Harness también funciona como vitrina para su propio modelo barato y rápido. La tesis de agosto se mantiene intacta: DeepSeek no compite por el mejor agente cerrado, compite por ser **el riel abierto** donde otros montan los suyos.
+
+- [DeepSeek Harness, sitio oficial del preview](https://www.deepseek.com/en/harness/)
