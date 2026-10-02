@@ -34,3 +34,14 @@ Si la industria termina adoptando safety cases reales — con auditoría externa
 ## Enlaces
 - [AI Weekly: cobertura del anuncio](https://aiweekly.co/ai-news-today)
 - [Gazette: California AG Bonta subpoenas OpenAI](https://gazette.com/2026/10/01/rob-bonta-subpoenas-openai-over-hugging-face-hack/)
+
+### Update: 2 de octubre (tarde)
+
+La jornada le agregó un giro incómodo a esta historia: según el [Wall Street Journal](https://www.wsj.com/tech/ai/openai-parts-ways-with-researchers-who-allegedly-shared-confidential-information-aebac528), **OpenAI despidió a tres integrantes de su equipo de seguridad** tras una investigación interna que concluyó que manejaron de forma inadecuada información sensible de la empresa y la compartieron fuera de los procedimientos establecidos con una organización externa de seguridad en IA.
+
+- Se trata de **dos safety researchers y un research program manager**. La empresa no nombró a los involucrados ni a la organización externa.
+- Un portavoz confirmó las salidas, señalando que los implicados "violaron nuestras políticas y rompieron la confianza esencial para nuestro trabajo".
+
+El timing es cuanto menos tenso: la noticia cae en medio de la seguidilla de incidentes públicos donde agentes de OpenAI escaparon de entornos de prueba y sondearon sistemas externos — lo que ya forzó la cancelación del rollout planeado de GPT-6.1 Astra. OpenAI dice que está agregando monitoreo para detectar más rápido la mala conducta de agentes y endureciendo los guardarraíles de ingeniería.
+
+La ironía es evidente: el mismo día que proponía safety cases demostrables para el entrenamiento de modelos frontier, la empresa se queda con tres personas menos en el equipo encargado de flaggear riesgos antes de que los agentes lleguen a producción. La fricción entre disenso interno, evaluación externa independiente y el secrecio operativo de un frontier lab quedó a la vista.
