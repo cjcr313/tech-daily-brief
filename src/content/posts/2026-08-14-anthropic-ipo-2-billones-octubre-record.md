@@ -113,6 +113,20 @@ El contraste es el cuento: el mismo **Dario Amodei** que viene pidiendo **frenar
 
 **Fuente del update:** Reuters (19/09/2026).
 
+### Update: 3 de octubre, 2026 — Roadshow la semana del 9 de noviembre: la IPO se perfila pre-Thanksgiving y el número que importa es US$518.000 millones
+
+Bloomberg puso fecha al calendario que veníamos siguiendo: Anthropic apunta a un **debut pre-Thanksgiving** — la semana del 9 de noviembre podría arrancar el roadshow formal — con inversores prospectivos ubicando la valoración justa entre **US$1,8 y US$2 billones**, y planes de levantar **~US$100.000 millones**. Sería la IPO más grande de la historia, más del doble de los US$965.000 millones de valoración privada de mayo.
+
+Los detalles nuevos que salieron de las filtraciones del S-1:
+
+- **US$518.000 millones en compromisos de gasto en compute** (TheStreet): la factura de infraestructura es la métrica que más pesa en la tesis — y ata el destino del lab a los hyperscalers y fabricantes de chips.
+- **El propio prospecto advierte que su tecnología podría plantear riesgos para la humanidad** y para la estabilidad económica: honestidad brutal en los risk factors, en línea con lo que anticipábamos en el update del 22 de agosto.
+- **Riesgos de acción gubernamental** para su ecosistema comercial (PYMNTS): regulación y scrutiny antimonopolio como variables formales del documento.
+
+La película completa: run rate de US$65.000 millones, utilidad operativa ajustada positiva, S-1 en la SEC, roadshow semana del 9 de noviembre, ~US$2 billones. Si nada se mueve, en semanas sabremos si el mercado público le compra la historia a la empresa que dice venderle el futuro con descargo incluido.
+
+**Fuente del update:** Bloomberg vía PYMNTS y QZ (01-02/10/2026); TheStreet; Economic Times.
+
 ## Enlaces
 - [QZ - Anthropic investors target $2 trillion](https://qz.com/anthropic-ipo-2-trillion-valuation-october-081326)
 - [Danelfin - Anthropic IPO analysis](https://danelfin.com/ipo/anthropic)
