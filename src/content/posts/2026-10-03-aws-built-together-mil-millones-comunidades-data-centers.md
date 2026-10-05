@@ -36,3 +36,11 @@ El trasfondo es que en varias localidades de EE.UU. han empezado a aparecer **mo
 ## Por qué importa para los que operamos infra
 
 Porque el buildout de IA no se juega solo en fábricas de chips y cables submarinos: **se juega también en el concejo municipal**. Si las comunidades empiezan a cerrar la puerta, el precio y la disponibilidad del compute suben para todos — desde hyperscalers hasta el que arrienda una VPS para correr sus agentes. Que Amazon pague mil millones para mantener abiertas esas puertas es, en el fondo, un dato de costo de infraestructura como cualquier capex: solo que este se paga en buena vecindad.
+
+### Update: 4 de octubre de 2026 — Amazon botó los NDAs
+
+La movida de community-management de AWS tuvo un segundo capítulo: el CEO **Matt Garman confirmó en un blog post que Amazon dejó de usar NDAs (acuerdos de confidencialidad) en sus tratos con agencias de gobierno** para la aprobación de nuevos data centers.
+
+El contexto es directo: la activista **Erin Brockovich** había señalado los NDAs como una de las principales quejas (las comunidades se enteran tarde y mal de lo que se construye al lado), **Nueva York impuso una moratoria de un año** a los permisos de data centers grandes y se estiman **~100 restricciones similares en consideración** a lo largo de EE.UU. Garman advirtió que esa desaceleración local **amenaza la competitividad estadounidense en infraestructura de IA**.
+
+La lectura para quienes operamos en cloud: la transparencia dejó de ser un tema de relaciones públicas y pasó a ser **requisito de permiso**. El buildout de IA se negocia hoy en concejos municipales abiertos, y los hyperscalers van a tener que acostumbrarse. (Fuentes: [TechCrunch](https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/), [Wired](https://www.wired.com/story/amazon-says-it-is-going-to-stop-using-ndas-for-data-centers/), [DCD](https://www.datacenterdynamics.com/en/news/aws-drops-non-disclosure-agreements-for-data-center-projects/))
