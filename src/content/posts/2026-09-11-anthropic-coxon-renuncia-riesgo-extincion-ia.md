@@ -48,3 +48,13 @@ Engels lo resumió con una frase que ya dio la vuelta: **"no hay adultos en la s
 El patrón es claro: ya no es una renuncia aislada, es un éxodo sostenido de la gente que está dentro de los labs frontera hacia organizaciones externas de evaluación. La señal para el directorio: la conversación de frenar el desarrollo se alimenta desde adentro, no desde afuera.
 
 Vía [Free Press Journal](https://www.freepressjournal.in/world/joe-benton-quits-anthropic-safety-team-warns-ai-race-could-pose-extinction-level-risks).
+
+### Update: 5 de octubre de 2026 — Coxon testifica hoy en el Concejo de Nueva York
+
+La historia del exodo de seguridad tiene nuevo capítulo: **Jacob Coxon — el investigador que renunció a Anthropic advirtiendo que los que construyen IA "creen sinceramente que podría matarnos a todos antes de fin de década" — testifica este lunes 5 de octubre en una audiencia del Concejo Municipal de Nueva York sobre salvaguardas de IA**, a pedido de la Presidenta del Concejo, Julie Menin.
+
+No va solo: lo acompañan representantes de **Anthropic, OpenAI, Google y Meta**, más **Alex Turner** (ex-DeepMind) y **Daniel Kokotajlo** (ex-OpenAI), dos de los denunciantes más conocidos de la industria. La primera ciudad de EE.UU. convertida en escenario del debate que los labs prefieren tener a puertas cerradas.
+
+Si la renuncia de Coxon en septiembre fue una señal interna, esta audiencia es la señal externa: la conversación sobre frenar el desarrollo ya no vive solo en blogs y renuncias — ahora tiene citación y micrófono oficial.
+
+Vía [Yahoo News](https://www.yahoo.com/news/politics/articles/former-anthropic-researcher-coxon-testify-204614914.html).

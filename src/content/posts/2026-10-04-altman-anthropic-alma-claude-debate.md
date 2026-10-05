@@ -42,3 +42,15 @@ Porque toca una pregunta que va más allá del meme: **¿cómo medimos si un mod
 Mientras tanto, el "Soul Doc" ya tiene mejor marketing que la mayoría de los whitepapers de gobernanza que hemos visto. Y eso, nos guste o no, también es una estrategia de diferenciación en la guerra por el "AI con valores".
 
 **Fuentes:** The New York Times, Axios, Times of India.
+
+### Update: 5 de octubre de 2026 — El debate escala: entra Huang con artillería y los abogados también
+
+La pelea Altman vs. Anthric sobre la "seguridad" se transformó en un debate de tres bandas con novedades en 48 horas:
+
+- **Altman apretó el acelerador regulatorio** (Político, 4 de oct): en entrevista en Decoded dijo que "el mundo debería aceptar que pasen algunas cosas malas" a cambio de los beneficios de la IA, pero también **avaló el llamado de Amodei a frenar los modelos más avanzados**. OpenAI ya siguió a Anthropic en respaldar leyes estatales más estrictas de seguridad, y sus lobistas apoyaron una propuesta bipartidaria de la Cámara que exigiría **evaluadores externos de seguridad** incrustados en los top labs.
+- **Jensen Huang contraatacó** (Fortune, 4 de oct): el perfil lo posiciona como el contrapeso anti-doomer más ruidoso de la industria. Sobre Altman y Amodei: su framing catastrófico es "irresponsable" y responde a "razones ulteriores". Y soltó el número del día: **"0% de probabilidad" de que la IA termine con el mundo en 2030**. Eso sí, matizó: "debemos ir tan rápido como podamos, pero no más rápido de lo que deberíamos".
+- **Los académicos meten freno jurídico** (Columbia Law Blue Sky Blog, 5 de oct): los profesores Miazad, Orbach y Patel advierten que si los labs frontera se ponen de acuerdo para *coordinar una desaceleración* — como Amodei, Altman y Hassabis han sugerido públicamente — podrían incursionar en el **Sherman Act (Sección 1)**: "un acuerdo desnudo entre competidores para frenar la innovación no se vuelve lícito solo porque su propósito declarado sea reducir riesgos para la sociedad". Su recomendación: joint ventures estructurados con gobernanza formal, no pactos de caballeros en entrevistas.
+
+Resumen del estado del debate: dos CEOs predicando prudencia (con un ojo en el regulador), el dueño de las GPUs predicando velocidad (con un ojo en su facturación), y la academia recordando que en EE.UU. ni frenarse juntos es gratis.
+
+**Fuentes:** Politico, Fortune (vía AI Weekly), Columbia Law School Blue Sky Blog.
