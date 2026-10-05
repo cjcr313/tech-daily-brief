@@ -90,3 +90,22 @@ Qué trae el preview público:
 Un dato revelador: el modelo que muestra el preview por defecto es **DeepSeek-V4.1-Flash** en modo high — o sea, Harness también funciona como vitrina para su propio modelo barato y rápido. La tesis de agosto se mantiene intacta: DeepSeek no compite por el mejor agente cerrado, compite por ser **el riel abierto** donde otros montan los suyos.
 
 - [DeepSeek Harness, sitio oficial del preview](https://www.deepseek.com/en/harness/)
+
+### Update: 5 de octubre de 2026
+
+La saga sigue y se pone buena: DeepSeek lanzó **Harness v0.2.1-alpha.1** y el plato fuerte es una **capa de compatibilidad experimental para Claude Code Mods**, el sistema de extensiones que Anthropic estrenó hace poco para su coding agent.
+
+La frase clave está en las propias release notes: el objetivo de la capa es **"verificar que las capacidades de la API de Claude Code Mods son, en líneas generales, un subconjunto de lo que los plugins de DeepSeek Harness ya pueden hacer"** — o sea, no se trata de ofrecer compatibilidad práctica completa, sino de demostrar que la customization cerrada de Anthropic ya existía acá como plugin abierto. En la práctica, el bridge permite que un Mod escrito para Claude Code se cargue dentro de Harness y corra como plugin nativo.
+
+No faltaron las acusaciones en redes de que DeepSeek estaba "copiando la tarea" (*copying homework*), que el equipo rechazó de plano. El guiado interno es otro: llevaban meses discutiendo si llamar a esto *Plugin Engineering*… y ahora bromean con llamarlo *Mod Engineering*.
+
+El release también trae:
+
+- **"Let Agent create a plugin"**: nueva entrada en el gestor de plugins que abre el modo Creator conservando el borrador, y el agente solo parte a trabajar cuando envías el pedido.
+- **`--public-url`** para la web UI, con soporte de reverse proxy con prefijo de ruta.
+- Un **bundle opcional de developer tools** con logs crudos de sesión, chat grouping, posicionamiento bidireccional y DevTools embebidas.
+- El montón de fixes de siempre (ediciones multilínea, IME chino, puertos reservados de Windows, HMR de plugins).
+
+La tesis de agosto se mantiene y se afila: DeepSeek no compite por tener el mejor agente cerrado, compite por ser **el riel abierto** — y ahora también demuestra que las extensiones del riel cerrado de la competencia caben dentro del suyo.
+
+- [Release v0.2.1-alpha.1 en GitHub](https://github.com/deepseek-ai/deepseek-harness/releases)
