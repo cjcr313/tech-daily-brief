@@ -68,3 +68,18 @@ AWS está mandando un mensaje claro: **la GPU premium va a costar más, no menos
 La era del GPU barato en hyperscalers se acabó. Bienvenidos al nuevo normal.
 
 **Fuentes:** [Tech Insider](https://tech-insider.org/aws-ec2-capacity-blocks-price-hike-2026/), [AWS Pricing Page](https://aws.amazon.com/ec2/capacity-blocks/pricing/), [InfoQ (alza enero)](https://www.infoq.com/news/2026/01/ec2-ml-capacity-price-hike/)
+
+### Update: 5 de octubre de 2026 — tercera alza del año confirmada: +15% desde el 7 de octubre
+
+Cuando escribimos este post en agosto, proyectábamos que la siguiente revisión llegaría "alrededor de enero 2027". Nos equivocamos: llegó antes y más rápida. **AWS subirá ~15% (o más) los precios de las reservas GPU vía EC2 Capacity Blocks a partir del 7 de octubre de 2026.**
+
+Lo concreto:
+
+- Es la **tercera alza de Capacity Blocks en 2026** (enero ~15%, julio ~20%, ahora octubre ~15%) y la **cuarta alza trimestral consecutiva**, según el consenso de cobertura de esta semana. La mayoría de los precios de reservas GPU de NVIDIA suben 15% o más.
+- Wells Fargo reiteró su rating Overweight de Amazon (PT $338) citando precisamente este **poder de pricing**: la demanda de compute de IA sigue superando la oferta.
+- **Truco para tu billetera:** la tarifa de reserva se congela al momento de la compra, aunque el block parta después del 7 de octubre. Si tienes training planificado para Q4, comprar el block **antes** del 7 de octubre te asegura el precio actual.
+- Según reportes de TIKR, un acuerdo de chips de ~US$8 mil millones mostraría a Amazon redefiniendo cómo financia su hardware de IA, mientras el gasto sigue subiendo.
+
+La conclusión del post original no hizo más que reforzarse: la GPU premium en hyperscalers va a costar más, no menos. La era del GPU barato sigue enterrada.
+
+**Fuentes del update:** [TIKR](https://www.tikr.com/blog/amazon-will-raise-most-gpu-reservation-prices-15-or-more-on-october-7-heres-where-the-stock-could-go-by-2030), [Explainx](https://www.explainx.ai/blog/aws-capacity-blocks-gpu-price-hike-october-2026), [Investing.com](https://www.investing.com/news/analyst-ratings/td-cowen-reiterates-amazon-stock-buy-rating-on-aws-growth-outlook-93CH-4932395).
