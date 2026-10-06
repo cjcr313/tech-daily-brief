@@ -30,3 +30,17 @@ La señal de que van en serio: **Reflection ya firmó acuerdos de compute con Ne
 Para los equipos que hoy evalúan DeepSeek/Qwen vs. APIs cerradas, esto agrega una tercera opción: pesos abiertos con cadena de custodia occidental. Si los benchmarks acompañan (y ese es un *si* mayúsculo), la guerra del open-weight recién está empezando.
 
 **Fuentes:** Axios, vía AI Weekly.
+
+### Update: 6 de octubre, 2026 — Beam ya está aquí y confirmado
+
+El lanzamiento se hizo oficial el lunes: el modelo se llama **Beam** y las especificaciones confirmadas le pegan al reporting de Axios:
+
+- **501 mil millones de parámetros totales, 23B activos** por token (MoE sparse, text-only). Preentrenado con **23,8 trillones de tokens** y ventana de contexto de **1 millón de tokens**. Para comparar: GLM-5.2 de Z.ai tiene ~744B totales y 40B activos.
+- Según benchmarks **auto-reportados** (ojo, aún sin verificación independiente), Beam empataría con GLM-5.2 en razonamiento avanzado y superaría a los modelos abiertos occidentales líderes, usando **3-4x menos compute de inferencia**.
+- Contra **Inkling** de Thinking Machines (Mira Murati, julio): Beam lo supera en 4 tests de coding donde ambos reportan, aunque Inkling es multimodal y Beam es text-only.
+- Los **pesos se liberan este mes bajo Apache 2.0**, junto al technical report, model card y el stack completo para correr, evaluar y fine-tunear. Distribución vía hyperscalers y neoclouds.
+- La empresa detrás: fundada en 2024 por ex-investigadores de Google DeepMind, ~US$4.700M levantados (Nvidia, Sequoia, Lightspeed), valuación pre-money de US$25.000M y más de US$7.000M en deals de compute con SpaceX y Nebius (GB300 hasta 2029). Ya está testeando su primera "AI factory" soberana con Shinsegae Group en Corea del Sur.
+
+El "si" mayúsculo del post original (los benchmarks) empieza a responderse, pero con asterisco: hasta que Artificial Analysis u otros laboratorios independientes corran sus propias pruebas, los números son de la propia casa. Lo innegable: Occidente ya tiene su primer contender open-weight serio contra DeepSeek — el mismo día en que DeepSeek anuncia una ronda de US$12.000 millones. El timing no podría ser más cinematográfico.
+
+**Fuentes del update:** Reflection AI (blog oficial), TechCrunch, SiliconANGLE.
