@@ -60,3 +60,16 @@ Mencionamos de pasada que OpenAI ya tenía su Decisions API; ahora tenemos los d
 Con esto quedan **cuatro jugadores formales en menos de un mes**: TypeSafe (Jev, el que encendió la categoría), Cloudflare (Clef/Clef-flash, Apache 2.0), Amazon (Strands Decider 2B, Apache 2.0) y OpenAI (Decision API, cerrado, sobre Luna). La pregunta deja de ser si los decision models son cosa seria y pasa a ser **qué distribución gana**: ¿open weights auto-hospedados o API hosted con la marca OpenAI detrás?
 
 **Fuente:** [The New Stack — OpenAI answers TypeSafe's Jev with a Decision API built on Luna](https://thenewstack.io/openai-decision-api-luna/)
+
+### Update: 7 de octubre, 2026 — Decisions API en beta pública y ya con precios
+
+La incógnita del pricing quedó resuelta: OpenAI abrió la **Decisions API en beta pública** el 6 de octubre, corriendo sobre **GPT-6 Luna**, con texto e imagen como entrada. Los detalles:
+
+- **Pricing**: US$0,10 por millón de tokens de entrada, **sin cobro de tokens de salida ni de caché** — directamente barato para gating y routing masivo.
+- **Tres modos de salida**: predicates (sí/no tipados), choices con confidence score, y numeric scores.
+- OpenAI afirma que corre **hasta 10x más rápido** que GPT-6 Luna vía la Responses API, con clasificación en ~150 ms — el pitch es ser la capa de gating sub-segundo de los agentes.
+- **Zero Data Retention y HIPAA** para clientes elegibles, con procesamiento regional en EE.UU. y Europa.
+
+Con Cloudflare Clef gratis y open source, esto posiciona la pelea como **precio hosted vs. control self-hosted**. Y ojo que hay un quinto jugador que se sumó sin avisar: **Perplexity con pplx-decider**, al que OpenAI menciona explícitamente como competencia. Cinco jugadores en un mes: la categoría está oficialmente caliente.
+
+**Fuente:** [byteiota — OpenAI Decisions API: 150ms Classification for Agents](https://byteiota.com/openai-decisions-api-150ms-classification-agents/)
