@@ -34,3 +34,9 @@ Para lograrlo no escribieron 3.000 comandos a mano. **Forge**, el nuevo pipeline
 Para probarlo (open beta): `npm i -g cf`.
 
 Fuente: [Cloudflare blog](https://blog.cloudflare.com/cloudflare-cf-cli-launch/).
+
+### Update: 7 de octubre, 2026
+
+[InfoQ](https://www.infoq.com/news/2026/10/cloudflare-cf-cli/) confirmó un detalle que en el anuncio original quedaba en neblina: el **plan de jubilación de Wrangler**. Cloudflare deprecará Wrangler cuando termine la beta abierta de `cf`, lanzará una **versión final mayor** que redirigirá a los usuarios hacia `cf`, y dará **18 meses de soporte de mantención** para la migración. O sea, timeline claro y sin cliff — por si estabas postergando la migración de tus pipelines.
+
+Dato curioso de la comunidad: el [thread de Hacker News](https://news.ycombinator.com/item?id=49879577) se centró en la elección de **TypeScript** para la CLI (startup time, portabilidad, dependencias). La defensa de Cloudflare: type safety + LSP permiten que agentes de IA lean y modifiquen configuraciones con más precisión que con TOML o JSONC. Discusión para el almuerzo.
