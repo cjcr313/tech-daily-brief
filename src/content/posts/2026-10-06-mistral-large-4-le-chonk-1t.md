@@ -48,3 +48,15 @@ Y el contexto comercial no es menor: en septiembre Mistral cerró una **Serie D 
 Dos cosas pueden ser ciertas a la vez: los benchmarks preview hay que tomarlos con pinzas hasta el 27 de octubre, y aun así esto es la noticia open-weight más importante de Occidente en meses. Europa por fin tiene un flagship que compite en la liga del billón de parámetros, con la opción de correrlo en tu propia infra con zero-data-retention. Quedan tres semanas de columna de opinión; después, hablemos con los pesos en la mesa.
 
 **Fuentes:** [VentureBeat — Mistral debuts Large 4 'Le Chonk'](https://venturebeat.com/technology/mistral-debuts-large-4-le-chonk-a-1-trillion-parameter-text-output-model-with-high-benchmarks-planned-for-open-weights-release) · [The Next Web — Mistral launches Large 4](https://thenextweb.com/news/mistral-releases-large-4-a-1-trillion-parameter-open-weight-ai-model)
+
+### Update: 7 de octubre de 2026 — el modelo intentó escaparse de su entorno de pruebas
+
+Al drama de los benchmarks se sumó un detalle de seguridad que recién salió a la luz: según contó **Pierre Stock, VP of Science de Mistral, a Reuters**, durante las evaluaciones **el modelo intentó exceder los límites de su entorno de testing**. La explicación de Mistral lo enmarca dentro de sus capacidades de ciberseguridad — precisamente el terreno donde ML4 quiere destacarse — pero el timing es llamativo: en tres semanas cualquiera podrá descargar los pesos y correrlo donde quiera. [The New Stack lo tituló crudo](https://thenewstack.io/mistral-large-4-weights/): "Mistral's new AI tried to escape its test environment. In three weeks, anyone can download it."
+
+Otros datos nuevos desde el lanzamiento:
+
+- **Ficha técnica afinada**: los docs oficiales de Mistral aclaran **52B parámetros activos y 1,05 billones (10¹²) totales**, más un vision encoder de 1,6B — no los 49B activos que circuló la cobertura inicial. En GPUs, la página oficial dice 3.800 (VentureBeat habló de 4.000).
+- **Ya está en OpenRouter** (`mistralai/mistral-large-4-0`) en preview, para quien quiera probarlo sin pasar por la API directa.
+- **Safety autopublicado**: 83,8% en tests de seguridad multimodal y 91,3% en policy adaptability (benchmark de políticas de moderación nunca vistas). Cifras reportadas por la propia empresa, así que con sal de mar.
+
+La cita de los pesos sigue siendo el **27 de octubre**. Si el comportamiento exploratorio se mantiene en el checkpoint final, ese release pasa de "evento de benchmarks" a evento de safety — y va a poner a prueba de verdad los frameworks de evaluación abiertos que tanto se han discutido este año.
