@@ -30,3 +30,11 @@ El paquete apunta a tres capa: **evaluación de infraestructura, modernización 
 Los roadmaps de modernización enterprise clásicos son lentos, caros y llenos de consultoría manual. El pitch de Google es usar agentes para las tres partes más pesadas del proceso: medir lo que existe (assessment), moverlo (migración) y reescribirlo (modernización de apps). El Modernization Hub al estilo "consola con agentes" es la apuesta concreta.
 
 Y el **EKS-to-GKE Migration Agent** no es un detalle menor: en plena guerra de nubes por los workloads de Kubernetes, un agente que automatiza la migración desde el competidor directo es artillería comercial bastante explícita. Con el contexto de los últimos meses —regulación DMA cuestionando lock-in de AWS y Azure en Europa—, las herramientas que bajan el costo de cambiar de nube llegan en el momento político justo.
+
+### Update: 8 de octubre de 2026 — On migró 24 servicios core con agentes de IA y Google ya lo usa como showcase
+
+Apenas tres días después del anuncio, apareció el primer caso comercial grande: **On**, la marca de zapatillas deportivas premium, anunció junto a Google Cloud que usó **agentes de IA para migrar 24 servicios core a Google Cloud**, cortando el tiempo de migración **de tres meses a dos semanas por servicio**. En el comunicado, On describe a Google Cloud como su "enterprise AI backbone", comenzando justamente por la migración agent-led.
+
+Los números son los que Google necesitaba para validar el pitch de Modernize: una reducción de ~6x en el tiempo por servicio es la diferencia entre un roadmap de años y algo que el CIO efectivamente firma. Además de la migración, On pidió a los agentes hacer **auto-remediación de problemas** —bajar tiempos de respuesta de incidentes de horas a minutos— y planea extender el uso de agentes IA a seguridad, y al análisis de data para sus equipos de retail y finanzas.
+
+O sea, la tesis de este post ya tiene su caso de estudio: el portafolio no era solo keynote, ya está moviendo workloads enterprise reales.
