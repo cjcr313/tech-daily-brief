@@ -6,6 +6,16 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.3.0] - 2026-10-07
+
+### Changed
+
+- **Header en dos filas:** "Ping Diario" arriba de todo con la búsqueda y el toggle de tema (luna/sol) a la misma altura del título; el menú de tags pasa a una fila propia debajo, alineado a la derecha en escritorio y desplegable en móvil.
+
+### Fixed
+
+- **Intro de portada:** espacio faltante en "en Kubernetes" (antes se renderizaba "enKubernetes").
+
 ## [1.2.1] - 2026-09-03
 
 ### Fixed
