@@ -23,6 +23,12 @@ DeepSeek, la startup china de IA que ya le metió miedo a medio Silicon Valley, 
 - **Valuación objetivo:** US$71 mil millones pre-money (unos 480 mil millones de yuanes)
 - **Round de funding paralelo:** DeepSeek está en conversaciones para levantar **US$1.5 mil millones** adicionales
 - Esto viene apenas **semanas después de su primer round masivo de US$7 mil millones**
+
+### Update: 9 de octubre — el round se disparó a US$12 mil millones con Tencent y CATL de anfitriones
+
+Lo que empezó como un round de US$1.5B terminó en algo bastante más grande. Según [Bloomberg](https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/) (vía TechNode, 8 de octubre), DeepSeek está por cerrar **al menos RMB 80 mil millones (~US$12 mil millones)**, superando su meta original de capitalización, con **Tencent y el fabricante de baterías CATL entre los mayores inversionistas** — este último un guiño interesante hacia la estrategia de energía/cómputo que necesita un laboratorio de frontera.
+
+El IPO, mientras tanto, se perfila para **comienzos de 2027**, manteniendo la valuación objetivo de referencia de julio. La señal de mercado es clara: el capital chino está dispuesto a apostar fuerte por el laboratorio que demostró que se podía hacer IA de frontera a precio de ganga — y quiere asegurarse un asiento antes de que la empresa salga a bolsa.
 - **Backers confirmados:** Tencent y el fondo estatal de IA de Beijing
 
 Si se concreta, el IPO podría debutar en 2027, lo que la convertiría en una de las salidas a bolsa más grandes del sector tecnológico chino en años.

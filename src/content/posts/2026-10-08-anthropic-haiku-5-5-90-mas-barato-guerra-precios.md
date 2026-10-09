@@ -38,6 +38,18 @@ Junto con el lanzamiento, Anthropic movió otras piezas del tablero:
 - **Z.AI** largó **GLM 5.3 Fast** el 7 de octubre, siguiendo su ritmo de releases casi mensuales desde julio.
 - OpenAI, por su parte, ya mostró con GPT-6.1 Sol que la jugada es "misma precisión, 18% del costo".
 
+### Update: 9 de octubre — Artificial Analysis le pone peros a la fiesta
+
+Llegaron los números independientes y el cuadro se matiza. [Artificial Analysis](https://artificialanalysis.ai/articles/claude-haiku-5-5) evaluó Haiku 5.5 y hay de todo:
+
+- **Inteligencia: cumple.** 43 puntos en el Intelligence Index (máximo esfuerzo), por encima de GLM-5.3 Flash (42), Gemini 3.8 Flash (41) y GPT-6 Luna (38), y comparable al open-weight Kimi K3 (44, un modelo de 2,8T parámetros). Subió 26 puntos respecto al Haiku del año pasado.
+- **Agéntico: sorprende.** 33% en Terminal-Bench 4.0 — el Haiku 4.5 sacaba literal **0%**. Y en AA-Briefcase (trabajo de conocimiento realista) alcanza 1578 Elo, por encima de Kimi K3 y GLM-5.3.
+- **El pero: se come los tokens.** En esfuerzo máximo usa ~162k tokens de salida por tarea, **unas 3 veces lo que gasta GPT-6 Luna** (~50k) para inteligencia similar. Traducción: el precio por token es bajísimo, pero el costo **por tarea** se puede parear. La guerra de precios ahora también se pelea en eficiencia de tokens.
+- **Bug conocido:** en AutomationBench-AA marca 35% contra 53–60% de sus rivales, pero Artificial Analysis aclara que hay un problema de **sobre-rechazo por safistas** en el pre-release que Anthropic ya está parchando; esperan que la cifra suba al re-medir.
+- **Detalle curioso:** menos conocimiento factual (36% en AA-Omniscience) pero con la **tasa de alucinación más baja** de su clase (40% vs 55% de Gemini Flash y 77% de Luna). Prefiere decir "no sé" antes que inventar — para trabajo empresarial, eso vale oro.
+
+Conclusión del update: barato sí, pero conviene mirar el costo por tarea y no solo el precio por token antes de migrar pipelines.
+
 La lectura es directa: **la diferenciación por "inteligencia pura" del modelo pequeño se acabó**. Haiku 5.5, Luna y Flash compiten en la misma franja de precio, y para workloads de alto volumen la decisión va a pasar más por latencia, ecosistema y herramientas que por puntos de benchmark.
 
 ## ¿Cuándo importa esto?
