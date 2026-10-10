@@ -42,3 +42,18 @@ Cloudflare viene armando una plataforma completa para el desarrollo agéntico (K
 La promesa es que en los próximos meses más productos y datasets se sumen a esta plataforma compartida. Con Datadog, Dynatrace y Grafana peleando el mismo terreno, la consolidación del edge como plataforma de observabilidad de punta a punta recién está empezando.
 
 **Fuente:** [Cloudflare Blog](https://blog.cloudflare.com/one-observability-platform/)
+
+### Update: 10 de octubre, 2026 — Traces convierte el proxy completo en spans de OpenTelemetry
+
+La beta abierta de Tracing que anunciábamos en el punto 2 ya tiene detalles técnicos completos, y son más jugosos de lo que sonaba: **todo el camino del request a través del proxy ahora se exporta como spans OTel**, sin escribir una línea de instrumentación.
+
+- **Spans para lo que antes era caja negra**: reglas de seguridad, transform rules, decisiones de caché, routing, ejecución de Workers y manejo del origen aparecen con su timing, resultado y atributos en una sola línea de tiempo por request. Responde las preguntas que generan tickets: ¿qué regla bloqueó el request?, ¿un transform reescribió la URL antes de llegar a la app?, ¿dónde se fue el tiempo? (su ejemplo: un cache miss donde 527 ms de un request de 539 ms se fueron en el origen).
+- **Propagación de contexto W3C**: Traces acepta el header `traceparent` entrante (con política de propagación configurable, porque aceptar trace IDs de cualquier cliente abre la puerta al ruido) y puede reenviar uno nuevo al origen para que tus servicios instrumentados continúen la traza.
+- **Sampling con el mismo rules engine** del resto de Cloudflare: un baseline (ej. 1%) y **Trace Rules** que lo pisan por hostname, IP, header, path o geografía — trazar el 100% del tráfico de un solo cliente o de un header de debug temporal mientras el resto queda en baseline.
+- **Export por OTLP** a cualquier backend compatible (Datadog, Grafana, Honeycomb, lo que sea), con destino a nivel de cuenta y elección de dominios por enviar.
+- **Ángulo agéntico**: vía el MCP server de observabilidad de Cloudflare, un coding agent consulta trazas con la SQL API y compara trazas fallidas contra exitosas para encontrar dónde divergen — telemetría que lee un agente, no solo un dashboard.
+- **Pricing**: confirma el cambio que detallamos arriba — el modelo por span que iba a partir el 1 de octubre se reemplaza desde el **1 de diciembre** por cobro por volumen ingerido y retenido.
+
+Con esto, el "eslabón suelto" del que hablábamos queda bastante más apretado: la vista edge-to-origin completa, portable vía OpenTelemetry, y conectable a tu backend de observabilidad existente.
+
+**Fuentes:** [InfoQ](https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/) · [Cloudflare Blog — Cloudflare Tracing](https://blog.cloudflare.com/cloudflare-tracing/)

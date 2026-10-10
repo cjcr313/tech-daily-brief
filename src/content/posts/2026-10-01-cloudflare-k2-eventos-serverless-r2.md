@@ -32,3 +32,14 @@ Escribir a object storage es más lento que a disco local, así que **las latenc
 K2 no vino solo: hoy Cloudflare también dejó en GA **Basin** (su plataforma de datos serverless y abierta), lanzó **KV Instant** sobre Quicksilver, presentó **Cloudflare OS** como workspace de agentes empresarial y hasta tiró el guante para construir "la próxima plataforma de Git" sobre su Developer Platform. Semana de cumpleaños en todas sus dimensiones.
 
 Fuentes: [Cloudflare Blog — Announcing Cloudflare K2](https://blog.cloudflare.com/cloudflare-k2-streams/), [Cloudflare Blog](https://blog.cloudflare.com/).
+
+### Update: 10 de octubre de 2026 — La beta habla: latencia real, precios y la pelea del object storage
+
+Una semana después del lanzamiento, [InfoQ recapituló](https://www.infoq.com/news/2026/10/cloudflare-k2-serverless-streams/) cómo va la beta pública, y la conversación en Hacker News dejó datos jugosos:
+
+- **La latencia real es mayor a la prometida.** Cloudflare habla de ~1 segundo p99 en *produce*, pero un tester de la beta reportó entrega end-to-end de **p95 2,5s y p99 7,5s**. El propio equipo reconoció que la **Consume API** tiene trabajo pendiente de rendimiento, con mejoras prometidas "en aproximadamente una semana".
+- **Precios confirmados**: US$0,04/GB producidos + **US$0,04/GB consumidos** (ojo: el fan-out de consumidores puede encarecer esto rápido), y retención a US$0,02/GB/mes. Nada se cobra durante la beta.
+- **El tech lead de K2** (que participó del thread de HN) confirmó la tesis de fondo: todo sistema de datos que no necesite latencia sub-100ms está migrando a object storage, y su equipo trabaja pegado al equipo de R2 para co-evolucionar ambos productos.
+- **La competencia respondió**: un engineer de s2.dev (streaming rival sobre el mismo patrón) alegó que con procesos stateful y tiers rápidos tipo S3 Express se puede bajar a ~50ms p99 sin arruinar la unit economics. También salieron las comparaciones con AutoMQ, WarpStream y los topics diskless de Kafka.
+
+La conclusión práctica se mantiene: K2 no es para latencia baja, es un buffer durable y barato. Pero ahora con números de producción reales sobre la mesa.

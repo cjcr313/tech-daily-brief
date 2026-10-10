@@ -73,3 +73,18 @@ La incógnita del pricing quedó resuelta: OpenAI abrió la **Decisions API en b
 Con Cloudflare Clef gratis y open source, esto posiciona la pelea como **precio hosted vs. control self-hosted**. Y ojo que hay un quinto jugador que se sumó sin avisar: **Perplexity con pplx-decider**, al que OpenAI menciona explícitamente como competencia. Cinco jugadores en un mes: la categoría está oficialmente caliente.
 
 **Fuente:** [byteiota — OpenAI Decisions API: 150ms Classification for Agents](https://byteiota.com/openai-decisions-api-150ms-classification-agents/)
+
+### Update: 10 de octubre, 2026 — Clef-omni: la familia se vuelve multimodal y Clef-flash baja de precio bajo Jev
+
+Nueva ronda de Cloudflare en esta guerra, apenas una semana después del lanzamiento original: **Clef-omni** expande la familia con **audio, video, imagen y texto en un solo pipeline** — una primera para la categoría, que desde Jev había sido mayormente texto.
+
+- **Clef-omni** recibe audio (wav/mp3) y video (mp4/webm) junto a texto e imágenes, y devuelve decisiones calibradas sin transcribir ni captionear nada en el camino. Está construido sobre **Qwen3-Omni-30B-A3B (MoE)**, con los pesos abiertos en Hugging Face.
+- **Velocidades**: decisiones texto-only en ~130 ms de mediana, imágenes en ~150 ms, y un video completo de 21 segundos con audio se puntúa en ~1,5 segundos, todo en una sola llamada API.
+- **Benchmarks**: BFCL 98,2 / ToolRet 66,6 / API-Bank 92,7 — competitivo, aunque Clef original sigue arriba en ToolRet (69,19) y Clef-flash en BFCL (98,76) y API-Bank (93,11).
+- **Precios**: Clef-flash cae de US$0,09 a **US$0,038 por millón de tokens de entrada — más barato que Jev**. Clef-omni debuta a US$0,15 y Clef se mantiene en US$0,24.
+- **El trade-off**: la versión hosted de Clef-flash baja su contexto de 64k a **24k** (según Cloudflare, solo el 0,24% de los requests excede 24k; los pesos open siguen soportando 256k si te auto-hospedas).
+- **Clef además se aceleró** sin pesos nuevos: puras optimizaciones de serving. En inputs de ~800 tokens pasó de 262/438 ms (mediana/p95) a **152/351 ms, un 1,7× más rápido**.
+
+Dato de color del post: decidieron entrar al mundo de los decision models un viernes en la tarde, entrenaron el modelo durante el fin de semana y lanzaron el jueves. La moral para Jev, OpenAI y el resto: el ritmo de iteración de Cloudflare acá es brutal.
+
+**Fuente:** [Cloudflare Blog — Introducing Clef-omni](https://blog.cloudflare.com/clef-faster-cheaper-multimodal/)
