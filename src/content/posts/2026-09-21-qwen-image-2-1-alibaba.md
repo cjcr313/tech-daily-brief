@@ -37,3 +37,17 @@ La lectura es clara: es un **release de investigación** con funciones práctica
 En el tablero de los modelos chinos, Alibaba sigue marcando ritmo: tras la ola de razonamiento y los modelos de lenguaje, ahora apunta al terreno de la generación visual con un enfoque de "gen + edit" unificado. Veremos si la licencia de investigación le pesa frente a alternativas más permisivas.
 
 **Fuente:** Hugging Face / Qwen Blog / TechNode — lanzamiento de Qwen-Image-2.1.
+
+### Update: 2026-10-10 — Llega Qwen-Image-2.1-Turbo con generación en 8 pasos
+
+El equipo Qwen de Alibaba publicó (anuncio vía X el 9 de octubre, checkpoint ya en Hugging Face) **Qwen-Image-2.1-Turbo**, un checkpoint acelerado del mismo modelo que baja la generación y edición de imágenes a **sólo 8 pasos de denoising**, manteniendo la arquitectura visual de 7B.
+
+Los detalles técnicos que importan:
+
+- Carga directo en Diffusers con `QwenImage21Pipeline` (requiere Diffusers desde source por el soporte de sampling sigmas configuradas del pipeline, PR #14950).
+- Trae **su propio sampling schedule embebido**: no hay que configurar el scheduler a mano. Usa **CFG=1 por defecto**.
+- **Prefix KV caching** reutiliza el contexto de texto e imagen de referencia entre pasos de denoising, que es de donde sale buena parte del ahorro.
+
+En la práctica: menos pasos + caché de contexto = generación de imágenes 2K y edición por lenguaje natural mucho más barata de servir, con la misma base que el modelo original. Buena noticia para quien corre Qwen-Image en GPU modesta.
+
+**Fuente:** [Hugging Face — Qwen/Qwen-Image-2.1-Turbo](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo), anuncio del equipo Qwen (9-10-2026).

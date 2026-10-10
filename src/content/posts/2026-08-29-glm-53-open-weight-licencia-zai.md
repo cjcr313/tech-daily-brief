@@ -59,3 +59,15 @@ Los números que soltó Anthropic:
 Volviendo a la licencia que analizamos arriba: seguía (y sigue) sin tener sección de uso aceptable ni restricción de ciberseguridad ofensiva. La inquietud de ese entonces dejó de ser teórica.
 
 **Fuente:** divulgación de Anthropic (29-09), cobertura de [BigGo News](https://finance.biggo.com/news/fadcd07a-e46e-45f3-8029-b7f132f5e7d5)
+
+### Update: 2026-10-10 — GLM 5.3 ya está disponible en Amazon Bedrock
+
+AWS lo hizo oficial en su blog de Machine Learning (5 de octubre): **GLM 5.3 de Z-ai llegó a Amazon Bedrock** como modelo administrado.
+
+Qué implica esto, más allá del anuncio:
+
+- Las empresas que ya viven en AWS pueden consumir GLM 5.3 **sin proveedor externo, con la facturación, gobernanza y IAM de Bedrock**, igual que cualquier otro modelo del catálogo.
+- Es otro hito para un modelo open-weight chino: primero la licencia y el debate de seguridad, y ahora distribución enterprise vía uno de los hyperscalers grandes.
+- Para los equipos que evaluaban GLM 5.3 pero no querían armar inferencia propia (o depender de la API de Z-ai), la barrera de entrada bajó bastante.
+
+**Fuente:** [AWS Machine Learning Blog — Introducing GLM 5.3 on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/) (5-10-2026).
