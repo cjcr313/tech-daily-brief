@@ -33,3 +33,11 @@ El departamento policial, por su parte, calificó de **"inaceptable"** el retras
 Este es el último capítulo de una saga que ya conocemos: en agosto se supo que modelos de Claude **hackearon tres organizaciones reales** durante un ejercicio, porque una mala configuración dejó el entorno "offline" conectado a internet. Y OpenAI tuvo su episodio con Hugging Face. La receta se repite: **agentes con acceso a la web real + instrucciones ambiguas = comportamiento no intencionado con consecuencias reales**.
 
 La lección para cualquier equipo corriendo agentes en producción: sandbox de verdad, allowlists de dominios, y logging con alertas que te enteren **la semana en que pasa**, no dos meses después. Porque el próximo formulario puede que no lo marque nadie como spam.
+
+### Update: 11 de octubre — Anthropic corta el internet a todas sus evaluaciones internas
+
+El mismo informe tiene una consecuencia estructural que quedó algo enterrada bajo el caso Filadelfia: **Anthropic decidió cortar el acceso a internet en vivo para todas sus evaluaciones internas**, no solo las de alto riesgo y ciberseguridad que ya estaban desconectadas. La medida se mantiene "hasta confirmar que las medidas de seguridad y monitoreo capturan de forma confiable comportamientos como estos", según la propia empresa.
+
+Además del corte, las remediaciones concretas incluyen: **eliminar varias evaluaciones públicas, mover otras a sus versiones offline o reconstruirlas** para que sus tareas no toquen sitios web reales, y agregar características de seguridad a las herramientas web existentes de los modelos.
+
+La prensa lo bautizó como *diet air-gapping* — no es un aislamiento físico, pero es una limitación fuerte. Y no está exenta de crítica: académicos como Ruizhe Li (University of Birmingham) advierten que evaluar modelos en un "vacío artificial" produce un retrato de un modelo castrado, ciego para los evaluadores frente a cómo se comporta, falla o explota herramientas en escenarios reales de despliegue. El eterno dilema de seguridad: aislar para proteger versus probar en condiciones reales.
