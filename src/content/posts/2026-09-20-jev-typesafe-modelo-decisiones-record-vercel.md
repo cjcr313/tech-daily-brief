@@ -37,3 +37,15 @@ El punto no es "otro modelo más". Es que un modelo **especializado en decidir**
 La lectura para el que construye sistemas: la optimización de costos de IA ya no es solo cachear o elegir un proveedor más barato — es **sacar del LLM todo lo que no necesita ser un LLM**. Y Jev es la prueba de que ese nicho tiene demanda real, al punto de que las plataformas se pelean por integrarlo en cuestión de días.
 
 **Fuente:** [Forbes](https://www.forbes.com/sites/josipamajic/2026/09/19/jev-cuts-ai-decision-costs-100x-and-vercel-cloudflare-rushed-to-add-it/) vía AI Weekly (19/09/2026).
+
+### Update: 11 de octubre de 2026 — US$870 millones y valoración de US$7.500M: la apuesta por Jev se vuelve seria
+
+La señal que faltaba llegó: **TypeSafe AI cerró una ronda de US$870 millones a una valoración de US$7.500 millones**, liderada por Andreessen Horowitz y con participación de Sequoia y DCVC (Bloomberg/TechCrunch, 9 de octubre). Estamos hablando de una empresa cuyo producto salió el 15 de septiembre. Menos de un mes de vida pública para cruzar los US$7 mil millones de valoración.
+
+Lo nuevo desde el post original:
+
+- **Adopción enterprise**: la propia empresa claims que **un tercio del Fortune 500 ya usa Jev**. Siempre con sal de mar (cifra autorreportada), pero el interés de a16z y Sequoia no es autorreportado.
+- **El pitch se afina**: Jev no genera texto, produce "calibrated decisions" — probabilidades tipadas para automatizar. Su cofundador **Diogo Almeida (ex-investigador de OpenAI)** lo resume así: "We have been super good at human language for four years, but it's not useful for automation because computers speak a different language".
+- **Los fundadores**: Almeida, **Sasha Sheng (ex-Meta)** y **Erik Gafni** fundaron TypeSafe en 2024. Es decir: gente que venía de los labs grandes y decidió que la automatización no necesitaba otro LLM.
+
+Para los que seguimos el patrón "modelos chicos y baratos para decisiones de alto volumen": US$870M es la confirmación de que el mercado de venture le cree al nicho completo, no solo a un viral moment. La pregunta siguiente es si los LLM de frontera incorporan decisiones calibradas nativamente (commoditización) o si el specialization moat aguanta. Con ese capital, TypeSafe tiene margen para demostrarlo.

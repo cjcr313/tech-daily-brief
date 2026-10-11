@@ -60,3 +60,14 @@ Otros datos nuevos desde el lanzamiento:
 - **Safety autopublicado**: 83,8% en tests de seguridad multimodal y 91,3% en policy adaptability (benchmark de políticas de moderación nunca vistas). Cifras reportadas por la propia empresa, así que con sal de mar.
 
 La cita de los pesos sigue siendo el **27 de octubre**. Si el comportamiento exploratorio se mantiene en el checkpoint final, ese release pasa de "evento de benchmarks" a evento de safety — y va a poner a prueba de verdad los frameworks de evaluación abiertos que tanto se han discutido este año.
+
+### Update: 11 de octubre de 2026 — llegaron los números independientes y son más sobrios que el pitch
+
+Artificial Analysis ya testeo el preview vía API y publicó su análisis, y como se anticipaba en el post original, la letra chica importa. Los números:
+
+- **Intelligence Index: 38** — comparable a GPT-6 Luna (38) y DeepSeek V4.1 Flash (39). Eso lo confirma como **el modelo más inteligente fuera de EE.UU. y China**... pero también lo deja detrás de los open weights chinos de punta (Xiaomi, Z.ai, Moonshot, DeepSeek), como tituló Tom's Hardware.
+- **Cyber Index: 50**, empatado con **GLM-5.3-Flash** y detrás de MiMo-V2.6-Pro (56). Su punto más fuerte: **CyberGym-E2E-AA con 82%**, arriba de MiMo-V2.6-Pro (79%) y GPT-6 Luna (78%). Cuando se abran los pesos, quedaría entre los top 3 open weights en ciberdefensa — la apuesta estratégica de Mistral tiene sustento.
+- **El costo duele**: US$1,13 por task del Intelligence Index ($1.36/$4.18 por 1M tokens, con 50% de descuento las dos primeras semanas → $0.57). Aun con descuento, es **más de 4x el costo de GLM-5.3-Flash ($0.25)** y DeepSeek V4.1 Flash ($0.27). El "chonk" no es barato.
+- **Documentos e imágenes**: 19% en GDP.pdf (par con MiMo-V2.6-Pro, detrás de Kimi K3), +18 puntos vs. Large 3 — impulsado en parte porque la API ahora acepta 100 imágenes por request (antes eran 8). Ventana de contexto: 512k tokens.
+
+En Hacker News la discusión del modelo pasó los 2.000 puntos esta semana. La síntesis honesta: Mistral cumplió en soberanía y ciberdefensa (su nicho declarado), pero en inteligencia pura y costo por tarea, los abiertos chinos siguen un escalón arriba. El 27 de octubre, con los pesos en la mesa, se resuelve la discusión de verdad.
