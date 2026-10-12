@@ -32,3 +32,17 @@ Recordemos el tablero: Anthropic apunta a un **IPO de US$2 billones en octubre**
 La señal de industria: los labs frontier ya no solo compiten por modelos, **compran capacidades completas** antes de salir a bolsa. Anthropic ya había metido US$9.100 millones en Riot Platforms; ahora Decart. Veremos cuánto tarda OpenAI en responder.
 
 **Fuentes:** Calcalist (CTech), Globes, Bloomberg vía Pulse2.
+
+### Update: 12 de octubre — Anthropic se bajó, y ahora Amazon negocia comprar Decart por ~US$7.000 millones
+
+Plot twist que nadie tenía en el radar de agosto: según The Wall Street Journal, **Amazon está en negociaciones avanzadas para quedarse con Decart por alrededor de US$7.000 millones**. El detalle que cambia todo el relato original: **Anthropic hizo due diligence con el startup valuado en ~US$6.000 millones y abandonó el deal** — nunca lo cerró.
+
+Lo que sabemos del estado actual:
+
+- **Decart levantó US$300 millones a una valuación de US$4.000 millones en mayo**, así que los US$7.000M de Amazon representarían casi el doble en pocos meses.
+- El foco del startup también evolucionó desde los world models en tiempo real: hoy su software permite **mover workloads de IA entre distintos chips** — exactamente el tipo de herramienta que AWS necesita para su estrategia multi-accelerator frente a Nvidia.
+- Si se concreta, sería una de las adquisiciones más grandes de Amazon en IA aplicada, y confirmaría que la pelea por Decart no era por simulación: era por **portabilidad de cómputo**.
+
+La moraleja de agosto sigue en pie, pero con otro protagonista: los labs y hyperscalers siguen comprando capacidades completas — solo que ahora el que frena es el que paga de más tarde.
+
+**Fuentes:** WSJ vía [AI Weekly](https://aiweekly.co/alerts/amazon-in-talks-to-buy-decart-for-7b-months-after-anthropic-walked-from-6b-due).
