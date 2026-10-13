@@ -48,3 +48,17 @@ Más allá de la guerra, esto es un caso de estudio brutal de resiliencia:
 - **La soberanía de datos tiene dos caras**: tener todo en infraestructura nacional puede ser un requerimiento regulatorio, pero también concentra el riesgo físico y geopolítico en un solo país.
 
 Los equipos SRE del mundo ocupando nubes "normales" no enfrentan drones, pero el principio es el mismo: cuando tu RTO real depende de poder **crear** recursos en otra zona, y justo eso está restringido, tu RTO es infinito. Revisa tus supuestos antes de que te los revise la realidad.
+
+### Update: 12 de octubre, 2026
+
+Cinco días después del primer ataque, el cuadro sigue feo y con datos nuevos que duelen:
+
+- **Reemplazar el equipo dañado podría tomar hasta seis meses**, según Kommersant citando una fuente de la industria IT. Obtener un volumen significativo de servidores antes de fin de 2026 se considera casi imposible: la demanda de cloud providers va a encarecer los servidores en el Q4, y Yandex tendría que comprar por varios canales, incluido el exterior.
+- **La nube sigue en modo emergencia** al 12 de octubre: especialistas trabajando 24/7, clientes aún aconsejados de usar sitios alternativos para hospedar y respaldar datos, y soporte técnico con demoras por volumen de tickets.
+- **Al 11 de octubre**: Compute Cloud parcialmente disponible, pero **algunos clústeres de Kubernetes y bases de datos siguen con problemas, y el sistema de monitoreo Monium sigue caído**. O sea: la herramienta que te diría qué está mal también está en el suelo. Persisten las restricciones para asignar recursos adicionales.
+- **Los precios ya venían subiendo**: The Insider calculó que tras dos alzas (8% en mayo 2025 y 5-10% en mayo 2026), servicios como Cloud DNS, Cloud Backup, Cloud Functions y Application Load Balancer acumulan **+16,6% en dos años**. Y otros operadores de data centers rusos ya están comprando protección antidrones, costo que se trasladará a los precios del cloud.
+- Fueron **tres ataques en cuatro días**, y Yandex reconoció en su blog que aún no puede dar un timeline de restauración.
+
+Para el análisis de resiliencia original esto agrega una capa: no basta con sobrevivir al incidente — la **capacidad de reposición física del hardware** (con la cadena de suministro y la geopolítica encima) pasó a ser parte del RTO. Pocos runbooks consideran "no podremos comprar servidores por seis meses".
+
+**Fuente del update:** [The Insider](https://theins.press/en/news/298226)

@@ -57,3 +57,16 @@ La beta abierta de Tracing que anunciábamos en el punto 2 ya tiene detalles té
 Con esto, el "eslabón suelto" del que hablábamos queda bastante más apretado: la vista edge-to-origin completa, portable vía OpenTelemetry, y conectable a tu backend de observabilidad existente.
 
 **Fuentes:** [InfoQ](https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/) · [Cloudflare Blog — Cloudflare Tracing](https://blog.cloudflare.com/cloudflare-tracing/)
+
+### Update: 13 de octubre, 2026 — Logpush Transformers a detalle
+
+Cloudflare profundizó en una de las ocho novedades de la Birthday Week: **Transformers para Logpush, ya GA**, que permite **filtrar, redactar y reformatear los logs antes de exportarlos usando SQL** — sin desplegar un servicio intermedio de procesamiento que haya que operar, escalar y monitorear.
+
+- **Cómo funciona**: un Transformer es una query SQL escrita para un dataset específico de Logpush. La query se aplica a cada batch **antes** del export: los registros que no pasan el `WHERE` se botan (chau health checks), y el `SELECT` define la forma del registro exportado — agregar, renombrar, eliminar o anidar campos. La salida sale en NDJSON.
+- **Redacción de datos sensibles** antes de que lleguen al SIEM o la plataforma de analytics, con preview incluida.
+- **Transformer Studio** en el dashboard para crear, previsualir y gestionar Transformers, o vía API para los que prefieren código.
+- **Ahorro directo**: hoy pagas por exportar, ingerir y almacenar registros que descartas al llegar. Filtrar antes de la entrega reduce el volumen aguas abajo — y la cuenta.
+
+La pieza faltante del pipeline de logs observability-era: la transformación vive donde nacen los datos, no en un Lambda pegado con cinta más adelante.
+
+**Fuente del update:** [Cloudflare Blog — Transformers on Logpush](https://blog.cloudflare.com/transformers-on-logpush/)
