@@ -44,3 +44,18 @@ El lanzamiento se hizo oficial el lunes: el modelo se llama **Beam** y las espec
 El "si" mayúsculo del post original (los benchmarks) empieza a responderse, pero con asterisco: hasta que Artificial Analysis u otros laboratorios independientes corran sus propias pruebas, los números son de la propia casa. Lo innegable: Occidente ya tiene su primer contender open-weight serio contra DeepSeek — el mismo día en que DeepSeek anuncia una ronda de US$12.000 millones. El timing no podría ser más cinematográfico.
 
 **Fuentes del update:** Reflection AI (blog oficial), TechCrunch, SiliconANGLE.
+
+### Update: 13 de octubre, 2026 — Nvidia negocia comprar Reflection AI (o absorberla vía acqui-hire)
+
+Plot twist que acelera la historia de los pesos abiertos: según el Financial Times, **Nvidia está en conversaciones tempranas para comprar Reflection AI, hacer un acqui-hire o profundizar su inversión** (ya puso ~US$800 millones en la startup). Se suman reportes de que negocia con TSMC más de 300.000 unidades de chips para 2027 en paralelo — la semana del silicio propio está en pleno auge.
+
+Lo relevante del estado actual:
+
+- **Tres estructuras sobre la mesa**: compra directa, más equity junto a suministro de chips y cloud, o acqui-hire (contratar al equipo y licenciar Beam sin control corporativo formal). El acqui-hire es interesante justamente porque **esquivaría la revisión antitrust Hart-Scott-Rodino** — el mismo molde de Microsoft-Inflection (US$650M, 2024) y Google-Windsurf (~US$2.400M, 2025).
+- **Beam en detalle**: es un MoE disperso de **501 mil millones de parámetros con solo 23B activos por token** (~4,6%), estructura de expertos en 52 capas. Preentrenado con 23,8 billones de tokens usando 6.144 GB300 en menos de cuatro semanas, y refinado con RL sobre 10.500 GB300 con más de 100 millones de rollouts en ~un millón de entornos simulados. El contexto de 1M tokens del preentrenamiento sale limitado a 256K en la beta de la API.
+- **La matemática que cambia el negocio**: si la inferencia escala con los 23B activos y no con los 501B totales, correr Beam en hardware propio cuesta **~1/22 de la capacidad** que necesitaría un modelo denso equivalente. Por eso gobiernos y bancos lo miran para despliegues soberanos on-premise.
+- **El asterisco incómodo**: si Nvidia termina dueña del modelo, todo comprador evaluando Beam tendrá que preguntarse si un modelo open-weight propiedad del vendedor de GPUs sigue siendo genuinamente abierto. La Casa Blanca, mientras tanto, celebra: quiere un rival *made in USA* para los modelos baratos chinos.
+
+La tesis del post original se confirma a velocidad de vértigo: Occidente ya compite en pesos abiertos, y ahora hasta la propiedad del lab se vuelve estratégica.
+
+**Fuente del update:** [Financial Times vía TechTimes](https://www.techtimes.com/articles/328910/20261013/reflection-ais-beam-sells-governments-ai-independence-nvidia-talks-acquire-it.htm), [SiliconANGLE](https://siliconangle.com/2026/10/11/nvidia-reportedly-in-early-talks-to-buy-acqui-hire-or-invest-more-in-reflection-ai/), PYMNTS.
