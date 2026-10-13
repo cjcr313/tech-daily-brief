@@ -41,3 +41,9 @@ Básicamente, Meta está intentando resolver los dos grandes defectos de los age
 Con Wonder Full a un punto del líder en el índice de AA, la pelea de la frontera quedó más apretada que nunca: Anthropic arriba, Meta pisándole los talones y OpenAI/Google atrás en el agregado. Para quien arma stacks de agentes, hay un nuevo contendiente serio que además tiene distribución masiva de su lado.
 
 **Fuentes:** [Meta Research Blog](https://research.meta.ai/blog/muse-wonder) · [Artificial Analysis vía AI Weekly](https://aiweekly.co/alerts/meta-ships-muse-wonder-full-variant-hits-2-on-aa-index) · [AI Weekly](https://aiweekly.co/ai-news-today)
+
+### Update: 13 de octubre, 2026
+
+Los benchmarks agénticos de Muse Wonder Full ya no son solo el scorecard propio de Meta: **en corridas independientes de terceros, el modelo confirmó state-of-the-art en DeepSWE 1.1 con 79,0 puntos**, frente a ~74 para Claude Opus 5.5 y GPT-6 Astra, y también encabeza SWE-Marathon según la página oficial para desarrolladores de Meta. En el aggregate del Artificial Analysis Index sigue segundo, a solo 2 puntos de Opus 5.5. La brecha en coding agéntico entre Meta y los líderes se ve más real que una campaña de marketing.
+
+**Fuentes del update:** [Meta for Developers — Muse Wonder](https://developer.meta.com/ai/models/muse-wonder/) · [IJR](https://ijr.com/discover/tech-2026-10-12-meta-releases-muse-wonder-claims-ai-benchmark-gains-d73b5e62)
