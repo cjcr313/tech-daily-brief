@@ -34,3 +34,14 @@ El timing no es casual: el anuncio llega un día después de que Sundar Pichai f
 **El punto:** el ciclo de flagships está cada vez más raro. Anuncias el modelo, muestras que gana, y el acceso real queda en lista de espera regulatoria-voluntaria. Mientras tanto, la lección práctica sigue igual: **routing por tarea, no fe ciega en un solo modelo**. Y ojo con la historia del nombre: lo original era lanzar Gemini 3.5 Pro en junio; llegaron los Flash y recién hoy el flagship. Google apuesta fuerte, pero con calzado de seguridad.
 
 **Fuentes:** [The New Stack](https://thenewstack.io/google-gemini-4-argon/)
+
+### Update: 14 de octubre de 2026 — Argon ya llegó a la app de Gemini y Antigravity... pero hay que pagar
+
+Dos semanas después del anuncio, **Google comenzó el 13 de octubre el rollout de Gemini 4 Argon hacia el mundo real**: la app consumer de Gemini, AI Mode en Search, y Google Antigravity (incluida su app de desktop y CLI). El modelo es el mismo que cubrimos arriba; lo que cambió es el acceso. Y el acceso es la historia: como tituló Ars Technica, llega "pero solo si pagas".
+
+- **En la app de Gemini** se requiere suscripción **Google AI Pro o AI Ultra**; **en Antigravity se exige AI Ultra específicamente**, lo que ya encendió la discusión sobre el "impuesto" de reservar el coding agéntico top para el tier más caro.
+- **API con precio introductorio**: US$2 por millón de tokens de entrada y US$10 de salida, con 95% de descuento en input cacheado. Atención: el **30 de noviembre de 2026** sube al precio estándar de **US$4/US$20** — si vas a evaluar cargas de alto volumen, hazlo antes de esa fecha.
+- **Excepciones**: los cyber defenders del programa Fairwind mantienen acceso temprano, y académicos/investigadores independientes pueden postular a **6 meses gratis del tier más alto de Antigravity** (sujeto a capacidad y selección).
+- El dato técnico que Google quiere que recuerdes: **límite de salida de 1 millón de tokens**, un hito si se sostiene en producción.
+
+La tendencia que deja el lanzamiento: en 2026 el modelo de acceso —quién lo ocupa, cuándo y a cuánto— es tan noticioso como los benchmarks. Si tu caso de uso es knowledge work y contexto largo, Argon en la app ya es competitivo; para coding agéntico puro, revisa los números de FrontierSWE y Terminal-bench que citamos arriba antes de mover el routing.
