@@ -59,6 +59,18 @@ Cinco días después del primer ataque, el cuadro sigue feo y con datos nuevos q
 - **Los precios ya venían subiendo**: The Insider calculó que tras dos alzas (8% en mayo 2025 y 5-10% en mayo 2026), servicios como Cloud DNS, Cloud Backup, Cloud Functions y Application Load Balancer acumulan **+16,6% en dos años**. Y otros operadores de data centers rusos ya están comprando protección antidrones, costo que se trasladará a los precios del cloud.
 - Fueron **tres ataques en cuatro días**, y Yandex reconoció en su blog que aún no puede dar un timeline de restauración.
 
+### Update: 15 de octubre, 2026 — los bots no se apagaron, se mudaron
+
+Cloudflare publicó un análisis con datos de Radar y Bot Management que desarma una narrativa cómoda: la idea de que los ataques habían dejado offline las granjas de bots rusas. Spoiler: no.
+
+- **El colapso, en números**: el 11 de octubre (día del tercer golpe, en Vladimir), el tráfico cayó a **99% bajo su baseline para Yandex Search (AS13238)** y **90% para Yandex.Cloud (AS200350)**. Al 14 de octubre 18:00 UTC, la red operaba cerca del 85% de su tráfico normal — recuperación parcial, pero todavía coja.
+- **La caída del ASN de Search era casi puro crawler legítimo**: 78,1% de las requests muestreadas eran YandexBot verificado, 11,5% YandexRenderResourcesBot y 1,9% YandexImages. O sea: lo que se apagó fue el índice de búsqueda, no una máquina de ataques.
+- **El segmento más golpeado fue prensa y medios**, con **-44% de tráfico** desde las redes de Yandex. Detalle revelador: el 40,5% de las requests a sitios de noticias ya recibía 403 porque los propios clientes de Cloudflare bloqueaban al crawler.
+- **En Yandex.Cloud sí hubo impacto malicioso, pero temporal**: el tráfico bot cayó ~40%, el probing de plugins de WordPress se desplomó 90% y las requests tipo scanner cayeron 93%. Pero la automatización de alto volumen **no desapareció: migró a otros hosting providers**. Los bloqueos de clientes a tráfico de Yandex.Cloud cayeron 70% durante el evento.
+- **El bot global no se inmutó**: el tráfico automatizado mundial se mantuvo plano (39,2%→39,6% de todas las requests HTTP), y el de origen ruso bajó de 50,4% a ~42% — apenas proporcional a la capacidad perdida.
+
+La lección para quien opera seguridad u observabilidad: **las métricas agregadas de tráfico engañan**. Ver un ASN caerse no te dice qué comportamiento había detrás; hay que analizar el request, no el volumen. Y asumir que golpear infraestructura desactiva a los actores maliciosos es confundir el edificio con el inquilino: los inquilinos simplemente se mudan.
+
 Para el análisis de resiliencia original esto agrega una capa: no basta con sobrevivir al incidente — la **capacidad de reposición física del hardware** (con la cadena de suministro y la geopolítica encima) pasó a ser parte del RTO. Pocos runbooks consideran "no podremos comprar servidores por seis meses".
 
 **Fuente del update:** [The Insider](https://theins.press/en/news/298226)
