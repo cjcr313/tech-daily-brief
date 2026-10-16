@@ -29,3 +29,15 @@ En cuatro meses despacharon más de **80 releases**, cerraron **1.200+ issues** 
 Además, **Vite+ 1.0** —la capa que unifica toda la toolchain con defaults sensatos— ya está en 1.0, y avanzan hacia el **"Bundled Dev"** (antes Full Bundle Mode), un modo de desarrollo moldeado por clientes con apps enormes, incluido el propio dashboard de Cloudflare.
 
 La tesis de fondo: en 2026, "hacer más productivo al developer" también significa **hacer más rápidos a los agentes de código**. Una toolchain que compila, lintea y testea más rápido acorta el feedback loop tanto para humanos como para los agentes que hoy escriben código.
+
+### Update: 16 de octubre de 2026
+
+La promesa tomó forma: Cloudflare publicó **"Deploy with Void"** (15 de octubre) y **Void quedó 100% open source bajo licencia MIT**. Lo más interesante es el cambio de rumbo — lo que iba a ser un producto comercial terminó como **plataforma open source que cualquier empresa puede auto-alojar**.
+
+Void ahora es tres cosas:
+
+- **SDK**: full-stack apps con Vite y Hono, zero-config
+- **CLI**: deploy directo a Cloudflare Workers
+- **Platform**: un entorno de deployment compartido en tu propia cuenta de Cloudflare, con **access controls, límites de recursos y reportes de uso**
+
+La tesis es explícita: los empleados van a seguir vibe-codeando apps internas con o sin permiso de IT; mejor darles una plataforma donde eso corra con gobernanza en vez de perseguir sombras en SharePoint. El código vive en `github.com/voidzero-dev/void`.
