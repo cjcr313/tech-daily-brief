@@ -38,3 +38,9 @@ El movimiento viene con **ocho socios integrando desde el día uno**: Crusoe (co
 La orquestación de GPUs en Kubernetes era un cuello de botella caro y propietario. Al abrirlo, NVIDIA baja la barrera de entrada para armar "AI factories" (y empuja la adopción de su stack DSX completo, no nos hagamos los tontos). Para los equipos de plataforma que administran clusters GPU compartidos entre varios equipos, esto es básicamente un regalo: gang scheduling serio, fraccionamiento de GPUs y cuotas organizacionales sin pagar licencia. La pregunta ahora es qué pasa con los competidores comerciales de orquestación de GPUs — hoy les quedó el barrio bastante más difícil.
 
 **Fuentes:** NVIDIA Technical Blog, HPCwire/AIwire, CTech.
+
+### Update: 16 de octubre de 2026
+
+El ecosistema se movió rápido: a días del open-sourcing, **Zesty lanzó "Automated Fractional GPUs"**, una capa de automatización comercial construida directamente sobre el GPU Fractioning Operator de NVIDIA. La herramienta aprovecha el fraccionamiento CUDA-nativo en Kubernetes —con sus límites duros de memoria GPU por workload y su coordinación con los schedulers— para asignar fracciones de GPU de forma automática según demanda real, con foco FinOps: **cortar la sobrecompra de GPUs** que hoy tienen las empresas por aprovisionar para picos. Señal clara de que la apertura de Run:ai no fue un gesto de caridad sino la base de un ecosistema: la capa propietaria se retiró, y sobre la nativa ya están construyendo productos encima.
+
+**Fuentes del update:** PR Newswire, TECHi.

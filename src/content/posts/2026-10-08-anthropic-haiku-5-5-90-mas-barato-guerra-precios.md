@@ -57,3 +57,12 @@ La lectura es directa: **la diferenciación por "inteligencia pura" del modelo p
 Si tenís pipelines que hacen clasificación, extracción o resumen masivo con modelos chicos, esto es motivo de recalculo: revisa el costo por millón de tokens de tu proveedor actual contra US$0,10/0,50 y probablemente la cuenta cierre para migrar o renegociar. Y si tu workload tiene prompts largos (RAG con contexto gordo), ojo con el salto tarifario sobre 100K — ahí el ahorro se come.
 
 La conclusión de mercado: el modelo "económico" dejó de ser el mal menor. Al precio de Haiku 5.5, usar un modelo frontier-chico para el 90% del volumen y reservar el grande para lo difícil es simplemente la arquitectura correcta.
+
+### Update: 16 de octubre — AWS lo hace oficial y llegan detalles que faltaban
+
+AWS publicó el arribo de Claude Haiku 5.5 en su what's new (ya estaba en Bedrock desde el lanzamiento, pero ahora con respaldo oficial y marketing propio, enmarcado como opción de bajo costo para workloads sensibles a precio). Del anuncio original de Anthropic quedaron dos detalles que no estaban en la cobertura inicial y valen la pena:
+
+- **Effort ajustable:** es el primer Haiku con configuración de esfuerzo — podés optar por costo o inteligencia según la tarea, igual que los modelos grandes de la familia.
+- **SDKs con computer use y browser use en beta:** los SDK de Python y TypeScript agregan soporte beta para estas capacidades, tareas donde Haiku 5.5 encaja por su velocidad-precio. Asana, en testing temprano, reportó ~30% menos latencia y hasta 2,5x inferencia más rápida por turno de agente.
+
+**Fuente del update:** Anthropic, AWS What's New.
