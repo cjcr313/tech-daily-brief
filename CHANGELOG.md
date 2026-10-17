@@ -6,6 +6,12 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.4.3] - 2026-10-17
+
+### Changed
+
+- **Paginación en una sola línea:** el menú de páginas calcula dinámicamente cuántos números caben en el ancho disponible y muestra esa cantidad consecutiva desde el 1, luego "…" y la última página (p. ej. en escritorio: "Ant 1 2 … 27 28 … 58 Sig"). Si la página actual queda fuera de la ventana, se desliza una ventana centrada. Todo en una fila con Ant/Sig en los extremos; sin JS degrada a la ventana mínima (1, actual±1, última).
+
 ## [1.4.2] - 2026-10-17
 
 ### Changed
