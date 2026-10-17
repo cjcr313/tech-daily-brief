@@ -6,6 +6,13 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.3.1] - 2026-10-17
+
+### Fixed
+
+- **Menú de categorías:** ahora parte alineado a la izquierda, justo debajo del título "Ping Diario" (antes estaba justificado a la derecha y nunca alcanzaba el borde izquierdo). En móvil, el menú desplegable también alinea su grilla a la izquierda.
+- **Intro de portada:** el párrafo "El pulso diario del mundo Cloud Native…" ya no se corta a mitad del sitio: se eliminó el ancho máximo (672px) que lo partía en dos líneas con espacio vacío al costado; ahora fluye con el ancho del contenedor.
+
 ## [1.3.0] - 2026-10-07
 
 ### Changed
