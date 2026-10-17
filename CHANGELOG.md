@@ -6,6 +6,12 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.3.2] - 2026-10-17
+
+### Changed
+
+- **Intro de portada:** nuevo texto que no repite las categorías del menú — "El pulso diario del mundo Cloud Native: un resumen ágil y curado con lo que de verdad importa en la tecnología que mueve al mundo empresarial."
+
 ## [1.3.1] - 2026-10-17
 
 ### Fixed
