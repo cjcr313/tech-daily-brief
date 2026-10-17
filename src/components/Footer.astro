@@ -19,16 +19,16 @@ const currentYear = new Date().getFullYear();
   {...attrs}
 >
   <div
-    class="border-border flex flex-col items-center justify-between border-t py-6 sm:flex-row-reverse sm:py-4"
+    class="border-border flex flex-col items-center justify-center gap-3 border-t py-6 sm:py-5"
   >
     <Socials />
-    <div class="my-2 flex flex-col items-center whitespace-nowrap sm:flex-col">
+    <div class="flex flex-col items-center whitespace-nowrap">
       <div class="flex items-center">
         <span>{t.footer.copyright} &#169; {currentYear} Nauta Lab</span>
         <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
         <span class="hidden sm:inline">{t.footer.allRightsReserved}</span>
       </div>
-      <span class="text-sm text-skin-muted mt-2 sm:mt-1">
+      <span class="text-sm text-skin-muted mt-2">
         Un sitio de Nauta Lab, incubadora de tecnología e ideas.
       </span>
     </div>

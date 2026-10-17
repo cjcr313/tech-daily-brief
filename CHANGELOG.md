@@ -6,6 +6,13 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-10-17
+
+### Changed
+
+- **Portada:** la grilla de noticias pasa de 9 a 12 tarjetas (4 filas de 3 en escritorio), además de la destacada: 13 posts por página.
+- **Footer:** rediseño centrado — iconos sociales arriba y bloque de copyright ("Copyright © 2026 Nauta Lab | Todos los derechos reservados." + "Un sitio de Nauta Lab…") debajo, todo alineado al centro en cualquier ancho (antes el copyright iba a la izquierda y los iconos a la derecha).
+
 ## [1.3.3] - 2026-10-17
 
 ### Fixed

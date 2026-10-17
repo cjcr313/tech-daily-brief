@@ -15,7 +15,7 @@ import config from "@/config";
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getCollection("posts", ({ data }) => !data.draft);
   const sortedPosts = getMainSortedPosts(posts);
-  return paginate(sortedPosts, { pageSize: 10 });
+  return paginate(sortedPosts, { pageSize: 13 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
