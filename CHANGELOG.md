@@ -6,6 +6,12 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.4.1] - 2026-10-17
+
+### Changed
+
+- **Paginación:** más números visibles — de "1 2 … 57" a una ventana de hasta 11 páginas ("1 2 3 … 10 11 … 57" en la primera), con la ventana deslizándose según la página actual. Los controles Ant/Sig van a los extremos y los números ocupan el centro de izquierda a derecha; en móvil los números hacen wrap en varias filas sin desbordar.
+
 ## [1.4.0] - 2026-10-17
 
 ### Changed
