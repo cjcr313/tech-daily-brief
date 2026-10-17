@@ -6,6 +6,12 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.3.3] - 2026-10-17
+
+### Fixed
+
+- **Intro de portada:** espacio perdido entre "con" y "lo" (se veía "conlo" por el espacio de línea junto a la etiqueta de énfasis, mismo bug corregido en v1.3.0) y se eliminó la negrilla: ahora es texto plano de una sola pieza.
+
 ## [1.3.2] - 2026-10-17
 
 ### Changed

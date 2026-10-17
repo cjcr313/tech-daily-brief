@@ -1,6 +1,6 @@
 # Versión
 
-**1.3.2** — 2026-10-17
+**1.3.3** — 2026-10-17
 
 Versión actual del sitio **Ping Diario**. Ver [`CHANGELOG.md`](./CHANGELOG.md) para el detalle de cambios.
 
