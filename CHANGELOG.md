@@ -6,6 +6,12 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.4.2] - 2026-10-17
+
+### Changed
+
+- **Paginación:** ahora se muestran TODAS las páginas (1 a 57, sin puntos suspensivos), llenando el ancho completo del contenedor de izquierda a derecha; en pantallas angostas hacen wrap en varias filas. Ant/Sig quedan en una fila propia arriba, en los extremos.
+
 ## [1.4.1] - 2026-10-17
 
 ### Changed
