@@ -33,3 +33,11 @@ Forkast le puso nombre al fenómeno: **private ordering** — bancos escribiendo
 La lectura para arquitectos: si tu producto depende de que un agente IA mueva dinero en nombre de un usuario en EEUU, asume que por ahora los bancos grandes van a decir que no. La infraestructura de permisos (MCP read-only, agentes con scopes limitados, verificación de identidad del agente) dejó de ser un feature para convertirse en requisito de entrada.
 
 No es tecno-pesimismo: es el primer choque real entre la economía agéntica y los sistemas que custodian el dinero. Y los bancos, por una vez, no están esperando a que los hackeen primero.
+
+### Update: 18 de octubre — no son solo los bancos
+
+The Verge armó el mapa completo y la lista es más ancha de lo que parecía: **Amazon lleva bloqueando a Muse de Meta desde el 20 de septiembre**, **Yelp solo admite agentes inscritos en su programa pago de licenciamiento de datos**, y **Delta confirmó que no tiene acuerdos con agentes de terceros**. A los ya conocidos JPMorgan Chase y Charles Schwab se suma así un frente completo de **comercio y viajes**.
+
+El detalle más elocuente: usuarios de **Muse de Meta, Grok de xAI, y Dots e Instinct de OpenAI** llevan días registrando tareas falladas en estas plataformas. Lo que empezó como una señal de la banca ahora es una **coordinación de facto de medio internet** contra los agentes que ningún sitio autorizó.
+
+Si la semana pasada la lección era "los bancos dicen que no", la de hoy es que el bloqueo agent-everywhere se está extendiendo más rápido que los propios agentes.
