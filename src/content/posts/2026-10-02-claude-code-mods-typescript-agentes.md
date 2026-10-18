@@ -42,3 +42,15 @@ La guerra de los agentes de código se estaba peleando en modelos y precios. Con
 ## Enlaces
 - [Claude.dev: Getting started with Claude Code mods](https://claude.dev/blog/getting-started-with-claude-code-mods/)
 - [Runtimewire: Anthropic lets Claude Code mods rewrite prompts](https://runtimewire.com/article/anthropic-claude-code-mods-typescript-permissions)
+
+### Update: 18 de octubre de 2026
+
+**Claude Code 2.1.302 convirtió los plugins en sistema oficial.** El release (16-17 de octubre) trae el **plugin system oficial basado en Mods**, más un puñado de cambios que cambian defaults importantes:
+
+- **Fork subagents habilitados por defecto** en entornos no terminales (se desactiva con `CLAUDE_CODE_FORK_SUBAGENT=0`).
+- **`CLAUDE_CODE_AUTO_MODE_MODEL`**: nueva variable de entorno para routear modelos desde el cliente.
+- **Idle Compaction** como toggle en `/config`, para compactar sesiones idle sin perder contexto activo.
+- Startup más rápido en Windows cuando hay muchos plugins instalados.
+- El release suma **63 cambios con 43 bug fixes**.
+
+Otra noticia del mismo release: el **Claude Design standalone (claude.ai/design) cierra el 14 de diciembre de 2026** — las capacidades de diseño quedan solo dentro del producto principal.
