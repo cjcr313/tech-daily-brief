@@ -38,3 +38,7 @@ Esto se puede interpretar de dos formas. La generosa: Anthropic amarra instituci
 Probablemente sea ambas cosas. Pero el detalle técnico es interesante para cualquiera que siga gobernanza de IA: **meter el compromiso en la mesa de capitales** —con un mecanismo que escala con la valoración— es mucho más difícil de deshacer que una promesa de blog. El fondo se aprobará con la letra chica del IPO, y esa letra chica dice que si el listing de US$2 billones se concreta, los miles de millones fluyen automáticamente.
 
 Fuentes: Bloomberg, The Motley Fool, TheStreet, BeInCrypto.
+
+### Update: 19 de octubre de 2026
+
+La movida ya tiene respuesta en la guerra del gesto filantrópico: **Elon Musk contraatacó comprometiendo una acción de SpaceX por cada niño estadounidense** el próximo año, un giveaway estimado en unos **US$10.500 millones** a precios recientes. Ni el fondo de Anthropic ni el pledge de Musk están implementados al 100% todavía, pero entre ambos dejan flotando la misma pregunta de fondo: **¿cómo se reparte la riqueza extraordinaria que está generando la IA?** Mientras, la ventana del IPO de Anthropic (confidencialmente presentado en junio) sigue abierta — y el fondo se jugará en la letra chica de esa salida.
