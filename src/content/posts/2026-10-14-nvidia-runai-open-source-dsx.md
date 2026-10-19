@@ -44,3 +44,11 @@ La orquestación de GPUs en Kubernetes era un cuello de botella caro y propietar
 El ecosistema se movió rápido: a días del open-sourcing, **Zesty lanzó "Automated Fractional GPUs"**, una capa de automatización comercial construida directamente sobre el GPU Fractioning Operator de NVIDIA. La herramienta aprovecha el fraccionamiento CUDA-nativo en Kubernetes —con sus límites duros de memoria GPU por workload y su coordinación con los schedulers— para asignar fracciones de GPU de forma automática según demanda real, con foco FinOps: **cortar la sobrecompra de GPUs** que hoy tienen las empresas por aprovisionar para picos. Señal clara de que la apertura de Run:ai no fue un gesto de caridad sino la base de un ecosistema: la capa propietaria se retiró, y sobre la nativa ya están construyendo productos encima.
 
 **Fuentes del update:** PR Newswire, TECHi.
+
+### Update: 19 de octubre de 2026
+
+Con el polvo asentado, aparecieron los primeros números duros de fraccionamiento en producción. **Nebius** publicó tests (sobre la versión comercial 2.24): workloads corriendo en **media GPU retuvieron el 77% del throughput** de una GPU completa, y al mezclar modelos de chat, reasoning y embeddings en GPUs compartidas sirvieron **~3 veces más usuarios** que dedicando GPUs separadas. Además, **Azure reporta que Model Streamer** (la herramienta hermana para cargar modelos en GPU) acelera la carga **3 a 6 veces**, a 80 Gbps estables contra ~40 Gbps del camino por defecto.
+
+También quedaron claras las letras chicas que conviene tener a la vista antes de adoptar: **no hay una única licencia para toda la plataforma** (solo KAI Scheduler es Apache 2.0 confirmado; el resto vive bajo "licencias open source aplicables" repo por repo — pasárselo a legal), el fraccionamiento nativo **depende de CUDA 13.4, o sea solo NVIDIA** (nada de AMD o Intel todavía), y el release comunitario **no incluye soporte enterprise**. Como resumió The Futurum Group: "open source no equivale a hardware-neutral".
+
+**Fuentes del update:** Nebius Blog, Techstrong.ai, TechAIWire.
