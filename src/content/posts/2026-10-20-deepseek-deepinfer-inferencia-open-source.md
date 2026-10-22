@@ -38,4 +38,14 @@ Todo esto pasa mientras el gobierno de Trump **prohibió el lunes el uso de Deep
 
 **La lectura**: la ventaja competitiva se movió del modelo al stack. Si el modelo es commodity, la diferencia la hace quién lo sirve más barato — y DeepSeek acaba de regalarle su receta al mundo. Tu turno, OpenAI y Anthropic.
 
+### Update: 22 de octubre de 2026
+
+La prohibición federal de EE.UU. contra DeepSeek ahora tiene papelillo oficial: el **Federal Register publicó el 20 de octubre la notificación 2026-21447** (docket DHS-2026-0628), que formaliza la orden del Departamento de Seguridad Nacional bajo la **Federal Acquisition Supply Chain Security Act de 2018**.
+
+- **Dos mandatos**: excluir productos y servicios de Hangzhou DeepSeek AI Co. y afiliadas de las compras federales civiles, y **remover activamente** el software existente — incluyendo **productos de terceros construidos sobre implementaciones de DeepSeek** — de los sistemas IT del poder ejecutivo civil.
+- Es la **primera vez** que EE.UU. usa esta autoridad de supply chain contra una empresa de IA, según CyberScoop y Bloomberg Government. La orden firmada data del **24 de julio**; las preocupaciones citadas son acceso extranjero a datos y vulnerabilidades del modelo.
+- **Precedentes**: Nueva York, Tennessee y Virginia ya tenían sus propias restricciones estatales; la Marina y el Departamento de Comercio tenían prohibiciones internas previas.
+- **A quién no le afecta**: empresas privadas, startups y usuarios individuales no enfrentan restricción directa. Los más golpeados: **vendors que venden software a agencias civiles** — si tu producto usa DeepSeek por debajo, revisa eso ya.
+- Dato incómodo para la tesis del "ahorro": en precios de lista verificados este mes, **GPT-5 nano y GPT-6 Luna salen más baratos que DeepSeek V4.1 Flash** en un workload típico de 1M tokens de entrada + 250K de salida ($0.150 y menos vs $0.300). La excusa del precio para usar DeepSeek en gobierno ya no cuadra.
+
 Fuentes: Gizmodo, 404 Media, OpenRouter, McKinsey.
