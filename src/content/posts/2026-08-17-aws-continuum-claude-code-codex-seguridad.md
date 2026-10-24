@@ -41,3 +41,20 @@ Lo más interesante del anuncio es la integración con herramientas de la compet
 La lectura corta: en un mundo donde cualquier modelo puede escribir el código, el que controla la verificación de que ese código no te quema — gana.
 
 **Fuentes:** VentureBeat, AWS Security Blog, Synergy Research Group.
+
+### Update: 24 de octubre, 2026
+
+**Continuum ya es generalmente disponible** — AWS lo anunció el jueves 22 de octubre como servicio de seguridad con IA que encuentra, valida y prioriza vulnerabilidades de código, y entrega los fixes como pull requests listos para revisar.
+
+El titular que acompaña el GA: **89% de éxito end-to-end en CyberGym-E2E**, el benchmark donde un agente tiene 90 minutos para encontrar y parchear una vulnerabilidad real en uno de 139 proyectos open source — sin descripción del bug, sin PoC, sin logs. Continuum pasó 819 de 920 tareas (89,0%), contra un máximo público previo de 65,9%. En etapas: reprodujo el bug en 92,5% de las tareas, detuvo el crash en 89,6% y mantuvo los tests pasando en 89,0%. Matt Garman, CEO de AWS, lo calificó como "genuinamente transformador para defensores".
+
+**Pero hay gato encerrado**, como desmenuzó The New Stack hoy:
+
+- El benchmark solo cubre **bugs de memoria en C y C++** — AWS lo reconoce. Nada de otros lenguajes ni tipos de vulnerabilidad.
+- Solo **37,8%** de los parches también arreglaba el bug histórico específico que el benchmark evaluaba en paralelo (aunque el agente nunca supo cuál era, lo que hace la comparación medio injusta).
+- Por ahora, **todo fix requiere aprobación humana** antes de mergearse; la acción autónoma dentro de guardrails viene "en el futuro".
+- Corey Quinn especuló (sin evidencia) que pudo ser un anuncio de re:Invent adelantado por el momento que vive el ecosistema — el caso PHP2Shell mostró que la IA encuentra vulnerabilidades más rápido de lo que las arregla.
+
+La lógica de negocio del post original sigue intacta: la carrera ya no es encontrar el bug, sino **validar y parchear a velocidad de máquina**. Continuum GA es el primer intento serio de producto en esa capa.
+
+**Fuentes update:** AWS News Blog, The New Stack (24 oct 2026).
