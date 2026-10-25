@@ -45,3 +45,9 @@ OpenAI lideró una coalición de maintainers, Wiz, Cloudflare y agencias del gob
 ## El takeaway
 
 php2shell es la primera gran demostración práctica de que **la caza de vulnerabilidades con IA cambió el juego para ambos lados**. OpenAI espera que este tipo de hallazgos "aumente bruscamente en los próximos meses". El software que pensabas que estaba estable hace 20 años ahora tiene fecha de revisión. Parchea.
+
+### Update: 25 de octubre, 2026
+
+[InfoQ recapituló](https://www.infoq.com/news/2026/10/php-critical-rce-patches/) el estado de la parcheada y hay un dato que cambia el color de la historia: **Amazon registró un intento de explotación en la wild cuatro días antes de que los parches salieran**. O sea, los atacantes ya estaban tanteando el objetivo antes de la divulgación coordinada — la "ventana del defensor" existe, pero es más angosta de lo que parecía.
+
+El otro aprendizaje fue operacional: buena parte de la industria pasó el día respondiendo preguntas básicas — ¿corremos PHP siquiera?, ¿de dónde saco el paquete?, ¿cómo confirmo que el parche quedó instalado?. Si tu runbook de incidentes no responde eso en minutos para tu stack completo, este fin de semana te dejó la tarea.

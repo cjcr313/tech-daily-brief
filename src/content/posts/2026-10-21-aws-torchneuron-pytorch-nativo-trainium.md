@@ -30,3 +30,9 @@ Durante una década, el foso de NVIDIA fue **CUDA**: escribir para GPUs de la co
 Para los equipos que miran el bill de compute con cara de pocos amigos, igual es buena noticia: el costo de **probar** Trainium o TPU cayó de "proyecto de migración" a "cambio de una línea". Y cuando el costo de probar tiende a cero, la competencia en precio por token se pone seria.
 
 **Fuentes:** AWS What's New, pytorch.org, Forkast, IT Pro, DIGITIMES.
+
+### Update: 25 de octubre, 2026
+
+[InfoQ retomó la historia](https://www.infoq.com/news/2026/10/google-meta-torchtpu/) desde la PyTorch Conference y le agregó el dato que faltaba: **Meta dijo que planea mover workloads de LLM más grandes a TPUs usando TorchTPU**. Que el mayor entrenador de modelos open weight del mundo se comprometa públicamente con el backend de Google es la señal más fuerte hasta ahora de que `PrivateUse1` dejó de ser experimento de laboratorio.
+
+Eso sí, en los foros los devs siguen con dos preguntas incómodas: **disponibilidad real de TPUs fuera del círculo de privilegiados** (¿de qué sirve un backend nativo si no hay capacidad?) y **dónde quedó el lock-in ahora** — el costo de probar cayó a una línea, pero los kernels, compiladores y el supply de chips siguen siendo territorio de cada vendor.
