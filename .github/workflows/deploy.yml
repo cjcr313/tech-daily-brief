@@ -26,6 +26,13 @@ jobs:
           node-version: "22"
       - name: Install dependencies
         run: npm ci
+      - name: Reparar referencias de imagen rotas (placeholder)
+        run: |
+          cd src/content/posts
+          for ref in $(grep -hoE '\.\./\.\./assets/images/[A-Za-z0-9._-]+\.(jpg|jpeg|png|webp|avif)' *.md | sort -u); do
+            f="../../assets/images/${ref##*/}"
+            [ -f "$f" ] || { echo "FIX: ${ref##*/}"; sed -i "s|$ref|../../assets/images/placeholder.jpg|g" *.md; }
+          done
       - name: Build with Astro
         run: npm run build
       - name: Upload artifact
