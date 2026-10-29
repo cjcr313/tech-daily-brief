@@ -47,3 +47,7 @@ El grupo se reúne cada dos miércoles a las 15:00 UTC, con canal [#wg-workload-
 Esto apunta a cerrar una brecha que existe desde el día uno: certificamos hasta el último tornillo del cluster, pero la app que corre encima era territorio salvaje. Si la spec llega a buen puerto, "¿esta app está lista para el upgrade?" deja de ser una conversación de semanas y pasa a ser un comando. Para equipos de plataforma que mantienen decenas de equipos clientes, esto es directamente comida.
 
 Fuente: [kubernetes.io/blog](https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/)
+
+### Update: 2026-10-29
+
+La movida de conformance en Kubernetes sigue tomando forma: el mismo día que este WG arrancaba su trabajo, el programa hermano **AI Conformance** se graduó de Working Group temporal a **subproyecto permanente de SIG Architecture**, con 31 plataformas certificadas a la fecha. Detalles en [nuestro nuevo artículo](/posts/kubernetes-ai-conformance-sig-architecture/).
