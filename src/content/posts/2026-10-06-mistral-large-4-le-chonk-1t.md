@@ -71,3 +71,16 @@ Artificial Analysis ya testeo el preview vía API y publicó su análisis, y com
 - **Documentos e imágenes**: 19% en GDP.pdf (par con MiMo-V2.6-Pro, detrás de Kimi K3), +18 puntos vs. Large 3 — impulsado en parte porque la API ahora acepta 100 imágenes por request (antes eran 8). Ventana de contexto: 512k tokens.
 
 En Hacker News la discusión del modelo pasó los 2.000 puntos esta semana. La síntesis honesta: Mistral cumplió en soberanía y ciberdefensa (su nicho declarado), pero en inteligencia pura y costo por tarea, los abiertos chinos siguen un escalón arriba. El 27 de octubre, con los pesos en la mesa, se resuelve la discusión de verdad.
+
+### Update: 30 de octubre, 2026
+
+Los pesos llegaron. Mistral liberó los pesos de Le Chonk mejorado — tres semanas extra de reinforcement learning sobre el preview, con ganancias que no muestran saturación:
+
+- **Terminal-Bench 4.0: 28% → 41%**, ahora líder open-weight, por encima de GLM-5.3 (40%), Kimi K3 (21%) y Muse Spark Open (6%).
+- **FrontierCode 2.0 de Cognition: 19.7%**, en la cabeza — benchmark que mide si un mantenedor real fusionaría el cambio que propone el agente.
+- **Artificial Analysis Coding Agent Index: 48%**, empatado con GLM-5.3 pero usando **47% menos tokens por tarea**. La eficiencia importa tanto como el puntaje.
+- En preferencia humana ciega de **Surge Code**, ganó a GLM-5.3, Kimi K3 y DeepSeek V4.1 Flash; solo quedó detrás de Claude Opus 5.5.
+- **Cyber Index: 51%** (desde 50 en preview): descubrir, reproducir y parchear vulnerabilidades sin negativas innecesarias.
+- Nuevos **tres modos de reasoning** (low/medium/high, con high por defecto) para calibrar costo/rendimiento.
+
+Según contó Mistral a The New Stack, el preview se entrenó en ~2 meses sobre ~3.800 GPUs Grace Blackwell en datacenters europeos. La discusión pendiente del post original — si la soberanía con pesos podía competir — quedó respondida al menos en coding y ciberdefensa: sí, y con token efficiency mejor que la competencia china. [Anuncio oficial](https://mistral.ai/news/mistral-large-4-oss/) · [Cobertura de The New Stack](https://thenewstack.io/mistral-large-4-weights/)

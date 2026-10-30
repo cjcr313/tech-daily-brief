@@ -42,3 +42,14 @@ El anuncio viene acompañado de la extensión de las capacidades de governance d
 ## Por qué importa
 
 Es el mismo patrón que venimos cubriendo (agentes en K8s, ops agénticas en ObservabilityCon): **la unidad de cómputo está mutando del contenedor al sandbox agéntico desechable con sueño interrumpido**. Dormir agentes en checkpoint y despertarlos en milisegundos es la nueva arte de la eficiencia — y Google acaba de productizarlo. Si tu plataforma corre agentes en EC2/GCE encendidas 24/7, esto es una señal de que ese modelo tiene los días contados.
+
+### Update: 30 de octubre, 2026
+
+Google publicó un [deep-dive del Dataplane V2 de GKE](https://cloud.google.com/blog/products/networking/gke-networking-dataplane-for-large-agentic-ai-workloads) para workloads agénticos de alta densidad, y muestra dónde estaba el cuello de botella real: **la identidad de red**.
+
+- Cada sandbox agéntico suele generar labels únicos por pod (agent-id, timestamps, claim-uid). Como Dataplane V2 (eBPF) mapea labels a identidades numéricas, esa cardinalidad extrema frena la creación de pods y choca con el tope de **65.536 identidades de red por cluster**.
+- La solución: **separar los metadatos "identificatorios" de los "funcionales"** — lo que no participa en selectors de servicio migra de labels a annotations — más optimizaciones de provisionamiento sub-segundo.
+- El contexto de escala: labs top piden **hasta 1 millón de sandboxes concurrentes**, y en workflows de RL el churn puede ser de miles de sandboxes por minuto. Si la red no acompaña, las GPUs/TPUs pasan esperando sandboxes — y ahí se define la viabilidad económica del proyecto.
+- Testimonio de cliente: **Mistral AI** orquesta cientos de miles de entornos seguros entre clusters con Agent Substrate, con picos de **más de 30.000 sandboxes en un solo cluster**.
+
+Nota práctica para quien corra agentes en GKE: revisa qué labels de tus pods son realmente funcionales para selectors. El resto, a annotations, antes de que el escalado te lo recuerde a las malas.
