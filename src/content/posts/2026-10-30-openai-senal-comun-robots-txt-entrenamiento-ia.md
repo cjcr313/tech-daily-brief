@@ -35,3 +35,14 @@ Esto encaja con la presión que vienen ejerciendo actores como Cloudflare, que l
 Pero ojo con dos cosas: primero, es **voluntario** — la señal vale lo que valga la buena fe de quien la lee. Segundo, el diablo está en los detalles de la implementación: qué significa exactamente "honrar", con qué granularidad, y cómo se audita. Que OpenAI prometa respetarla "en los próximos meses" es el inicio de la conversación, no el final.
 
 Para quienes operan sitios con contenido, el consejo práctico es simple: **mantén tus reglas por crawler tal cual están** y agrega la señal compartida cuando la implementación aterrice y el ecosistema la soporte de verdad. La promesa es una sola preferencia para todos; mientras eso no sea moneda corriente, la redundancia no pasa de largo.
+
+### Update: 1 de noviembre de 2026
+
+La noticia se consolidó más rápido de lo esperado: **Google y Microsoft también confirmaron que honrarán la señal**, sumándose a OpenAI y Anthropic. Los detalles del reporte de TNW:
+
+- El token concreto es **`__usage_ai-training`** en robots.txt, según el draft IETF de Kevin Kelley (Anthropic), y permite bloquear rutas completas salvo excepciones (ej: todo el sitio menos el press kit).
+- **Google** apunta a implementarla en **inicios de 2027**. Detalle relevante: si un sitio usa el token sin mencionar `Google-Extended`, Google lo tratará como bloqueo de Google-Extended.
+- **Microsoft** la honrará desde el **1 de febrero de 2027**, reemplazando los tags `NoArchive`/`NoCache` que usaba desde 2023, y agrega una configuración page-level separada para **grounding** (cuando una respuesta AI cita una página viva). Ojo con su advertencia: bloquear grounding "reducirá significativamente tu visibilidad en experiencias generadas por IA", aunque no cambia el ranking en Bing.
+- **Meta** expresó apoyo a una señal común (Andy Stone en X), pero sin comprometerse a honrarla.
+
+Dos caveats que quedan en pie: el draft es una **sumisión individual sin respaldo formal del IETF** todavía, y los **acuerdos privados** entre sitio y proveedor de IA pueden sobrescribir la preferencia. Es decir: interoperabilidad real en camino, pero no es un derecho exigible — todavía.
