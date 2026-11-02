@@ -34,3 +34,13 @@ Como siempre con S-1, conviene leer con lupa:
 - El filing tampoco establece que la demanda haya *causado* el calendario acelerado de lanzamientos de 2026; correlación no es causalidad, aunque el incentivo comercial es obvio.
 
 Igual, la señal para devs y equipos de plataforma es clara: en esta industria planificar sobre "tu modelo favorito" es un error. Lo que hoy factura 80% del negocio, en seis meses más puede ser legado. Arquitectura con agnosticismo de modelo, presupuesto por workload y evaluación continua de costo/rendimiento dejó de ser nice-to-have.
+
+### Update: 2 de noviembre
+
+Anthropic presentó hoy una **S-1 enmendada** con los estados financieros del tercer trimestre incluidos, a días de arrancar su roadshow. Los números nuevos, según [CNBC](https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html):
+
+- **Q3: ~US$17.000 millones de ingresos**, +1.127% interanual. Pero el crecimiento secuencial se frenó notoriamente: **47% contra trimestre anterior**, versus 144% del Q2 y 132% del Q1. Desacelerar de triple dígito qoq a mitad de tabla es el dato que los inversores van a masticar en el roadshow.
+- **Nueve meses: US$33.240 millones** de ingresos (+~1.200% vs mismo período de 2025) y **pérdida neta de US$104.000 millones**, aunque la mayor parte se explica por el cambio en valor justo de notas convertibles y pasivos derivados, no por cash burn operacional puro. La pérdida del Q3 fue de US$23.290 millones.
+- El número que define el riesgo del negocio: **US$895.400 millones en compromisos de compra y arriendos**, "sustancialmente todos ligados a compute e infraestructura". El gasto en compute e infraestructura de los nueve meses subió US$14.400 millones (+329% interanual).
+
+La lectura práctica sigue la línea del post original: Anthropic amarró casi un trillón de dólares en capacidad futura para sostener el flywheel de modelos. Si la capacidad de los hyperscalers y neoclouds no llega a tiempo, el ciclo completo — modelos nuevos que generan la mayor parte del revenue — queda en riesgo. El filing ahora lo dice con número y firma.

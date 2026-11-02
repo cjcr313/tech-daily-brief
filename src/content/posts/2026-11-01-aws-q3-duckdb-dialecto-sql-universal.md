@@ -36,3 +36,9 @@ El matiz escéptico: el "dialecto universal" lo define un solo proveedor que aho
 El trimestre deja una tensión clara: demanda de nube e IA acelerando más rápido que en casi cinco años, mientras el mercado empieza a cobrarle el riesgo a la deuda que financia esa expansión. Buena semana para revisar qué tan amarrado está tu stack analítico a dialectos propietarios — porque si esta jugada funciona, el SQL portable se vuelve el default, no la excepción.
 
 **Fuentes:** [comunicado de resultados de Amazon](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx), [The Stack — 7 takeaways de los earnings](https://www.thestack.technology/from-bedrock-to-duckdb-to-leo-7-key-takeaways-from-amazons-earnings/), [CNBC](https://www.cnbc.com/2026/10/30/amazon-earnings-analysts-stock.html).
+
+### Update: 2 de noviembre
+
+De la misma llamada de resultados salió un dato operativo que [InfoQ recogió](https://www.infoq.com/news/2026/11/aws-capacity-sold-out/) y que conviene tener en el radar: según Jassy, la **capacidad comprometida de AWS está largamente agotada hasta 2027, con parte de 2028 ya asignada**. La empresa dice reservar headroom para On Demand, EC2 y Bedrock, pero en la práctica los profesionales reportan **dificultad para conseguir capacidad On-Demand de instancias EC2 corrientes**, con restricciones similares en otros proveedores.
+
+La implicancia para equipos con workloads en AWS: planificar capacidad en vez de asumirla. Savings Plans, reservas y provisionamiento anticipado dejan de ser optimización de FinOps y pasan a ser requisito operativo. Si tu arquitectura depende de conseguir instancias On-Demand el día del despliegue, ese supuesto ya no es gratuito.
