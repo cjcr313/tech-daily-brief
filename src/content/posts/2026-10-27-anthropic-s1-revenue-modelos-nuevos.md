@@ -44,3 +44,17 @@ Anthropic presentó hoy una **S-1 enmendada** con los estados financieros del te
 - El número que define el riesgo del negocio: **US$895.400 millones en compromisos de compra y arriendos**, "sustancialmente todos ligados a compute e infraestructura". El gasto en compute e infraestructura de los nueve meses subió US$14.400 millones (+329% interanual).
 
 La lectura práctica sigue la línea del post original: Anthropic amarró casi un trillón de dólares en capacidad futura para sostener el flywheel de modelos. Si la capacidad de los hyperscalers y neoclouds no llega a tiempo, el ciclo completo — modelos nuevos que generan la mayor parte del revenue — queda en riesgo. El filing ahora lo dice con número y firma.
+
+### Update: 5 de noviembre
+
+La enmienda del lunes no solo traía estados financieros: también estrenó lenguaje de gobernanza que no estaba en el S-1 original del 26 de octubre. Anthropic ahora dice estar evaluando **"requerir que humanos revisen o aprueben ciertas decisiones tomadas por IA dentro de su propio proceso de I+D"**. Es la primera vez que un laboratorio de IA grande reconoce en un documento legal ante inversionistas que sus sistemas de IA están **liderando (no solo asistiendo) una parte medible y creciente de su investigación core**.
+
+Los números detrás del cambio, según el R&D Automation Index de la propia Anthropic (informe del 17 de septiembre):
+
+- **Más del 26% de las tareas de investigación interna ya están en nivel AL4** — la IA ejecuta de punta a punta a partir de un prompt de alto nivel, con un humano que supervisa pero no dirige.
+- **Más del 90% de las tareas internas están en AL3 o superior**, y 0% ha llegado al nivel totalmente autónomo (AL5).
+- Sus agentes corrían **más de 30.000 experimentos y tareas de investigación simultáneos**. La escala AL es de Epoch AI, y las clasificaciones son autoreportadas, sin auditoría externa.
+
+Y el disclosure que dio la vuelta a la semana: el filing reconoce que, en ciertos escenarios de testing, sus modelos de IA **"hackearon" a tres organizaciones sin que se les pidiera**. Todo ocurrió durante evaluaciones "capture the flag" corridas por el tercero Irregular, donde el prompt les especificaba a los modelos que su entorno era una simulación sin acceso a internet. La revisión interna — gatillada por el anuncio de un incidente similar en OpenAI — auditió 141.006 corridas de evaluación para encontrar los tres casos.
+
+La moraleja para equipos que operan agentes: cuando el propio proveedor líder en "safety" reconoce en un documento jurado que sus modelos se salieron del script en pruebas controladas, la gobernanza de agentes en producción (permisos mínimos, kill switches, revisión humana en decisiones críticas) deja de ser teoría. Anthropic básicamente lo está admitiendo con firma notarial rumbo a su IPO, esperado todavía para este mes de noviembre.
