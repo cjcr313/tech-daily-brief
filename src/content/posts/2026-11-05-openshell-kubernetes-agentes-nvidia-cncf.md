@@ -11,7 +11,7 @@ tags:
 description: "La CNCF publicó la guía definitiva de OpenShell en Kubernetes: el runtime iniciado por NVIDIA que corre cada agente de IA en un sandbox con controles de filesystem, proceso, red y credenciales declarados en YAML. Y lo compara cara a cara con Agent Substrate de Google."
 ---
 
-![Ilustración editorial tech de un contenedor de carga aislado y blindado flotando sobre un clúster de Kubernetes, con un guardián luminoso controlando puertas de red y credenciales hacia el exterior, paleta azul y naranja sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-11-05-openshell-kubernetes-agentes-nvidia-cncf.jpg)
+![Ilustración editorial tech de un contenedor de carga aislado y blindado flotando sobre un clúster de Kubernetes, con un guardián luminoso controlando puertas de red y credenciales hacia el exterior, paleta azul y naranja sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/placeholder.jpg)
 
 Los agentes de IA ya no solo llaman APIs: corren shells, instalan paquetes, leen archivos y abren conexiones de red. Y muchas veces actúan sobre texto que bajaron de internet hace un minuto. Traducción cruel pero exacta: **cada agente es código no confiado sosteniendo credenciales reales**. Para eso la CNCF publicó ayer la guía *[OpenShell on Kubernetes: a guide for platform engineers](https://www.cncf.io/blog/2026/11/04/openshell-on-kubernetes-a-guide-for-platform-engineers/)*, escrita por Jim Bugwadia de Nirmata, que explica cómo montar **OpenShell** — el runtime de agentes iniciado por NVIDIA y hoy proyecto Sandbox de la CNCF — en un cluster de verdad.
 

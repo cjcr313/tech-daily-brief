@@ -11,7 +11,7 @@ tags:
 description: "Google firmó como aval de los US$19.000 millones que Anthropic debe pagarle a TeraWulf por 401 MW en Hawesville, Kentucky, durante 20 años. El detalle fino: durante seis años Google solo puede echarse atrás si los pods de TPU no pueden consumir al menos la mitad de la potencia del edificio."
 ---
 
-![Ilustración editorial tech de un enorme campus de data center junto a un río en campo abierto, conectado por un arco de garantía luminoso que une dos torres corporativas, con líneas de energía fluyendo hacia racks de cómputo, paleta azul y verde sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-11-05-google-terawulf-anthropic-19-mil-millones-kentucky.jpg)
+![Ilustración editorial tech de un enorme campus de data center junto a un río en campo abierto, conectado por un arco de garantía luminoso que une dos torres corporativas, con líneas de energía fluyendo hacia racks de cómputo, paleta azul y verde sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/placeholder.jpg)
 
 El 4 de noviembre TeraWulf anunció algo inédito en la carrera de la infraestructura de IA: **Google LLC firmó tres acuerdos de soporte de crédito que respaldan las obligaciones de Anthropic** bajo los arriendos del *Justified Data Campus* en Hawesville, Kentucky. Hablamos de **~401 MW de carga crítica de TI, 20 años de contrato y unos US$19.000 millones de renta comprometida** en su término inicial. Google —el mayor inversionista y proveedor de cómputo de Anthropic— ahora también es su garante financiero. La era de la "infraestructura de crédito" ya no es teoría.
 
