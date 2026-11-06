@@ -39,6 +39,19 @@ Nous Research ya lo usa en Hermes Enterprise para desplegar agentes multi-tenant
 
 El anuncio viene acompañado de la extensión de las capacidades de governance de **Gemini for business** para agentes en cualquier runtime — porque pasar de pilotos ailitados a flotas productivas de agentes no deterministas exige controles nuevos: identidad, políticas y observabilidad por agente, integrado con Agent Gateway.
 
+### Update: 5 de noviembre, 2026 — Agent Substrate y gVisor se van a la CNCF (y ya van en 1.0)
+
+En el marco de KubeCon NA 2026 (Salt Lake City, 9–12 de noviembre), Google Cloud confirmó la **donación de Agent Substrate y gVisor a la Cloud Native Computing Foundation en estatus Sandbox**, junto a OpenRL, el orquestador de loops de entrenamiento por refuerzo. El proyecto había sido aceptado en la CNCF a fines de septiembre, y ahora queda formalizado bajo gobernanza neutral: **funciona sobre cualquier cluster Kubernetes conforme**, no solo GKE.
+
+Los detalles técnicos del anuncio valen la pena:
+
+- **Agent Substrate llegó a su versión 1.0**, con APIs estabilizadas por la comunidad que se fue formando alrededor del proyecto.
+- Google cuantificó el problema de fondo: en una sesión interactiva típica, un agente pasa **entre 90% y 95% del tiempo esperando** (inferencia del modelo, APIs externas o revisión humana), consumiendo cero CPU pero sin poder morir porque sostiene estado en memoria y disco. Y en evaluación/entrenamiento masivo, crear miles de Pods cortos por minuto **sobrecarga etcd, satura el kube-apiserver y agota las IPs del subnet**.
+- La solución es un **control plane basado en actores**: los *Actors* sostienen el estado (filesystem, variables, memoria, reglas de red) y los *Workers* son Pods pre-calentados en un pool compartido. El proxy L7 *atenet-router* estaciona las requests entrantes, el controller asigna el actor a un slot tibio, y el estado se restaura **en menos de 500 ms** — al terminar el turno, snapshot a storage por niveles y el slot queda libre.
+- El stack abierto queda en tres capas: **gVisor** (aislamiento con kernel en user-space y checkpointing de memoria), **Agent Substrate** (runtime de actores sobre pools de workers) y **OpenRL** (orquestación de entrenamiento RL y sandboxes de evaluación).
+
+Y el contexto no podría ser mejor: la propia CNCF acaba de publicar la guía de **OpenShell** (el runtime de agentes de NVIDIA, también Sandbox) que lo compara directamente con Substrate — dos respuestas distintas al mismo problema de correr agentes en Kubernetes. La guerra de runtimes de agentes ya tiene a sus dos gigantes compitiendo dentro de la misma fundación.
+
 ## Por qué importa
 
 Es el mismo patrón que venimos cubriendo (agentes en K8s, ops agénticas en ObservabilityCon): **la unidad de cómputo está mutando del contenedor al sandbox agéntico desechable con sueño interrumpido**. Dormir agentes en checkpoint y despertarlos en milisegundos es la nueva arte de la eficiencia — y Google acaba de productizarlo. Si tu plataforma corre agentes en EC2/GCE encendidas 24/7, esto es una señal de que ese modelo tiene los días contados.
