@@ -58,6 +58,18 @@ Si Anthropic sale a US$2 billones:
 
 Para los que trabajamos en infraestructura y DevOps: esto significa más inversión en compute, más herramientas alrededor del ecosistema Claude, y probablemente más enterprise adoption de agentes IA en producción.
 
+### Update: 8 de noviembre, 2026
+
+El octubre pasó y la IPO no ocurrió. Según CNBC, Anthropic apunta ahora a un **debut en Nasdaq a mediados de noviembre**, pero con el techo bastante más bajo: los inversores esperan una valorización de **US$1 billón a US$1,5 billones**, lejos de los US$2 billones que se barajaban cuando escribimos esto.
+
+El clima cambió drástico en pocas semanas:
+
+- El Nasdaq tuvo su **peor caída en 19 meses** el jueves y su peor octubre desde marzo de 2025, con chipmakers y neoclouds (los más atados al buildout de IA) golpeados primero
+- En los **midterms del 3 de noviembre, los votantes rechazaron 40 de 41 medidas locales vinculadas a data centers**, y más de la mitad dijo en las encuestas a pie de urna que los data centers de IA fueron factor "crucial" o "mayor" en su voto
+- Anthropic presentó esta semana una **versión enmendada del prospecto** con compromisos de compra y arriendo de infraestructura por cifras monumentales, justo cuando la opinión pública se enfría con el tema
+
+La paradoja: Anthropic se convertirá en la **primera empresa pure-play de IA en salir a bolsa**, en pleno backlash. Ser público significa transparencia y escrutinio — mintiendo nuevos billonarios en el proceso, como bien dice CNBC. La valorización final que logre va a fijar el termómetro para todo el ecosistema, incluida la ronda privada de OpenAI que esta misma semana cerró US$11.000 millones a US$1,25 billones.
+
 ### Update: 16 de agosto, 2026 — Q2 confirma US$11.500 millones y primera utilidad operativa
 
 Bloomberg accedió a documentos internos y los números le dan un impulso enorme a la tesis del IPO: Anthropic reportó ingresos preliminares de **más de US$11.500 millones en Q2 2026**, un salto de 14x frente a los US$787 millones del mismo trimestre del año anterior (y US$4.730 millones en Q1 de este año).
