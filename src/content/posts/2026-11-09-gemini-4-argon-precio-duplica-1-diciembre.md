@@ -42,3 +42,9 @@ Disponible vía API (`gemini-4-argon`), AI Studio, Google Antigravity y el canal
 4. **Cierra los números del contrato antes del 30**. El pricing de listado de diciembre no va a negociarse solo.
 
 **Lectura rápida**: el precio introductorio de Gemini 4 Argon no es un regalo, es un anzuelo con fecha. Si estás construyendo encima, haz las cuentas esta semana — porque el 1 de diciembre la cuenta se duplica sola.
+
+### Update: 12 de noviembre de 2026
+
+La jugada se hizo patrón: **Gemini 4 Carbon pasó a general availability en la API de pago el 10 de noviembre** (también llegó a Google AI Ultra y aparece listado entre los modelos de Cursor), y su rate card es **exactamente la misma de Argon**: US$2/M input y US$10/M output introductorio hasta el 30 de noviembre, y **US$4/US$20 desde el 1 de diciembre**. Doble modelo, misma fecha de caducidad del descuento.
+
+En otras palabras: el 1 de diciembre no se duplica un precio, se duplican **dos**. Si tu arquitectura mezcla Argon para trabajo pesado y Carbon para cargas más livianas, tu diciembre combinado es tu noviembre × 2 en ambos frentes — con input cacheado como único descuento que sobrevive el cambio. Las cuentas de presupuesto hay que hacerlas por modelo, antes del 30.
