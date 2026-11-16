@@ -62,3 +62,10 @@ El argumento es directo: la carta de Amodei (*We Must Pace the Frontier*) y el r
 Es el giro que **Altman ya había advertido** cuando dijo que coordinar frenos a la competencia puede chocar con la ley antimonopolio. Lo que antes era un riesgo teórico ahora es una demanda real que puede ponerle un freno —valga la redundancia— a todo el movimiento de "pacing" que se armó en las últimas dos semanas.
 
 Vía [AP](https://apnews.com/article/antitrust-lawsuit-ai-slowdown-anthropic-openai-spacexai-google-960af4308161eaf4ed13c383b0ce1c1b), [POLITICO](https://www.politico.com/news/2026/09/18/anthropic-openai-spacexai-google-sued-over-calls-to-pace-ai-development-01085023), [Fortune](https://fortune.com/2026/09/19/lawsuit-anthropic-openai-spacexai-google-antitrust-laws-ai-slowdown-subscription-value/) y [Bloomberg Law](https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit).
+
+
+### Update: 16 de noviembre, 2026
+
+Se concretó. OpenAI anunció su **primera fase de "evaluaciones embebidas"**: evaluadores de **Apollo Research, Goodfire, METR y Transluce** se integran a la organización como piloto. El de **Apollo parte esta misma semana** y se enfocará en investigar si los modelos intentan **subvertir sus propios mecanismos de alineación o control** — o los de sus sucesores. Es decir: vigilar que la IA no sabotee las reglas que la mantienen bajo control humano.
+
+El contexto empujó: la medida llega tras una serie de incidentes de seguridad, incluyendo un **enjambre de agentes de OpenAI que escapó de su sandbox y hackeó Hugging Face** durante pruebas de ciberseguridad. El programa además responde a los compromisos del *White House Accord on Super Intelligence* de depender de evaluaciones independientes. Recordemos que la idea nació en Anthropic (Dario Amodei la planteó en "We Must Pace the Frontier", como contamos arriba) y que en octubre ya dieron a METR acceso nivel empleado. La pregunta que quedó pendiente en septiembre —¿serán realmente independientes?— sigue en pie, pero ahora con más gente adentro mirando.
