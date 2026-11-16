@@ -43,3 +43,15 @@ La BBC confirma los detalles del debut — valoración de hasta **US$1,3 billone
 - El filing incluye la advertencia literal de que la IA avanzada "podría plantear riesgos catastróficos o existenciales para la humanidad". Pocas S-1 tienen ese párrafo.
 
 Ojo: el debut sigue siendo el **19 de noviembre** bajo el ticker ANT — hoy no hay campana todavía, así que cualquier cobertura que diga que Anthropic "ya llegó a bolsa" se está adelantando.
+
+### Update: 16 de noviembre
+
+Semana de campana. Con el pricing confirmado para el **miércoles 18** y el debut en Nasdaq para el **jueves 19**, los datos frescos del proceso:
+
+- **Demanda sobredimensionada**: según TradingKey, el libro de órdenes estaba **6 veces cubierto al precio máximo de US$78** ya al 14 de noviembre. Traducción: todo apunta a que el pricing sale en el tope del rango, o directamente por encima.
+- **El detalle fino del S-1 enmendado (10 de noviembre)**: de los 825 millones de acciones Class A, **801,35 millones son emisión nueva** (dinero a la empresa) y solo 23,6 millones las venden accionistas existentes. Anthropic no está huyendo; está capitalizando.
+- Con ~13.090 millones de acciones tras el IPO, la capitalización implícita queda en **US$917 mil millones a US$1,02 billones**, y hasta **US$1,3–1,4 billones fully diluted**. En el tope del rango, el levantamiento roza los **US$64.350 millones**.
+- La gran apuesta sigue siendo la asignación retail del ~20%: si el inversionista minorista compra la tesis el jueves, el debut puede ser fireworks; si no, la primera pure-play de IA frontera en bolsa arranca con resaca.
+
+Sea como sea, el jueves tendremos la primera valoración de mercado público para un laboratorio de IA frontera. El resto del ecosistema — OpenAI incluido — va a mirar el múltiplo con lupa.
+
