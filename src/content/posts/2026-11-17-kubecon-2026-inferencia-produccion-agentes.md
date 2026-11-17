@@ -12,7 +12,7 @@ tags:
 description: "KubeCon NA 2026 en Salt Lake City: el tráfico de inferencia se cuadruplicó en ocho meses, el 75% de los devs cloud-native usa agentes de código y la brecha con producción sigue abierta."
 ---
 
-![Ilustración editorial tech: gran piso de conferencia tecnológica con pantallas gigantes y agentes IA holográficos entre la multitud, flujos de inferencia como corrientes de datos luminosas multiplicándose en un skyline de nubes, paleta violeta y turquesa, estilo flat moderno](../../assets/images/2026-11-17-kubecon-2026-inferencia-produccion-agentes.jpg)
+![Ilustración editorial tech: gran piso de conferencia tecnológica con pantallas gigantes y agentes IA holográficos entre la multitud, flujos de inferencia como corrientes de datos luminosas multiplicándose en un skyline de nubes, paleta violeta y turquesa, estilo flat moderno](../../assets/images/placeholder.jpg)
 
 **KubeCon + CloudNativeCon North America 2026** se está haciendo en Salt Lake City bajo el lema "Cloud Native Without Limits", y el resumen de la custodia es simple: la IA dejó de ser el adorno de las keynotes para convertirse en el eje del ecosistema. Con **más de 230 proyectos activos** en la CNCF y un ritmo de desarrollo que rompe récords, la fundación anda claramente en modo ofensivo.
 

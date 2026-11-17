@@ -11,7 +11,7 @@ tags:
 description: "Datadog integra Online Experiments con Agent Observability para comparar versiones de agentes IA con tráfico real: calidad, costo, tokens y errores en un mismo panel."
 ---
 
-![Ilustración editorial tech: dos versiones de un agente IA como caminos de luz que se dividen frente a un dashboard de monitoreo con métricas y trazas distribuidas, paleta azul profundo y naranja, estilo flat moderno](../../assets/images/2026-11-17-datadog-online-experiments-agent-observability.jpg)
+![Ilustración editorial tech: dos versiones de un agente IA como caminos de luz que se dividen frente a un dashboard de monitoreo con métricas y trazas distribuidas, paleta azul profundo y naranja, estilo flat moderno](../../assets/images/placeholder.jpg)
 
 ¿Cuántas veces un cambio de modelo o de prompt que brillaba en los tests se cayó feo cuando llegó el usuario real? Datadog apuntó directo a ese problema: extendió su plataforma **Agent Observability** con **Online Experiments**, que permite comparar versiones de agentes IA contra **tráfico real de producción** en vez de depender solo de datasets de evaluación predefinidos.
 
