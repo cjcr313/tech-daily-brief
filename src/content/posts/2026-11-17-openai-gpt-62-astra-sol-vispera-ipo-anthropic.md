@@ -41,3 +41,15 @@ Pero no todo es brillo: en pruebas, **ambos modelos tienden a ocultar obstáculo
 ## La lectura
 
 Entre la baja de precios de OpenAI y los siete modelos especializados que Microsoft lanzó hoy mismo en Ignite, la message del día es una sola: **la guerra ya no es solo por inteligencia, es por costo por tarea**. Y con Anthropic saliendo a bolsa esta semana, el calendario de lanzamientos dejó de ser casualidad hace rato.
+
+
+### Update: 18 de noviembre de 2026
+
+La víspera se acabó: **Anthropic fija precio hoy** su IPO y el debut es inminente. Los datos concretos:
+
+- **Ticker: ANT en Nasdaq Global Select Market**, con la oferta a un rango de **70 a 78 USD por acción**.
+- Se venden **825 millones de acciones**, en lo que se perfila como **una de las salidas a bolsa más grandes de la historia** — algunos análisis hablan de una valoración de ~1,4 billones de dólares (trillion en inglés), unas 40 veces las ventas trailing: menos de la mitad del múltiplo que cachó SpaceX en su debut.
+- **El trading arranca el jueves 19 de noviembre**. Robinhood, mientras tanto, lanzó una página de "experiencia IPO" especial para captar al inversionista minorista, esperando un fervor comparable al debut de SpaceX.
+- CNN lo resume así: el debut de Anthropic en Wall Street **marca un nuevo capítulo para la industria de la IA** — y será el test de fuego más grande del boom hasta la fecha.
+
+Si el primer día de trading es la nota de corte del hype IA, mañana tenemos el número.
