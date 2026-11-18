@@ -55,3 +55,10 @@ Semana de campana. Con el pricing confirmado para el **miércoles 18** y el debu
 
 Sea como sea, el jueves tendremos la primera valoración de mercado público para un laboratorio de IA frontera. El resto del ecosistema — OpenAI incluido — va a mirar el múltiplo con lupa.
 
+
+
+### Update: 18-noviembre-2026
+
+Llegó el día del pricing: **hoy miércoles 18 se fija el precio final** del IPO de Anthropic, y mañana jueves **19 de noviembre debuta en Nasdaq bajo el ticker ANT**. El roadshow completó su recorrido con el rango de US$70–78 mantenido, hasta US$1,4 billones de valoración fully diluted y esa apuesta inusual de ~20% de asignación retail.
+
+El contexto no pudo estar más movido: OpenAI lanzó GPT-6.2 Astra y Sol justo la víspera del pricing (lo cubrimos ayer en el blog), en lo que varios medios leen como un golpe competitivo calculado para robarle pantalla a la salida a bolsa del primer lab frontera en cotizar. Hoy se define el precio; mañana, la campana.
