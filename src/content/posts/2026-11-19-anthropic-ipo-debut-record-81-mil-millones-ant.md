@@ -1,0 +1,38 @@
+---
+title: "Anthropic debuta hoy en Nasdaq: IPO récord de US$81.300 millones a US$83 por acción y valuation de US$1,5 billones"
+author: Carlos
+pubDatetime: 2026-11-19T13:00:00Z
+slug: anthropic-ipo-debut-record-81-mil-millones-ant
+featured: false
+draft: false
+tags:
+  - IA
+  - Cloud
+description: "Anthropic fijó su IPO en US$83 (sobre el rango), vendió 980 millones de acciones y recaudó US$81.300 millones, la oferta más grande de la historia. Hoy debuta en Nasdaq bajo ANT con cap de US$1,5 billones."
+---
+
+![Ilustración editorial de la campana de apertura de la bolsa rodeada de iconos de inteligencia artificial y gráficos financieros](../../assets/images/2026-11-19-anthropic-ipo-debut-record-81-mil-millones-ant.jpg)
+
+Se acabó la espera: **Anthropic fijó su IPO anoche a US$83 por acción**, por sobre el rango esperado de US$70-78, y hoy jueves debuta en el Nasdaq bajo el ticker **ANT**. La oferta terminó siendo la **más grande de la historia**: US$81.300 millones recaudados, superando el récord que SpaceX había impuesto en junio.
+
+## Los números, sin anestesia
+
+- **980 millones de acciones vendidas** (la empresa y sus siete cofundadores ampliamos la oferta desde las 825 millones originales): la demanda claramente no era el problema.
+- **US$81.300 millones recaudados** contra los US$75.000 millones iniciales de SpaceX (US$85.700 millones totales después del overallotment, así que Anthropic podría seguir ampliando la ventaja).
+- **Market cap fully diluted de ~US$1,5 billones**. La empresa de Dario Amodei, fundada en 2021, entra a la bolsa valiendo más que la mayoría de los bancos y retailers del planeta juntos.
+- **Google, Microsoft, Nvidia y AMD** se comprometieron a invertir colectivamente **US$26.000 millones al precio del IPO**.
+- **Amazon y Google** ya tienen stakes valorados en más de **US$100.000 millones cada uno**. Y ojo con el conflicto de interés del siglo: Anthropic compra sistemas caros a Nvidia, Google, Amazon y AMD... que a la vez son sus inversores y socios.
+
+## El debut es un test de nervios
+
+Que la acción empiece a operar hoy es apenas el primer examen. El contexto no está para lanzar confeti: la industria de la IA viene de un par de meses movidos, con backlash electoral contra la tecnología, la salida abrupta de Jensen Huang de Nvidia la semana pasada, y un mercado nervioso por las tasas de interés que amenazan con hacer impagable la deuda de data centers y neoclouds.
+
+Para los que llevan la cuenta: **OpenAI ya presentó confidencialmente su propio IPO** y apunta a debutar en 2027. Si a ANT le va bien, el camino se allana para toda la fila que viene detrás.
+
+## ¿Por qué le importa a los que construyen infra?
+
+Porque Anthropic es, además de una casa de modelos, **uno de los mayores compradores de cómputo del mundo**: sus contratos con Nvidia, Google, Amazon y AMD mueven decenas de miles de millones en GPUs y capacidad de data center. Un payout así en bolsa legitima el ciclo de gasto en infraestructura de IA (el mismo que tiene a AWS creciendo 39% y a Azure 48% este trimestre) y le pone fecha de vencimiento al escrutinio: ahora habrá earnings calls trimestrales exigiendo justificar cada dólar en capex.
+
+Como dijo Amodei en el roadshow: *"Si lo hacemos bien, podemos crear una era de milagros"*. Wall Street ya pagó la entrada; falta ver la función.
+
+**Fuentes:** [CNBC](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) · [Anthropic](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) · [Forbes](https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-2-ahead-of-record-stock-debut/)
