@@ -36,3 +36,17 @@ Porque Anthropic es, además de una casa de modelos, **uno de los mayores compra
 Como dijo Amodei en el roadshow: *"Si lo hacemos bien, podemos crear una era de milagros"*. Wall Street ya pagó la entrada; falta ver la función.
 
 **Fuentes:** [CNBC](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) · [Anthropic](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) · [Forbes](https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-2-ahead-of-record-stock-debut/)
+
+### Update: 19 de noviembre — así fue el primer día de ANT
+
+La acción **abrió en US$111,50, un salto de 34% sobre el precio de IPO**, y en los primeros minutos tocó un máximo de **US$114,99**, llevando el market cap sobre los **US$2 billones**. Pero el entusiasmo inicial encontró vendedores: el papel cayó hasta un mínimo de US$92,72 y en la última hora de la sesión operaba cerca de **US$95-97, dejando la ganancia diaria en torno al 15-17%** (market cap de ~US$1,26 billones a ese nivel). Cambiaron de manos unas 675 millones de acciones, más de dos tercios de todo lo vendido en la oferta.
+
+Otros datos del día:
+
+- **La demanda retail fue la más grande de la historia para un IPO**, según CNBC.
+- Con la colocación privada concurrente de US$26.000 millones, los ingresos netos totales llegan a ~US$104.800 millones (hasta ~US$117.000 millones si los underwriters ejercen el overallotment de 147 millones de acciones).
+- El prospecto definitivo confirma **ingresos de US$33.240 millones en los primeros nueve meses del año, +1.200% interanual**.
+- No todo fue confeti: más de un centenar de manifestantes se reunieron fuera de la sede de San Francisco bajo la consigna **"Ban RSI"** (ban a la auto-mejora recursiva), con el ex-investigador Jacob Coxon entre los oradores.
+- La liquidación de la oferta es este viernes 20 de noviembre.
+
+**Fuentes del update:** [CNBC, cobertura en vivo](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html) · [Forbes](https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/) · [Cryptoticker](https://cryptoticker.io/en/anthropic-stock-live-ant-first-trading-day-nasdaq/)
