@@ -1,5 +1,5 @@
 ---
-title: ""Right Workload, Wrong Place": Akamai destapa que el 50% de las empresas ejecuta workloads donde no debería"
+title: '"Right Workload, Wrong Place": Akamai destapa que el 50% de las empresas ejecuta workloads donde no debería'
 author: Carlos
 pubDatetime: 2026-11-16T13:35:00Z
 slug: akamai-right-workload-wrong-place
