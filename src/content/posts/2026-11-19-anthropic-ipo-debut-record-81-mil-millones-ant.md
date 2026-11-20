@@ -58,3 +58,11 @@ Otros datos del día:
 - Reuters publicó además un factbox del récord: en el placement privado concurrente a la oferta participan **Google (Alphabet), Nvidia, AMD, Broadcom, Micron, Microsoft y TSMC** — el collateral de la fiesta quedó firmado por medio ecosistema de chips y cloud.
 
 **Fuentes del update:** [CNBC](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) · [SF Chronicle](https://www.sfchronicle.com/tech/article/openai-ipo-2027-chatgpt-when-go-public-22538346.php) · [Reuters vía Investing.com](https://www.investing.com/news/stock-market-news/factboxanthropic-shatters-record-books-with-81-billion-blockbuster-ipo-5039149) · [Dealroom](https://dealroom.co/news/174186-altman-and-brockman-at-dealbook-openai-will-go-public-at-some-point-and-/)
+
+### Update: 20 de noviembre, 2026 (cierre de la segunda jornada)
+
+- La euforia duró exactamente un día: **ANT cayó hasta ~13,5% el viernes**, rozando los US$84 y acercándose peligrosamente al precio IPO de US$83. El jueves había abierto en US$111,50 y cerrado en US$97,17 — o sea, la acción devolvió casi toda la ganancia del debut en una sesión.
+- Aun así, Anthropic **cerró su financiamiento histórico**: los underwriters ejercieron la opción completa de compra adicional, llevando la oferta pública a **~US$93.500 millones brutos**, que sumados al placement privado de US$26 mil millones hacen **~US$119.500 millones en total**. El arsenal para data centers queda asegurado; ahora toca demostrar que el crecimiento de ingresos alcanza para justificar el valor.
+- El contexto no ayuda: el selloff de IA se profundizó y **NVIDIA acumula 7 semanas consecutivas a la baja, su peor racha desde la crisis financiera de 2008**. El mercado pasó de celebrar el récord a exigir disciplina financiera en tiempo récord.
+
+**Fuentes del update:** [TechStartups](https://techstartups.com/2026/11/20/top-tech-news-roundup-for-today-november-20-2026-anthropic-stock-slides-gta-vi-hits-3-79-billion-nvidia-faces-subpoena-more/) · [CNBC](https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html)
