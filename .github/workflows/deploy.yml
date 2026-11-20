@@ -33,6 +33,32 @@ jobs:
             f="../../assets/images/${ref##*/}"
             [ -f "$f" ] || { echo "FIX: ${ref##*/}"; sed -i "s|$ref|../../assets/images/placeholder.jpg|g" *.md; }
           done
+      - name: Cuarentena de frontmatters YAML rotos (no congelan el sitio)
+        run: |
+          python3 - <<'PY'
+          import glob, re, sys, shutil, os
+          try:
+              import yaml
+          except ImportError:
+              sys.exit(0)
+          NL = chr(10)
+          qdir = '/tmp/quarantine'
+          os.makedirs(qdir, exist_ok=True)
+          bad = 0
+          for f in sorted(glob.glob('src/content/posts/*.md')):
+              txt = open(f).read()
+              m = re.match('^---' + NL + '(.*?)' + NL + '---' + NL, txt, re.S)
+              ok = False
+              if m:
+                  try:
+                      yaml.safe_load(m.group(1)); ok = True
+                  except Exception:
+                      ok = False
+              if not ok:
+                  shutil.move(f, qdir)
+                  bad += 1
+          print(f'frontmatters en cuarentena: {bad}')
+          PY
       - name: Build with Astro
         run: npm run build
       - name: Upload artifact
