@@ -50,3 +50,11 @@ Otros datos del día:
 - La liquidación de la oferta es este viernes 20 de noviembre.
 
 **Fuentes del update:** [CNBC, cobertura en vivo](https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html) · [Forbes](https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-shares-pop-34-to-open-at-11150/) · [Cryptoticker](https://cryptoticker.io/en/anthropic-stock-live-ant-first-trading-day-nasdaq/)
+
+
+### Update: 20 de noviembre, 2026
+
+- Con el debut de su rival de fondo, **Sam Altman y Greg Brockman confirmaron en DealBook que OpenAI "saldrá a bolsa en algún punto"**. La empresa presentó su draft confidencial ante la SEC recién en junio (lo confirmó el 8 de junio), pero a mediados de año decidió **diferir el debut hacia 2027**, y por ahora no hay registro público. Traducción: Anthropic estrenó el terreno, OpenAI espera el segundo tiempo.
+- Reuters publicó además un factbox del récord: en el placement privado concurrente a la oferta participan **Google (Alphabet), Nvidia, AMD, Broadcom, Micron, Microsoft y TSMC** — el collateral de la fiesta quedó firmado por medio ecosistema de chips y cloud.
+
+**Fuentes del update:** [CNBC](https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html) · [SF Chronicle](https://www.sfchronicle.com/tech/article/openai-ipo-2027-chatgpt-when-go-public-22538346.php) · [Reuters vía Investing.com](https://www.investing.com/news/stock-market-news/factboxanthropic-shatters-record-books-with-81-billion-blockbuster-ipo-5039149) · [Dealroom](https://dealroom.co/news/174186-altman-and-brockman-at-dealbook-openai-will-go-public-at-some-point-and-/)
