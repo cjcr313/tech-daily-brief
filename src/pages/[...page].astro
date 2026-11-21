@@ -25,7 +25,7 @@ dayjs.extend(timezone);
 export const getStaticPaths = (async ({ paginate }) => {
   const posts = await getCollection("posts", ({ data }) => !data.draft);
   const sortedPosts = getMainSortedPosts(posts);
-  return paginate(sortedPosts, { pageSize: 12 });
+  return paginate(sortedPosts, { pageSize: 15 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
@@ -33,11 +33,11 @@ const { page } = Astro.props;
 const locale = Astro.currentLocale ?? config.site.lang;
 const isFirstPage = page.currentPage === 1;
 
-// Page 1: Bento Hero (1 lead + 2 side stories) + 9 cards (exact 3x3 grid)
-// Pages 2+: 12 cards (exact 4x3 grid), no repeated fake hero
+// Page 1: Bento Hero (1 lead + 5 compact text-only headlines) + 9 cards (exact 3x3 grid)
+// Pages 2+: 15 cards (exact 5x3 grid), no repeated fake hero
 const heroPost = isFirstPage ? page.data[0] : undefined;
-const sidePosts = isFirstPage ? page.data.slice(1, 3) : [];
-const gridPosts = isFirstPage ? page.data.slice(3) : page.data;
+const sidePosts = isFirstPage ? page.data.slice(1, 6) : [];
+const gridPosts = isFirstPage ? page.data.slice(6) : page.data;
 
 const homePath = getRelativeLocaleUrl(locale, "");
 const rssUrl = new URL(

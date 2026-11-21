@@ -131,11 +131,11 @@ const postUrl = getPostUrl(post.id, post.filePath, locale);
     </div>
   </article>
 
-  <!-- Right Briefing Column (2 featured latest cards with cover images) -->
+  <!-- Right Briefing Column (5 clean text-only headlines stacked consistently) -->
   {
     sidePosts.length > 0 && (
-      <div class="flex flex-col gap-4 lg:col-span-5">
-        <div class="flex items-center justify-between px-1">
+      <div class="bg-surface border-border flex flex-col rounded-3xl border p-5 shadow-xs sm:p-6 lg:col-span-5">
+        <div class="border-border flex items-center justify-between border-b pb-3">
           <div class="flex items-center gap-2">
             <span class="bg-accent size-2 rounded-full" aria-hidden="true" />
             <h2 class="font-mono text-foreground text-xs font-bold tracking-wider uppercase">
@@ -150,75 +150,35 @@ const postUrl = getPostUrl(post.id, post.filePath, locale);
           </a>
         </div>
 
-        <ul class="grid flex-1 grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-1 lg:grid-rows-2">
+        <ul class="divide-border divide-y">
           {sidePosts.map(item => {
             const itemCat = getCategoryMeta(item.data.tags?.[0]);
             const itemUrl = getPostUrl(item.id, item.filePath, locale);
             const itemRead = getReadingTimeMinutes(item.body);
-            const itemCover = getPostCover(item);
             return (
-              <li class="min-w-0">
-                <a
-                  href={itemUrl}
-                  class="group bg-surface border-border hover:border-accent/60 flex h-full flex-col overflow-hidden rounded-2xl border shadow-xs transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md"
-                >
-                  <div class="bg-muted relative aspect-[16/8] w-full shrink-0 overflow-hidden">
-                    {itemCover?.image && !itemCover.isSvg ? (
-                      <Image
-                        src={itemCover.image}
-                        alt=""
-                        width={560}
-                        format="webp"
-                        quality={78}
-                        loading="eager"
-                        decoding="async"
-                        class="absolute inset-0 size-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
-                      />
-                    ) : itemCover?.url ? (
-                      <img
-                        src={itemCover.url}
-                        alt=""
-                        loading="eager"
-                        decoding="async"
-                        class="absolute inset-0 size-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
-                      />
-                    ) : (
-                      <div
-                        class:list={[
-                          "absolute inset-0 flex items-center justify-center bg-linear-to-br",
-                          itemCat.gradientClass,
-                        ]}
-                      >
-                        <span class="font-mono text-lg font-bold tracking-widest text-white/70 uppercase">
-                          {itemCat.label}
-                        </span>
-                      </div>
-                    )}
-                  </div>
-
-                  <div class="flex flex-1 flex-col p-4">
-                    <div class="flex flex-wrap items-center justify-between gap-2">
+              <li class="py-3 first:pt-3.5 last:pb-0">
+                <a href={itemUrl} class="group block">
+                  <div class="flex items-center justify-between gap-2">
+                    <span
+                      class:list={[
+                        "font-mono inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 text-[10px] font-semibold tracking-wide uppercase",
+                        itemCat.chipClass,
+                      ]}
+                    >
                       <span
-                        class:list={[
-                          "font-mono inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 text-[10px] font-semibold tracking-wide uppercase",
-                          itemCat.chipClass,
-                        ]}
-                      >
-                        <span
-                          class:list={["size-1.5 rounded-full", itemCat.dotClass]}
-                          aria-hidden="true"
-                        />
-                        {itemCat.label}
-                      </span>
-                      <Datetime {...item.data} readingTime={itemRead} />
-                    </div>
-                    <h3 class="font-display text-foreground group-hover:text-accent mt-2 line-clamp-2 text-[0.98rem] leading-snug font-bold tracking-tight transition-colors">
-                      {item.data.title}
-                    </h3>
-                    <p class="text-muted-foreground mt-1 line-clamp-2 text-xs leading-relaxed">
-                      {item.data.description}
-                    </p>
+                        class:list={["size-1.5 rounded-full", itemCat.dotClass]}
+                        aria-hidden="true"
+                      />
+                      {itemCat.label}
+                    </span>
+                    <Datetime {...item.data} readingTime={itemRead} />
                   </div>
+                  <h3 class="font-display text-foreground group-hover:text-accent mt-1.5 line-clamp-2 text-[0.95rem] leading-snug font-bold tracking-tight transition-colors">
+                    {item.data.title}
+                  </h3>
+                  <p class="text-muted-foreground mt-1 line-clamp-1 text-xs leading-relaxed">
+                    {item.data.description}
+                  </p>
                 </a>
               </li>
             );
