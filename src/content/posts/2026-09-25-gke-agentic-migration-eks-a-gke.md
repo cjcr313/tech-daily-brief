@@ -13,7 +13,7 @@ tags:
 description: "Google libera en open source 'GKE agentic migration', un plugin de agente para migrar entornos Kubernetes de AWS EKS a GKE con pipeline asistido por IA y guardrails deterministas."
 ---
 
-![Ilustración editorial: un agente de IA trasladando bloques de infraestructura entre dos nubes, con candados de seguridad y un diagrama de pipeline, estilo tech editorial limpio](../../assets/images/2026-09-25-gke-agentic-migration-eks-a-gke.jpg)
+![GKE agentic migration: Google libera agentes de IA para migrar de EKS a GKE con guardrails](../../assets/images/2026-09-25-gke-agentic-migration-eks-a-gke.webp)
 
 Migrar un entorno Kubernetes complejo de **AWS EKS a GKE** históricamente ha sido una pega brutal: disección manual de IaC, diferencias arquitectónicas entre nubes y scripts de traducción hechos a medida. Google viene a cambiarle la cara al asunto con **GKE agentic migration**, un **plugin de agente liberado en open source** que reemplaza el prompting ad-hoc con un **pipeline de migración asistido por IA y protegido por guardrails deterministas**.
 

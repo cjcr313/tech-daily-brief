@@ -11,7 +11,7 @@ tags:
 description: "Grok 4.7 llegó el 21 de septiembre con $2 por millón de tokens de entrada, pero queda a mitad de tabla en el índice de Artificial Analysis y muy lejos en coding agéntico."
 ---
 
-![Comparación de benchmarks de modelos de IA con barras de diferentes alturas y un ícono de precio](../../assets/images/2026-09-22-grok-4-7-xai-precio-bajo-benchmarks.jpg)
+![Comparación de benchmarks de modelos de IA con barras de diferentes alturas y un ícono de precio](../../assets/images/2026-09-22-grok-4-7-xai-precio-bajo-benchmarks.webp)
 
 xAI metió su nuevo modelo frontera el 21 de septiembre y apostó por una carta distinta a la de siempre: **precio**. Grok 4.7 sale a **$2 por millón de tokens de entrada y $6 por millón de salida**, tarifas que se parecen más a los modelos chinos que a los frontera occidentales. Y hay una razón para eso.
 

@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare presentó cf, una CLI que le da a los agentes acceso a las más de 3.000 operaciones de su API, y open-sourceó Forge, el pipeline que la genera."
 ---
 
-![Ilustración editorial de una terminal futurista con un agente de IA orquestando una red de servicios cloud](../../assets/images/2026-09-28-cloudflare-cf-cli-agentica-forge.jpg)
+![Cloudflare lanza cf, su CLI agéntica para toda la API (y open-sourcea Forge)](../../assets/images/2026-09-28-cloudflare-cf-cli-agentica-forge.webp)
 
 Cloudflare presentó `cf`, una nueva CLI pensada para la próxima generación de desarrollo de software: la que tiene agentes de IA al teclado. El dato que la motiva es fuerte — en marzo de 2026 los agentes representaban un cuarto del uso de Wrangler; la semana pasada llegaron al 48%.
 

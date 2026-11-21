@@ -11,7 +11,7 @@ tags:
 description: "Los tres grandes de la IA generativa sufrieron interrupciones casi simultáneas el 3 de septiembre, encendiendo alarmas sobre la concentración del ecosistema."
 ---
 
-![Ilustración editorial de tres servicios de IA generativa con señales de alerta por interrupciones simultáneas](../../assets/images/2026-09-04-chatgpt-claude-grok-caida-simultanea.jpg)
+![ChatGPT, Claude y Grok se cayeron a la vez: el riesgo de concentración de la IA](../../assets/images/2026-09-04-chatgpt-claude-grok-caida-simultanea.webp)
 
 El jueves 3 de septiembre no fue un buen día para hablar con máquinas. **ChatGPT, Claude y Grok** sufrieron interrupciones casi al mismo tiempo, con picos que en un momento superaron los **35.000 reportes** de usuarios en Downdetector solo para ChatGPT en EE.UU.
 

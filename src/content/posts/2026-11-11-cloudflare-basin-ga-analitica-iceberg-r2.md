@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare sacó de beta a Basin, su plataforma de analítica serverless construida sobre Apache Iceberg y R2: ingesta, catálogo y SQL distribuido en un solo servicio."
 ---
 
-![Ilustración editorial de un embudo de datos vertiendo streams hacia una cuenca de lagos de datos helados rodeada de servidores edge](../../assets/images/cloudflare-basin-ga-analitica-iceberg-r2.jpg)
+![Cloudflare Basin llega a GA: analítica serverless sobre Apache Iceberg y R2, sin pagar egress](../../assets/images/cloudflare-basin-ga-analitica-iceberg-r2.webp)
 
 Cloudflare confirmó la disponibilidad general de **Basin**, su plataforma de analítica serverless construida sobre **Apache Iceberg y R2 Object Storage**. Después de meses en beta, la apuesta de Cloudflare por el mundo de los datos ya es producto: ingesta, transformación y consulta SQL distribuida, todo encima del formato de tablas abierto que se convirtió en el estándar de facto del lakehouse moderno.
 

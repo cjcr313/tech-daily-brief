@@ -12,7 +12,7 @@ tags:
 description: "La startup israelí DataAgent recauda US$10M en pre-seed para un agente open source que diagnostica y repara fallas en producción dentro de Kubernetes, prometiendo recortar hasta 90% del costo de observabilidad."
 ---
 
-![Agente de IA reparando fallas dentro de un clúster de Kubernetes](../../assets/images/2026-09-04-dataagent-10m-ia-repara-kubernetes.jpg)
+![Agente de IA reparando fallas dentro de un clúster de Kubernetes](../../assets/images/2026-09-04-dataagent-10m-ia-repara-kubernetes.webp)
 
 La startup israelí **DataAgent** salió del modo stealth con **US$10 millones** en financiamiento pre-seed para empujar un agente de IA open source que diagnostica y repara fallas de producción directamente dentro de los clústeres de Kubernetes de sus clientes. La gracia: no se queda en el "te aviso que algo está roto", sino que intenta arreglarlo.
 

@@ -11,7 +11,7 @@ tags:
 description: "Anthropic fileó su S-1 rumbo a Nasdaq (ticker ANT) y los números son brutales: más del 80% de los ingresos del Q3 salió de modelos lanzados en los últimos seis meses. Y los top usuarios enterprise de Claude Code gastan 20 veces más que el resto."
 ---
 
-![Ilustración editorial tech de un documento bursátil flotante con gráficos de crecimiento ascendente formados por cubos de datos luminosos, junto a relojes de arena que se vacían rápido representando modelos recientes, paleta azul corporativo con acentos ocre cálido, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-27-anthropic-s1-revenue-modelos-nuevos.jpg)
+![El S-1 de Anthropic revela que más del 80% de sus ingresos del Q3 viene de modelos con menos de seis meses de vida](../../assets/images/2026-10-27-anthropic-s1-revenue-modelos-nuevos.webp)
 
 Anthropic finalmente fileó su **S-1** el lunes, adelantando su debut en Nasdaq bajo el ticker **ANT**. Y entre los datos para invertiradores hay uno que retrata perfectamente el ritmo absurdo al que se mueve la industria: los modelos lanzados en los **seis meses previos al 30 de septiembre** explican **más del 80% de los ingresos del tercer trimestre**.
 

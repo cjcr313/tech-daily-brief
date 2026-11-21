@@ -11,7 +11,7 @@ tags:
 description: "Grafana 13 trae Git Sync bidireccional, Dynamic Dashboards, Saved Queries y templates. Dashboards as code finalmente easy mode."
 ---
 
-![Grafana 13 Git Sync dashboards](../../assets/images/2026-08-08-grafana-13-git-sync-dashboards-como-codigo.jpg)
+![Grafana 13 Git Sync dashboards](../../assets/images/2026-08-08-grafana-13-git-sync-dashboards-como-codigo.webp)
 
 Grafana 13 llegó y la feature que todos estaban esperando está acá: **Git Sync**. Sí, tus dashboards finalmente pueden vivir en un repo de Git con sincronización bidireccional. Dashboards as code de verdad, no con scripts hacky de export/import.
 

@@ -11,7 +11,7 @@ tags:
 description: "AWS activó metadata pre-filtering en Amazon S3 Vectors: los filtros se evalúan antes de la búsqueda de similitud, con hasta 5x más recall en queries con filtros selectivos y sin costo extra."
 ---
 
-![Ilustración editorial de una nube de puntos brillantes pasando por un embudo luminoso antes de llegar a un haz de búsqueda, puntos descartados quedando en gris, paleta azul oscuro con acentos naranjas, estilo ilustración tech, sin texto](../../assets/images/2026-09-30-s3-vectors-pre-filtrado-metadatos.jpg)
+![S3 Vectors filtra metadatos antes de buscar: hasta 5x más recall en búsquedas con filtro](../../assets/images/2026-09-30-s3-vectors-pre-filtrado-metadatos.webp)
 
 AWS le metió un upgrade serio a **Amazon S3 Vectors**: ahora soporta **metadata pre-filtering**, o sea, el filtro de metadatos se evalúa ANTES de la búsqueda de similitud. Resultado: **hasta 5x más recall en búsquedas con filtros selectivos**, sin costo adicional, sin re-ingestar datos y sin cambiar tus queries.
 

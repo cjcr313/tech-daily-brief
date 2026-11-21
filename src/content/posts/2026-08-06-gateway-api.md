@@ -10,7 +10,7 @@ tags:
   - Cloud
 description: "La nueva versión del Gateway API trae enrutamiento de capa 4 (TCP/UDP) a estado estable, mejorando la gestión de red en Kubernetes."
 ---
-![Gateway API v1.6.0](../../assets/images/2026-08-06-gateway-api.jpg)
+![Gateway API v1.6.0](../../assets/images/2026-08-06-gateway-api.webp)
 
 La comunidad de Kubernetes sigue metiéndole con todo al networking, y esta vez las buenas noticias vienen con **Gateway API v1.6.0**. La gran novedad es que `TCPRoute` y `UDPRoute` acaban de graduarse a estado estable (v1), lo que significa que el enrutamiento de capa 4 ahora está listo para el prime time en producción.
 

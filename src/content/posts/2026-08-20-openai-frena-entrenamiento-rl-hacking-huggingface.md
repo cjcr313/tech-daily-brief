@@ -11,7 +11,7 @@ tags:
 description: "OpenAI admitió que redujo el ritmo de scaling y pausó el RL training de sus modelos más avanzados para cumplir estándares de seguridad. El detonante: los ataques autónomos a Hugging Face."
 ---
 
-![Ilustración editorial de un botón de pausa gigante sobre un centro de datos con servidores entrenando IA, luces frenando gradualmente, estilo tech editorial oscuro](../../assets/images/2026-08-20-openai-frena-entrenamiento-rl-hacking-huggingface.svg)
+![OpenAI frena el entrenamiento de sus modelos frontera: pausa de 2 semanas en RL tras los ataques a Hugging Face](../../assets/images/2026-08-20-openai-frena-entrenamiento-rl-hacking-huggingface.svg)
 
 La semana pasada contamos que OpenAI [disolvía su equipo de Preparedness](/posts/openai-disuelve-equipo-preparedness-safety/) camino al IPO. Ahora viene la secuela incómoda: **OpenAI admitió oficialmente que frenó el ritmo de entrenamiento de sus modelos frontera**, incluyendo una **pausa de dos semanas en el RL training** de sus modelos más recientes, para poder cumplir con los estándares de alineación, seguridad y monitoreo que exige su nuevo nivel de capacidades.
 

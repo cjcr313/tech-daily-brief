@@ -11,7 +11,7 @@ tags:
 description: "Anthropic compromete el 5% de sus acciones a un nuevo Public Benefit Fund enfocado en el impacto laboral de la IA, con 2% adicional por cada 50% de alza en su valoración. La movida llega con el IPO a la vuelta de la esquina."
 ---
 
-![Ilustración editorial de una esfera de cristal translúcida radiante en el centro que libera hilos de certificados de acciones dorados brillantes que se transforman en rayos de luz que alcanzan un skyline urbano con personas diversas abajo, paleta verde azulado profundo y dorado cálido, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-18-anthropic-fondo-beneficio-publico-5-acciones.jpg)
+![Anthropic mete el 5% de sus acciones a un fondo de beneficio público a semanas de su IPO](../../assets/images/2026-10-18-anthropic-fondo-beneficio-publico-5-acciones.webp)
 
 Anthropic anunció que comprometerá el **5% de sus acciones** —sujeto a aprobación de sus accionistas— a una nueva LLC de propiedad completa llamada **Anthropic Public Benefit Fund**. El mecanismo tiene truco: el directorio puede agregar otro **2% por cada 50% de alza en el valor de la compañía** sobre una línea base definida. Si la empresa vale más, el fondo crece proporcionalmente.
 

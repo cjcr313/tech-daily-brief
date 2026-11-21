@@ -12,7 +12,7 @@ tags:
 description: "La OpenClaw Foundation lanzó OCE, un control plane open source (MIT) para gobernar agentes IA persistentes en producción. Nació adentro de OpenAI y ya lo pilotean Red Hat y Nvidia."
 ---
 
-![Ilustración editorial isométrica de una torre de control luminosa orquestando un enjambre de cápsulas hexagonales con robots dentro, distribuidas en una sala de servidores, paleta azul oscuro con acentos naranjas](../../assets/images/2026-10-01-openclaw-enterprise-kubernetes-para-agentos.jpg)
+![OpenClaw Enterprise: el 'Kubernetes para agentes' que aterrizó en la empresa con OpenAI, Red Hat y Nvidia atrás](../../assets/images/2026-10-01-openclaw-enterprise-kubernetes-para-agentos.webp)
 
 Si en el último año tu equipo de plataforma ha respondido a la pregunta "¿y cómo controlamos esto de los agentes?" con un "no se puede, mejor lo prohibimos", esta noticia es para ti. La OpenClaw Foundation anunció **OpenClaw Enterprise (OCE)**: un control plane open source, vendor-neutral y con licencia MIT para desplegar y gobernar **agentes IA persistentes** en infraestructura propia.
 

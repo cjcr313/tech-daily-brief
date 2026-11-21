@@ -12,7 +12,7 @@ tags:
 description: "AWS presentó HyperPod InstantStart, un control plane open source que combina EKS con SageMaker HyperPod para manejar clústeres de entrenamiento e inferencia vía web UI o agentes IA."
 ---
 
-![Control plane open source para operar HyperPod con agentes IA](../../assets/images/2026-09-05-aws-hyperpod-instantstart-control-plane-open-source.jpg)
+![Control plane open source para operar HyperPod con agentes IA](../../assets/images/2026-09-05-aws-hyperpod-instantstart-control-plane-open-source.webp)
 
 AWS presentó **HyperPod InstantStart**, un control plane open source pensado para pilotar **Amazon SageMaker HyperPod**, su servicio de cómputo managed para entrenar y desplegar modelos de fundación. La jugada: combinar la orquestación de **Amazon EKS** con las capacidades managed de HyperPod, y exponer todo a través de dos fachadas —una web y un agente IA— que ejecutan exactamente las mismas operaciones guardadas.
 

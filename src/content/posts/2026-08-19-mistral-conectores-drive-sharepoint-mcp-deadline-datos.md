@@ -11,7 +11,7 @@ tags:
 description: "Mistral mata sus Knowledge Connectors de Google Drive y SharePoint en Vibe Work el 31 de agosto y fuerza el salto a MCP. No hay migración automática, los conectores viejos se borran, y nadie explica bien qué pasa con los datos ya indexados."
 ---
 
-![Ilustración editorial de un interruptor de palanca apagándose sobre flujos de documentos y carpetas en la nube conectadas por líneas de datos, paleta azul y ámbar, estilo tech editorial](../../assets/images/2026-08-19-mistral-conectores-drive-sharepoint-mcp-deadline-datos.svg)
+![Mistral apaga sus conectores de Google Drive y SharePoint el 31 de agosto: sin migración automática y con preguntas abiertas sobre tus datos](../../assets/images/2026-08-19-mistral-conectores-drive-sharepoint-mcp-deadline-datos.svg)
 
 Si tu equipo usa **Vibe Work** de Mistral con los conectores nativos de Google Drive o SharePoint, anota la fecha: **31 de agosto**. Ese día ambos **Knowledge Connectors se apagan y se eliminan**. No es un deprecation silencioso ni una transición con gracia: es un switch off.
 

@@ -11,7 +11,7 @@ tags:
 description: "Las versiones 1.26.1 y 1.26.2 del agent-framework de Microsoft eran un roba-credenciales que se ejecutaba cada vez que partía Python, sin importar nada. OX Security da la alarma: revisa tus lockfiles ya."
 ---
 
-![Ilustración editorial tech: una serpiente pitón siniestra enrollada en una caja de paquetes brillante sobre una cadena de suministro de software, llaves y escudos escapando, paleta azul profundo con acentos rojos, estilo vector plano moderno](../../assets/images/2026-11-18-microsoft-agent-framework-pypi-roba-credenciales.jpg)
+![Paquete oficial de Microsoft secuestrado en PyPI: agent-framework robaba credenciales de Azure y CI](../../assets/images/2026-11-18-microsoft-agent-framework-pypi-roba-credenciales.webp)
 
 Ataque a la cadena de suministro otra vez, pero con un giro incómodo: esta vez el paquete comprometido era **oficial de Microsoft**. OX Security detectó que las versiones **1.26.1 y 1.26.2 de agent-framework**, el Agent Framework para Python de Microsoft (con **192.534 descargas mensuales** en PyPI), fueron secuestradas para convertir el paquete en un roba-credenciales.
 

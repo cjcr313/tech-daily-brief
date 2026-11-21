@@ -11,7 +11,7 @@ tags:
 description: "Un threat actor vende directorios corporativos completos de 9 organizaciones extraídos de tenants de Azure. Hudson Rock lo vincula a infostealers, no a un zero-day. La lección: MFA no basta."
 ---
 
-![Ilustración editorial de un ladrón en sombra extrayendo fichas de un panel de nube corporativa con ganchos de datos, paleta azul oscuro, estilo tech editorial](../../assets/images/2026-08-18-thehatman-azure-mcdonalds-vodafone-infostealer.jpg)
+![TheHatman vende millones de registros robados de tenants de Azure: McDonald's, Vodafone y TCS en la lista](../../assets/images/2026-08-18-thehatman-azure-mcdonalds-vodafone-infostealer.webp)
 
 Si tu fin de semana era tranquilo, acá va algo para arrugarlo: un threat actor que se hace llamar **TheHatman** está vendiendo **millones de registros** que parecerían salir de los tenants de Azure de nueve organizaciones grandes, según la investigación de Hudson Rock publicada esta semana.
 

@@ -11,7 +11,7 @@ tags:
 description: "El instituto holandés que caza vulnerabilidades (DIVD) fue hackeado por un agente de IA autónomo que encadenó dos zero-days del helpdesk open source Zammad: de cero permisos a root en segundos. CISA ya los metió al catálogo KEV con deadline del 5 de octubre."
 ---
 
-![Ilustración editorial isométrica de un servidor de helpdesk abierto con un candado agrietado, mientras un pequeño robot agente autónomo sube una escalera de privilegios hacia una corona brillante de root, paleta azul oscuro y naranja, sin texto](../../assets/images/2026-10-04-zammad-zero-days-divd-agente-ia-root-cisa.jpg)
+![Un agente de IA encadenó dos zero-days de Zammad y se hizo root en DIVD en segundos: CISA da plazo hasta el 5 de octubre](../../assets/images/2026-10-04-zammad-zero-days-divd-agente-ia-root-cisa.webp)
 
 La ironía está a la altura del susto: el **DIVD (Dutch Institute for Vulnerability Disclosure)** —la fundación holandesa de voluntarios que se dedica a encontrar y divulgar vulnerabilidades para proteger al resto— confirmó que su propia red fue breachada mediante **dos zero-days encadenados en Zammad**, el helpdesk open source que usaban internamente. Y el operador no fue un hacker con hoodie: fue un **agente de IA que tomaba decisiones de forma autónoma**, sin intervención humana en el loop.
 

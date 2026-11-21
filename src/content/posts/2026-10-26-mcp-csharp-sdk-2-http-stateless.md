@@ -12,7 +12,7 @@ tags:
 description: "La versión 2.0 del SDK oficial de C# para MCP implementa la revisión 2026-07-28 del protocolo: HTTP stateless por defecto, headers estandarizados para que los gateways enruten sin leer el body, y Multi Round-Trip Requests para tools interactivas."
 ---
 
-![Ilustración editorial tech isométrica de una capa de protocolo central conectando clientes y nodos de servidor mediante rutas luminosas estandarizadas, paquetes de datos fluyendo horizontalmente sin anclajes de sesión, paleta índigo y cian con acentos ámbar, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-26-mcp-csharp-sdk-2-http-stateless.jpg)
+![MCP C# SDK 2.0: Microsoft mata las sesiones y convierte los servidores MCP en servicios stateless](../../assets/images/2026-10-26-mcp-csharp-sdk-2-http-stateless.webp)
 
 Microsoft anunció la versión **estable 2.0 del SDK oficial de C# para MCP** (Model Context Protocol), implementando la revisión **2026-07-28** de la especificación — que el propio equipo describe como la más grande desde el lanzamiento del protocolo, porque **repensa cómo MCP funciona sobre HTTP**. Y el cambio de fondo es uno que cualquier persona de infraestructura va a agradecer: adiós a las sesiones.
 

@@ -11,7 +11,7 @@ tags:
 description: "Cisco confirmó explotación activa de un flaw no autenticado en el servicio SSL VPN de Secure Firewall ASA y FTD: una petición HTTP maliciosa reinicia el equipo. Sin workaround, la única opción son los hotfixes."
 ---
 
-![Ilustración editorial de un firewall de red corporativa con un escudo agrietado y tráfico interrumpido, estilo tech editorial](../../assets/images/2026-08-16-cisco-firewall-zero-day-vpn-ssl-dos.jpg)
+![Cisco confirma zero-day explotado en sus firewalls: CVE-2026-20349 tumba la VPN SSL con un solo request](../../assets/images/2026-08-16-cisco-firewall-zero-day-vpn-ssl-dos.webp)
 
 Fin de semana movido para los equipos de red: Cisco confirmó **explotación activa en la wild** de CVE-2026-20349, una vulnerabilidad de denegación de servicio **sin autenticación** en el servicio Remote Access SSL VPN de Secure Firewall ASA y Secure Firewall Firewall Threat Defense (FTD).
 

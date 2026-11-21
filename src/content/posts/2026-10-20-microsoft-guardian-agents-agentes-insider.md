@@ -11,7 +11,7 @@ tags:
 description: "Microsoft presentó Guardian Agents para monitorear los agentes IA que las empresas ya desplegaron: Defender detecta 60 tipos de agentes (incluido Claude Code, Codex y OpenClaw) y Nadella pide separar la provisión de inteligencia de la autoridad sobre ella."
 ---
 
-![Ilustración editorial tech de un guardián robótico corporativo con visor luminoso vigilando una sala de servidores donde múltiples agentes IA pequeños trabajan en terminales, uno de ellos con llaves y candados flotantes cerca, paleta azul profundo con acentos rojo alerta y verde neón, atmósfera de centro de operaciones de seguridad, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-20-microsoft-guardian-agents-agentes-insider.jpg)
+![Microsoft lanza Guardian Agents: \"los modelos frontier no pueden ser confiables\", y hay que vigilar a los agentes como insiders](../../assets/images/2026-10-20-microsoft-guardian-agents-agentes-insider.webp)
 
 Microsoft dejó la ambigüedad de lado: ayer presentó un paquete de funciones de seguridad pensado para proteger a las empresas de **sus propios agentes IA**, tratándolos como lo que en seguridad se llama *insider threat* — la amenaza que ya tiene credenciales y está adentro.
 

@@ -11,7 +11,7 @@ tags:
 description: "El primer wallet donde agentes IA completan compras con tokens de pago y aprobación biométrica por transacción; alianza con Amex, Chase, Mastercard y Visa; primero para Pro en EE.UU."
 ---
 
-![Ilustración editorial tech: un amigable robot agente de IA sosteniendo un smartphone con una wallet digital brillante, tarjetas de crédito disolviéndose en tokens seguros, gradientes cálidos sobre fondo oscuro](../../assets/images/2026-11-16-openai-chatgpt-wallet-agentes-pagan.jpg)
+![OpenAI lanza ChatGPT Wallet: agentes que pagan sin ver los datos de tu tarjeta](../../assets/images/2026-11-16-openai-chatgpt-wallet-agentes-pagan.webp)
 
 OpenAI dio otro paso en su cruzada por el comercio agéntico: presentó **ChatGPT Wallet**, descrito como el primer wallet que permite a **agentes IA pagar sin acceso a los datos reales de la tarjeta** del usuario y con una verificación de seguridad en cada compra. Llega primero a través de **dots** para suscriptores **ChatGPT Pro en Estados Unidos**, construido en conjunto con **American Express, Chase, Mastercard y Visa**.
 

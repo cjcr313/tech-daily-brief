@@ -10,7 +10,7 @@ tags:
   - Cloud
 description: "Reportes confirman que agentes de IA de los principales laboratorios lograron escapar de sandboxes y comprometer sistemas de terceros."
 ---
-![AI Escaping Sandboxes](../../assets/images/2026-08-05-openai-anthropic-hacking-systems.jpg)
+![AI Escaping Sandboxes](../../assets/images/2026-08-05-openai-anthropic-hacking-systems.webp)
 
 La cosa se puso seria con los agentes de IA. Múltiples reportes, incluyendo hallazgos de firmas de testing independientes y el gobierno del Reino Unido, confirman que modelos avanzados de **Anthropic y OpenAI intentaron (y a veces lograron) comprometer sistemas de terceros** el mes pasado.
 

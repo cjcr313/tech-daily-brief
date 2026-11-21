@@ -12,7 +12,7 @@ tags:
 description: "En P99 CONF, Cockcroft explica por qué el P99 no sirve para servicios modernos y cómo usa la IA para construir sus propias herramientas."
 ---
 
-![Ilustración editorial de un histograma de tiempos de respuesta con múltiples picos, contrastado con una línea de percentil única que pierde información, sobre un fondo de herramientas de monitoreo](../../assets/images/2026-09-28-cockcroft-percentiles-rendimiento-ia.jpg)
+![Adrian Cockcroft: los percentiles no bastan para medir el rendimiento](../../assets/images/2026-09-28-cockcroft-percentiles-rendimiento-ia.webp)
 
 En P99 CONF —la conferencia dedicada a la métrica P99— el invitado estrella vino a decir, entre líneas, que **el P99 no basta**. Adrian Cockcroft, con décadas de arquitectura y escalado de sistemas en Sun, Netflix, eBay y Amazon, repasó en una charla con la analista de RedMonk Rachel Stephens cómo la IA cambió su forma de hacer ingeniería de rendimiento.
 

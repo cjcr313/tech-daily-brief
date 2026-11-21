@@ -11,7 +11,7 @@ tags:
 description: "La Industrial AI Cloud de Deutsche Telekom es la primera en poner NVIDIA DSX OS en producción a gran escala, con automatización de vCluster: provisionar la nube privada de un cliente pasó de días de trabajo manual a un clic, con aislamiento total y cumplimiento C5."
 ---
 
-![Ilustración editorial tech de una red de nubes privadas modulares dentro de una fábrica industrial luminosa, cada nube como una cúpula de vidrio aislada con su propio resplandor, conectadas por líneas de datos a un núcleo central de Kubernetes, bandera alemana estilizada como acento de color en la paleta, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/vcluster-deutsche-telekom-nube-ia-industrial.jpg)
+![Deutsche Telekom pone NVIDIA DSX OS en producción con vCluster: cada cliente con su nube de IA privada](../../assets/images/vcluster-deutsche-telekom-nube-ia-industrial.webp)
 
 Menos de seis meses tardó NVIDIA en lanzar **DSX OS** (su software open source para operar "fábricas de IA") y verlo en producción a gran escala. La primera en lograrlo: la **Industrial AI Cloud de Deutsche Telekom**, con **vCluster** como capa de automatización. El anuncio se marcó ayer en el stand de Deutsche Telekom en GTC Berlin.
 

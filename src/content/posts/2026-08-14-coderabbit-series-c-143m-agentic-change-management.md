@@ -11,7 +11,7 @@ tags:
 description: "CodeRabbit cerró una Serie C de US$143M con revenue creciendo más de 5x, y lanzó Agentic Change Management: una capa de control para revisar y despachar código escrito por humanos y agentes de IA por igual."
 ---
 
-![Ilustración editorial de un conejo robot actuando como controlador de tráfico entre desarrolladores humanos y agentes de IA que envían código, estilo tech editorial](../../assets/images/2026-08-14-coderabbit-series-c-143m-agentic-change-management.jpg)
+![CodeRabbit levanta US$143M a valorización de US$1.500M: la revisión de código ahora tiene que gobernar a los agentes de IA](../../assets/images/2026-08-14-coderabbit-series-c-143m-agentic-change-management.webp)
 
 Si el 90% del código va a terminar escrito por agentes de IA, alguien tiene que poner orden en la puerta de entrada. Esa es la apuesta de **CodeRabbit**, que acaba de cerrar una **Serie C de US$143 millones a valorización de US$1.500 millones**, con revenue que saltó **más de 5x**.
 

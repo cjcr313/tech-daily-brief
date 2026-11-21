@@ -10,7 +10,7 @@ tags:
 description: "OpenAI activa automáticamente salvaguardas para cuentas de 13 a 17 años: Study Mode, recordatorios de tareas responsables y alertas acotadas para apoderados. La verificación de edad solo sirve para salir del modo teen."
 ---
 
-![Ilustración editorial de un adolescente estudiando con un notebook rodeado de una burbuja protectora brillante, con íconos sutiles de supervisión parental, estilo tech editorial](../../assets/images/2026-08-19-chatgpt-for-teens-openai-controles-parentales.jpg)
+![OpenAI lanza ChatGPT for Teens: modo estudio, controles parentales y predicción de edad sin verificación](../../assets/images/2026-08-19-chatgpt-for-teens-openai-controles-parentales.webp)
 
 OpenAI lanzó este 18 de agosto **ChatGPT for Teens**, una versión del chatbot que se activa automáticamente cuando el usuario declara tener entre 13 y 17 años — o cuando los sistemas de la empresa **estiman que la cuenta pertenece a un menor de 18**. Sin trámite, sin verificación obligatoria: si el sistema te detecta como teen, quedas dentro del modo protegido.
 

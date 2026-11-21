@@ -12,7 +12,7 @@ tags:
 description: "En su carta anual de fundadores, Cloudflare revela que el tráfico de agentes y crawlers pasó al humano en mayo de 2026, dos años antes de lo previsto, y que la brecha se multiplicará por mil."
 ---
 
-![Ilustración editorial: una autopista digital dividida entre tráfico de agentes de IA y usuarios humanos, con nubes de Cloudflare al fondo](../../assets/images/2026-09-27-cloudflare-carta-fundadores-2026-trafico-agentes.jpg)
+![Cloudflare: el tráfico automatizado ya superó al humano, y los fundadores proyectan 1.000x en cinco años](../../assets/images/2026-09-27-cloudflare-carta-fundadores-2026-trafico-agentes.webp)
 
 Cloudflare cumplió 16 años y, como corresponde a un adolescente, se puso a mirar el mundo que lo rodea con una mezcla de susto y optimismo. La excusa: la **Annual Founders' Letter 2026**, firmada por Matthew Prince y Michelle Zatlyn, que trae un dato que reordena el tablero de internet.
 

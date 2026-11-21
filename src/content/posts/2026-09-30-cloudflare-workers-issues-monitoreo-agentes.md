@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare lanzó Issues en beta abierta: monitoreo de errores nativo en Workers que agrupa fallas repetidas y envía stack traces, logs y trazas directo a Claude Code, Cursor o Devin para que investiguen y abran un PR."
 ---
 
-![Ilustración editorial isométrica de tarjetas de error brillantes agrupadas fluyendo desde un servidor hacia un robot de código que abre un pull request, paleta azul oscuro con acentos naranjas, sin texto](../../assets/images/2026-09-30-cloudflare-workers-issues-monitoreo-agentes.jpg)
+![Cloudflare Workers ahora detecta errores en producción y se los manda directo a tu agente de código](../../assets/images/2026-09-30-cloudflare-workers-issues-monitoreo-agentes.webp)
 
 El flujo clásico del on-call está cada vez más corto, y Cloudflare le metió otra tecla menos: lanzó **Issues**, monitoreo de errores nativo para Workers que está en **beta abierta** y que no solo agrupa tus fallas de producción, sino que **se las manda directo a tu agente de código** para que investigue y abra un pull request. Chao copy-paste de stack trace en el prompt.
 

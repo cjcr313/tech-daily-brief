@@ -11,7 +11,7 @@ tags:
 description: "Tencent open-source Hy4 preview: 770B parámetros totales, 49B activos, contexto de más de 1 millón de tokens y licencia Apache 2.0."
 ---
 
-![Ilustración editorial de un modelo de lenguaje abierto de gran escala con arquitectura Mixture of Experts](../../assets/images/2026-09-01-tencent-hy4-open-source-770b.jpg)
+![Tencent libera Hy4: su modelo de 770 mil millones de parámetros y 1M de tokens de contexto](../../assets/images/2026-09-01-tencent-hy4-open-source-770b.webp)
 
 La carrera de los modelos chinos abiertos no afloja. Después de GLM-5.3 de Z.ai y el Qwen3.8 de Alibaba, ahora es **Tencent** la que pone sobre la mesa a **Hy4 preview**, un modelo de próxima generación que libera en open source con números de buque insignia: **770 mil millones de parámetros totales, 49 mil millones activos** y una ventana de contexto que supera el **millón de tokens**.
 

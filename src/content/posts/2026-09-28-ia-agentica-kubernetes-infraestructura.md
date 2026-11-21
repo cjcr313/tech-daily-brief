@@ -12,7 +12,7 @@ tags:
 description: "Cómo la IA agéntica está cambiando la forma de operar Kubernetes: contexto observable, límites claros y menos toil."
 ---
 
-![Ilustración editorial de agentes de IA observando y operando un clúster Kubernetes distribuido entre nube, datacenter y edge, con nodos, políticas y señales de telemetría conectadas](../../assets/images/2026-09-28-ia-agentica-kubernetes-infraestructura.jpg)
+![IA agéntica en Kubernetes: la nueva capa de infraestructura](../../assets/images/2026-09-28-ia-agentica-kubernetes-infraestructura.webp)
 
 Durante años la IA fue "una preocupación de la aplicación": los modelos corrían encima de la infraestructura y la pila de abajo no cambiaba. Eso se acabó. Hoy la IA toca cada vez más interacciones y cargas de trabajo, y un reporte de Forrester describe el stack de cómputo de IA moderno como algo que va desde los modelos hasta —y a través de— la infraestructura que los sostiene.
 

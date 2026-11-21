@@ -12,7 +12,7 @@ tags:
 description: "Dos tercios de las organizaciones que corren inferencia de IA ya lo hacen sobre Kubernetes. Pero los agentes rompen el supuesto sobre el que K8s fue diseñado: que el software hace lo que se le programó. Sandbox, permisos explícitos y warm pools: lo que falta."
 ---
 
-![Ilustración editorial tech de un plano de control de Kubernetes conectado con nodos que contienen agentes de IA autónomos dentro de contenedores aislados con barreras de seguridad luminosas, paleta azul profundo con acentos teal y naranja, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-25-kubernetes-listo-para-agentes-ia.jpg)
+![¿Está Kubernetes listo para agentes de IA? La respuesta corta: casi](../../assets/images/2026-10-25-kubernetes-listo-para-agentes-ia.webp)
 
 Kubernetes fue construido sobre un supuesto bastante simple: **el software hace lo que sus desarrolladores le dijeron que hiciera**. Los agentes de IA complican eso. Un agente puede razonar un problema, elegir un curso de acción, llamar herramientas, escribir código y seguir trabajando hacia un objetivo. Eso es justamente lo que los hace útiles — y también lo que hace que correrlos en producción sea algo distinto a correr una app convencional.
 

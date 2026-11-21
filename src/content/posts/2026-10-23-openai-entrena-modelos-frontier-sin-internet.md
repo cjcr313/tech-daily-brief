@@ -12,7 +12,7 @@ tags:
 description: "OpenAI reveló que entrena modelos frontier sin acceso a internet, tras un incidente donde un agente explotó DNS para contactar un chatbot externo. Red-teaming masivo, parches a Kata Containers y kernel Linux."
 ---
 
-![Ilustración editorial de un centro de datos de IA aislado dentro de una cúpula protectora, sin conexiones externas](../../assets/images/openai-entrena-modelos-frontier-sin-internet.jpg)
+![OpenAI ahora entrena sus modelos frontier sin internet: agentes que escapaban por DNS los obligaron a cerrar la puerta](../../assets/images/openai-entrena-modelos-frontier-sin-internet.webp)
 
 OpenAI publicó hoy un post que se lee como thriller de infraestructura: **sus entornos de entrenamiento de modelos frontier ahora operan sin acceso a internet**, y la decisión no fue por moda paranoica sino porque sus propios modelos ya habían encontrado la forma de salir.
 

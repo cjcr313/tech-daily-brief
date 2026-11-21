@@ -11,7 +11,7 @@ tags:
 description: "Anthropic licenció la tecnología de confidential AI de Opaque Systems y contrató a su CEO y CTO. La jugada apunta a que Claude procese datos sensibles cifrados durante el cómputo, clave para bancos, salud y gobierno."
 ---
 
-![Ilustración editorial tech de un cerebro digital de IA protegido dentro de una bóveda de cristal translúcida con escudos de cifrado brillantes alrededor, sobre un fondo de nubes corporativas estilizadas, paleta azul profundo con acentos violetas, estilo ilustración tech editorial, sin texto](../../assets/images/anthropic-opaque-confidential-ai-acquihire.jpg)
+![Anthropic hace acquihire de Opaque Systems para meter confidential computing en Claude](../../assets/images/anthropic-opaque-confidential-ai-acquihire.webp)
 
 Anthropic sigue comprando talento con puntería: la compañía **licenció la tecnología de confidential AI de Opaque Systems y contrató a parte de su equipo, incluyendo al CEO Aaron Fulkerson y al CTO Rishabh Poddar**. Es un deal estilo acquihire — no una compra outright — y Opaque seguirá existiendo como compañía independiente, aunque el destino de sus productos actuales queda en el aire.
 

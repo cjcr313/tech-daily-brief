@@ -11,7 +11,7 @@ tags:
 description: "Google marcó como 'secreto comercial' los consumos de su data center en Lincoln, Nebraska, pero una redacción mal hecha dejó las cifras a la vista: 52,65 MW pico de electricidad y 13,3 millones de galones de agua al año. El episodio se viralizó este fin de semana en Hacker News."
 ---
 
-![Ilustración editorial de un data center moderno anónimo junto a torres de enfriamiento y torres de alta tensión, con un documento flotante que muestra franjas negras de redacción parcialmente despegadas, paleta azul acero y naranja, estilo ilustración editorial profesional](../../assets/images/2026-10-05-google-data-center-lincoln-redaction-agua-luz.jpg)
+![Un copy-paste descuidado destapa cuánta luz y agua consume un data center de Google](../../assets/images/2026-10-05-google-data-center-lincoln-redaction-agua-luz.webp)
 
 La eterna discusión sobre cuánto consumen los data centers de los hiperscalers tuvo esta semana un episodio cómico-trágico digno de memorizar para la charla de watercooler: **Google trató de mantener en secreto los consumos de agua y electricidad de su data center en Lincoln, Nebraska, y la redacción del PDF falló de la forma más clásica posible** — el texto seguía ahí, seleccionable, debajo de las cajas negras.
 

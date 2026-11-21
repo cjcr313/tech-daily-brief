@@ -11,7 +11,7 @@ tags:
 description: "Anthropic confirmó que Claude rastreó las semillas de las curvas P-256 y compañía hasta un lrand48 sembrado con timestamps de 1997. Fin de 25 años de paranoia sobre backdoors de la NSA."
 ---
 
-![Ilustración editorial de una llave criptográfica antigua siendo examinada con lupa junto a un reloj digital retro, estilo tech editorial](../../assets/images/2026-10-17-claude-resuelve-misterio-semillas-curvas-nist-ecdsa.jpg)
+![Claude resolvió en 30 minutos un misterio criptográfico de 25 años: las semillas de las curvas NIST eran... timestamps](../../assets/images/2026-10-17-claude-resuelve-misterio-semillas-curvas-nist-ecdsa.webp)
 
 Durante décadas, la comunidad criptográfica se preguntó de dónde diablos salían las semillas de las curvas elípticas de NIST — esas P-256, P-384 y P-521 que hoy protegen prácticamente todo el HTTPS del planeta. Las entregó la NSA en los 90 **sin explicación alguna**, y el silencio alimentó 25 años de sospechas de backdoor. Resultado según Anthropic: **"It's just timestamps"**. Nada de frase oculta, nada de trampa. Un generador pseudoaleatorio viejísimo sembrado con el reloj del sistema.
 

@@ -11,7 +11,7 @@ tags:
 description: "OpenTofu 1.12 madura con features propias que Terraform no tiene: prevent_destroy dinámico, destroy=false y encriptación nativa de state."
 ---
 
-![Ilustración editorial comparando OpenTofu y Terraform con bloques de infraestructura como código](../../assets/images/2026-08-10-opentofu-1-12-vs-terraform.jpg)
+![OpenTofu 1.12 vs Terraform en 2026: el fork que dejó de ser solo un fork](../../assets/images/2026-08-10-opentofu-1-12-vs-terraform.webp)
 
 Hace menos de tres años, cuando HashiCorp cambió la licencia de Terraform de MPL 2.0 a BSL 1.1, una parte de la comunidad bifurcó el proyecto y nació OpenTofu. Hoy, con la versión **1.12** ya en la calle, ya no se puede describir simplemente como "el fork open source de Terraform". Es una herramienta con identidad propia.
 

@@ -12,7 +12,7 @@ tags:
 description: "Anthropic retira Cowork como producto standalone y lo fusiona dentro de Claude chat, sumando Claude Docs y Claude Slides para armar una 'superapp' única."
 ---
 
-![Ilustración editorial tech: una única interfaz unificada que absorbe varias ventanas y pestañas flotantes —documentos, presentaciones, diseño y chat— fundiéndose en un panel central limpio, tonos coral y crema sobre fondo oscuro, estilo minimalista abstracto](../../assets/images/2026-09-17-anthropic-fusiona-claude-chat-cowork-superapp.jpg)
+![Anthropic fusiona Claude chat y Cowork: apuesta por la 'superapp' con Docs y Slides](../../assets/images/2026-09-17-anthropic-fusiona-claude-chat-cowork-superapp.webp)
 
 Adiós a la confusión de "¿en qué pestaña hago qué?". **Anthropic retira Claude Cowork como producto independiente** y fusiona sus capacidades agentivas dentro del chat principal de Claude, en una jugada que apunta directo a construir una "superapp" estilo ChatGPT. El cambio empieza a desplegarse ahora y llega primero a los planes **Pro y Max** en web, escritorio y móvil.
 

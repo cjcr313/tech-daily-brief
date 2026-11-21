@@ -11,7 +11,7 @@ tags:
 description: "OpenAI publicó los primeros resultados medidos de Jalapeño, su chip de inferencia propio: 1,5–1,9x más throughput por watt y hasta 3,6x menos latencia frente a los sistemas comerciales."
 ---
 
-![Ilustración editorial de un chip de silicio futurista con el símbolo de un jalapeño, irradiando líneas de datos en tonos verdes y morados, estilo tech editorial](../../assets/images/2026-08-25-openai-jalapeno-chip-inferencia-primeros-resultados.svg)
+![Jalapeño, el primer chip de inferencia de OpenAI, ya tiene números: hasta 1,9x más trabajo por watt](../../assets/images/2026-08-25-openai-jalapeno-chip-inferencia-primeros-resultados.svg)
 
 OpenAI dejó de prometer y empezó a mostrar resultados: publicó los **primeros números medidos de Jalapeño**, su primer chip de inferencia diseñado in-house. Y los datos son serios: el silicio propio entrega **1,5 a 1,9 veces más trabajo de IA por watt** a peak throughput y **1,7 a 3,6 veces menos latencia** end-to-end que los sistemas comerciales con los que lo comparó.
 

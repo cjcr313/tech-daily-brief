@@ -11,7 +11,7 @@ tags:
 description: "Cat Wu, head of product de Claude Code, confirmó su partida a OpenAI para liderar product management de los productos core. Es otra pérdida clave para Anthropic justo cuando prepara su salida a bolsa bajo el ticker ANT."
 ---
 
-![Ilustración editorial tech de dos torres corporativas conectadas por un puente de luz, donde una figura professional cruza llevando consigo un cubo de datos brillante, con nodos de red y agentes de IA flotando entre ambas torres, paleta azul y violeta sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-11-05-cat-wu-claude-code-openai-fichaje.jpg)
+![La jefa de producto de Claude Code salta a OpenAI a días del IPO de Anthropic](../../assets/images/2026-11-05-cat-wu-claude-code-openai-fichaje.webp)
 
 La guerra del talento en IA tiene un capítulo jugoso: **Cat Wu (Catherine Wu), head of product de Claude Code, confirmó que se muda a OpenAI**, donde asumirá la dirección de product management del equipo de productos core de la compañía. El anuncio llegó apenas días después de que Anthropic presentara su prospecto de IPO, y la prensa la ubica como la **cuarta integrante central del equipo que Anthropic pierde** en este período.
 

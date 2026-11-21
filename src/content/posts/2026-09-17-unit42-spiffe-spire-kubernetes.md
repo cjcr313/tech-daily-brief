@@ -12,7 +12,7 @@ tags:
 description: "Palo Alto Unit 42 reveló una técnica de post-explotación que permite a un atacante con acceso root robar identidades de workload SPIFFE/SPIRE y suplantar aplicaciones."
 ---
 
-![Ilustración editorial tech: un candado roto sobre un nodo de servidor, con tarjetas de identidad digital flotando y siendo robadas por una silueta oscura, tonos rojo carmesí y gris acero sobre fondo oscuro, concepto de robo de identidad en Kubernetes](../../assets/images/2026-09-17-unit42-spiffe-spire-kubernetes.jpg)
+![Un nodo de Kubernetes comprometido puede robar identidades SPIFFE/SPIRE, advierte Unit 42](../../assets/images/2026-09-17-unit42-spiffe-spire-kubernetes.webp)
 
 Palo Alto Networks **Unit 42** publicó una investigación que deja una advertencia incómoda para el mundo del zero-trust en Kubernetes: una técnica de **post-explotación** permite a un atacante que ya tiene **acceso root a un nodo** robar las identidades de workload emitidas vía **SPIFFE/SPIRE** y suplantar aplicaciones legítimas que corren en el mismo host.
 

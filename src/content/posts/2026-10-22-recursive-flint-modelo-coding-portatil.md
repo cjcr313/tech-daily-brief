@@ -11,7 +11,7 @@ tags:
 description: "Recursive, la startup de Richard Socher, lanzó Flint: un modelo de coding MoE de 40B parámetros (solo 2.5B activos) que corre a 131 tokens/seg en un MacBook Pro, gratis bajo Apache 2.0 — y construido en 4 meses mayormente por su 'Eureka Machine'."
 ---
 
-![Ilustración editorial tech de un lienzo de programación futurista flotando sobre un laptop abierto en un escritorio minimalista, con un engranaje neuronal brillante ensamblando líneas de código luminosas dentro de la pantalla, paleta azul profundo con destellos ámbar, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/recursive-flint-modelo-coding-portatil.jpg)
+![Flint: el modelo de coding que corre en tu notebook y fue construido (casi) por IA](../../assets/images/recursive-flint-modelo-coding-portatil.webp)
 
 La autorreferencia como propuesta de valor: **Recursive**, la startup que quiere construir IA que se mejora a sí misma, lanzó **Flint**, su primer modelo — un modelo de coding **gratis, open source y liviano enough para tu notebook**, que además fue construido en gran parte *por IA*. Sí, el nombre de la compañía no es casualidad.
 

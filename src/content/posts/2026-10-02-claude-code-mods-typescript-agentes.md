@@ -11,7 +11,7 @@ tags:
 description: "Anthropic lanzó Mods para Claude Code: funciones TypeScript que interceptan cada evento del agente, reescriben prompts, bloquean tool calls y hasta redibujan la UI."
 ---
 
-![Ilustración editorial de módulos tipo puzzle conectándose a una tubería de código en una terminal, con piezas brillantes reconfigurando el flujo](../../assets/images/2026-10-02-claude-code-mods-typescript-agentes.jpg)
+![Claude Code Mods: ahora puedes reprogramar el agente desde adentro con TypeScript](../../assets/images/2026-10-02-claude-code-mods-typescript-agentes.webp)
 
 Anthropic le abrió las entrañas de Claude Code. El 1 de octubre lanzó **Mods**, pequeñas funciones en **TypeScript/JavaScript** que se cuelgan de los eventos internos del agente y pueden cambiar lo que hace, cómo lo hace y cómo se ve: reescribir prompts antes de que salgan, bloquear o reintentar tool calls, aprobar solicitudes de permisos automáticamente, redactar secretos, modificar elementos de la UI y hasta agregar botones propios.
 

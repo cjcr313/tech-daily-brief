@@ -12,7 +12,7 @@ tags:
 description: "El reporte anual de InfoQ identifica 5 fuerzas que están redefiniendo Cloud y DevOps: AI Platforms, FinOps para tokens, resiliencia, plataformas y soberanía digital."
 ---
 
-![Ilustración editorial de un mapa de tendencias tech con nodos de IA, nubes y engranajes, estilo editorial profesional](../../assets/images/2026-08-12-infoq-cloud-devops-trends-2026-ia-finops-soberania.jpg)
+![InfoQ Cloud & DevOps Trends 2026: AI Platforms, Tokenomics y el fin del DevOps como lo conocíamos](../../assets/images/2026-08-12-infoq-cloud-devops-trends-2026-ia-finops-soberania.webp)
 
 InfoQ acaba de publicar su **Cloud and DevOps Trends Report 2026**, y es probablemente el análisis más claro de qué está pasando en infraestructura y operaciones este año. Acá los highlights.
 

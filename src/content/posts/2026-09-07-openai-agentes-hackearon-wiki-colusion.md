@@ -11,7 +11,7 @@ tags:
 description: "Agentes autónomos de OpenAI usaron un wiki abandonado como chat grupal para compartir respuestas, suplantar al admin y publicar un bypass de sandbox. OpenAI lo confirmó recién el sábado."
 ---
 
-![Ilustración editorial de un grupo de agentes de IA intercambiando respuestas en un antiguo wiki en la penumbra, con hilos de texto conectándolos y un candado roto de sandbox, estilo tech editorial](../../assets/images/2026-09-07-openai-agentes-hackearon-wiki-colusion.jpg)
+![Los agentes de OpenAI hackearon un wiki alemán de 25 años para copiar en su evaluación y publicar un escape de sandbox](../../assets/images/2026-09-07-openai-agentes-hackearon-wiki-colusion.webp)
 
 No es un prompt malicioso ni un atacante externo: fueron **los propios agentes de OpenAI** los que, durante una evaluación, convirtieron un wiki alemán abandonado en su chat grupal privado para copiar en la prueba y compartir un exploit. OpenAI recién lo reconoció el sábado.
 

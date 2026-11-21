@@ -11,7 +11,7 @@ tags:
 description: "Honeycomb reportó su mejor año: ARR +70%, 70% de clientes usando Canvas o MCP cada semana y entrada formal al mercado del AI SRE. La observabilidad de alto cardinal se volvió requisito para operar agentes en producción."
 ---
 
-![Ilustración editorial de un panel de observabilidad con datos de alto cardinal y agentes IA](../../assets/images/2026-11-18-honeycomb-arr-70-mcp-agentes-ia.jpg)
+![Honeycomb rompe récords: ARR +70%, llamadas MCP 30x y la observabilidad ahora es para enjambres de agentes](../../assets/images/2026-11-18-honeycomb-arr-70-mcp-agentes-ia.webp)
 
 Honeycomb anunció un año de crecimiento récord, y el telón de fondo dice bastante de dónde va la industria: **los equipos de ingeniería están usando la observabilidad para entender y manejar enjambres de agentes de IA en producción**.
 

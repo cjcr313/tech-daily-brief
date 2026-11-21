@@ -12,7 +12,7 @@ tags:
 description: "Meta reportó US$60.8B en ingresos Q2 (+28% YoY), pero el free cash flow colapsó 91%. Zuckerberg subió capex a US$145B y lanzó Muse Spark 1.1, el primer modelo cerrado de Meta con API comercial."
 ---
 
-![Meta Q2 2026: capex US$145B y Muse Spark 1.1](../../assets/images/2026-08-03-meta-q2-2026-capex-145b-muse-spark.jpg)
+![Meta Q2 2026: capex US$145B y Muse Spark 1.1](../../assets/images/2026-08-03-meta-q2-2026-capex-145b-muse-spark.webp)
 
 Meta reportó números Q2 2026 esta semana y la historia es clarísima: **Zuckerberg está apostando el balance sheet entero a IA**. Revenue subió, gastos volaron, y el free cash flow se desplomó. Pero el jefe está tranquilo — dice que es el precio de liderar.
 

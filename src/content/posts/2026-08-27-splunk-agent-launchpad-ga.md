@@ -11,7 +11,7 @@ tags:
 description: "Disponibilidad general de Splunk Agent Launchpad, una forma no-code de construir agentes de IA dentro de Splunk respetando tus permisos."
 ---
 
-![Ilustración de agentes de IA investigando alertas en un panel de observabilidad](../../assets/images/2026-08-27-splunk-agent-launchpad-ga.jpg)
+![Ilustración de agentes de IA investigando alertas en un panel de observabilidad](../../assets/images/2026-08-27-splunk-agent-launchpad-ga.webp)
 
 Splunk anunció la **disponibilidad general de Agent Launchpad**, una forma **no-code** de construir agentes de IA dentro del entorno Splunk, usando los permisos (RBAC) que ya tienes.
 

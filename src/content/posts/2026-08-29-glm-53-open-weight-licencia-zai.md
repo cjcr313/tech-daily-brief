@@ -11,7 +11,7 @@ tags:
 description: "GLM-5.3 ya está en Hugging Face: 753B de parámetros open weight, pero con una licencia que exige revisión de seguridad a quien quiera hostearlo con más de US$10.000M de ingresos."
 ---
 
-![Ilustración editorial de un candado estilizado flotando sobre una red neuronal y siluetas de centros de datos, paleta azul profundo con acentos naranja, estilo ilustración tech editorial](../../assets/images/2026-08-29-glm-53-open-weight-licencia-zai.jpg)
+![Z.ai libera los pesos de GLM-5.3, pero la nueva licencia apunta directo a los hyperscalers](../../assets/images/2026-08-29-glm-53-open-weight-licencia-zai.webp)
 
 Z.ai, el laboratorio chino detrás del misterioso modelo "ox-alpha" que resultó ser GLM-5.3-Flash, publicó el viernes los pesos de su modelo insignia **GLM-5.3** en Hugging Face. Nada de release tímido: **753 mil millones de parámetros** en arquitectura MoE (la misma de GLM-5.2), contexto de **1 millón de tokens** y salida máxima de 128.000. Los pesos vienen en BF16 y FP8, y corren en vLLM, SGLang, KTransformers y Transformers.
 

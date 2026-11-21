@@ -12,7 +12,7 @@ tags:
 description: "Los roles de mantención e instalación en data centers de EE.UU. pagan 42% más por hora que puestos similares en otras industrias, según datos de Indeed. La construcción de infraestructura de IA está inflando los sueldos."
 ---
 
-![Ilustración editorial de técnicos trabajando entre racks de servidores con luces LED azules y naranjas, corredores de un data center moderno, estilo tech editorial](../../assets/images/2026-09-20-data-centers-pagan-42-mas-boom-laboral-ia.jpg)
+![Trabajar en un data center paga 42% más: el boom laboral silencioso de la IA](../../assets/images/2026-09-20-data-centers-pagan-42-mas-boom-laboral-ia.webp)
 
 Todo el mundo habla de los sueldos de los ingenieros de ML, pero el boom de la IA tiene otra cara menos glamorosa: **los que mantienen y arman los data centers**. Según datos de Indeed Hiring Lab que destapó The Wall Street Journal, los roles de **mantención e instalación en data centers de EE.UU. pagan cerca de 42% más por hora** que puestos similares en otras industrias.
 

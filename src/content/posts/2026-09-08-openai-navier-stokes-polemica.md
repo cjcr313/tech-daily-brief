@@ -11,7 +11,7 @@ tags:
 description: "OpenAI anunció una solución por IA a Navier-Stokes, uno de los Problemas del Milenio. Tristan Buckmaster la acusa de acelerar tras enterarse del trabajo de él y de Levent Alpöge (Anthropic)."
 ---
 
-![Ilustración editorial de corrientes turbulentas de agua y aire convertidas en campos vectoriales matemáticos que fluyen alrededor de una ecuación brillante, tonos azules y turquesa](../../assets/images/2026-09-08-openai-navier-stokes-polemica.jpg)
+![OpenAI dice que 'resolvió' Navier-Stokes, pero los matemáticos acusan carrera con ventaja](../../assets/images/2026-09-08-openai-navier-stokes-polemica.webp)
 
 OpenAI soltó una bomba el lunes: dice que su modelo interno demostró que las ecuaciones de Navier-Stokes —esas que describen cómo se mueven los fluidos y que llevan casi 200 años desafiando a los matemáticos— son "fatalmente defectuosas". Es, literalmente, uno de los Problemas del Milenio de Clay, con un millón de dólares de premio encima. Y como toda buena bomba, viene con una nube de polvo detrás.
 

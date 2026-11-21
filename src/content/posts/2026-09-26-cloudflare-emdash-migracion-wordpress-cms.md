@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare se pasó de WordPress a EmDash, su propio CMS open source, y publicó los números de rendimiento de la migración."
 ---
 
-![Ilustración editorial del blog de Cloudflare corriendo sobre EmDash](../../assets/images/2026-09-26-cloudflare-emdash-migracion-wordpress-cms.jpg)
+![Cloudflare migra su blog de WordPress a EmDash, su CMS open source](../../assets/images/2026-09-26-cloudflare-emdash-migracion-wordpress-cms.webp)
 
 Cloudflare acaba de contar cómo migró su blog principal desde WordPress a EmDash, el CMS open source que ellos mismos están construyendo. La historia es un buen ejemplo de "comerse tu propia comida de perro": Cloudflare se convirtió en el *Customer Zero* de su propia plataforma, y los números que muestran son bastante llamativos.
 

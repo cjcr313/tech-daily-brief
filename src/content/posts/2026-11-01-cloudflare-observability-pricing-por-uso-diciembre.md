@@ -11,7 +11,7 @@ tags:
 description: "Desde el 1 de diciembre Cloudflare unifica el precio de todos sus logs y trazas: 50 GB de ingesta incluidos en planes pagados y $0,25 por GB extra. Se acabó el cobro por evento."
 ---
 
-![Ilustración editorial tech de un medidor de flujo de datos con corrientes de logs y trazas entrando a un solo contenedor de medición unificado, estilo geométrico minimalista, paleta naranja y azul profundo, profesional, sin texto](../../assets/images/cloudflare-observability-pricing-por-uso-diciembre.jpg)
+![Cloudflare Observability pasa a cobro por uso desde el 1 de diciembre: logs y trazas bajo un solo modelo](../../assets/images/cloudflare-observability-pricing-por-uso-diciembre.webp)
 
 Cloudflare confirmó que desde el **1 de diciembre de 2026 todos sus logs y trazas usan el mismo modelo de precios**: cobro por GB ingerido y GB-mes almacenado, reemplazando el esquema por cantidad de eventos. La documentación oficial ya está publicada y el cambio es automático — nadie tiene que hacer nada, salvo revisar su factura.
 

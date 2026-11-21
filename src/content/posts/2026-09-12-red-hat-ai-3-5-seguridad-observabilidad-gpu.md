@@ -13,7 +13,7 @@ tags:
 description: "Red Hat AI 3.5 llega a disponibilidad general con EvalHub, métricas de inferencia y multi-tenencia de GPU para gobernar agentes de IA en producción."
 ---
 
-![Ilustración de Red Hat AI 3.5](../../assets/images/2026-09-12-red-hat-ai-3-5-seguridad-observabilidad-gpu.jpg)
+![Ilustración de Red Hat AI 3.5](../../assets/images/2026-09-12-red-hat-ai-3-5-seguridad-observabilidad-gpu.webp)
 
 Red Hat soltó la versión 3.5 de su plataforma de IA y el mensaje es claro: la era de los pilotos se acabó. Ahora toca industrializar la IA como un servicio empresarial compartido, con la misma seriedad operativa que un cluster de OpenShift.
 

@@ -10,7 +10,7 @@ tags:
 description: "Q3 de Anthropic: ingresos de US$16.800 millones (+45%), US$1,70 por cada dólar de compute y segunda utilidad ajustada consecutiva. El IPO busca más de US$2 billones de valoración."
 ---
 
-![Ilustración editorial de dos rascacielos financieros conectados por un puente ascendente de gráficos de crecimiento luminoso, el edificio más pequeño creciendo más rápido y alcanzando al gigante, paleta azul profundo con acentos verdes de ganancia, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-15-anthropic-16-8-mil-millones-q3-ipo.jpg)
+![Anthropic facturó US$16.800 millones en un trimestre: acorta la brecha con OpenAI y acelera su IPO](../../assets/images/2026-10-15-anthropic-16-8-mil-millones-q3-ipo.webp)
 
 Los números que presentó Anthropic a inversionistas este miércoles en su sede de San Francisco leen como una curva de hockey: **US$16.800 millones de ingresos en el tercer trimestre, un salto de 45% respecto del Q2**. Para dimensionar: todo su 2025 completo fue de US$4.600 millones. Cada trimestre de este año ha superado el año entero pasado.
 

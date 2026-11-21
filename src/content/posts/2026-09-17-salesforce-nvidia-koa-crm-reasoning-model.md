@@ -12,7 +12,7 @@ tags:
 description: "Salesforce y NVIDIA presentaron Koa, un modelo de razonamiento entrenado sobre Nemotron y 27 años de datos de CRM, que corre dentro de la propia infraestructura de Salesforce."
 ---
 
-![Ilustración editorial de un cerebro de red neuronal sobre un tablero CRM con la paleta de colores de Salesforce y NVIDIA](../../assets/images/2026-09-17-salesforce-nvidia-koa-crm-reasoning-model.jpg)
+![Salesforce y NVIDIA lanzan Koa: el primer modelo de razonamiento para CRM](../../assets/images/2026-09-17-salesforce-nvidia-koa-crm-reasoning-model.webp)
 
 Salesforce se puso las pilas con la IA y, en pleno Dreamforce, se asoció con NVIDIA para presentar **Koa**, su primer modelo de razonamiento enfocado 100% en CRM. La apuesta es grande: meterle cabeza real a los agentes de **Agentforce** para que resuelvan tareas complejas de varios pasos, no solo responder mensajes sueltos.
 

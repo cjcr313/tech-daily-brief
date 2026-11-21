@@ -11,7 +11,7 @@ tags:
 description: "Jacob Coxon renunció a Anthropic acusando a los labs de 'apostar con nuestras vidas', y Evan Hubinger, jefe de alignment science, le dio la razón con una estimación de extinción superior al 10% en una década."
 ---
 
-![Ilustración editorial de riesgo existencial en IA: una figura humana diminuta frente a una red neuronal colosal que se enciende, tonos azul profundo y ámbar, concepto abstracto de incertidumbre y seguridad sobre fondo oscuro](../../assets/images/2026-09-11-anthropic-coxon-renuncia-riesgo-extincion-ia.jpg)
+![Investigador de Anthropic renuncia y advierte que la IA 'nos puede matar a todos'; el jefe de alignment le da la razón](../../assets/images/2026-09-11-anthropic-coxon-renuncia-riesgo-extincion-ia.webp)
 
 La semana de la IA se puso densa, y no por un lanzamiento. El martes, **Jacob Coxon**, investigador de Anthropic, renunció y dejó un mensaje que dio la vuelta al mundo: Anthropic y OpenAI "están corriendo directo hacia una superinteligencia que se auto-mejora y apostando con nuestras vidas", y agregó que la gente que construye estos sistemas "cree sinceramente que podría matarnos a todos para fin de la década".
 

@@ -11,7 +11,7 @@ tags:
 description: "OpenAI congeló los nuevos registros del plan ChatGPT Pro de US$200/mes porque la demanda de GPT-6 Astra está reventando su capacidad."
 ---
 
-![Ilustración de la pausa de suscripciones de ChatGPT Pro](../../assets/images/2026-09-12-openai-pausa-chatgpt-pro-astra-demanda.jpg)
+![Ilustración de la pausa de suscripciones de ChatGPT Pro](../../assets/images/2026-09-12-openai-pausa-chatgpt-pro-astra-demanda.webp)
 
 OpenAI tiene un problema que la mayoría de las startups envidiaría: su modelo nuevo es tan demandado que tuvieron que cerrar la puerta. La compañía **pausó las nuevas suscripciones de ChatGPT Pro**, el plan de **US$200 al mes**, porque GPT-6 Astra está estirando su infraestructura al límite.
 

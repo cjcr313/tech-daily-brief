@@ -13,7 +13,7 @@ tags:
 description: "Google Cloud estrena Database Operations Agents: un agente de onboarding que te recomienda y provisiona la base correcta, y uno de observabilidad que diagnostica root cause en minutos vía Gemini Cloud Assist."
 ---
 
-![Ilustración editorial de agentes de IA administrando bases de datos: un asistente digital conectando telemetría (gráficos, logs, trazas) a iconos de bases relacionales, documentales y columnar, paleta azul de Google Cloud con acentos teal y ámbar](../../assets/images/2026-08-27-google-cloud-agentes-ia-bases-de-datos.jpg)
+![Google Cloud lanza agentes de IA para administrar tus bases de datos de punta a punta](../../assets/images/2026-08-27-google-cloud-agentes-ia-bases-de-datos.webp)
 
 Google Cloud sigue empujando su apuesta por los agentes, ahora apuntando a un terreno que históricamente da más dolores de cabeza de lo que admite: **el ciclo de vida de las bases de datos**. Los nuevos **Database Operations Agents** llegan con dos frentes —un *Onboarding Agent* y un *Observability Agent*—, ambos integrados con **Gemini Cloud Assist** y disponibles para Cloud SQL, Spanner, AlloyDB, Firestore, Memorystore y Bigtable.
 

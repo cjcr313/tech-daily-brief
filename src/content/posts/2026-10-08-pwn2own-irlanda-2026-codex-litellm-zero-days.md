@@ -12,7 +12,7 @@ tags:
 description: "El primer día de Pwn2Own Ireland 2026 pagó US$388.500 por 32 zero-days. Los exploit más comentados ya no son solo celulares: cayeron OpenAI Codex, LiteLLM y la Autonomous AI Database de Oracle."
 ---
 
-![Ilustración editorial de un candado digital brillante siendo forzado por herramientas flotantes frente a un escenario de concurso con focos de luz, paleta oscura con acentos naranjos, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-08-pwn2own-irlanda-2026-codex-litellm-zero-days.jpg)
+![Pwn2Own Irlanda: 32 zero-days el primer día, y los blancos nuevos son OpenAI Codex y LiteLLM](../../assets/images/2026-10-08-pwn2own-irlanda-2026-codex-litellm-zero-days.webp)
 
 El **Pwn2Own Ireland 2026** arrancó con todo el **6 de octubre**: **32 vulnerabilidades zero-day** únicas explotadas en un solo día y **US$388.500** en premios. Pero la noticia que le importa a quien lee este blog no son los celulares: es que **las herramientas de desarrollo de IA ya son superficie de ataque de primera clase**.
 

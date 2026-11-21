@@ -11,7 +11,7 @@ tags:
 description: "Anthropic lanzó Haiku 5.5 con recortes de precio de hasta 90%, contexto de 1M tokens y la misma tarifa que GPT-6 Luna. La guerra de precios de los modelos pasó a otra fase."
 ---
 
-![Ilustración editorial tech de una báscula moderna equilibrando una esfera de luz inteligente y monedas doradas cayendo, fondo degradado azul profundo con circuitos sutiles, estilo flat profesional, acentos turquesa y ámbar, sin texto](../../assets/images/2026-10-08-anthropic-haiku-5-5-90-mas-barato-guerra-precios.jpg)
+![Anthropic lanza Claude Haiku 5.5: hasta 90% más barato y la guerra de precios de la IA se puso seria](../../assets/images/2026-10-08-anthropic-haiku-5-5-90-mas-barato-guerra-precios.webp)
 
 Anthropic sacó [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) y la noticia no es solo el modelo: es la tarifa. El modelo pequeño de la familia Claude llega con **recortes de precio de hasta 90% en la API** para requests de menos de 100.000 tokens, ubicándose exactamente en la línea de GPT-6 Luna de OpenAI. La guerra de precios que DeepSeek empezó ya tiene a todos los grandes peleando por el mismo piso.
 

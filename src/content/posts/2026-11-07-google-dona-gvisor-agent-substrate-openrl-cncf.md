@@ -11,7 +11,7 @@ tags:
 description: "Google movió la mitad open source de su stack de agentes a la CNCF: gVisor, Agent Substrate y OpenRL entran al Sandbox stage, con Agent Substrate 1.0 GA en GKE. Esto cambia las reglas del aislamiento de agentes."
 ---
 
-![Ilustración editorial de contenedores aislados dentro de capas de sandbox translúcidas sobre un clúster Kubernetes](../../assets/images/google-dona-gvisor-agent-substrate-openrl-cncf.jpg)
+![Google dona gVisor, Agent Substrate y OpenRL a la CNCF: el sandbox de la era de los agentes ya es patrimonio cloud-native](../../assets/images/google-dona-gvisor-agent-substrate-openrl-cncf.webp)
 
 Google se sacó la etiqueta de dueño: confirmó que **gVisor, Agent Substrate y OpenRL pasan a gobernanza de la Cloud Native Computing Foundation (CNCF)**, en el Sandbox stage. El anuncio lo firmó Drew Bradstreet... perdón, **Drew Bradstock**, VP de Product Management de Kubernetes y orquestación en Google, y aterrizó justo antes de KubeCon North America en Salt Lake City (9-12 de noviembre). Message claro: la infraestructura para correr agentes de IA de forma aislada deja de ser propiedad de un vendor y pasa a ser patrimonio del ecosistema cloud-native.
 

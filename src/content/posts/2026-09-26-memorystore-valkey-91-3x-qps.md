@@ -12,7 +12,7 @@ tags:
 description: "GA de Valkey 9.1 con arquitectura de colas lock-free, ACL por base de datos y nuevos comandos."
 ---
 
-![Ilustración editorial de un motor de base de datos en memoria con múltiples hilos de I/O conectados por colas lock-free, procesando miles de operaciones por segundo a velocidad de microsegundos](../../assets/images/2026-09-26-memorystore-valkey-91-3x-qps.jpg)
+![Memorystore for Valkey 9.1: 3x más QPS a latencia de microsegundos](../../assets/images/2026-09-26-memorystore-valkey-91-3x-qps.webp)
 
 Google Cloud lanzó la **disponibilidad general de Memorystore for Valkey 9.1**, y la cifra es potente: hasta **3x más QPS a latencia de microsegundos** comparado con Memorystore para Redis Cluster.
 

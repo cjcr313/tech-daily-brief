@@ -11,7 +11,7 @@ tags:
 description: "La CNCF anunció en KubeCon NA 2026 que KubeVirt alcanzó el estatus de graduado: VMs y contenedores bajo un mismo plano de control de Kubernetes, con ByteDance, Cloudflare y CoreWeave usándolo en producción."
 ---
 
-![Ilustración editorial de máquinas virtuales y contenedores conviviendo dentro de un clúster de Kubernetes](../../assets/images/kubevirt-gradua-cncf-10-anos-vms-kubernetes.jpg)
+![KubeVirt se gradúa en la CNCF: 10 años para que Kubernetes se trague las VMs](../../assets/images/kubevirt-gradua-cncf-10-anos-vms-kubernetes.webp)
 
 KubeCon + CloudNativeCon North America 2026 está en Salt Lake City y la CNCF soltó una de esas noticias que marcan tendencia: **KubeVirt alcanzó el estatus de proyecto graduado**. Diez años después de que Red Hat lo creara en 2016, la idea de que Kubernetes pueda correr y gestionar **máquinas virtuales junto a contenedores** dejó de ser experimento y ahora es oficialmente "producción madura".
 

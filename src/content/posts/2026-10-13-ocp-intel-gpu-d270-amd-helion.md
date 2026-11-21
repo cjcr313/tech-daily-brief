@@ -11,7 +11,7 @@ tags:
 description: "En la OCP Global Summit, Intel presentó oficialmente su GPU D270 de inferencia con hasta 480GB LPDDR5X, y AMD mostró Helion, un rack abierto con 32.768 cores EPYC Zen 6 y router de tokens para agentes."
 ---
 
-![Ilustración editorial de dos racks de servidores futuristas compitiendo en una pista de datacenter, uno azul con chips de memoria brillantes y otro naranja con miles de núcleos luminosos, refrigeración líquida visible, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-13-ocp-intel-gpu-d270-amd-helion.jpg)
+![Más allá de Nvidia en la OCP: Intel lanza la GPU D270 con 480GB de memoria y AMD responde con Helion, racks de 32.768 cores Zen 6](../../assets/images/2026-10-13-ocp-intel-gpu-d270-amd-helion.webp)
 
 La OCP Global Summit de este año ya había dado que hablar con los planos abiertos de Nvidia — pero la cumbre no era solo de ellos. **Intel presentó formalmente su GPU D270 de inferencia y AMD mostró Helion, su rack de referencia abierto para la era agéntica**. Dos apuestas distintas por el mismo problema: la inferencia masiva a costo razonable.
 

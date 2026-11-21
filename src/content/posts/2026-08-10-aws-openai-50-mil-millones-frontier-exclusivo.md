@@ -11,7 +11,7 @@ tags:
 description: "Amazon cerró US$50B en OpenAI como parte de una ronda de US$110B. AWS será el cloud exclusivo de la plataforma Frontier de OpenAI por 8 años."
 ---
 
-![Ilustración editorial del acuerdo entre AWS y OpenAI con iconos de nube e IA conectados](../../assets/images/2026-08-10-aws-openai-50-mil-millones-frontier-exclusivo.jpg)
+![Amazon mete US$50 mil millones a OpenAI y AWS se vuelve su cloud exclusivo](../../assets/images/2026-08-10-aws-openai-50-mil-millones-frontier-exclusivo.webp)
 
 Si el mundo de la IA estaba caliente, acaba de llegar a otro nivel. **Amazon cerró una inversión de US$50 mil millones en OpenAI**, como parte de una ronda de financiamiento total de US$110 mil millones quevalúa a OpenAI en **US$730 mil millones**. Pero el dato potente no es solo la plata — es el componente estratégico.
 

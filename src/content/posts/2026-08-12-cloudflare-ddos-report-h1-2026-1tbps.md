@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare mitigó 23.2M ataques DDoS en H1 2026. Los ataques sobre 1 Tbps se dispararon 519%. DNS floods y CLDAP dominan el nuevo panorama."
 ---
 
-![Ilustración editorial de escudos de datos defendiendo una red bajo ataque masivo, estilo tech](../../assets/images/2026-08-12-cloudflare-ddos-report-h1-2026-1tbps.jpg)
+![Cloudflare DDoS Report H1 2026: 935 ataques sobre 1 Tbps y un cambio sísmico en los vectores de ataque](../../assets/images/2026-08-12-cloudflare-ddos-report-h1-2026-1tbps.webp)
 
 Cloudflare publicó su **DDoS Threat Report H1 2026** (edición #25), y los números son una bofetada de realidad para cualquiera que pensaba que el problema DDoS estaba "manejado".
 

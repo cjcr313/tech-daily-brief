@@ -12,7 +12,7 @@ tags:
 description: "OpenAI prueba en EE.UU. los Sponsored Agents, avisos que abren un chat con el agente de una marca dentro de ChatGPT. Wayfair y Angi son los primeros."
 ---
 
-![Ilustración editorial tech: un chat conversacional con un agente de marca destacado y claramente etiquetado dentro de una interfaz de asistente, separado visualmente del hilo principal, tonos dorados y gris sobre fondo oscuro, concepto de publicidad conversacional](../../assets/images/2026-09-17-openai-sponsored-agents-chatgpt.jpg)
+![OpenAI convierte ChatGPT en plataforma de avisos: llegan los Sponsored Agents](../../assets/images/2026-09-17-openai-sponsored-agents-chatgpt.webp)
 
 ChatGPT empieza a monetizar con avisos. OpenAI está probando en Estados Unidos los **Sponsored Agents**, un formato publicitario que, cuando un usuario está conversando sobre algo relevante, le abre un chat con el agente de una marca **dentro de la misma interfaz**. El piloto, presentado el 16 de septiembre, arranca con anunciantes seleccionados: **Wayfair** (muebles y hogar) y **Angi** (servicios para el hogar) son los primeros en subirse.
 

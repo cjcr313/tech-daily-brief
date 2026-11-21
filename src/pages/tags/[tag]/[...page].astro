@@ -5,9 +5,10 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Main from "@/components/Main.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
-import Card from "@/components/Card.astro";
+import NewsCard from "@/components/NewsCard.astro";
 import Footer from "@/components/Footer.astro";
 import Pagination from "@/components/Pagination.astro";
+import { getCategoryMeta } from "@/utils/categories";
 import { getUniqueTags } from "@/utils/getUniqueTags";
 import { getMainSortedPosts } from "@/utils/getSortedPosts";
 import { slugifyAll } from "@/utils/slugify";
@@ -32,26 +33,48 @@ export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
 }
 
 const { page, tagName } = Astro.props;
+const { tag } = Astro.params;
 
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
+const category = getCategoryMeta(tagName);
 ---
 
-<Layout title={`${t.pages.tagTitle}: ${tagName} | ${config.site.title}`}>
+<Layout
+  title={`${tagName}${page.currentPage > 1 ? ` · Página ${page.currentPage}` : ""} | ${config.site.title}`}
+  description={`Últimas noticias y análisis de ${tagName} en ${config.site.title}.`}
+  noindex={page.currentPage > 1 || page.total < 3}
+>
   <Header />
 
   <Breadcrumb />
 
   <Main
-    pageTitle={`${t.pages.tagTitle}: ${tagName}`}
-    pageDesc={`${t.pages.tagDesc} "${tagName}".`}
+    pageTitle={tagName}
+    pageDesc={`${page.total} ${page.total === 1 ? "noticia publicada" : "noticias publicadas"} en ${tagName}.`}
   >
-    <ul>
-      {page.data.map(data => <Card {...data} />)}
+    <div class="mb-6 flex items-center gap-2">
+      <span
+        class:list={[
+          "font-mono inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-xs font-semibold tracking-wide uppercase",
+          category.chipClass,
+        ]}
+      >
+        <span
+          class:list={["size-2 rounded-full", category.dotClass]}
+          aria-hidden="true"></span>
+        {t.pages.tagTitle}: {tagName}
+      </span>
+    </div>
+
+    <ul class="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      {page.data.map(post => <NewsCard post={post} />)}
     </ul>
   </Main>
 
-  <Pagination {page} />
+  <div class="app-layout pt-8">
+    <Pagination {page} base={`tags/${tag}`} />
+  </div>
 
   <Footer noMarginTop={page.lastPage > 1} />
 </Layout>

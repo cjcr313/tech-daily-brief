@@ -11,7 +11,7 @@ tags:
 description: "A un año de su GA, Amazon Elastic VMware Service llega a 22 regiones con soporte para VCF 9.0/9.1 y se posiciona como la ruta rápida para salir del data center."
 ---
 
-![Ilustración editorial de un centro de datos migrando cargas VMware hacia la nube](../../assets/images/2026-09-04-aws-amazon-evs-vmware-migracion.jpg)
+![AWS expande Amazon EVS a 22 regiones para destrabar la migración VMware](../../assets/images/2026-09-04-aws-amazon-evs-vmware-migracion.webp)
 
 A un año de su disponibilidad general, AWS le metió combustible a **Amazon Elastic VMware Service (EVS)**. En pleno **VMware Explore 2026**, la compañía anunció que el servicio ya corre en **22 regiones** y soporta **VMware Cloud Foundation (VCF) 9.0 y 9.1** sobre infraestructura bare-metal de EC2.
 

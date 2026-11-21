@@ -11,7 +11,7 @@ tags:
 description: "OpenAI detuvo el desarrollo de Astra tras detectar que puede desarrollar zero-day exploits de forma autónoma. Primer modelo en activar el nivel Critical del Preparedness Framework."
 ---
 
-![OpenAI pausa Astra por umbral crítico de ciberseguridad](../../assets/images/2026-08-08-openai-astra-critical.jpg)
+![OpenAI pausa Astra por umbral crítico de ciberseguridad](../../assets/images/2026-08-08-openai-astra-critical.webp)
 
 Esto no es un título sensacionalista. Es literalmente lo que pasó: **OpenAI pausó el desarrollo interno de Astra** el 7 de agosto después de que sus evaluaciones concluyeran que el modelo podría tener capacidades ciberseguridad de nivel **"Critical"** — el primero en la historia en tocar ese techo.
 

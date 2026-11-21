@@ -11,7 +11,7 @@ tags:
 description: "Salt Lake City bajó el telón: por primera vez hubo track completo de inferencia y agentes de IA, y la conclusión es que Kubernetes dejó de ser solo un orquestador de contenedores."
 ---
 
-![Ilustración editorial tech de un clúster Kubernetes estilizado como núcleo central luminoso del cual irradian nodos de cómputo con chips de IA y flechas de datos convergiendo hacia él, paleta azul profundo, violeta y cian, estilo ilustración profesional sin texto](../../assets/images/kubecon-na-2026-cierre-inferencia-ia-trabajo-central.jpg)
+![KubeCon NA 2026 cierra con veredicto claro: la inferencia de IA es el nuevo trabajo central de Kubernetes](../../assets/images/kubecon-na-2026-cierre-inferencia-ia-trabajo-central.webp)
 
 Se cayó el telón en el Salt Palace: **KubeCon + CloudNativeCon North America 2026 cerró hoy jueves** tras cuatro días, y la lectura que queda no admite mucho debate. Por primera vez en su historia, el evento tuvo un track completo dedicado a **inferencia de IA y agentes autónomos**, y entregó un veredicto que la comunidad venía construyendo hace años: **Kubernetes ya no es solo una capa de orquestación de contenedores. Es, en la práctica, el sistema operativo de la era de la IA.**
 

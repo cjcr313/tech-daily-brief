@@ -11,7 +11,7 @@ tags:
 description: "Desde el 2 de agosto, la Unión Europea comenzó a aplicar de obligado cumplimiento las reglas de transparencia del AI Act. Chatbots deben declarar su naturaleza, deepfakes deben etiquetarse y los proveedores de modelos GPAI tienen nuevas obligaciones."
 ---
 
-![UE AI Act aplicación obligatoria transparencia](../../assets/images/2026-08-03-eu-ai-act-comienza-aplicacion-transparencia.jpg)
+![UE AI Act aplicación obligatoria transparencia](../../assets/images/2026-08-03-eu-ai-act-comienza-aplicacion-transparencia.webp)
 
 Desde el **2 de agosto de 2026**, la Unión Europea cruzó una línea que no hay vuelta atrás: empezó la **aplicación obligatoria** de las disposiciones clave del **AI Act**. Ya no es un borrador ni una propuesta — es ley activa.
 

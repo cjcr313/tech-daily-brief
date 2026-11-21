@@ -12,7 +12,7 @@ tags:
 description: "AWS anunció que Aurora DSQL ya soporta restricciones de clave foránea con CASCADE y SET NULL. Era el principal bloqueador de adopción del Postgres serverless distribuido."
 ---
 
-![Ilustración editorial de una base de datos PostgreSQL distribuida serverless con nodos conectados por restricciones de clave foránea, sobre la nube de AWS](../../assets/images/2026-09-28-aurora-dsql-foreign-keys-adopcion.jpg)
+![Aurora DSQL agrega foreign keys: AWS cierra la brecha que frenaba las migraciones](../../assets/images/2026-09-28-aurora-dsql-foreign-keys-adopcion.webp)
 
 AWS anunció que **Aurora DSQL ya soporta restricciones de clave foránea (foreign keys)**, con CASCADE, SET NULL y otras acciones referenciales. Suena a feature menor, pero es el cierre de una brecha que la propia comunidad había marcado como **el principal bloqueador de adopción** desde que el servicio se anunció en re:Invent 2024.
 

@@ -11,7 +11,7 @@ tags:
 description: "En menos de 200 días, la plataforma publicitaria de ChatGPT alcanzó US$1.000 millones de ingresos anualizados y abrió autoservicio en India, Europa, Medio Oriente y Norte de África."
 ---
 
-![Ilustración editorial de ChatGPT Ads expandiéndose globalmente](../../assets/images/2026-08-31-openai-chatgpt-ads-1000-millones-expansion.jpg)
+![ChatGPT Ads supera los US$1.000 millones y se abre al mundo](../../assets/images/2026-08-31-openai-chatgpt-ads-1000-millones-expansion.webp)
 
 OpenAI metió quinta con la publicidad. A menos de 200 días de su lanzamiento, **ChatGPT Ads alcanzó los US$1.000 millones en ingresos anualizados (run rate)** y ya lo usan decenas de miles de anunciantes en más de 40 países. La noticia no es solo el número: la empresa abrió el **autoservicio vía Ads Manager** en India, Europa, Medio Oriente y Norte de África, sumando mercados a los que antes solo se llegaba por venta directa o agencias.
 

@@ -12,7 +12,7 @@ tags:
 description: "Grafana Labs propone aplicar SLOs y error budgets clásicos del SRE al comportamiento de agentes de IA: alucinaciones, cumplimiento de tareas y toxicidad como métricas medibles."
 ---
 
-![Ilustración editorial de observabilidad aplicada a agentes de IA: dashboards, presupuestos de error y métricas de comportamiento](../../assets/images/grafana-slos-agentes-ia-error-budgets.jpg)
+![¿Y si las alucinaciones de tu agente de IA tuvieran presupuesto? Grafana propone SLOs para el comportamiento de agentes](../../assets/images/grafana-slos-agentes-ia-error-budgets.webp)
 
 Tienes un agente de IA en producción. Latencia perfecta, costo por token controlado, cero errores técnicos, traces de cada tool call. Y sin embargo, nadie puede responder la pregunta que importa: **¿es bueno este agente o no?** Esa es la brecha que quiere cerrar Grafana Labs con una propuesta publicada esta semana: aplicar los viejos y confiables **SLOs y error budgets del SRE** al comportamiento de agentes de IA.
 

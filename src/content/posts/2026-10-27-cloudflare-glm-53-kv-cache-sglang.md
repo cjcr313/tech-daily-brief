@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare reveló que GLM-5.3 en Workers AI filtró caché KV entre requests de distintos clientes: 155 respuestas afectadas por un bug de SGLang en modo prefill/decode disgregado más un pool de caché más chico que la ventana de contexto. Postmortem completo."
 ---
 
-![Ilustración editorial tech isométrica de un servidor de inferencia de IA con capas de memoria caché representadas como bloques de luz superpuestos que se filtran entre cápsulas de distintos clientes, mientras un escudo de seguridad detecta la fuga, paleta azul oscuro con acentos naranja y rojo, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-27-cloudflare-glm-53-kv-cache-sglang.jpg)
+![Cloudflare confirma fuga de caché KV entre clientes en GLM-5.3 de Workers AI: doble combo de bug de SGLang y mala configuración](../../assets/images/2026-10-27-cloudflare-glm-53-kv-cache-sglang.webp)
 
 Cloudflare publicó un postmortem de esos que duelen pero se agradecen: entre el **27 de agosto y el 9 de septiembre de 2026**, algunos clientes del modelo `@cf/zai-org/glm-5.3` en Workers AI recibieron respuestas que contenía datos de **sesiones de otros usuarios**. En total, **155 respuestas afectadas**, todas a prompts de más de 681.280 tokens. Sin evidencia de explotación deliberada, pero la lección de aislamiento multi-tenant en inferencia quedó clarita.
 

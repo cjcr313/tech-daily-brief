@@ -11,7 +11,7 @@ tags:
 description: "Dynatrace es launch partner del programa de partners de Cursor: plugin verificado en el Cursor Marketplace conecta el editor con telemetría, mapa de dependencias y análisis causal de causa raíz."
 ---
 
-![Ilustración editorial de un editor de código conectado mediante líneas de datos a un mapa de servicios en producción](../../assets/images/dynatrace-cursor-observabilidad-produccion.jpg)
+![Dynatrace se mete en Cursor: plugin verificado lleva el contexto de producción (Grail, Smartscape y RCA causal) directo al editor con IA](../../assets/images/dynatrace-cursor-observabilidad-produccion.webp)
 
 Si hay un patrón repetido en 2026 es este: **la observabilidad tiene que llegar adonde ya está el developer**. Dynatrace lo acaba de formalizar con un anuncio doble: entra como **launch partner de la red de partners de Cursor** (la "SpaceX Super Intelligence Partner Network", desde que Cursor es parte del imperio SpaceX) y publicó un **plugin verificado en el Cursor Marketplace**.
 

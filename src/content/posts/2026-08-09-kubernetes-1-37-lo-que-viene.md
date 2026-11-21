@@ -12,7 +12,7 @@ tags:
 description: "Kubernetes v1.37 se libera el 26 de agosto y trae Metrics API estable, recursos a nivel de pod, DRA con taints, HPA configurable y certificados nativos para pods."
 ---
 
-![Ilustración editorial de un clúster de Kubernetes con pods interconectados y engranajes de versiones](../../assets/images/2026-08-09-kubernetes-1-37-lo-que-viene.jpg)
+![Kubernetes 1.37 llega el 26 de agosto: Metrics API GA, pods con recursos compartidos y certificados nativos](../../assets/images/2026-08-09-kubernetes-1-37-lo-que-viene.webp)
 
 Kubernetes v1.37 está a la vuelta de la esquina — **26 de agosto de 2026** — y trae un puñado de features que vale la pena tener en el radar si estás planificando upgrades. Acá va el resumen de lo que importa.
 

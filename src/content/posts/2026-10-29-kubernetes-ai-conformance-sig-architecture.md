@@ -12,7 +12,7 @@ tags:
 description: "El programa AI Conformance de Kubernetes pasó de Working Group temporal a subproyecto permanente de SIG Architecture: la IA dejó de ser trend y pasó a ser gobierno arquitectónico de largo plazo."
 ---
 
-![Ilustración editorial tech de la rueda del timón de un barco Kubernetes integrando un núcleo de inteligencia artificial brillante en una estructura de gobierno de grúas y engranajes, paleta azul marino con acentos cian y naranja, estilo ilustración tecnológica profesional isométrica, sin texto](../../assets/images/2026-10-29-kubernetes-ai-conformance-sig-architecture.jpg)
+![AI Conformance se gradúa: Kubernetes lo convierte en subproyecto permanente de SIG Architecture](../../assets/images/2026-10-29-kubernetes-ai-conformance-sig-architecture.webp)
 
 Hace dos días te contábamos que Kubernetes quería certificar tus *apps* con el Workload Conformance Working Group. Hoy la historia continúa por el otro lado del mostrador: el blog de Kubernetes publicó una entrevista con **Janet Kuo** (Google, co-chair de SIG Apps) y **Yuan Tang** (Red Hat), los líderes del programa **AI Conformance**, explicando por qué el grupo de trabajo se archivó y la IA pasó a vivir permanentemente dentro de **SIG Architecture** como subproyecto.
 

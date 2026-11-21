@@ -11,7 +11,7 @@ tags:
 description: "Cribl anunció en plena semana de KubeCon la adquisición de Tero, startup que mide cuánta telemetría de tu organización es desperdicio. La apuesta: observabilidad AI-nativa sobre la plataforma que ya usas."
 ---
 
-![Ilustración editorial de un embudo que filtra flujos de datos de telemetría descartando lo irrelevante](../../assets/images/cribl-compra-tero-observabilidad-era-ia.jpg)
+![Cribl compra Tero: observabilidad con foco en la telemetría que nadie usa](../../assets/images/cribl-compra-tero-observabilidad-era-ia.webp)
 
 Aprovechando el ruido mediático de KubeCon NA 2026, **Cribl anunció la adquisición de Tero**, una startup que construye una capa de inteligencia sobre los datos de observabilidad. Si el nombre de Cribl te suena es porque son los de la "AI platform for telemetry": el motor que muchas empresas usan para colectar, rutar y optimizar sus logs, métricas y traces.
 

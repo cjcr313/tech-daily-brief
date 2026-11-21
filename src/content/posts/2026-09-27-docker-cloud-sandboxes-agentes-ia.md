@@ -12,7 +12,7 @@ tags:
 description: "Docker lleva sus Sandboxes basados en microVM a la nube: un comando para mover agentes de código entre tu laptop y infraestructura gestionada."
 ---
 
-![Ilustración de un laptop conectado a una nube de contenedores microVM, representando el salto de los agentes de código a la nube](../../assets/images/2026-09-27-docker-cloud-sandboxes-agentes-ia.jpg)
+![Docker lanza Cloud Sandboxes para que los agentes de código corran en la nube sin que te importe el laptop](../../assets/images/2026-09-27-docker-cloud-sandboxes-agentes-ia.webp)
 
 Docker acaba de resolver uno de los problemas más incómodos del boom de los agentes de código: **dónde corren cuando el trabajo dura horas en vez de minutos**.
 

@@ -11,7 +11,7 @@ tags:
 description: "Google lanzó su primer satélite prototipo con 4 TPUs a bordo de un Falcon 9. La meta: una constelación de cómputo de IA en el espacio, con interconexión láser desde 2027."
 ---
 
-![Ilustración editorial de un satélite con paneles solares orbitando la Tierra al amanecer, con enlaces de datos brillando entre satélites](../../assets/images/2026-10-02-google-suncatcher-tpus-orbita-datacenter-espacial.jpg)
+![Google pone TPUs en órbita: Project Suncatcher quiere llevar los data centers de IA al espacio](../../assets/images/2026-10-02-google-suncatcher-tpus-orbita-datacenter-espacial.webp)
 
 Mientras acá abajo peleamos por GPUs, cupos de energía y permisos de construcción, Google se adelantó y mandó el cómputo pa' arriba. El jueves 1 de octubre despegó desde Vandenberg el primer satélite prototipo de **Project Suncatcher**, la apuesta de Alphabet por llevar data centers de IA a la órbita, a bordo de un Falcon 9 de SpaceX en la misión rideshare Transporter-18.
 

@@ -12,7 +12,7 @@ tags:
 description: "Un fallo mayor en los sistemas de inicio de sesión dejó inaccesibles a claude.ai, Claude Code y la plataforma de desarrolladores de Anthropic, mientras las llamadas directas por API continuaron funcionando."
 ---
 
-![Ilustración editorial tech de un candado digital roto con cables desencajados en una interfaz de consola y navegador web, paleta de colores azul medianoche y terracota, estilo minimalista vectorial](../../assets/images/2026-11-14-anthropic-caida-autenticacion-claude-ai-code.jpg)
+![Caída de autenticación en Anthropic: claude.ai y Claude Code quedan fuera de servicio por dos horas](../../assets/images/2026-11-14-anthropic-caida-autenticacion-claude-ai-code.webp)
 
 El viernes 13 de noviembre no fue un día tranquilo para los equipos de ingeniería que dependen del ecosistema de Anthropic. A las **09:58 UTC**, la compañía abrió un incidente de severidad mayor en su página de estado tras detectar un pico masivo de errores de autenticación que dejó fuera de juego a miles de usuarios a nivel global.
 

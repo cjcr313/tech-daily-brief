@@ -11,7 +11,7 @@ tags:
 description: "HashiCorp mostró cómo dar a los agentes de IA acceso seguro y auditable a infraestructura usando Boundary: sesiones proxadas, credenciales short-lived inyectadas por Vault que el agente nunca ve, y grabación de sesión."
 ---
 
-![Ilustración editorial de un brazo robótico de IA alcanzando racks de servidores a través de una puerta brillante de seguridad con credencial de identidad, tonos verdes y pizarra](../../assets/images/2026-09-30-hashicorp-boundary-agentes-ia-zero-trust.jpg)
+![HashiCorp Boundary: acceso zero trust para agentes de IA que quieren tocar tu infraestructura](../../assets/images/2026-09-30-hashicorp-boundary-agentes-ia-zero-trust.webp)
 
 Los agentes de IA ya no solo sugieren comandos: analizan logs, investigan incidentes, revisan salud de sistemas y proponen próximos pasos. La pregunta incómoda que eso deja en cualquier enterprise: **¿cómo dejas que un agente toque la infraestructura sin abrir un agujero nuevo de seguridad y gobernanza?** HashiCorp respondió con un post práctico: **usar Boundary como capa de acceso zero trust entre el agente y los sistemas**.
 

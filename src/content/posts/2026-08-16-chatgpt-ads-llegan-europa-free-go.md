@@ -11,7 +11,7 @@ tags:
 description: "OpenAI notificó a usuarios del EEA y Suiza que la publicidad llega a los planes Free y Go de ChatGPT este mes. Anuncios contextuales primero, personalización solo con opt-in explícito."
 ---
 
-![Ilustración editorial de un asistente de chat con burbujas de conversación y espacios publicitarios destacados, estilo tech editorial](../../assets/images/2026-08-16-chatgpt-ads-llegan-europa-free-go.jpg)
+![ChatGPT mete publicidad en Europa: los planes Free y Go verán anuncios desde fines de agosto](../../assets/images/2026-08-16-chatgpt-ads-llegan-europa-free-go.webp)
 
 Se acabó el paraíso ad-free: OpenAI notificó por email a los usuarios de ChatGPT en el Espacio Económico Europeo y Suiza que **la publicidad comienza a aparecer en los planes Free y Go "más tarde este mes"**. El correo salió el sábado 15 de agosto desde OpenAI Ireland (el controlador de datos europeo de la compañía), acompañado de una actualización de la política de privacidad que describe cómo se seleccionan, miden y controlan los anuncios.
 

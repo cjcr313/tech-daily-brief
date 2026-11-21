@@ -11,7 +11,7 @@ tags:
 description: "CVE-2026-85102 y CVE-2026-85103, con CVSS 9.8, permiten ejecución remota de código sin autenticación en gateways y firewalls de Check Point."
 ---
 
-![Ilustración de vulnerabilidad VPN](../../assets/images/2026-09-12-check-point-vpn-rce-cvss-98.jpg)
+![Ilustración de vulnerabilidad VPN](../../assets/images/2026-09-12-check-point-vpn-rce-cvss-98.webp)
 
 Ojo con esta: Check Point anunció parches para dos vulnerabilidades críticas en sus gateways y firewalls con funcionalidad VPN, y ambas con un CVSS de 9.8 que permite **ejecución remota de código (RCE) sin autenticación**.
 

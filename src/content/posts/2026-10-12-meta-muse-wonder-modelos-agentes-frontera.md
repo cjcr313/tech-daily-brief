@@ -11,7 +11,7 @@ tags:
 description: "Los nuevos modelos de Meta puntúan state-of-the-art en agentes personales y profesionales: Muse Wonder Full logró 56 en el Intelligence Index v4.3 de Artificial Analysis, segundo solo detrás de Claude Opus 5.5."
 ---
 
-![Ilustración editorial de una mente digital abstracta hecha de nodos de luz interconnected formando una red neuronal luminosa en tonos azul-violeta sobre fondo oscuro, con un destello dorado destacando un nodo central, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-12-meta-muse-wonder-modelos-agentes-frontera.jpg)
+![Meta lanza Muse Wonder y Wonder Full: Active Memory, Active Focus y el #2 del índice de Artificial Analysis](../../assets/images/2026-10-12-meta-muse-wonder-modelos-agentes-frontera.webp)
 
 Meta sacó hoy su siguiente peldaño en la escalera del scaling: **Muse Wonder y Muse Wonder Full**, dos modelos que la compañía describe como sus más capaces para **tareas agénticas personales y profesionales**, entrenados en su datacenter gigavatio **Prometheus**. La frase del anuncio es ambiciosa: otro paso hacia la "superinteligencia personal" para los miles de millones de usuarios de sus productos.
 

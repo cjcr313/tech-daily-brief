@@ -11,7 +11,7 @@ tags:
 description: "Según Star Market Daily, DeepSeek desplegaría al menos 160.000 Ascend 950DT en un data center de 1GW en Ulanqab (Mongolia Interior) para pre-entrenar V5 desde fines de 2026. Sería la primera vez que un frontier model chino se entrena completo en silicio doméstico."
 ---
 
-![Ilustración editorial tech de un enorme data center futurista en medio de una estepa desértica al atardecer, con hileras de servidores iluminados en rojo carmesí y tormenta de datos conectándose al cielo, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-11-03-deepseek-v5-pretraining-huawei-ascend-950dt.jpg)
+![DeepSeek V5 se pre-entrenaría desde cero en 160.000 chips Huawei Ascend 950DT: el test definitivo del stack IA chino](../../assets/images/2026-11-03-deepseek-v5-pretraining-huawei-ascend-950dt.webp)
 
 La noticia más geopolíticamente cargada del día viene de Mongolia Interior. Según un reporte de **STAR Market Daily** que cita a múltiples fuentes de la cadena de suministro de chips, **DeepSeek planea desplegar al menos 160.000 chips Huawei Ascend 950DT en un nuevo data center en Ulanqab** (capacidad del orden de 1GW) y **comenzar workloads de pre-training sobre ellos tan pronto como fines de 2026**, para entrenar su próximo modelo frontier: **DeepSeek V5**.
 

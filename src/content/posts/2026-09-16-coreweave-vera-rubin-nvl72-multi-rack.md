@@ -12,7 +12,7 @@ tags:
 description: "El neocloud asegura ser el primero en validar y levantar racks Vera Rubin NVL72 como servicio, uniendo cientos de aceleradores en un clúster scale-out pensado para cargas de IA agéntica."
 ---
 
-![Ilustración editorial de un centro de datos con racks de GPUs NVIDIA interconectados por redes ópticas de alta velocidad, cientos de aceleradores como nodos luminosos, tonos verde esmeralda y azul profundo sobre fondo oscuro, estilo vectorial plano minimalista](../../assets/images/2026-09-16-coreweave-vera-rubin-nvl72-multi-rack.jpg)
+![CoreWeave conecta cientos de GPUs NVIDIA Rubin en un solo clúster multi-rack](../../assets/images/2026-09-16-coreweave-vera-rubin-nvl72-multi-rack.webp)
 
 La carrera por el silicio se está corriendo también en el cableado. **CoreWeave** anunció este martes el *bring-up* de racks **NVIDIA Vera Rubin NVL72** en su cloud, uniendo **cientos de GPUs Rubin** en un solo clúster *scale-out* pensado para cargas de IA agéntica. La compañía asegura ser el **primer proveedor de AI cloud en validar y levantar un Vera Rubin NVL72** como servicio confiable.
 

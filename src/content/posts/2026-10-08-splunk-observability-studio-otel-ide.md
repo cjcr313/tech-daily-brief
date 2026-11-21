@@ -11,7 +11,7 @@ tags:
 description: "Splunk liberó Observability Studio: un toolkit gratuito y open source que audita, completa y verifica tu instrumentación OpenTelemetry desde el IDE, con skills para agentes de código."
 ---
 
-![Ilustración isométrica editorial de un editor de código donde señales de telemetría —trazas, logs y métricas— se conectan y verifican dentro del propio IDE, con acentos magenta y teal sobre fondo oscuro, estilo tech editorial moderno](../../assets/images/2026-10-08-splunk-observability-studio-otel-ide.jpg)
+![Splunk lanza Observability Studio: OpenTelemetry con asistencia de IA directo en tu IDE (y open source)](../../assets/images/2026-10-08-splunk-observability-studio-otel-ide.webp)
 
 Splunk acaba de liberar **Observability Studio**, un proyecto nuevo, **gratuito y open source** (vive bajo la organización signalfx en GitHub) que ataca uno de los dolores más viejos de la observabilidad: **la instrumentación siempre pierde contra las features… hasta que hay un incidente**. La apuesta: mover la instrumentación al momento de crear el código, sin salir del IDE.
 

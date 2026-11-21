@@ -12,7 +12,7 @@ tags:
 description: "El grupo que mantiene Deployments y DaemonSets enfrenta el desafío de soportar cargas de IA y batch sin romper la infraestructura que todos dependen."
 ---
 
-![Ilustración editorial de workloads de Kubernetes balanceándose entre controladores estables de Deployments y DaemonSets y trabajos complejos de IA y batch, con plano de control, engranajes y nodos de red neuronal](../../assets/images/2026-09-24-kubernetes-sig-apps-ai-workloads.jpg)
+![SIG Apps de Kubernetes se la juega entre la confiabilidad y las cargas de IA](../../assets/images/2026-09-24-kubernetes-sig-apps-ai-workloads.webp)
 
 El blog oficial de Kubernetes puso el foco en un tema que pocos notan pero todos usan: **SIG Apps**, el grupo que mantiene los controladores de workloads más críticos del ecosistema. Deployments, DaemonSets, StatefulSets... todo eso vive bajo su cuidado, y es un trabajo de compatibilidad hacia atrás perfecta que nadie agradece.
 

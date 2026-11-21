@@ -12,7 +12,7 @@ tags:
 description: "AWS agrega un modo que levanta tus apps como contenedores en clústeres EKS gestionados por el servicio, con observabilidad OpenTelemetry y EKS Auto Mode."
 ---
 
-![Aplicaciones empaquetadas como contenedores fluyendo hacia un clúster Kubernetes gestionado, con nodos autoescalados y telemetría OpenTelemetry](../../assets/images/2026-09-23-elastic-beanstalk-cluster-mode-eks.jpg)
+![Elastic Beanstalk estrena Cluster Mode: tus apps corriendo en clústeres EKS compartidos](../../assets/images/2026-09-23-elastic-beanstalk-cluster-mode-eks.webp)
 
 AWS le sumó un **Cluster Mode** a Elastic Beanstalk: ahora puedes correr tus apps como contenedores sobre **clústeres Amazon EKS** que el propio servicio crea y opera. Se instala al lado del tipo de entorno basado en EC2 (ahora rebautizado "Beanstalk Standard") y mantiene los mismos conceptos de aplicación, versión y entorno.
 

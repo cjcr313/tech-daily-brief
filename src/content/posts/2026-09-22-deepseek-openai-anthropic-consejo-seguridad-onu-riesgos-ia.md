@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek, OpenAI y Anthropic informarán esta semana al Consejo de Seguridad de la ONU sobre los riesgos de la IA, en plena tensión entre EE.UU. y China."
 ---
 
-![Tres empresas de IA frente a una mesa de gobernanza global, banderas y código](../../assets/images/2026-09-22-deepseek-openai-anthropic-consejo-seguridad-onu-riesgos-ia.jpg)
+![Tres empresas de IA frente a una mesa de gobernanza global, banderas y código](../../assets/images/2026-09-22-deepseek-openai-anthropic-consejo-seguridad-onu-riesgos-ia.webp)
 
 La IA se volvió, oficialmente, asunto de geopolítica dura. **DeepSeek**, el laboratorio chino que sacudió el mercado con sus modelos abiertos y baratos, se suma esta semana a **OpenAI** y **Anthropic** para informar al **Consejo de Seguridad de las Naciones Unidas** sobre los riesgos que plantea la inteligencia artificial, según reportó Reuters citando dos fuentes.
 

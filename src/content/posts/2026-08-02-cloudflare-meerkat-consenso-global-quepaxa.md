@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare construye Meerkat, un servicio de consenso globalmente consistente basado en el algoritmo QuePaxa. Adiós Raft, hola writes sin líder."
 ---
 
-![Cloudflare presenta Meerkat: consenso global sin líder basado en QuePaxa](../../assets/images/2026-08-02-cloudflare-meerkat.jpg)
+![Cloudflare presenta Meerkat: consenso global sin líder basado en QuePaxa](../../assets/images/2026-08-02-cloudflare-meerkat.webp)
 
 Cloudflare dejó caer una bomba arquitectónica esta semana: **Meerkat**, un servicio interno de control-plane globamente consistente basado en el algoritmo **QuePaxa**. Y sí, es la primera implementación productiva de QuePaxa a escala global.
 

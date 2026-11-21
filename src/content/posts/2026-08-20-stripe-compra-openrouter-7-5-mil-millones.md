@@ -11,7 +11,7 @@ tags:
 description: "El gigante de pagos confirmó la adquisición del gateway de modelos IA más usado del ecosistema. La tesis: si los tokens son la nueva moneda, alguien tiene que hacer el routing de la plata."
 ---
 
-![Ilustración editorial de una red de rutas luminosas conectando múltiples nodos de IA hacia un nodo central de pagos, estilo tech editorial sobre fondo oscuro](../../assets/images/2026-08-20-stripe-compra-openrouter-7-5-mil-millones.svg)
+![Stripe compra OpenRouter por ~US$7.500 millones: los tokens son la nueva tabla de pagos](../../assets/images/2026-08-20-stripe-compra-openrouter-7-5-mil-millones.svg)
 
 Stripe dejó de disimular que quiere ser la infraestructura económica de la era IA: **confirmó la compra de OpenRouter**, el gateway y router de modelos que ya cubrimos por acá cuando su tráfico se disparaba. The New York Times reporta que la operación ronda los **US$7.500 millones**, aunque oficialmente Stripe no dio a conocer los términos.
 

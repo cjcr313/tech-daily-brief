@@ -3,9 +3,9 @@ title: "Regulación Financiera 2026: AWS, Azure y Google Cloud designados como '
 pubDatetime: 2026-07-11T10:00:00Z
 author: Nauta Lab
 tags:
-  - cloud
-  - seguridad
-  - infraestructura
+  - Cloud
+  - Seguridad
+  - Infraestructura
 ogImage: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=2070&auto=format&fit=crop"
 description: "A partir de mediados de julio, el Tesoro del Reino Unido exige nuevas normas de resiliencia a los gigantes del Cloud que operan en el sector financiero."
 ---

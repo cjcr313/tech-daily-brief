@@ -12,7 +12,7 @@ tags:
 description: "DeepSeek liberó por API un beta de dos días de V4.1 Flash, con arquitectura rediseñada y soporte multimodal nativo (texto, imagen y audio), al mismo precio que V4 Flash."
 ---
 
-![Ilustración editorial de un modelo de IA multimodal que procesa simultáneamente texto, imagen y audio dentro de una arquitectura rediseñada, estilo tech editorial con acentos en azul profundo](../../assets/images/2026-09-09-deepseek-v4-1-flash-beta-multimodal.jpg)
+![DeepSeek abre beta de V4.1 Flash: arquitectura nueva y multimodal nativo, sin pagar extra](../../assets/images/2026-09-09-deepseek-v4-1-flash-beta-multimodal.webp)
 
 El lunes por la tarde (hora china) **DeepSeek** abrió de forma silenciosa una **beta limitada de V4.1 Flash**, su modelo intermedio de nueva generación. La ventana de prueba es corta: dos días y se apaga solo el **10 de septiembre**. Para probarlo no hay que cambiar nada de `base_url`, basta con cambiar el ID del modelo a `deepseek-v4.1-flash-expires-on-0910`.
 

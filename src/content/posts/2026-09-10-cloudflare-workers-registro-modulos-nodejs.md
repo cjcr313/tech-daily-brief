@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare reescribió el registro de módulos de workerd para acercarse a Node.js: compat habilitada por defecto y apps de hasta 64 MiB."
 ---
 
-![Ilustración de módulos de Node.js ejecutándose sobre el runtime de Cloudflare Workers](../../assets/images/2026-09-10-cloudflare-workers-registro-modulos-nodejs.jpg)
+![Ilustración de módulos de Node.js ejecutándose sobre el runtime de Cloudflare Workers](../../assets/images/2026-09-10-cloudflare-workers-registro-modulos-nodejs.webp)
 
 Cloudflare reescribió el **registro de módulos de workerd**, el componente open source que corre bajo el runtime de Workers, con un objetivo claro: que sea más rápido, más apegado a los estándares y, sobre todo, más parecido al registro de módulos de Node.js.
 

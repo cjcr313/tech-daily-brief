@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare presenta Adaptive Intelligence, un motor de detección de bots que se reentrena en vivo y despliega reglas desechables para encarecer cada ataque automatizado."
 ---
 
-![Ilustración editorial de un escudo de mosaicos cambiantes desviando flechas de ataques de bots](../../assets/images/2026-08-31-cloudflare-adaptive-intelligence-bots.jpg)
+![Cloudflare lanza Adaptive Intelligence: el motor que hace inviable la economía del ataque de bots](../../assets/images/2026-08-31-cloudflare-adaptive-intelligence-bots.webp)
 
 Cloudflare acaba de dar un giro a la guerra contra los bots. Presentó **Adaptive Intelligence**, un nuevo motor de detección que parte de una premisa incómoda: *un atacante determinado siempre va a entrar*. La pregunta real, dicen, no es si logra pasar el muro, sino **qué pasa cuando lo hace**. La respuesta de Cloudflare: hacer que cada intento sea tan lento y caro que deje de valer la pena.
 

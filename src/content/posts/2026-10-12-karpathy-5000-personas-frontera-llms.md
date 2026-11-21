@@ -10,7 +10,7 @@ tags:
 description: "El ex-Tesla/OpenAI publicó su cuenta napkin: 6.000 millones casi no han tocado un LLM, 20 millones han visto agentes trabajando y apenas ~5.000 investigadores conocen la frontera. El embudo del conocimiento de IA se está afinando."
 ---
 
-![Ilustración editorial de un embudo gigante luminoso en tonos azul profundo, con miles de siluetas humanas diminutas arriba filtrándose hacia abajo hasta un grupo minúsculo de figuras brillantes junto a un núcleo de luz en la punta, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-12-karpathy-5000-personas-frontera-llms.jpg)
+![Karpathy: solo unas 5.000 personas en el mundo ven la frontera real de los LLMs](../../assets/images/2026-10-12-karpathy-5000-personas-frontera-llms.webp)
 
 Andrei Karpathy —el tipo que estuvo en OpenAI en la era fundacional y luego lideró autopilotos en Tesla— publicó el domingo un post que se hizo viral rápido en Hacker News (190 puntos y 300+ comentarios en horas). Su tesis, con matemática de servilleta: **el entendimiento compartido sobre lo que los LLMs pueden hacer se está colapsando en un "embudo afilado"**, y la brecha entre quienes ven la frontera y el resto del mundo se agranda cada mes.
 

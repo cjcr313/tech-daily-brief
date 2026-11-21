@@ -12,7 +12,7 @@ tags:
 description: "CrowdStrike destapa a Slim Spider, un actor brasileño que robó secretos de custodia cripto escalando por pipelines de Azure DevOps y un clúster de Kubernetes."
 ---
 
-![Ilustración editorial de un ciberataque a infraestructura cloud bancaria con pipelines comprometidos](../../assets/images/2026-09-09-slim-spider-cripto-custodia-brasil.jpg)
+![Slim Spider: el actor que se metió por Azure DevOps a robar secretos cripto en Brasil](../../assets/images/2026-09-09-slim-spider-cripto-custodia-brasil.webp)
 
 CrowdStrike destapó a **Slim Spider**, un actor de amenaza financieramente motivado que viene atacando instituciones financieras brasileñas al menos desde **marzo de 2026**. El caso es un manual de cómo se combina ingeniería social con abuso de infraestructura cloud nativa —y de paso, un recordatorio incómodo para cualquiera que corra pipelines de CI/CD.
 

@@ -12,7 +12,7 @@ tags:
 description: "Karmada, el motor para orquestar aplicaciones en múltiples clusters de Kubernetes, alcanzó el nivel Graduated de la CNCF y estrena v1.19 con soporte para entrenamiento distribuido de IA."
 ---
 
-![Ilustración editorial de una flota de clusters de Kubernetes orquestados como una armada unificada, con contenedores y barcos conectados por líneas de control luminosas sobre un mapa multicloud](../../assets/images/2026-09-08-karmada-cncf-graduacion.jpg)
+![Karmada se gradúa en la CNCF: la orquestación multi-cluster de Kubernetes llega a madurez de producción](../../assets/images/2026-09-08-karmada-cncf-graduacion.webp)
 
 Karmada —el acrónimo de *Kubernetes Armada*— acaba de cruzar la meta que todo proyecto open source persigue: la **CNCF lo promovió al nivel Graduated**, el máximo peldaño de madurez dentro de la fundación. El anuncio se hizo en el marco de la KubeCon + CloudNativeCon China 2026 en Shanghai.
 

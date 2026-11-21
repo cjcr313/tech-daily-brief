@@ -11,7 +11,7 @@ tags:
 description: "MoE multimodal de 125B open weight con 6B activos por token, contexto nativo de 262K y 1/9 de los recursos de entrenamiento: la antesala arquitectónica de Qwen4."
 ---
 
-![Ilustración editorial de una flor de loto geométrica formada por engranajes y circuitos que se abre en capas luminosas, tonos violeta y teal, estilo ilustración tech editorial](../../assets/images/2026-08-29-qwen38-flash-next-preview-qwen4.jpg)
+![Alibaba libera Qwen3.8-Flash-Next: el ensayo general de la arquitectura de Qwen4](../../assets/images/2026-08-29-qwen38-flash-next-preview-qwen4.webp)
 
 Alibaba lanzó esta semana **Qwen3.8-Flash-Next**, y el nombre es casi una declaración de intenciones: es un modelo open weight que funciona como **"early preview de la arquitectura que usará Qwen4"**. La misma jugada que hicieron con Qwen3-Next antes de la familia 3.5: liberar los cambios estructurales antes para que la comunidad les meta mano antes del release mayor.
 

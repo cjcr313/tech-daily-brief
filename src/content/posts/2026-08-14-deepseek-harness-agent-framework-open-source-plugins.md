@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek liberó Harness (dsh), un runtime para agentes IA donde el modelo, las tools, el loop y hasta la UI son plugins intercambiables. Licencia MIT, disponible via npx."
 ---
 
-![Ilustración editorial de un sistema modular tipo puzzle donde cada pieza es un plugin intercambiable, estilo tech editorial](../../assets/images/placeholder.jpg)
+![DeepSeek Harness: el framework open-source donde todo es un plugin (incluyendo el modelo)](../../assets/images/placeholder.webp)
 
 Ayer posteanos que DeepSeek estaba reclutando un equipo para competir con Claude Code. Hoy ya tienen algo más concreto: **DeepSeek Harness (dsh)**, un framework open-source para construir agentes IA donde absolutamente todo es un plugin.
 

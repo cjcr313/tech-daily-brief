@@ -12,7 +12,7 @@ tags:
 description: "TileLang y una batería de librerías optimizadas para el Ascend 950 salieron como open source. El stack chino fuera de Nvidia dejó de ser promesa y pasó a ser algo que se puede descargar."
 ---
 
-![Ilustración editorial de una caja de herramientas abierta liberando flujos de código brillantes hacia un chip de computadora gigante con silueta de montaña, paleta rojo profundo y dorado](../../assets/images/2026-10-01-deepseek-huawei-toolkit-ascend-cuda-alternativa.jpg)
+![DeepSeek abre el código de su toolkit para los chips Ascend de Huawei y apunta directo al cuello de CUDA](../../assets/images/2026-10-01-deepseek-huawei-toolkit-ascend-cuda-alternativa.webp)
 
 Movida estratégica de las grandes: **DeepSeek liberó como open source un toolkit completo de programación para los chips Ascend de Huawei**, encabezado por **TileLang**, un lenguaje de alto nivel posicionado como alternativa doméstica a CUDA. El anuncio, reportado por Bloomberg y replicado por media de medio mundo, incluye optimizaciones específicas para el **Ascend 950**.
 

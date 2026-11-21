@@ -12,7 +12,7 @@ tags:
 description: "Google Cloud presenta AlloyDB PostgreSQL for agents (preview), una arquitectura de base de datos agéntica con aislamiento total y escalado de cero a miles de nodos."
 ---
 
-![Ilustración editorial tech de una base de datos PostgreSQL rodeada de miles de nodos de agentes de IA conectados, con aislamiento visual entre el clúster de producción y los nodos efímeros, tonos azul profundo y verde](../../assets/images/2026-09-25-google-alloydb-postgresql-agentes-arquitectura-agentic.jpg)
+![Google estrena AlloyDB PostgreSQL for agents: una base de datos que escala a miles de nodos sin tocar producción](../../assets/images/2026-09-25-google-alloydb-postgresql-agentes-arquitectura-agentic.webp)
 
 Google Cloud acaba de anunciar **AlloyDB PostgreSQL for agents (en preview)**, y el claim es ambicioso: una base de datos relacional pensada desde cero para la era de los agentes autónomos, capaz de escalar de **cero a miles de instancias de cómputo en segundos** y volver a cero cuando los agentes terminan, todo sin tocar el clúster de producción.
 

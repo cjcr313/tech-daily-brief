@@ -13,7 +13,7 @@ tags:
 description: "Liu Shengyu, el ingeniero que escribió los kernels de atención de V4.1 Flash, publicó un manifiesto donde ataca a Anthropic y OpenAI y defiende el open source como único contrapeso al monopolio de la IA frontera."
 ---
 
-![Ilustración editorial de una balanza con el símbolo de código abierto en un platillo y un candado corporativo cerrado en el otro, tonos azul profundo y ámbar, concepto abstracto de open source versus monopolio sobre fondo oscuro](../../assets/images/2026-09-17-deepseek-ingeniero-manifiesto-open-source.jpg)
+![El ingeniero de DeepSeek que le puso voz a la contra: 'no confío en que Anthropic ni OpenAI hagan la IA abierta y barata'](../../assets/images/2026-09-17-deepseek-ingeniero-manifiesto-open-source.webp)
 
 Mientras Occidente discute si hay que frenar la frontera de la IA, desde China llegó la respuesta más ruidosa de la semana. **Liu Shengyu** (刘胜与), el ingeniero de *machine learning systems* de DeepSeek que escribió los kernels de atención de **V4.1 Flash**, publicó un manifiesto en su cuenta de WeChat que incendió el debate: no confía en que Anthropic ni OpenAI hagan la IA "abierta y barata", y cree que el open source es el único contrapeso real.
 

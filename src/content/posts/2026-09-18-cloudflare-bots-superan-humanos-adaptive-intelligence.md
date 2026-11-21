@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare reporta que casi el 60% del tráfico web ya es de bots y lanza Adaptive Intelligence, un motor de defensa adaptativo que analiza más de un billón de visitas diarias."
 ---
 
-![Ilustración de una red de defensa que filtra tráfico de bots e IA sobre tráfico humano en la web](../../assets/images/2026-09-18-cloudflare-bots-superan-humanos-adaptive-intelligence.jpg)
+![Ilustración de una red de defensa que filtra tráfico de bots e IA sobre tráfico humano en la web](../../assets/images/2026-09-18-cloudflare-bots-superan-humanos-adaptive-intelligence.webp)
 
 El cruce que todos veían venir llegó antes de lo previsto. Según Cloudflare, en **mayo de 2026** los bots y agentes de IA superaron al tráfico humano: casi el **60% de las requests** que reciben los sitios web ya vienen de máquinas. Su CEO, Matthew Prince, esperaba ese punto recién para fines del próximo año. Se adelantó un año y medio.
 

@@ -11,7 +11,7 @@ tags:
 description: "Un paper describe un sistema donde 4 agentes Claude Opus 5.5 con GPUs reales llevaron Qwen3-4B-Base de 15.9 a 67.3 puntos sin ayuda de humanos ni modelos teachers. El post-training autónomo ya no es teoría."
 ---
 
-![Ilustración editorial de cuatro robots de investigación trabajando en un laboratorio de computación con racks de GPUs, estilo tech editorial](../../assets/images/2026-10-17-athanor-agentes-claude-post-entrenan-modelo-4b.jpg)
+![Athanor: cuatro agentes Claude Opus 5.5 post-entrenaron solos un modelo 4B y igualaron al Instruct oficial de Qwen en 104 horas](../../assets/images/2026-10-17-athanor-agentes-claude-post-entrenan-modelo-4b.webp)
 
 La mejora recursiva de modelos suele discutirse como ciencia ficción distante. El paper de **Athanor** le puso un plazo concreto y medible a la pregunta: ¿pueden agentes de frontera tomar un modelo base crudo, con datos públicos, y convertirlo solos en un asistente competente? La respuesta corta: **sí, en 104 horas y sin profesor**.
 

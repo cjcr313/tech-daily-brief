@@ -12,7 +12,7 @@ tags:
 description: "Google Cloud suma opciones de pago flexibles (pay-as-you-go y Savings Plans) y controles de costo unificados para workloads de agentes en Gemini Enterprise, Antigravity y Android Studio."
 ---
 
-![Ilustración editorial de una terminal financiera con gráficos de costo y un agente de IA digital supervisando el presupuesto en la nube, estilo tech editorial](../../assets/images/2026-08-26-google-cloud-finops-billing-cost-controls-agentes.jpg)
+![Google Cloud mete FinOps a los agentes: billing flexible y control de costos para la era de la IA](../../assets/images/2026-08-26-google-cloud-finops-billing-cost-controls-agentes.webp)
 
 Cuando los agentes de IA pasan de demo a producción, el problema deja de ser "¿funciona?" y pasa a ser "¿cuánto me está saliendo y cómo lo controlo?". Google Cloud salió a responder eso mismo: anunció **billing flexible y nuevas herramientas de control de costos** para workloads de agentes, apuntando directo a la brecha entre innovar rápido con IA y proteger el margen.
 

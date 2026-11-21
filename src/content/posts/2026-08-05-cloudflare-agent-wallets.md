@@ -10,7 +10,7 @@ tags:
   - IA
 description: "Cloudflare introduce Wallets que proporcionan a los agentes IA identidad verificable y pagos nativos en la web."
 ---
-![Cloudflare Agent Wallets](../../assets/images/2026-08-05-cloudflare-agent-wallets.jpg)
+![Cloudflare Agent Wallets](../../assets/images/2026-08-05-cloudflare-agent-wallets.webp)
 
 Cloudflare acaba de anunciar un movimiento brutal para la era de los agentes autónomos: el **Agent Development Lifecycle** y las **Cloudflare Wallets**. 
 

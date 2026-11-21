@@ -12,7 +12,7 @@ tags:
 description: "ByteDance cerró un préstamo sindicado récord de US$29.6 mil millones para sus datacenters de IA. Su equipo Seed entrena un modelo de 10 billones de parámetros."
 ---
 
-![Ilustración editorial de un megadatacenter de IA en plena construcción](../../assets/images/2026-09-05-bytedance-prestamo-29-6b-modelo-10-billones.jpg)
+![ByteDance asegura US$29.6 mil millones para datacenters de IA y entrena un modelo de 10 billones de parámetros](../../assets/images/2026-09-05-bytedance-prestamo-29-6b-modelo-10-billones.webp)
 
 ByteDance (TikTok) acaba de asegurar **US$29.6 mil millones en un préstamo sindicado**, el segundo más grande de Asia este año, para financiar su apuesta por la IA. La plata: expandir sus **clusters de datacenters en Mongolia Interior** y sostener una carrera por la frontera que ya no se paga con flujo de caja operativo.
 

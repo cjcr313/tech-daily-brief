@@ -11,7 +11,7 @@ tags:
 description: "Octopus Deploy demostró que su MCP server puede crear deployments completos de Kubernetes desde cero usando solo lenguaje natural con agentes de IA."
 ---
 
-![Octopus Deploy MCP Server Kubernetes](../../assets/images/2026-08-10-octopus-deploy-mcp-kubernetes-natural-language.jpg)
+![Octopus Deploy MCP Server Kubernetes](../../assets/images/2026-08-10-octopus-deploy-mcp-kubernetes-natural-language.webp)
 
 Octopus Deploy acaba de demostrar algo bastante goloso: su **MCP server** ya puede crear un pipeline completo de deployment en Kubernetes **desde cero, usando solo lenguaje natural**. Sin tocar la UI, sin un solo click en el portal web.
 

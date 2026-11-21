@@ -11,7 +11,7 @@ tags:
 description: "El postmortem oficial del outage de 7h47m confirma que no fue un cambio de código ni config: fue la demanda. Desde abril los commits mensuales pasaron de 1.400 a 2.900 millones, Azure ya carga el 58% de la plataforma y vienen arquitecturas de lectura ilimitada."
 ---
 
-![Ilustración editorial de un rack de servidores desbordado por una ola de commits, medidores de capacidad en rojo y un reloj marcando casi 8 horas](../../assets/images/2026-08-21-github-confiesa-falla-capacidad-commits-duplicados.svg)
+![GitHub confiesa: la caída del 17 de agosto fue pura falta de capacidad — los commits se duplicaron a 2.900 millones al mes y la plataforma no dio abasto](../../assets/images/2026-08-21-github-confiesa-falla-capacidad-commits-duplicados.svg)
 
 GitHub publicó el postmortem del outage del **17 de agosto** — ese que duró **7 horas y 47 minutos** y se tiró abajo github.com, la autenticación, Actions, las APIs, PRs, issues y Copilot de un solo plumazo. Y la confesión es de las que duelen: **no fue un cambio de código ni de configuración. Fue capacidad, pura y simple**. "Fallamos en escalar componentes críticos antes de que la demanda superara su capacidad", admite Vladimir Fedorov en el GitHub Blog.
 

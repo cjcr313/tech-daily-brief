@@ -11,7 +11,7 @@ tags:
 description: "El ensayista de UC Berkeley revisó el paper de OpenAI que prometía una transformada de Fourier más rápida: las constantes ocultas son del orden de 10^100 y asume aritmética exacta que ningún hardware tiene."
 ---
 
-![Ilustración editorial abstracta de ondas sinusoidales descomponiéndose en un espectro de frecuencias luminoso en tonos azul-violeta, con una lupa escéptica examinando nodos matemáticos brillantes sobre fondo oscuro, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-13-openai-fft-algoritmo-galactico-recht.jpg)
+![Ben Recht desarma el 'FFT más rápido' de OpenAI: un algoritmo galáctico que jamás correrá en un computador real](../../assets/images/2026-10-13-openai-fft-algoritmo-galactico-recht.webp)
 
 La semana pasada OpenAI soltó un dump masivo de papers matemáticos generados con IA, y entre ellos apareció una afirmación jugosa: una transformada de Fourier "más rápida" que el FFT clásico. Ben Recht, profesor de UC Berkeley y autor del blog *arg min*, se sentó a revisarla. Su veredicto, publicado el 12 de octubre, es demoledor: no es un avance, es un **algoritmo galáctico** — uno que teóricamente funciona, pero solo en un universo donde las constantes son absurdas y los computadores no existen.
 

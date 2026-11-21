@@ -11,7 +11,7 @@ tags:
 description: "Datadog reportó Q2 sólido pero advirtió que su mayor cliente AI-native reducirá uso desde Q3. Las acciones cayeron 19%. ¿Es un caso aislado o el inicio de una tendencia?"
 ---
 
-![Ilustración editorial de un dashboard de observabilidad con gráficos a la baja y métricas de IA](../../assets/images/2026-08-11-datadog-cae-19-cliente-ia.jpg)
+![Datadog cae 19% tras resultados: su mayor cliente IA recorta uso de observabilidad](../../assets/images/2026-08-11-datadog-cae-19-cliente-ia.webp)
 
 Datadog tenía todo para una buena semana: Q2 con revenue de **US$1.120 millones** (+36% YoY), EPS sorpresa positiva, guidance anual subida. Y aún así, las acciones se desplomaron **19% en un día**. ¿Por qué? Porque su mayor cliente AI-native anunció que va a **reducir drásticamente el uso** desde Q3.
 

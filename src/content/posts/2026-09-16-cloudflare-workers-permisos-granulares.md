@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare lanza autorización granular por Worker con cuatro roles, para que un pipeline de CI o un agente de IA reciba acceso acotado a un solo Worker y no a toda la cuenta."
 ---
 
-![Ilustración editorial de un candado digital que protege un único nodo de una red de funciones serverless, llaves de acceso con alcance limitado, tonos naranja y azul profundo sobre fondo oscuro, estilo vectorial plano minimalista](../../assets/images/2026-09-16-cloudflare-workers-permisos-granulares.jpg)
+![Cloudflare permite acotar los permisos de Workers a un solo Worker: adiós al token de toda la cuenta](../../assets/images/2026-09-16-cloudflare-workers-permisos-granulares.webp)
 
 Un detalle de seguridad que le cambia el día a quien corre CI/CD o agentes de IA contra Cloudflare Workers. Desde el **15 de septiembre**, Cloudflare habilitó **autorización granular por Worker**: ahora puedes acotar un API token o el acceso de un miembro del equipo a **un solo Worker nombrado**, con **cuatro roles** distintos. Y aplica a todas las cuentas, sin upgrade de plan.
 

@@ -12,7 +12,7 @@ tags:
 description: "Portainer anuncia su major 3.0, una versión pensada 100% en Kubernetes que rompe la UI única en favor de consolas de propósito único, con herramienta de migración Docker→K8s incluida."
 ---
 
-![Ilustración editorial de contenedores navegando hacia una plataforma Kubernetes: una flota de cajas de carga metálicas fluyendo por un canal de datos azul profundo, estilo tech editorial con acentos ámbar](../../assets/images/2026-09-11-portainer-3-0-kubernetes-first.jpg)
+![Portainer corta 3.0 y se vuelve Kubernetes-first: una familia de consolas en vez de una UI única](../../assets/images/2026-09-11-portainer-3-0-kubernetes-first.webp)
 
 Portainer acaba de soltar una de esas decisiones que marcan época. Neil Cresswell, el CEO, publicó el anuncio de **Portainer 3.0** y el mensaje es directo: se acabó la UI única que intentaba hablarle a todo el mundo por igual. Lo que viene es una **familia de consolas de propósito único**, cada una pensada para una persona haciendo un trabajo, y todas construidas sobre una base **Kubernetes-first**.
 

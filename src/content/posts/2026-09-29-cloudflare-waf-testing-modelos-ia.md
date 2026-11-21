@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare construyó un tester adaptativo con LLMs que muta ataques en tiempo real contra su propio WAF. 1.107 intentos, 6 categorías de ataque y hallazgos que ya se convirtieron en reglas nuevas."
 ---
 
-![Ilustración editorial de un escudo de seguridad digital siendo sometido a pruebas por una inteligencia artificial que lanza ataques mutantes, estilo tech editorial](../../assets/images/2026-09-29-cloudflare-waf-testing-modelos-ia.jpg)
+![Cloudflare testeó su propio WAF con modelos de IA frontier: esto fue lo que encontraron](../../assets/images/2026-09-29-cloudflare-waf-testing-modelos-ia.webp)
 
 La pregunta que les llegaba seguido de los clientes: **"¿Está tu WAF listo para modelos de IA frontier?"** En vez de responder con slides, Cloudflare hizo lo más sano: lo puso a prueba. Construyeron un tester donde el LLM actúa como hacker —sin ver código fuente, sin conocer las reglas del WAF, solo con respuestas HTTP seleccionadas— y lo soltaron contra un entorno de staging autorizado protegido por su propio WAF.
 

@@ -12,7 +12,7 @@ tags:
 description: "Riverbed presenta Network 360, que integra su IA causal, predictiva y agéntica (IQ y Q) de forma nativa en AppResponse y NetProfiler para que NetOps pase de reaccionar a prevenir caídas."
 ---
 
-![Ilustración editorial de una red empresarial observada en 360 grados por una IA agéntica, nodos de red interconectados con un ojo digital que inspecciona el tráfico, tonos azul profundo y verde esmeralda sobre fondo oscuro, estilo vectorial plano minimalista](../../assets/images/2026-09-16-riverbed-network-360-aiops-agentico.jpg)
+![Riverbed mete IA agéntica a la observabilidad de red con Network 360](../../assets/images/2026-09-16-riverbed-network-360-aiops-agentico.webp)
 
 La observabilidad ya no es solo "ver qué pasó", y Riverbed lo está dejando claro en el terreno de la **red**. La compañía presentó este martes **Network 360**, una familia de soluciones de observabilidad de red que integra de forma nativa su capa de IA agéntica — **Riverbed IQ y Q** — dentro de las herramientas que los equipos de NetOps ya usan: **AppResponse** (captura de paquetes) y **NetProfiler** (monitoreo de flujos a escala).
 

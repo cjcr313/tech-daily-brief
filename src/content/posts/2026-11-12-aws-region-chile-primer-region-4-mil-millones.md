@@ -11,7 +11,7 @@ tags:
 description: "AWS lanzó en early access su región South America (Chile): US$4 mil millones de inversión, tres zonas de disponibilidad y residencia de datos local para bancos, retail y fintechs chilenas."
 ---
 
-![Ilustración editorial tech de data centers modulares brillantes sobre un mapa estilizado del Cono Sur de Sudamérica, con nodos de red luminosos conectando Santiago con países vecinos, tonos naranja y azul profundo, estilo ilustración profesional sin texto](../../assets/images/aws-region-chile-primer-region-4-mil-millones.jpg)
+![AWS abre su primera región en Chile: US$4 mil millones y datos que por fin se quedan en casa](../../assets/images/aws-region-chile-primer-region-4-mil-millones.webp)
 
 Después de años de pedirlo a gritos, se hizo: **AWS abrió su primera región de infraestructura cloud en Chile**. La región **South America (Chile)** está operativa desde el 11 de noviembre en early access para un grupo de clientes, con disponibilidad general esperada en las próximas semanas. La inversión comprometida: **más de US$4 mil millones**.
 

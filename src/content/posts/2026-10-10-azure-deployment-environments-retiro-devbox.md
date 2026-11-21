@@ -11,7 +11,7 @@ tags:
 description: "Microsoft confirma el retiro de Azure Deployment Environments para febrero 2027 sin reemplazo directo, y Dev Box se va en 2028 reemplazado por Windows 365. La ruta oficial: Bicep/Terraform + pipelines."
 ---
 
-![Ilustración editorial tech de una grúa retirando módulos de servicios de una nube modular tipo datacenter, mientras pipelines de integración continua redirigen flujos hacia planos de infraestructura como código, paleta azul profundo con acentos naranjas, estilo ilustración editorial profesional, sin texto](../../assets/images/2026-10-10-azure-deployment-environments-retiro-devbox.jpg)
+![Azure mata Deployment Environments y Dev Box: los retiros que hay que anotar en la agenda](../../assets/images/2026-10-10-azure-deployment-environments-retiro-devbox.webp)
 
 El Azure Weekly Update de esta semana trajo una seguidilla de retiros que van a mover agendas en más de un equipo de plataforma. La más incómoda: **Azure Deployment Environments se retira el 22 de febrero de 2027, y no hay servicio de reemplazo directo**.
 

@@ -11,7 +11,7 @@ tags:
 description: "La Cloudflare Data Platform se graduó con nombre propio: Basin. Ingesta, catálogo y SQL serverless sobre Apache Iceberg y R2, sin costo de egress y con pricing por uso. Otra pieza del stack completo que Cloudflare está armando."
 ---
 
-![Ilustración editorial de ríos de datos luminosos convergiendo hacia un lago cristalino formado por tablas geométricas flotantes, paleta azul profundo con acentos naranja, estilo ilustración tech editorial](../../assets/images/2026-10-02-cloudflare-basin-plataforma-datos-serverless-ga.jpg)
+![Cloudflare Basin llega a GA: la plataforma de datos serverless sobre Apache Iceberg y R2 (y sin egress)](../../assets/images/2026-10-02-cloudflare-basin-plataforma-datos-serverless-ga.webp)
 
 Durante su Birthday Week 2025, Cloudflare anunció la "Cloudflare Data Platform" en beta abierta. Ayer se graduó a **general availability** y estrenó nombre: **Cloudflare Basin**. Y no es un rename cosmético — es la apuesta de Cloudflare por comerse el stack analítico completo, con la misma receta con la que ya atacó compute (Workers), objetos (R2) y streaming de eventos (K2): **serverless, open standards y cero egress**.
 

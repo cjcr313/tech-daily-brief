@@ -12,7 +12,7 @@ tags:
 description: "Reuters reporta que Anthropic considera adelantar el lanzamiento de un nuevo modelo para contrarrestar el empuje de GPT-6 Astra, de cara a su IPO prevista para noviembre."
 ---
 
-![Ilustración editorial tech de una balanza entre un cerebro robótico y un gráfico de bolsa ascendente, con un cohete y un faro representando la carrera entre OpenAI y Anthropic, tonos naranjas y morados sobre fondo oscuro](../../assets/images/2026-09-21-anthropic-nuevo-modelo-antes-ipo.jpg)
+![Anthropic evalúa lanzar un nuevo Claude para frenar a GPT-6 Astra antes de su IPO](../../assets/images/2026-09-21-anthropic-nuevo-modelo-antes-ipo.webp)
 
 Anthropic quedó en una posición incómoda: hace poco su CEO, Dario Amodei, pidió públicamente **desacelerar el desarrollo de IA**, y ahora, según **Reuters** (citando tres fuentes), la compañía está evaluando **adelantar el lanzamiento de un nuevo modelo Claude** para contrarrestar el empuje comercial de **GPT-6 Astra**, el último gran modelo de OpenAI.
 

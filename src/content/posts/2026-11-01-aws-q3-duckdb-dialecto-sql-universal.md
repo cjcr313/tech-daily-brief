@@ -12,7 +12,7 @@ tags:
 description: "Resultados Q3 de Amazon: AWS acelera por sexto trimestre seguido, la acción igual cae, y Jassy confirma que DuckDB será el dialecto SQL universal de storage y analytics."
 ---
 
-![Ilustración editorial tech de un cubo de base de datos SQL brillante fusionándose con racks de servidores en la nube, flujos de datos unificados entre ambos, paleta azul profundo y naranja, estilo portada de revista profesional, sin texto](../../assets/images/2026-11-01-aws-q3-duckdb-dialecto-sql-universal.jpg)
+![AWS crece 39% y DuckDB será el dialecto SQL universal de todo su stack analítico](../../assets/images/2026-11-01-aws-q3-duckdb-dialecto-sql-universal.webp)
 
 Los resultados del tercer trimestre de Amazon trajeron un dato técnico que se robó la conversación más que los números: con la compra de **DuckLabs** (la empresa detrás de DuckDB, anunciada en agosto), **DuckDB se convertirá en el dialecto SQL universal de AWS Storage and Analytics**. Traducción: escribes tu query analítica una vez y la ejecutas en cualquier servicio de analytics de AWS, con — según Jassy en la llamada — **cero costos de migración o portabilidad** por primera vez en analytics.
 

@@ -11,7 +11,7 @@ tags:
 description: "La profesora de Caltech Anima Anandkumar lanzó Accelerated Understanding, una IA de física construida sobre operadores neuronales en vez de Transformers."
 ---
 
-![Ilustración editorial de una red neuronal que modela fenómenos físicos como clima y fusión nuclear](../../assets/images/2026-09-01-accelerated-understanding-fisica-ai-neural-operators.jpg)
+![Anima Anandkumar lanza Accelerated Understanding: IA para física sin Transformers](../../assets/images/2026-09-01-accelerated-understanding-fisica-ai-neural-operators.webp)
 
 Mientras la mayoría de los titulares de IA giran en torno a chatbots y agentes, **Anima Anandkumar** —profesora de Caltech y ex directiva de NVIDIA— acaba de lanzar **Accelerated Understanding**, una empresa enfocada en algo bastante más ambicioso: usar IA para **simular y entender el mundo físico**.
 

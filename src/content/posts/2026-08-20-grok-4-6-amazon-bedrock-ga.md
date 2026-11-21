@@ -11,7 +11,7 @@ tags:
 description: "SpaceXAI liberó Grok 4.6 como GA en Amazon Bedrock: 500K de contexto, reasoning configurable en 4 niveles y US$2/US$6 por millón de tokens. La guerra de modelos frontier en la nube empresarial se pone espesa."
 ---
 
-![Ilustración editorial de un cohete naranja integrándose entre torres de servidores en la nube, flujos de datos dorados conectando nodos, estilo tech editorial sobre fondo azul profundo](../../assets/images/placeholder.jpg)
+![Grok 4.6 aterriza en Amazon Bedrock: el flagship de SpaceXAI llega a la nube enterprise con contexto de 500K y precios agresivos](../../assets/images/placeholder.webp)
 
 Si hace un par de años alguien decía que Grok iba a correr con autenticación IAM dentro de tu cuenta AWS, la gente se reía. Hoy [x.ai (ahora SpaceXAI) anunció que Grok 4.6 está generalmente disponible en Amazon Bedrock](https://x.ai/news/grok-4-6-amazon-bedrock), y no es una beta tímida: es el flagship completo, con acceso directo para todos los desarrolladores en las regiones soportadas.
 

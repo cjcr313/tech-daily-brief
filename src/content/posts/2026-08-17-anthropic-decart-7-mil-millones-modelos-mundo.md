@@ -10,7 +10,7 @@ tags:
 description: "Anthropic estaría cerrando la compra del israelí Decart —el lab de world models en tiempo real— por ~US$7 mil millones pagados mayormente en acciones, pese a que Nvidia ofrecía más. El timing lo dice todo: a semanas de su IPO récord."
 ---
 
-![Ilustración editorial de un globo digital simulado en tiempo real fusionándose con una campana de bolsa ascendente, tonos azul profundo y dorado, estilo tech editorial](../../assets/images/placeholder.jpg)
+![Anthropic le ganó la mesa a Nvidia: cerca de quedarse con Decart por ~US$7.000 millones](../../assets/images/placeholder.webp)
 
 Dato para el braga: Anthropic estaría a punto de cerrar una de las compras más agresivas del año en IA. Según Calcalist y Globes, la casa de Claude **le ganó la mesa a Nvidia** por **Decart**, el startup israelí de world models en tiempo real, en un deal de **~US$7.000 millones** pagados mayormente en acciones de Anthropic.
 

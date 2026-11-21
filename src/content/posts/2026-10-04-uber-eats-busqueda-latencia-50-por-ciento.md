@@ -11,7 +11,7 @@ tags:
 description: "Uber cambió su métrica de latencia por 'Above-the-Fold', mató estrategias de retrieval de baja value, separó hydration de ranking y redisenñó el path de ads: -50% de latencia end-to-end en la búsqueda de Uber Eats."
 ---
 
-![Ilustración editorial tech de un cronómetro optimizado junto a un pipeline de datos estilizado por donde corre a velocidad un scooter de reparto, paleta teal y naranja, sin texto](../../assets/images/2026-10-04-uber-eats-busqueda-latencia-50-por-ciento.jpg)
+![Uber Eats reconstruyó su pipeline de búsqueda y partió la latencia en dos: la lección es hacer menos, no hacerlo más rápido](../../assets/images/2026-10-04-uber-eats-busqueda-latencia-50-por-ciento.webp)
 
 Uber publicó el detalle de cómo recontruyó grandes partes del pipeline de búsqueda de **Uber Eats** y logró reducir **50% la latencia end-to-end**. Y la receta no fue un rewrite con una tecnología nueva: fue una seguidilla de decisiones cuidadosas a lo largo de todo el stack.
 

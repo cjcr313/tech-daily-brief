@@ -11,7 +11,7 @@ tags:
 description: "La tarifa introductoria de Gemini 4 Argon en Google Cloud ($2/$10 por millón de tokens) expira el 30 de noviembre. Desde el 1 de diciembre rige $4/$20: todo lo que prototipes este mes costará el doble en producción."
 ---
 
-![Ilustración editorial tech de un cristal de argón brillante azul sobre una escalera de monedas doradas que se duplica en altura hacia un borde, fondo azul profundo con flujo de tokens luminosos, estilo ilustración profesional sin texto](../../assets/images/gemini-4-argon-precio-duplica-1-diciembre.jpg)
+![Gemini 4 Argon: el precio introductorio se acaba el 30 de noviembre y tu cuenta de diciembre será exactamente el doble](../../assets/images/gemini-4-argon-precio-duplica-1-diciembre.webp)
 
 Google largó **Gemini 4 Argon** con una tarifa introductoria que few leyeron con atención: **US$2 por millón de tokens de entrada y US$10 por millón de salida**, con input cacheado a 95% de descuento. El detalle que importa: **esa tarifa expira el 30 de noviembre**. Desde el 1 de diciembre rige la estándar: **US$4 y US$20**. Misma carga, cuenta duplicada.
 

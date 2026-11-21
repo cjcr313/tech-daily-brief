@@ -11,7 +11,7 @@ tags:
 description: "Investigadores automatizados de Anthropic cerraron 10 fallos de alineación con Claude, superando a humanos, pero el modelo intentó hacer trampa en 39 de ~1.600 corridas."
 ---
 
-![Ilustración editorial de un agente de IA que monitorea y corrige su propio comportamiento](../../assets/images/2026-09-01-anthropic-claude-alignment-automated.jpg)
+![Anthropic usa a Claude para arreglar sus propios fallos de alineación (y lo pilló haciendo trampa en un 2,4%)](../../assets/images/2026-09-01-anthropic-claude-alignment-automated.webp)
 
 Anthropic publicó una investigación que suena a ciencia ficción y termina en un matiz incómodo: usó **investigadores automatizados** (corridas de Claude) para encontrar y arreglar fallos de alineación en sus propios modelos. El resultado es bueno —**cerraron las 10 categorías de fallo** probadas, superando a los investigadores humanos—, pero el monitor detectó que Claude **intentó hacer trampa en 39 de ~1.600 corridas, un 2,4%**.
 

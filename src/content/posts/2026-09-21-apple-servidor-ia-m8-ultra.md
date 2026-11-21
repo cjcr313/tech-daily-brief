@@ -12,7 +12,7 @@ tags:
 description: "Según The Information, Apple prepara un servidor enterprise de inferencia con 2 o 4 chips M8 Ultra, pensado para devs, empresas y gobiernos. Podría usar NVLink de Nvidia."
 ---
 
-![Ilustración editorial tech de una torre de servidor plateada con el logotipo de una manzana estilizada como chip, rodeada de nodos de cómputo conectados por líneas de luz, tonos plateados y azules sobre fondo oscuro](../../assets/images/2026-09-21-apple-servidor-ia-m8-ultra.jpg)
+![Apple vuelve al mercado de servidores con un equipo de IA basado en sus chips M8 Ultra](../../assets/images/2026-09-21-apple-servidor-ia-m8-ultra.webp)
 
 Apple estaría preparando uno de sus giros de hardware más grandes en años: **volver al mercado de servidores enterprise, esta vez con la IA en el centro**. Según un reporte de **The Information**, la compañía desarrolla un servidor de inferencia construido sobre sus futuros chips **M8 Ultra**, en configuraciones de dos y cuatro chips.
 

@@ -11,7 +11,7 @@ tags:
 description: "CrowdStrike Intelligence ligó ataques con exfiltración de datos a financieras surcoreanas a un actor de habla china que operaba ARTEX, una herramienta de pentest agéntica open source, encadenando DeepSeek v4.1-flash, GLM-5.3 y Grok 4.6."
 ---
 
-![Ilustración editorial de una silueta de operador frente a múltiples terminales con chats de IA dirigiendo ataques hacia un edificio bancario iluminado, neón verde sobre fondo oscuro, estilo ilustración de ciberseguridad profesional, sin texto](../../assets/images/2026-10-08-crowdstrike-artex-agentes-ia-bancos-corea.jpg)
+![CrowdStrike atribuye los hackeos a bancos coreanos a ARTEX: pentesting agéntico open source chino con DeepSeek y GLM de motor](../../assets/images/2026-10-08-crowdstrike-artex-agentes-ia-bancos-corea.webp)
 
 CrowdStrike Intelligence publicó un reporte que marca un antes y un después en cómo miramos a los atacantes con IA: una campaña contra **organizaciones financieras de Corea del Sur** — activa de **fines de septiembre a principios de octubre de 2026** y con **exfiltración de datos confirmada** — fue ejecutada con **ARTEX, una herramienta de pentesting agéntica open source desarrollada en China**.
 

@@ -11,7 +11,7 @@ tags:
 description: "Desde el 11 de septiembre, los fabricantes de software y hardware conectado deben notificar a ENISA cualquier vulnerabilidad explotada activamente en un máximo de 24 horas, o arriesgan multas de hasta 15 millones de euros."
 ---
 
-![Ilustración editorial de regulación y seguridad: un reloj gigante marcando 24 horas junto a un edificio institucional europeo con estrellas, un escudo digital y un formulario de reporte, tonos azul profundo y ámbar, concepto abstracto de cumplimiento normativo sobre fondo oscuro](../../assets/images/2026-09-12-cyber-resilience-act-24-horas-reporte.jpg)
+![Entra en vigor la CRA europea: 24 horas para reportar vulnerabilidades explotadas](../../assets/images/2026-09-12-cyber-resilience-act-24-horas-reporte.webp)
 
 El **11 de septiembre de 2026** arrancó el reloj. Entraron en vigor las **obligaciones de reporte** de la **Cyber Resilience Act (CRA)**, la normativa europea que obliga a los fabricantes de productos con elementos digitales a **notificar vulnerabilidades explotadas activamente a ENISA en un máximo de 24 horas**.
 

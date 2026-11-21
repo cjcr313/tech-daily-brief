@@ -12,7 +12,7 @@ tags:
 description: "Pathways, el sistema distribuido que Google usa para entrenar Gemini sobre miles de TPUs, alcanzó disponibilidad general en Google Cloud. Una apuesta por reemplazar el modelo SPMD tradicional."
 ---
 
-![Ilustración editorial de miles de chips TPU interconectados coordinados por un controlador central](../../assets/images/google-pathways-ga-gcp-entrenamiento-gemini.jpg)
+![Google abre Pathways al mundo: el sistema que entrena a Gemini ya es GA en Google Cloud](../../assets/images/google-pathways-ga-gcp-entrenamiento-gemini.webp)
 
 Google anunció la **disponibilidad general de Pathways en Google Cloud Platform**: el sistema distribuido que usa internamente para entrenar sus modelos más grandes, Gemini incluido, ahora está abierto a cualquier cliente de la nube que pague por entrenamiento a gran escala en TPUs. El anuncio llegó vía Google Developers Blog, en el primer post de una serie titulada "Pathways on Google Cloud".
 

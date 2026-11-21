@@ -11,7 +11,7 @@ tags:
 description: "OpenAI estrenó una versión de ChatGPT enfocada en banca de inversión y equity research, con datos integrados de LSEG, PitchBook, Daloopa y CrunchBase corriendo sobre GPT-6 Astra."
 ---
 
-![Ilustración editorial de IA aplicada a finanzas: gráficos de mercado y velas bursátiles mezcladas con una red neuronal abstracta, tonos verdes y azul profundo, concepto tech editorial sin texto](../../assets/images/2026-09-11-openai-chatgpt-servicios-financieros.jpg)
+![OpenAI lanza ChatGPT for Financial Services para pelearle el pastel a los bancos de Wall Street](../../assets/images/2026-09-11-openai-chatgpt-servicios-financieros.webp)
 
 OpenAI sigue apostando por verticalizar su modelo y ahora le tocó al dinero. El jueves lanzó **ChatGPT for Financial Services**, una experiencia de ChatGPT Work hecha a medida para instituciones financieras, apuntando directo al trabajo de los **banqueros de inversión junior** y los equipos de **equity research**.
 

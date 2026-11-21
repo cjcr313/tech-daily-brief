@@ -11,7 +11,7 @@ tags:
 description: "Google DeepMind prepara Gemini 3.8 Flash, 'Skimaki', un modelo enfocado en código que según el WSJ podría salir este miércoles y pelearle a Opus."
 ---
 
-![Ilustración editorial de un modelo de IA enfocado en código](../../assets/images/2026-09-02-gemini-3-8-flash-skimaki-codigo.jpg)
+![Gemini 3.8 Flash: Google va con todo por el trono del código](../../assets/images/2026-09-02-gemini-3-8-flash-skimaki-codigo.webp)
 
 Google DeepMind estaría a punto de lanzar **Gemini 3.8 Flash**, internamente bautizado como *"Skimaki"*, y el foco está clarísimo: **código**. Según un scoop del Wall Street Journal (firmado por Erin Woo), el modelo saldría tan pronto como este miércoles 2 de septiembre, en lo que se perfila como la apuesta más agresiva de Google por cerrar la brecha en coding contra Anthropic y OpenAI.
 

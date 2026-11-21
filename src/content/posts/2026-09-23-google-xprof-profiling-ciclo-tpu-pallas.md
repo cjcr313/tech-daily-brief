@@ -12,7 +12,7 @@ tags:
 description: "El profiler open source de Google para TPU ahora muestra detalle por ciclo dentro de kernels Pallas, Mosaic y Triton."
 ---
 
-![Vista de un profiler de TPU mostrando un kernel desglosado por ciclos, con bloques de cómputo y accesos a memoria HBM resaltados](../../assets/images/2026-09-23-google-xprof-profiling-ciclo-tpu-pallas.jpg)
+![Google suma profiling a nivel de ciclo a XProf para tunear kernels en TPU](../../assets/images/2026-09-23-google-xprof-profiling-ciclo-tpu-pallas.webp)
 
 Google agregó un **Kernel Profiling suite** a **XProf**, su profiler open source para cargas de trabajo en TPU. La novedad: ahora se puede ver **detalle a nivel de ciclo** dentro de kernels custom escritos en **Pallas**, algo que antes aparecía como un bloque opaco en las capturas de trace.
 

@@ -12,7 +12,7 @@ tags:
 description: "POLITICO filtró el borrador que Anthropic promueve entre legisladores: umbrales altos para bloquear un modelo, una sola corte federal de por medio, evaluadores registrados y previsión parcial de leyes estatales."
 ---
 
-![Ilustración editorial tech de un documento legislativo sobre un escritorio junto a una balanza y un nodo de IA luminoso contenido tras una barrera, estilo flat profesional en tonos sepia y azul oscuro, sin texto](../../assets/images/2026-10-17-anthropic-borrador-ley-ia-frontiera-congreso.jpg)
+![Anthropic le pasó al Congreso de EE.UU. un borrador de ley para frenar modelos frontera: solo con riesgo inminente de más de US$1.000 millones en daños o 50 víctimas](../../assets/images/2026-10-17-anthropic-borrador-ley-ia-frontiera-congreso.webp)
 
 Anthropic anda haciendo lobby con un texto que pocos habían visto: según reveló [POLITICO el 16 de octubre](https://www.politico.com/), la empresa llevó un **borrador de ley federal de seguridad en IA frontera** a miembros del Congreso. El documento es confidencial, no tiene patrocinante nombrado aún, y Anthropic confirmó la sustancia: "Este proyecto representa las propuestas delineadas en nuestro Advanced AI Framework, que hemos estado promoviendo con legisladores federales y estatales desde junio".
 

@@ -11,7 +11,7 @@ tags:
 description: "Microsoft convirtió Windows en base para agentes de IA: Microsoft Execution Containers (MXC) ya es GA en Windows 11, modelos locales como DeepSeek V4 flash llegan al sistema y el Surface Laptop Ultra con RTX Spark ya se puede preordenar."
 ---
 
-![Ilustración editorial de un laptop premium desplegando un contenedor luminoso que encierra a un pequeño agente robótico, con circuitos y chips de IA flotando alrededor, acentos turquesa y azul sobre fondo oscuro, estilo ilustración tech moderna, sin texto](../../assets/images/2026-10-09-windows-ia-hibrida-mxc-modelos-locales.jpg)
+![Windows se vuelve plataforma de IA híbrida: MXC sale GA y DeepSeek V4 flash correrá local](../../assets/images/2026-10-09-windows-ia-hibrida-mxc-modelos-locales.webp)
 
 Microsoft hizo esta semana su primer evento centrado en laptops en más de dos años, y aunque el hardware robó las cámaras, la noticia que le importa a quien construye software es otra: **Windows se está convirtiendo en la plataforma de ejecución de agentes de IA — y por primera vez con contención nativa a nivel de sistema operativo**.
 

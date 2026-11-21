@@ -11,7 +11,7 @@ tags:
 description: "Grok 4.6 empata con GPT-5.6 Sol en el Intelligence Index de Artificial Analysis (61 pts), a US$2/US$6 por millón de tokens. Fuerte en agentes y eficiencia."
 ---
 
-![Ilustración editorial de un cohete atravesando una frontera de datos, estilo tech editorial](../../assets/images/2026-08-12-grok-4-6-spacexai-frontera-ia-agentes-costo.jpg)
+![Grok 4.6: SpaceXAI vuelve a la frontera de la IA y lo hace a mitad de precio que la competencia](../../assets/images/2026-08-12-grok-4-6-spacexai-frontera-ia-agentes-costo.webp)
 
 SpaceXAI (el nuevo nombre de xAI) acaba de lanzar **Grok 4.6**, y el modelo no viene a hacer ruido por hacer ruido: viene a posicionarse directo en la mesa de los grandes, con números que respaldan.
 

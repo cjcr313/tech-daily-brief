@@ -11,7 +11,7 @@ tags:
 description: "Bloomberg reporta que Microsoft está desencantado con los operadores neocloud que él mismo financiaron. IREN confirmó que un pedido de su cliente mayor retrasa US$4.000M en ingresos anualizados por reconfigurar red para modelos frontier."
 ---
 
-![Ilustración editorial tech de grandes centros de datos conectados por líneas de red tensas sobre un paisaje industrial, representando la economía de los neoclouds](../../assets/images/microsoft-neoclouds-iren-nebius-nscale-retrasos.jpg)
+![Microsoft se enfría con los neoclouds: retrasos y costos tensan a IREN, Nebius y Nscale — y IREN posterga US$4.000M en ingresos anuales](../../assets/images/microsoft-neoclouds-iren-nebius-nscale-retrasos.webp)
 
 La fiesta de los neoclouds tiene música cada vez más baja. Según un reportaje de **Bloomberg**, **Microsoft estaría desencantado con los operadores emergentes de data centers** — IREN, Nebius y Nscale entre los señalados — por retrasos y costos que no calzan con lo prometido. La ironía es evidente: fue el propio Microsoft el que ayudó a crear el boom, firmando **decenas de miles de millones de dólares en contratos** con operadores novatos para saciar el apetito voraz de Azure por cómputo de IA.
 

@@ -11,7 +11,7 @@ tags:
 description: "Once empresas — NVIDIA, AMD, OpenAI, Anthropic, Google, AWS y más — comprometieron US$2.400 millones en créditos de cómputo y herramientas de IA para agencias científicas federales de EE.UU. NVIDIA sola aporta US$1.000 millones."
 ---
 
-![Ilustración editorial tech de un consorcio de edificios corporativos y laboratorios científicos conectados por flujos de cómputo hacia un núcleo central de inteligencia artificial, estilo ilustración editorial profesional en tonos azul profundo y dorado](../../assets/images/2026-10-09-genesis-mission-2400-millones-computo-ia-ciencia.jpg)
+![US$2.400 millones en cómputo de IA para ciencia: la Casa Blanca bautiza el 'Genesis Mission' y las big tech pusieron la plata](../../assets/images/2026-10-09-genesis-mission-2400-millones-computo-ia-ciencia.webp)
 
 Si anoche te preguntabas dónde va a parar tanto GPU que andan comprando las big tech, acá va una respuesta parcial: **a la ciencia federal estadounidense**. En la cumbre "Science: A New Golden Age", la Casa Blanca anunció el **Genesis Mission**, un programa donde **once empresas comprometieron US$2.400 millones** en créditos de cómputo y herramientas de IA para agencias científicas e investigadores federales.
 

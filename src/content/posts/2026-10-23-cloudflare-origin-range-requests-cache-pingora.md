@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare lanza Origin Range Requests en todos los planes: caché de range requests sin tuning, chunks alineados en Pingora, p99 de R2 a la mitad y 6% menos tráfico de tiered cache."
 ---
 
-![Ilustración editorial de una red CDN entregando segmentos de archivos grandes desde un origen hacia nodos edge y usuarios](../../assets/images/cloudflare-origin-range-requests-cache-pingora.jpg)
+![Cloudflare rehace su caché en Pingora: Origin Range Requests rebaja a la mitad el p99 de R2 y chau a configurar tamaños](../../assets/images/cloudflare-origin-range-requests-cache-pingora.webp)
 
 Cloudflare lanzó hoy **Origin Range Requests**, disponible self-service en todos los planes vía Cache Rules. Detrás del nombre aburrido hay una historia buena de ingeniería: reconstruyeron cómo su caché maneja range requests, y los números hablan solos — **el p99 de time-to-first-byte de R2 bajó ~50%** y el tráfico de tiered cache cayó ~6%.
 

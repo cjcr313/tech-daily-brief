@@ -12,7 +12,7 @@ tags:
   - DevOps
 description: "AWS anuncia colaboración con OpenAI y Anthropic para integrar Continuum directamente en herramientas de código y agentes de desarrollo."
 ---
-![AWS Continuum AI Security](../../assets/images/2026-08-06-aws-continuum-anthropic-openai.jpg)
+![AWS Continuum AI Security](../../assets/images/2026-08-06-aws-continuum-anthropic-openai.webp)
 
 En un movimiento clave para el futuro del desarrollo impulsado por IA, **AWS ha anunciado una colaboración estratégica con Anthropic y OpenAI**. El objetivo: integrar **AWS Continuum**, su herramienta de remediación de vulnerabilidades de código, directamente en los flujos de trabajo de los desarrolladores y agentes de IA.
 

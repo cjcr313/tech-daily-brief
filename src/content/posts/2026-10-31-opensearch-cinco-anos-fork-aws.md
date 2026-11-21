@@ -11,7 +11,7 @@ tags:
 description: "La contribución de AWS cayó de 91% a 72% y los despliegues self-managed crecieron de 37% a 60%, pero un 24% de los no-adoptantes aún desconfía por los lazos históricos con AWS."
 ---
 
-![Ilustración editorial de un motor de búsqueda open source representado como una lupa gigante sobre nodos de datos distribuidos, en tonos azules y naranjas](../../assets/images/2026-10-31-opensearch-cinco-anos-fork-aws.jpg)
+![OpenSearch, cinco años del fork: la sombra de AWS sigue ahí, pero se está achicando](../../assets/images/2026-10-31-opensearch-cinco-anos-fork-aws.webp)
 
 Cinco años después de que AWS forkeara Elasticsearch y Kibana en respuesta al cambio de licencia de Elastic (enero 2021), The New Stack hizo el balance de cómo va OpenSearch como proyecto independiente. La respuesta corta: mejor de lo que muchos esperaban, pero todavía con la sombra alargada de su padre corporativo.
 

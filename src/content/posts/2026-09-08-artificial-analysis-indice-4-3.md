@@ -11,7 +11,7 @@ tags:
 description: "La consultora actualizó su ranking de inteligencia: subió Terminal-Bench a v4, sumó AutomationBench-AA y dejó a Fable 5.1 y GPT-6 Astra empatados en primer lugar."
 ---
 
-![Ilustración editorial de un podio de benchmark donde dos modelos de IA empatan en la cima, con barras ascendentes y gráficos de ranking, tonos naranja y azul marino](../../assets/images/2026-09-08-artificial-analysis-indice-4-3.jpg)
+![Artificial Analysis actualiza su Intelligence Index a v4.3: Fable 5.1 y GPT-6 Astra empatan en la cima](../../assets/images/2026-09-08-artificial-analysis-indice-4-3.webp)
 
 Artificial Analysis volvió a mover las piezas de su Intelligence Index y, de paso, le cambió la foto al tablero de liderazgo. La versión **v4.3** llega apenas días después de la v4.2, en lo que la consultora describe como la continuidad del despliegue de su Intelligence Index v5.
 

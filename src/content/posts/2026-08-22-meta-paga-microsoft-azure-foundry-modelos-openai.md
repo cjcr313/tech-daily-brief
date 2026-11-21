@@ -11,7 +11,7 @@ tags:
 description: "Bloomberg reveló que Meta es uno de los mayores clientes de IA de Microsoft: gasta cientos de millones al año quemando trillones de tokens semanales en Foundry, mientras arma su propio competitor. ByteDance encabeza la lista."
 ---
 
-![Ilustración editorial de dos gigantes tecnológicos intercambiando flujos de datos luminosos y tokens de IA, estilo tech editorial en azul profundo con detalles dorados](../../assets/images/2026-08-22-meta-paga-microsoft-azure-foundry-modelos-openai.jpg)
+![Meta le paga cientos de millones a Microsoft por IA: trillones de tokens semanales en Azure Foundry](../../assets/images/2026-08-22-meta-paga-microsoft-azure-foundry-modelos-openai.webp)
 
 Bloomberg soltó un dato que pinta perfecto la extraña economía de la IA actual: **Meta se convirtió en uno de los mayores clientes de IA de Microsoft**, gastando **cientos de millones de dólares al año** accediendo a modelos a través de **Azure AI Foundry**. Y el nivel de consumo es de otra galaxia: **trillones de tokens por semana**.
 

@@ -12,7 +12,7 @@ tags:
 description: "AWS open-sourcéa Strands Harness, un runtime de agentes en Python y TypeScript que promete 28% menos costo en tokens y 45% menos que Claude Code y Codex con precisión comparable."
 ---
 
-![Ilustración editorial tech de un arnés (harness) metálico conectando bloques de un agente de IA con engranajes y cables, sobre fondo oscuro con tonos naranja y azul, estilo minimalista](../../assets/images/2026-09-22-aws-strands-harness-agente-open-source.jpg)
+![AWS libera Strands Harness: un agente de IA open-source 45% más barato que Claude Code y Codex](../../assets/images/2026-09-22-aws-strands-harness-agente-open-source.webp)
 
 El equipo Strands Agents de AWS liberó **Strands Harness**, un **runtime de agentes open-source** (Apache 2.0) para Python y TypeScript que empaqueta las primitivas internas de AWS en un harness de propósito general. El titular que están empujando: sale **más barato** que los agentes de codificación dominantes con una precisión comparable.
 

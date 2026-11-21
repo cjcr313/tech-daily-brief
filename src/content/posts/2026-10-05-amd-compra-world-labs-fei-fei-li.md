@@ -12,7 +12,7 @@ tags:
 description: "La 'madrina de la IA' se muda a AMD: compra all-stock de US$8.200M por el lab de world models de Fei-Fei Li, semanas después de que el MI355X le ganara al Blackwell Ultra de NVIDIA en generación de video. Los fabricantes de chips ya no compran solo chips."
 ---
 
-![Ilustración editorial de un chip semiconductor gigante del que emerge una ciudad tridimensional holográfica rodeada de robots, representando world models y silicio, paleta azul profundo y naranja, estilo ilustración editorial profesional sin texto](../../assets/images/2026-10-05-amd-compra-world-labs-fei-fei-li.jpg)
+![AMD compra World Labs por US$8.200 millones y Fei-Fei Li pasa a ser su chief scientist](../../assets/images/2026-10-05-amd-compra-world-labs-fei-fei-li.webp)
 
 Se nos había escapado esta y era demasiado grande para dejarla pasar: el **28 de septiembre AMD anunció un acuerdo definitivo para comprar World Labs**, el laboratorio de *spatial intelligence* liderado por la Dra. Fei-Fei Li, en una transacción **todo en acciones valorizada en unos US$8.200 millones**, con cierre esperado para fin de 2026 sujeto a aprobaciones regulatorias.
 

@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek publicó Super-Agent, un prototipo open source que escucha las conversaciones de los equipos de desarrollo y propone soluciones de código sin que nadie lo pida. Va directo por Claude Code y Codex."
 ---
 
-![Ilustración editorial tech de un agente de IA autónomo observando un flujo de mensajes de chat de desarrolladores y proponiendo bloques de código brillantes por iniciativa propia, nodos geométricos conectados, degradado teal y naranja, minimalista profesional, sin texto](../../assets/images/2026-11-02-deepseek-super-agent-agente-codigo-proactivo.jpg)
+![DeepSeek lanza Super-Agent: el agente de código que no espera a que lo llamen](../../assets/images/2026-11-02-deepseek-super-agent-agente-codigo-proactivo.webp)
 
 DeepSeek volvió a mover ficha en la carrera de los agentes de código. El 1 de noviembre publicó **Super-Agent**, un prototipo open source (repo `deepseek-ai/dsh-superagent-prototype`) que cambia la lógica del juego: en vez de esperar el prompt del desarrollador, **escucha las conversaciones grupales del equipo, detecta problemas de código y propone soluciones por iniciativa propia**.
 

@@ -12,7 +12,7 @@ tags:
 description: "Anthropic publicó datos internos de empleo: horas de agentes superan a las humanas 6 a 1, la contratación junior técnica cayó de 27% a 9% y el cuello de botella ahora es la atención humana."
 ---
 
-![Ilustración editorial de un equipo pequeño de personas dirigiendo una multitud de agentes digitales representados como nodos de trabajo, con un balance desigual de proporciones](../../assets/images/2026-10-17-anthropic-agentes-6-a-1-horas-trabajo-juniors.jpg)
+![Agentes 6, humanos 1: el informe interno que muestra cómo la IA reescribió la plantilla de Anthropic](../../assets/images/2026-10-17-anthropic-agentes-6-a-1-horas-trabajo-juniors.webp)
 
 Anthropic publicó un estudio que cualquier equipo de ingeniería debería leer dos veces: **"How employment is changing at Anthropic"**, un análisis con datos internos completos — empleo, uso de IA, métricas de output, calendarios, encuestas y registros de decisiones de contratación, más 17 entrevistas a empleados. Sin maquillaje: la empresa que está en la frontera de adopción de IA muestra cómo se ve la organización cuando los agentes ya son la mayoría del "equipo".
 

@@ -11,7 +11,7 @@ tags:
 description: "El primer Magic Quadrant dedicado a pipelines de telemetría consagra una categoría propia: Datadog y Cribl en el cuadrante Leader, con el costo de la telemetría como gran driver."
 ---
 
-![Ilustración editorial tech: flujos de telemetría luminosos atravesando tuberías transparentes que convergen en una rosa de los vientos tipo cuadrante sobre un paisaje de dashboards oscuro, paleta teal y ámbar, estilo flat moderno](../../assets/images/2026-11-17-gartner-mq-observability-pipelines-2026-datadog-cribl.jpg)
+![Gartner estrena su Magic Quadrant de Observability Pipelines: Datadog y Cribl, Leaders](../../assets/images/2026-11-17-gartner-mq-observability-pipelines-2026-datadog-cribl.webp)
 
 Cuando Gartner crea una categoría nueva en su Magic Quadrant, no es un acto administrativo: es el reconocimiento de que un montón de empresas ya están gastando plata real en ese problema. Hoy se publicó el **primer Magic Quadrant para Observability Pipelines**, y hay dos nombres en el cuadrante Leader: **Datadog** y **Cribl**.
 

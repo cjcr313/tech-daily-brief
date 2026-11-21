@@ -11,7 +11,7 @@ tags:
 description: "Microsoft AI liberó su primer modelo de transcripción streaming (60 idiomas, hipótesis en ~100ms) junto a dos modelos TTS. La voz se consolida como interfaz de agentes, y la latencia manda."
 ---
 
-![Ilustración editorial de ondas de sonido y burbujas de conversación multilingües fluyendo en tiempo real hacia un orbe de inteligencia artificial brillante, paleta azul y violeta, estilo tech editorial, sin texto](../../assets/images/2026-10-02-microsoft-mai-transcribe-voz-tiempo-real.jpg)
+![Microsoft lanza MAI-Transcribe-2-Streaming y MAI-Voice-2.1: la apuesta porque los agentes hablen en tiempo real](../../assets/images/2026-10-02-microsoft-mai-transcribe-voz-tiempo-real.webp)
 
 Mientras el resto pelea por benchmarks de razonamiento, Microsoft AI fue por un frente distinto: **la voz en tiempo real**. Hoy lanzó tres modelos nuevos: **MAI-Transcribe-2-Streaming**, su primer modelo de speech-to-text en modo streaming, junto a dos sistemas de texto-a-voz: **MAI-Voice-2.1** y la variante de baja latencia **MAI-Voice-2.1-Flash**. El anuncio está en el [blog de Microsoft AI](https://microsoft.ai/news/our-first-streaming-transcription-model/).
 

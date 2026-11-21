@@ -11,7 +11,7 @@ tags:
 description: "El proveedor europeo confirmó alzas desde septiembre: +87% en su gama Game de última generación, +51% en hardware actual y +28% en generaciones 2024. La demanda de IA está encareciendo el silicio para todos."
 ---
 
-![Ilustración editorial de una factura de nube con flechas de tendencia al alza y servidores en rack de fondo, estilo tech editorial](../../assets/images/2026-08-16-ovhcloud-sube-precios-87-porciento.jpg)
+![OVHcloud sube precios de servidores dedicados hasta 87%: el boom de la IA llega a tu factura](../../assets/images/2026-08-16-ovhcloud-sube-precios-87-porciento.webp)
 
 Si tenés servidores dedicados en OVHcloud, prepárate: la empresa francesa —el mayor proveedor de cloud de Europa— avisó que **desde septiembre sube los precios de sus servidores dedicados**, y los aumentos no son menores:
 

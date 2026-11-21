@@ -11,7 +11,7 @@ tags:
   - Cloud
 description: "A través de Project Perception, Microsoft introduce un modelo in-house especializado en defensa cibernética que cuesta la mitad que los modelos frontera."
 ---
-![Microsoft MAI-Cyber-1-Flash para ciberseguridad](../../assets/images/2026-08-04-microsoft-mai-cyber-1-flash.jpg)
+![Microsoft MAI-Cyber-1-Flash para ciberseguridad](../../assets/images/2026-08-04-microsoft-mai-cyber-1-flash.webp)
 
 Microsoft acaba de golpear la mesa en el mercado de la IA para ciberseguridad. Hoy anunciaron **MAI-Cyber-1-Flash**, un modelo "pequeño" construido in-house, diseñado específicamente para identificar y remediar vulnerabilidades. Este modelo se estrena como el motor de **Project Perception**, un sistema multi-agente que acaba de entrar en preview pública dentro de Microsoft Defender (MDASH).
 

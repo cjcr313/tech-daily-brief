@@ -11,7 +11,7 @@ tags:
 description: "Grafana lanzó Tempo 3.1: redacción de trazas por consulta TraceQL, cliente Kafka con TLS y métricas que corrigen por sampling. Queries de métricas casi 2x más rápidas."
 ---
 
-![Ilustración editorial de trazas distribuidas siendo filtradas y redactadas sobre un panel de observabilidad, con líneas de datos que se transforman](../../assets/images/2026-10-16-grafana-tempo-3-1-redaccion-trazas.jpg)
+![Tempo 3.1: redacta trazas con una query TraceQL y métricas que entienden de sampling](../../assets/images/2026-10-16-grafana-tempo-3-1-redaccion-trazas.webp)
 
 Grafana Labs liberó **Tempo 3.1**, la primera actualización menor de la arquitectura 3.0 (la de Project Rhythm, con Kafka como columna vertebral). No es un release de relleno: ataca tres dolores reales de quien opera tracing a escala — **Kafka seguro y barato, redacción de datos sensibles, y métricas que no mienten con sampling**.
 

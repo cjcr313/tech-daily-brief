@@ -11,7 +11,7 @@ tags:
 description: "Microsoft reportó Q4 FY2026: Azure creció 43% YoY y cruzó US$100B en ingresos anuales por primera vez. Microsoft Cloud total llegó a US$214B. Pero la relación con OpenAI se está enfriando."
 ---
 
-![Microsoft Azure 100 mil millones ingresos anuales](../../assets/images/2026-08-03-azure-cruza-100b-redmond-vs-openai.jpg)
+![Microsoft Azure 100 mil millones ingresos anuales](../../assets/images/2026-08-03-azure-cruza-100b-redmond-vs-openai.webp)
 
 Microsoft soltó sus resultados del Q4 del año fiscal 2026 el 30 de julio, y hay un dato que dice todo: **Azure superó los US$100 mil millones en ingresos anuales por primera vez en su historia**. Satya Nadella lo llamó "un hito significativo".
 

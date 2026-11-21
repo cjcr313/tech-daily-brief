@@ -11,7 +11,7 @@ tags:
 description: "HashiCorp archivó el repo de Boundary Community Edition el 8 de octubre: se acaba el desarrollo activo de la edición open source y todo apunta a HCP Boundary y Boundary Enterprise."
 ---
 
-![Ilustración editorial de una puerta de acceso con candado cerrándose sobre un camino comunitario, con edificios corporativos iluminados al fondo, paleta violeta y naranja](../../assets/images/2026-10-13-hashicorp-archiva-boundary-community-edition.jpg)
+![HashiCorp archiva Boundary Community Edition: el open source sigue cediendo terreno al enterprise](../../assets/images/2026-10-13-hashicorp-archiva-boundary-community-edition.webp)
 
 Si ocupas Boundary para acceso zero trust a infraestructura, la noticia te toca directo: **HashiCorp archivó el repositorio de Boundary Community Edition el 8 de octubre de 2026**, cerrando el desarrollo activo de la herramienta open source de acceso basado en identidad. El mensaje oficial apunta a los sobrevivientes: **HCP Boundary (la versión managed) y Boundary Enterprise**.
 

@@ -11,7 +11,7 @@ tags:
 description: "Patrick Wardle reveló un zero-day sin parche en el cliente de escritorio de Muse para macOS: una preferencia no documentada permite redirigir el dictado y robar el token de la cuenta."
 ---
 
-![Ilustración editorial de un micrófono en una Mac con nodos de datos siendo redirigidos a un servidor oscuro en segundo plano, tonos rojos y gris acero, estilo tech editorial](../../assets/images/2026-09-24-meta-muse-zero-day-macos-dictado.jpg)
+![Zero-day en Muse para macOS: una config de debug expone dictado y credenciales](../../assets/images/2026-09-24-meta-muse-zero-day-macos-dictado.webp)
 
 Patrick Wardle, fundador de la **Objective-See Foundation**, reveló una vulnerabilidad zero-day sin parche en el cliente de escritorio de **Muse para macOS**, el asistente de IA de Meta que Mark Zuckerberg había promocionado como "construido desde cero para la privacidad y seguridad".
 

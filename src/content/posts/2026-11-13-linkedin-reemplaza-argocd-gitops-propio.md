@@ -11,7 +11,7 @@ tags:
 description: "LinkedIn reemplazó Argo CD por un motor GitOps interno: las fallas de despliegue cayeron de 925 a 63 y hay lecciones para cualquiera que opere Kubernetes a escala."
 ---
 
-![Ilustración editorial de un flujo de despliegue GitOps con ramas de Git conectando clústeres de Kubernetes mediante engranajes y tuberías](../../assets/images/linkedin-reemplaza-argocd-gitops-propio.jpg)
+![LinkedIn le dijo chau a Argo CD: así funciona su motor GitOps propio](../../assets/images/linkedin-reemplaza-argocd-gitops-propio.webp)
 
 LinkedIn publicó en su blog de ingeniería que **reemplazó Argo CD por un motor GitOps construido en casa**, y los números son para tomarles el peso: el nuevo sistema despliega aplicaciones en **más de 250 clústeres de Kubernetes**, soporta **más de 4.000 servicios** y maneja **más de 100.000 despliegues semanales**. En el mismo período, las fallas de infraestructura de despliegue cayeron **de 925 a 63**, a pesar de que el volumen de despliegues creció 3,7 veces. La mediana para detectar y cerrar un despliegue fallido bajó de 16,1 a 2,45 minutos.
 

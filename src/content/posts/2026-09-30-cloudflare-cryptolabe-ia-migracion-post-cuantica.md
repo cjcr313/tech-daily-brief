@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare presentó CryptoLabe, una herramienta interna con IA que descubre criptografía escondida en todo su codebase para avanzar en su migración post-cuántica total hacia 2029. La lección aplica a cualquier organización grande."
 ---
 
-![Ilustración editorial de un astrolabio de bronce antiguo fusionado con un circuito y un candado, partículas cuánticas flotando, tonos verde azulado y dorado](../../assets/images/2026-09-30-cloudflare-cryptolabe-ia-migracion-post-cuantica.jpg)
+![Cloudflare usa IA para mapear toda su criptografía: así avanza su migración post-cuántica hacia 2029](../../assets/images/2026-09-30-cloudflare-cryptolabe-ia-migracion-post-cuantica.webp)
 
 Cloudflare se puso plazo propio: **migración post-cuántica completa hacia 2029**, con la consigna "PQ everything". Ya movieron varios productos a cifrado post-cuántico sobre TLS 1.3, pero queda la parte difícil: encontrar *toda* la criptografía clásica que vive escondida en una plataforma del tamaño de la suya. Su respuesta: **CryptoLabe**, una herramienta interna con IA cuyo nombre viene del astrolabio de los navegantes portugueses — porque ayuda a saber dónde estás y trazar el rumbo.
 

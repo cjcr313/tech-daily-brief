@@ -12,7 +12,7 @@ tags:
 description: "El CNCF admite el elefante en la sala: los agentes multiplican el tráfico x20 y exigen latencias que un pod nuevo no puede cumplir. La respuesta se llama Agent Substrate y snapshotting de agentes."
 ---
 
-![Ilustración editorial tech de un enjambre de cubos luminosos representando agentes de IA multiplicándose desde una única petición, fluyendo hacia una gran rueda de timón estilizada de Kubernetes rodeada de pods encendiéndose, paleta azul profundo con acentos naranjas, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-18-kubernetes-agentes-20-peticiones-agent-substrate.jpg)
+![Una petición humana = 20 peticiones de agente: Kubernetes se está rediseñando para la era agéntica](../../assets/images/2026-10-18-kubernetes-agentes-20-peticiones-agent-substrate.webp)
 
 Mientras Salt Lake City se prepara para KubeCon + CloudNativeCon NA 2026, los directores del CNCF Bob Killen y Daniel Krook pusieron números a algo que cualquier equipo que corre agentes en producción ya sospechaba: **una sola petición humana puede disparar unas 20 peticiones de agente**, y esos agentes esperan respuestas en **menos de 200 milisegundos**... mientras que Kubernetes solo garantiza que un pod nuevo arranque en **aproximadamente un segundo**.
 

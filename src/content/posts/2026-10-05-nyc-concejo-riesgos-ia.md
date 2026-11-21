@@ -11,7 +11,7 @@ tags:
 description: "Ejecutivos de los cuatro gigantes de la IA testificaron bajo juramento en el Concejo de Nueva York tras un mes de debate sobre riesgos. Frases para el pánico: nadie pudo cuantificar el riesgo catastrófico de sus propios modelos."
 ---
 
-![Ilustración editorial de una sala de audiencias legislativa en penumbra, panel de siluetas de autoridades frente a una entidad de IA abstracta y brillante en la mesa de testigos, haces de luz dramáticos, paleta apagada con acentos azul eléctrico, estilo editorial profesional](../../assets/images/2026-10-05-nyc-concejo-riesgos-ia.jpg)
+![Anthropic, OpenAI, Google y Meta declaran bajo juramento en Nueva York: «estamos construyendo nuestro propio adversario»](../../assets/images/2026-10-05-nyc-concejo-riesgos-ia.webp)
 
 Después de un mes de debate brutal sobre los riesgos de la IA avanzada, hoy los gigantes dejaron de twittear y fueron a declarar **bajo juramento**: líderes de **Anthropic, OpenAI, Google y Meta** testificaron en el Concejo de la Ciudad de Nueva York sobre los peligros potenciales de la tecnología que ellos mismos construyen.
 

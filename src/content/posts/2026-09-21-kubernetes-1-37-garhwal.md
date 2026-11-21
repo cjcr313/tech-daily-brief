@@ -12,7 +12,7 @@ tags:
 description: "La CNCF libera Kubernetes 1.37 'Garhwal' con Metrics API en GA, kubelet rootless en beta, DRA estable y checkpoint/restore de pods."
 ---
 
-![Ilustración editorial tech de un barco de contenedores Kubernetes navegando entre nodos de servidores, con pods apilados y una grúa colocando una pieza estable, tonos azules y verdes sobre fondo oscuro](../../assets/images/2026-09-21-kubernetes-1-37-garhwal.jpg)
+![Kubernetes 1.37 'Garhwal' llega con Metrics API estable y kubelet rootless en beta](../../assets/images/2026-09-21-kubernetes-1-37-garhwal.webp)
 
 La Cloud Native Computing Foundation liberó **Kubernetes 1.37, bautizado "Garhwal"**, y el foco está claro: estabilidad, seguridad y optimización para cargas de IA/ML. No es un release lleno de fuegos artificiales, pero trae varias piezas que llevaban años madurando y que al fin llegan a estable.
 

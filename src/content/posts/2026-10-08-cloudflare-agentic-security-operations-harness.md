@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare publicó la arquitectura de su harness agéntico de seguridad para Managed Defense: recolección determinista de evidencia antes de llamar al modelo, para que los agentes no alucinen en el SOC."
 ---
 
-![Ilustración editorial de un centro de operaciones de seguridad abstracto: escudo naranjo sobre red de nodos, pequeños robots clasificando tarjetas de alertas luminosas en cinta de luz, fondo azul marino con acentos naranjos, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-08-cloudflare-agentic-security-operations-harness.jpg)
+![Cloudflare le puso un equipo de agentes IA a tripiar alertas: la receta es 'recon primero, inferencia después'](../../assets/images/2026-10-08-cloudflare-agentic-security-operations-harness.webp)
 
 Cloudflare acaba de publicar cómo construyó el **harness multi-agente de IA que hoy analiza alertas de seguridad en Cloudflare Managed Defense**, y el post es una clase magistral de lo que separa un SOC agéntico serio de un prompt gigante con suerte.
 

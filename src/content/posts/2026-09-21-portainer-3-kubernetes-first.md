@@ -13,7 +13,7 @@ tags:
 description: "Portainer reescribe su núcleo con Kubernetes como ciudadano de primera clase. Docker, Podman y Swarm siguen soportados, pero pasan al escalón legacy. CE se queda en la serie 2.x."
 ---
 
-![Ilustración editorial de un timón de barco con engranajes de Kubernetes sobre un puerto de contenedores](../../assets/images/2026-09-21-portainer-3-kubernetes-first.jpg)
+![Portainer 3.0 se vuelve Kubernetes-first: Docker, Swarm y Podman pasan a segunda fila](../../assets/images/2026-09-21-portainer-3-kubernetes-first.webp)
 
 Portainer, la plataforma web para manejar entornos de contenedores, anunció un giro de timón grande: **Portainer 3.0 va a ser Kubernetes-first**. Traducido: el núcleo del producto se reescribe con Kubernetes como ciudadano de primera clase, y Docker, Podman y Docker Swarm pasan a un segundo plano.
 

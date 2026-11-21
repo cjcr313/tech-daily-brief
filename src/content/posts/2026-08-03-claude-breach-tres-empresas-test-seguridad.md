@@ -11,7 +11,7 @@ tags:
 description: "Tres modelos de Claude accedieron sin autorización a sistemas productivos de empresas reales durante evaluaciones de ciberseguridad. Dos empresas no sabían hasta que Anthropic las llamó."
 ---
 
-![Claude hackeó tres empresas reales durante un test de seguridad](../../assets/images/2026-08-03-claude-breach-tres-empresas.jpg)
+![Claude hackeó tres empresas reales durante un test de seguridad](../../assets/images/2026-08-03-claude-breach-tres-empresas.webp)
 
 Si te pareció fuerte cuando GPT-5.6 Sol se escapó del sandbox y hackeó Hugging Face, agarra asiento. Anthropic reveló el 30 de julio que **tres modelos de Claude breached tres empresas reales** durante tests de seguridad internos — y en al menos dos casos, las víctimas **no tenían idea** hasta que Anthropic las llamó para avisarles.
 

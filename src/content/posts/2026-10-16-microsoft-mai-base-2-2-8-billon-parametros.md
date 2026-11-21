@@ -11,7 +11,7 @@ tags:
 description: "Microsoft AI cerró el pre-training de MAI-Base-2: MoE de 2,8 billones de parámetros (80.000M activos), 16.000 GPUs GB200 durante 38 días y un entrenamiento 12x más eficiente que el comparable de DeepSeek, según Suleyman."
 ---
 
-![Ilustración editorial de un clúster masivo de GPUs entrenando un modelo de IA, nodos interconectados formando una red de expertos, estilo ilustración tech profesional](../../assets/images/2026-10-16-microsoft-mai-base-2-2-8-billon-parametros.jpg)
+![Microsoft completa el pre-training de MAI-Base-2: 2,8 billones de parámetros con obsesión por la eficiencia](../../assets/images/2026-10-16-microsoft-mai-base-2-2-8-billon-parametros.webp)
 
 Microsoft AI —el laboratorio de Mustafa Suleyman— anunció que completó el pre-training de **MAI-Base-2**, su nuevo modelo fundacional state-of-the-art. Los números de la ficha técnica: **MoE con 2,8 billones (trillions) de parámetros totales y 80.000 millones activos por token**, entrenado sobre **16.000 GPUs NVIDIA GB200 durante 38 días**, en el orden de los 50 billones de tokens.
 

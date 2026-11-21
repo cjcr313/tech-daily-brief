@@ -13,7 +13,7 @@ tags:
 description: "CloudWatch Omni aterriza en 3 regiones para meter logs, métricas y tracing de agentes de IA en un solo lugar, con soporte para LangGraph, CrewAI, OpenAI Agents SDK y más."
 ---
 
-![Orbe central de observabilidad rodeado de nodos agentes conectados por haces de luz, con anillos de radar y telemetría](../../assets/images/2026-09-22-aws-cloudwatch-omni-observabilidad-agentes-ia.jpg)
+![AWS lanza CloudWatch Omni para unificar la observabilidad de agentes de IA](../../assets/images/2026-09-22-aws-cloudwatch-omni-observabilidad-agentes-ia.webp)
 
 La observabilidad de agentes de IA dejó de ser un tema de nicho y AWS acaba de meter su apuesta grande: **CloudWatch Omni**, una plataforma para unificar la telemetría de agentes y aplicaciones en un solo lugar.
 

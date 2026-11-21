@@ -12,7 +12,7 @@ tags:
 description: "NVIDIA liberó la plataforma completa de Run:ai —la que compró en US$800 millones hace dos años— como open source dentro de DSX AI Factory: scheduler, fraccionamiento de GPUs, capa organizacional y Workload Map, con 8 socios ya integrándola."
 ---
 
-![Ilustración editorial tech de un cofre abierto brillante liberando una constelación de chips GPU que se organizan en una grilla de nodos de cómputo sobre una malla hexagonal estilo Kubernetes, simbolizando software propietario de orquestación de GPUs volviéndose libre y abierto, paleta azul profundo con acentos verdes de open source, iluminación cinematográfica, sin texto](../../assets/images/2026-10-14-nvidia-runai-open-source-dsx.jpg)
+![NVIDIA libera Run:ai completo como open source: la orquestación de GPUs que costó US$800 millones ahora es gratis](../../assets/images/2026-10-14-nvidia-runai-open-source-dsx.webp)
 
 Movida grande en el mundo de la infraestructura de IA: **NVIDIA liberó la plataforma completa de Run:ai como software open source**, dentro del paraguas de su **DSX AI Factory Platform**. Sí, la misma plataforma de orquestación de workloads de IA y GPUs que NVIDIA compró hace dos años por unos **US$800 millones** (Run:ai era israelí) ahora está disponible para cualquiera, gratis, en GitHub.
 

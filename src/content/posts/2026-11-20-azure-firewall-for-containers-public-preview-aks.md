@@ -11,7 +11,7 @@ tags:
 description: "Microsoft listó en Azure Updates la preview pública de Azure Firewall for Containers: un controller dentro del cluster traduce custom resources de Kubernetes a políticas de Azure Firewall para AKS, siguiendo el patrón ya visto en Application Gateway for Containers."
 ---
 
-![Ilustración editorial de contenedores Kubernetes conectados a un escudo de firewall administrado en la nube](../../assets/images/2026-11-20-azure-firewall-for-containers-public-preview-aks.jpg)
+![Azure Firewall for Containers llega a public preview: políticas de firewall para AKS como custom resources de Kubernetes](../../assets/images/2026-11-20-azure-firewall-for-containers-public-preview-aks.webp)
 
 Microsoft anda decidido a que la configuración de red en AKS se viva 100% desde Kubernetes. Tras el anuncio en Ignite, **Azure Updates listó el 20 de noviembre la public preview de Azure Firewall for Containers**: la idea es gestionar la protección de Azure Firewall para workloads de AKS **mediante custom resources de Kubernetes y un controller**, en vez de alternar entre kubectl y el portal de Azure.
 

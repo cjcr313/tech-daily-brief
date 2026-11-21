@@ -11,7 +11,7 @@ tags:
 description: "Un reportaje del Financial Times confirma que DoorDash, Airbnb y Siemens movieron parte de sus cargas de IA a modelos de DeepSeek, Z.ai y Moonshot, atraídos por precio y open weights."
 ---
 
-![Ilustración editorial de logos corporativos intercambiando tokens entre nubes y servidores de modelos chinos, con acentos rojo y dorado, estilo tech editorial](../../assets/images/2026-09-06-doordash-airbnb-siemens-modelos-chinos.jpg)
+![DoorDash, Airbnb y Siemens ya migran cargas de IA a modelos chinos que cuestan 10x menos](../../assets/images/2026-09-06-doordash-airbnb-siemens-modelos-chinos.webp)
 
 Hasta ahora la historia de los modelos chinos era de precios agresivos y open weights. Lo que cambia esta semana es que **empresas grandes y conocidas ya están moviendo plata de verdad**. Según reporta el **Financial Times** (vía Futurism), **DoorDash, Airbnb y Siemens** han trasladado parte de sus cargas de trabajo de IA a modelos chinos de **DeepSeek, Z.ai y Moonshot**, atraídos por el precio y por los pesos abiertos que pueden tunear ellos mismos.
 

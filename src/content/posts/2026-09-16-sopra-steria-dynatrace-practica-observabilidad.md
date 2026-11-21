@@ -12,7 +12,7 @@ tags:
 description: "La consultora europea y la plataforma de observabilidad crean una práctica conjunta para bancos, seguros, telcos y sector público, apalancada en DORA y NIS2."
 ---
 
-![Ilustración editorial de observabilidad empresarial: un mapa de Europa estilizado con nodos de infraestructura interconectados por líneas de telemetría brillantes, una lupa digital inspeccionando el flujo de datos en tiempo real, tonos azul profundo y verde esmeralda sobre fondo oscuro](../../assets/images/2026-09-16-sopra-steria-dynatrace-practica-observabilidad.jpg)
+![Sopra Steria y Dynatrace lanzan una práctica de observabilidad y AIOps para Europa](../../assets/images/2026-09-16-sopra-steria-dynatrace-practica-observabilidad.webp)
 
 La observabilidad sigue dejando de ser "cosa de DevOps" para volverse un tema de directorio. **Sopra Steria**, gigante europeo de transformación digital, y **Dynatrace** anunciaron este martes una **práctica dedicada de observabilidad y AIOps** para ayudar a grandes organizaciones europeas a domar fincas de TI cada vez más complejas.
 

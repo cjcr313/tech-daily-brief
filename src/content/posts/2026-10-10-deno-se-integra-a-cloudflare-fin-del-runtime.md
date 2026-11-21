@@ -11,7 +11,7 @@ tags:
 description: "Todo el equipo de Deno se integra a Cloudflare: el runtime tendrá un año más de soporte y después fin, Deno Deploy cierra en seis meses y JSR migra. La apuesta ahora es Workers y Durable Objects."
 ---
 
-![Ilustración editorial de un dinosaurio de código despidiéndose mientras su equipo cruza un puente luminoso hacia una red de nodos globales distribuidos en forma de nube, degradado naranjo a azul sobre fondo oscuro, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-10-deno-se-integra-a-cloudflare-fin-del-runtime.jpg)
+![Ryan Dahl se lleva todo el equipo de Deno a Cloudflare: el runtime tiene fecha de término](../../assets/images/2026-10-10-deno-se-integra-a-cloudflare-fin-del-runtime.webp)
 
 La noticia explotó en Hacker News (más de mil puntos en horas): **todo el equipo de Deno se une a Cloudflare**. Ryan Dahl —sí, el mismo que creó Node.js y después Deno— anunció que dejan de lado el desarrollo de un runtime y un hosting separados para concentrarse en una sola plataforma junto a los equipos de **Workers y Durable Objects**.
 

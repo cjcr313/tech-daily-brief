@@ -11,7 +11,7 @@ tags:
 description: "Reverse Engineer Anything es un proyecto open source que usa MCP para darle a los agentes de código acceso a pseudocódigo, ensamblador y símbolos de binarios nativos, firmware, .NET y Android. Su caso de estudio reconstruyó la matemática de audio de DX-Ball y pasó 3.205 tests contra el código original."
 ---
 
-![Ilustración editorial de un robot de seguridad desensamblando un cubo binario brillante en capas de bloques de ensamblador y símbolos, con lupas y diagramas de flujo flotando alrededor, paleta oscura con acentos cian y verde, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-11-rea-reverse-engineer-anything-mcp-ghidra.jpg)
+![REA conecta Claude Code y Cursor con Ghidra e IDA Pro para ingeniería inversa autónoma](../../assets/images/2026-10-11-rea-reverse-engineer-anything-mcp-ghidra.webp)
 
 Los agentes de código ya escriben, migran y refactorizan. Ahora también quieren desensamblar. **REA (Reverse Engineer Anything)** es un proyecto open source que actúa como **puente MCP entre agentes de código — Claude Code, Cursor, Codex, Gemini CLI y Grok Build — y las herramientas clásicas de ingeniería inversa: Ghidra, IDA Pro y Hopper**. La idea: que un agente pueda pedir análisis de un binario, seguir el código que le interesa y recibir hallazgos **con evidencia y límites declarados**, en vez de alucinar a partir de strings.
 

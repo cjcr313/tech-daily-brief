@@ -12,7 +12,7 @@ tags:
 description: "La empresa detrás de Crossplane lanzó Upbound V3: API unificada (Hub), consola única, visibilidad fleet-wide con Insights y, lo más interesante, el mismo modelo de gobernanza RBAC para agentes de IA y humanos."
 ---
 
-![Ilustración editorial de múltiples nodos de control plane en nubes dispersas conectándose mediante líneas hacia un hub central, donde una mano humana y una mano robótica cruzan el mismo portal hexagonal con credenciales idénticas](../../assets/images/2026-08-21-upbound-v3-unified-api-agentes-gobernanza.svg)
+![Upbound V3: una sola API para gobernar toda tu infra… y a los agentes de IA que la operan](../../assets/images/2026-08-21-upbound-v3-unified-api-agentes-gobernanza.svg)
 
 Si tu vida es administrar plataformas, ya conoces el calvario: control planes de Kubernetes regados por tres clouds, on-prem y edge, cada uno con su propia vista de estado, sus credenciales y su lógica de gobernanza. Upbound —la empresa detrás de **Crossplane**, el framework graduado en la CNCF con más de 100 millones de descargas y 1.000+ organizaciones usándolo en producción— acaba de lanzar **Upbound V3**, una apuesta directa a resolver exactamente eso.
 

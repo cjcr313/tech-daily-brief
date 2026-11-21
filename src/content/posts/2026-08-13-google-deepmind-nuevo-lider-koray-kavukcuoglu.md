@@ -10,7 +10,7 @@ tags:
 description: "Koray Kavukcuoglu reemplaza a Demis Hassabis como máximo líder de Google DeepMind, con la misión de cerrar la brecha con OpenAI y Anthropic. Mientras tanto, la app Gemini superó los 1.000 millones de usuarios."
 ---
 
-![Ilustración editorial de un cambio de mando en un laboratorio de IA futurista, estilo tech editorial](../../assets/images/2026-08-13-google-deepmind-nuevo-lider-koray-kavukcuoglu.jpg)
+![Google DeepMind cambia de líder: la carrera por alcanzar a OpenAI y Anthropic](../../assets/images/2026-08-13-google-deepmind-nuevo-lider-koray-kavukcuoglu.webp)
 
 Google hizo dos anuncios importantes esta semana que pintan un cuento claro: **está nervioso, pero sigue siendo gigante**.
 

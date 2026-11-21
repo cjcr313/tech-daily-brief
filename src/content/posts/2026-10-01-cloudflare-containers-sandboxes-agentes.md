@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare Containers ahora arranca 6x más rápido (4s → 648ms), deja que el código elija imagen y tipo de instancia en runtime, y agrega snapshots de filesystem en beta."
 ---
 
-![Ilustración editorial de contenedores modulares luminosos levantándose a alta velocidad dentro de un datacenter estilizado, con un agente IA orquestando, estilo tech profesional, sin texto](../../assets/images/2026-10-01-cloudflare-containers-sandboxes-agentes.jpg)
+![Cloudflare rearchitectura Containers: sandboxes 6x más rápidas para agentes](../../assets/images/2026-10-01-cloudflare-containers-sandboxes-agentes.webp)
 
 Si tu agente necesita "un computador" para trabajar, cada segundo de arranque es tiempo que tu usuario espera mirando un spinner. Cloudflare lo entendió y **reconstruyó Containers desde abajo** pensando en workloads agénticos.
 

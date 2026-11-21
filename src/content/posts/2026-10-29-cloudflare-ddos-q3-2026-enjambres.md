@@ -11,7 +11,7 @@ tags:
 description: "El nuevo informe de Cloudflare muestra 18,2 millones de ataques DDoS mitigados en Q3: ráfagas cortas +208%, CLDAP se desplomó y los ataques hiper-volumétricos cayeron tras el desmantelamiento de botnets IoT."
 ---
 
-![Ilustración editorial tech de un enjambre abstracto de puntos luminosos convergiendo en oleadas cortas contra un escudo de malla hexagonal que protege un servidor, con algunas oleadas gigantes desvaneciéndose al fondo, paleta azul profundo con acentos naranjas, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-10-29-cloudflare-ddos-q3-2026-enjambres.jpg)
+![Cloudflare DDoS Q3 2026: más enjambres y menos gigantes — 8.200 ataques por hora](../../assets/images/2026-10-29-cloudflare-ddos-q3-2026-enjambres.webp)
 
 Cloudflare publicó hoy la edición 26 de su DDoS Threat Report, ahora de vuelta en cadencia trimestral, y el resumen cabe en una frase: **más enjambres, menos gigantes**. Durante julio, agosto y septiembre la red mitigó **18,2 millones de ataques DDoS de capa de red** y **14,4 billones (trillions) de requests HTTP** — o sea, unos **8.226 ataques por hora**: uno cada 0,44 segundos. Todo un ritmo.
 

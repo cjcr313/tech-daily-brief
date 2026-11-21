@@ -11,7 +11,7 @@ tags:
 description: "Google lanzó Gemini 3.7 Flash solo 3 semanas después de 3.6 Flash, con saltos grandes en coding y un 50% de descuento introductorio en la API. GPT-5.6 Terra aún lidera en varios frentes."
 ---
 
-![Ilustración editorial de un destello azul eléctrico en forma de diamante sobre un fondo de líneas de código y flujos de agentes, estilo tech editorial](../../assets/images/2026-08-14-gemini-3-7-flash-coding-agentes-mitad-precio.jpg)
+![Gemini 3.7 Flash: Google acelera la cadencia y ataca coding y agentes con la API a mitad de precio](../../assets/images/2026-08-14-gemini-3-7-flash-coding-agentes-mitad-precio.webp)
 
 Google no espera a nadie — ni siquiera a su propio Gemini 3.5 Pro, que sigue desaparecido en acción. Lanzó **Gemini 3.7 Flash** apenas **tres semanas** después de 3.6 Flash, con foco total en coding, agentes agénticos y trabajo del día a día. Y de propina: **50% de descuento en la API hasta fin de 2026**.
 

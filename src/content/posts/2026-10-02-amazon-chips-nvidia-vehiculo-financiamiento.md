@@ -11,7 +11,7 @@ tags:
 description: "Según el Financial Times, Amazon exploraría traspasar US$8 mil millones en chips Grace Blackwell a inversionistas vía un vehículo de financiamiento, manteniendo el compute en arriendo. Los GPUs como activo financiable."
 ---
 
-![Ilustración editorial de chips de computadora dorados apilados sobre una balanza financiera con monedas y un distrito de rascacielos de fondo, paleta verde esmeralda y dorado, estilo tech editorial, sin texto](../../assets/images/2026-10-02-amazon-chips-nvidia-vehiculo-financiamiento.jpg)
+![Amazon busca sacar US$8.000 millones en chips Nvidia de su balance: los GPUs ahora se financian como aviones](../../assets/images/2026-10-02-amazon-chips-nvidia-vehiculo-financiamiento.webp)
 
 La carrera de IA llegó a un punto curioso: **los chips se están volviendo activos financieros, al estilo de aviones o inmuebles**. Según el [Financial Times](https://techstartups.com/2026/10/02/amazon-seeks-to-offload-8-billion-in-nvidia-ai-chips-to-investors-as-big-tech-turns-to-wall-street-for-ai-compute-financing/), **Amazon estaría buscando traspasar unos US$8.000 millones en chips avanzados Grace Blackwell de Nvidia a inversionistas externos**, a través de un vehículo de financiamiento de propósito especial.
 

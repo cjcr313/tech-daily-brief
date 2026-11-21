@@ -11,7 +11,7 @@ tags:
 description: "El nuevo modelo de dominio legal de Z.ai, construido sobre GLM-5.3-Flash con 320B parámetros y contexto de 1M tokens, mejora 12,5 puntos a su modelo base en el benchmark Harvey LAB y se accede solo por postulación."
 ---
 
-![Ilustración editorial de una balanza de justicia dorada fusionada con circuitos y nodos de datos brillantes sobre un escritorio futurista, paleta oscura con acentos dorados y azules, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-12-zai-glm-legal-agente-legal-320b-beta.jpg)
+![Z.ai abre beta cerrada de GLM-Legal: agente legal de 320B parámetros que anota 19,2% en Harvey LAB](../../assets/images/2026-10-12-zai-glm-legal-agente-legal-320b-beta.webp)
 
 La escalera china sigue subiendo peldaños rápidos: **Z.ai anunció hoy GLM-Legal**, un modelo agéntico de dominio legal construido sobre su base **GLM-5.3-Flash** — una MoE de **320B parámetros totales con 18B activos** y contexto de **1M de tokens**. El acceso es por **beta cerrada**, vía formulario de postulación para design partners y la app de escritorio AutoClaw.
 

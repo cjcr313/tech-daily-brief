@@ -11,7 +11,7 @@ tags:
 description: "NVIDIA publicó NVKE en preview (Apache 2.0): un management plane open source para ofrecer Kubernetes administrado sobre bare metal GPU propio, con clusters aislados, atestación TPM y aislamiento por DPU. Ojo: aún con HTTP plano y sin RBAC."
 ---
 
-![Ilustración editorial tech de una fábrica industrial luminosa que ensambla clústeres de Kubernetes sobre servidores GPU bare metal, con brazos robóticos conectando racks de servidores verdes en tarjetas de circuito, aislamiento de seguridad con muros de luz, paleta verde y negra de NVIDIA sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-11-07-nvidia-nvke-kubernetes-engine-gpu-bare-metal.jpg)
+![NVIDIA lanza su propia Kubernetes Engine: NVKE convierte datacenters GPU bare metal en fábricas de clusters administrados](../../assets/images/2026-11-07-nvidia-nvke-kubernetes-engine-gpu-bare-metal.webp)
 
 Mientras el ecosistema se prepara para KubeCon NA de la próxima semana, NVIDIA soltó el 5 de noviembre una pieza que nadie tenía en el radar: **NVKE (NVIDIA Kubernetes Engine)**, publicado en GitHub ([dsx-ai-factory/nvke](https://github.com/dsx-ai-factory/nvke)) bajo **Apache 2.0** en versión preview `v0.24.0-rc.5`. La idea: que operadores de datacenters GPU —piensa en los NVIDIA Cloud Partners— puedan ofrecer **Kubernetes como servicio administrado sobre su propio bare metal**, al estilo de lo que EKS es para AWS, pero dentro de tu propio piso de servidores.
 

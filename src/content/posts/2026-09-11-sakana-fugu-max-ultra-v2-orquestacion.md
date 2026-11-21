@@ -12,7 +12,7 @@ tags:
 description: "Sakana AI lanza Fugu Max a US$2/US$6 por millón de tokens y Fugu Ultra v2, apostando a que orquestar muchos modelos abiertos rinde más que un solo modelo gigante."
 ---
 
-![Ilustración editorial de un sistema de orquestación de IA que enruta tareas hacia una red de modelos abiertos especializados, con un pez globo (fugu) como motivo central y acentos en azul y coral](../../assets/images/2026-09-11-sakana-fugu-max-ultra-v2-orquestacion.jpg)
+![Sakana AI estira la frontera costo-rendimiento con Fugu Max y Fugu Ultra v2](../../assets/images/2026-09-11-sakana-fugu-max-ultra-v2-orquestacion.webp)
 
 Sakana AI viene empujando una tesis rara para estos tiempos: que el futuro no es un modelo gigante que lo resuelve todo, sino una **capa de orquestación que elige qué modelo usar para cada tarea, al menor costo posible**. Hoy le da otra vuelta de tuerca con dos lanzamientos simultáneos: **Fugu Max** y **Fugu Ultra v2**.
 

@@ -13,7 +13,7 @@ tags:
 description: "Microsoft estrena Flex Nodes en AKS: conecta tus propias VMs y bare metal como nodos reales de Kubernetes, sin convertirlos en un node pool estándar."
 ---
 
-![Ilustración editorial de un plano de control de Kubernetes en la nube conectando servidores bare metal y máquinas virtuales locales como nodos flex](../../assets/images/2026-09-24-aks-flex-nodes-preview.jpg)
+![AKS Flex Nodes en preview: conecta tu propio cómputo a un clúster administrado](../../assets/images/2026-09-24-aks-flex-nodes-preview.webp)
 
 Microsoft sumó **Flex Nodes a Azure Kubernetes Service (AKS)**, y es de esas features en preview que dan que hablar. La idea corta: puedes **conectar tus propias máquinas virtuales y hosts bare metal a un clúster AKS administrado** y correrlos como nodos reales de Kubernetes, sin que esas máquinas se conviertan jamás en un node pool estándar de AKS.
 

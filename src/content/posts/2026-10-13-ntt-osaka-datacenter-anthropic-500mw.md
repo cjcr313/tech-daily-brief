@@ -11,7 +11,7 @@ tags:
 description: "Según Nikkei, NTT Data está en conversaciones finales para construir el primer data center dedicado de Anthropic en Japón: 500 MW, US$6.300 millones y operaciones parciales en 2028."
 ---
 
-![Ilustración editorial de un enorme data center futurista en la costa japonesa al atardecer, con torres de transmisión y cables luminosos alimentando su iluminación, montañas al fondo, paleta azul profundo con acentos coral, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-13-ntt-osaka-datacenter-anthropic-500mw.jpg)
+![NTT Data casi cierra un data center dedicado para Anthropic en Osaka: hasta US$6.300 millones y 500 MW de potencia](../../assets/images/2026-10-13-ntt-osaka-datacenter-anthropic-500mw.webp)
 
 La carrera de Anthropic por capacidad de cómputo fuera de EE.UU. tiene nuevo capítulo, y esta vez en Japón: según **Nikkei Asia**, **NTT Data Group está en conversaciones de última etapa para construir el primer data center dedicado de Anthropic en Japón**, en Osaka. Los números son de escala seria: **costos de construcción de hasta 1 billón de yenes (~US$6.300 millones)** y una **capacidad de hasta 500 megavatios** — entre los más grandes del país.
 

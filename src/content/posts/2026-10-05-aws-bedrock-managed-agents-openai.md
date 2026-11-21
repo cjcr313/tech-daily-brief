@@ -11,7 +11,7 @@ tags:
 description: "AWS abrió el preview público de Bedrock Managed Agents powered by OpenAI: la Agents API de OpenAI adaptada para correr íntegramente dentro de tu cuenta AWS. Además, cuatro modelos frontier nuevos en Bedrock y el cierre silencioso de DevOps Guru y Managed Blockchain."
 ---
 
-![Ilustración isométrica de módulos geométricos de agentes de IA brillantes orbitando dentro de un data center en la nube, conectados por circuitos luminosos, paleta azul profundo con acentos ámbar y teal, estilo editorial tech profesional](../../assets/images/2026-10-05-aws-bedrock-managed-agents-openai.jpg)
+![AWS lanza Bedrock Managed Agents powered by OpenAI: los agentes de OpenAI ahora corren 100% dentro de AWS](../../assets/images/2026-10-05-aws-bedrock-managed-agents-openai.webp)
 
 El AWS Weekly Roundup de esta semana trae una bomba escondida entre los anuncios: **Amazon Bedrock Managed Agents powered by OpenAI ya está en public preview**. Sí, leyeron bien: la Agents API de OpenAI, customizada para ser AWS-native, dejando que las empresas armen y corran agentes con modelos de OpenAI **enteramente dentro de su propia cuenta AWS**.
 

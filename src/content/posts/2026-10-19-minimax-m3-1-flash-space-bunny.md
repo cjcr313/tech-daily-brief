@@ -11,7 +11,7 @@ tags:
 description: "MiniMax lanzó M3.1 Flash: el modelo detrás del anónimo 'Space Bunny' que procesó 200 trillones de tokens. Enfoque agéntico, 3x más rápido, 70% más barato y precios de US$0,15 por millón de tokens de entrada."
 ---
 
-![Ilustración editorial tech de un conejo brillante hecho de flujos de datos y circuitos luminosos corriendo sobre una pista de fibra óptica hacia un horizonte de servidores, estela de partículas de tokens dorados, paleta violeta y cian, estilo ilustración tecnológica profesional, iluminación cinematográfica, sin texto](../../assets/images/2026-10-19-minimax-m3-1-flash-space-bunny.jpg)
+![MiniMax M3.1 Flash llega oficialmente: sí, el misterioso 'Space Bunny' que procesó 200 trillones de tokens era esto](../../assets/images/2026-10-19-minimax-m3-1-flash-space-bunny.webp)
 
 Misterio resuelto en el mundo de los LLM: **MiniMax lanzó oficialmente M3.1 Flash**, y confirmó lo que varios sospechaban desde hace semanas: **"Space Bunny" 🐰, el modelo anónimo que apareció en los leaderboards y procesó más de 200 trillones de tokens sin decir de dónde venía, era una versión temprana de este modelo**.
 

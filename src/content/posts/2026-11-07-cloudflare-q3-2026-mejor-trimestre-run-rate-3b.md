@@ -11,7 +11,7 @@ tags:
 description: "Q3 2026 de Cloudflare: ingresos de US$782,5 millones (+39%), run rate anualizado sobre US$3.000 millones, guía al alza y la tesis de ser el plumbing de la internet agéntica."
 ---
 
-![Ilustración editorial de una red global en crecimiento con una nube naranja y flujo de datos ascendente entre data centers](../../assets/images/cloudflare-q3-2026-mejor-trimestre-run-rate-3b.jpg)
+![Cloudflare firma su mejor trimestre en cuatro años: crece 39%, cruza los US$3.000 millones de run rate y sube la guía por tercera vez](../../assets/images/cloudflare-q3-2026-mejor-trimestre-run-rate-3b.webp)
 
 En un trimestre donde el mercado tech andaba vendiendo "infra de IA" a lo loco sin mirar qué había debajo, Cloudflare soltó sus números del Q3 2026 (cerrado el 30 de septiembre) y la acción **saltó más de 14% después de hora**. El resumen en una frase: crecimiento de 39% anual, el más rápido en casi cuatro años, y la tercera subida de guía del año. Resulta que debajo del pánico hay demanda real.
 

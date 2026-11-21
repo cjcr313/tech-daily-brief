@@ -11,7 +11,7 @@ tags:
 description: "IBM y NASA publican un modelo multimodal para teledetección lunar, junto a su dataset SomBench, bajo licencia Apache-2.0."
 ---
 
-![Ilustración de un modelo de IA analizando la superficie lunar](../../assets/images/2026-09-10-ibm-nasa-modelo-fundacional-lunar.jpg)
+![Ilustración de un modelo de IA analizando la superficie lunar](../../assets/images/2026-09-10-ibm-nasa-modelo-fundacional-lunar.webp)
 
 IBM y la NASA acaban de liberar el **NASA-IBM Lunar Foundation Model**, un modelo fundacional multimodal y multi-resolución pensado para la teledetección lunar. No es otro LLM más: es uno de los primeros modelos fundacionales públicos dedicados a la exploración científica de la Luna.
 

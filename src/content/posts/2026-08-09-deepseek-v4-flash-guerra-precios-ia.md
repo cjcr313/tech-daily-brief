@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek V4-Flash sale a 3 centavos por test en benchmarks vs $3,15 de Claude Fable 5. OpenAI también estudia bajar precios. La guerra de costos IA está al rojo."
 ---
 
-![Ilustración editorial de una balanza comparando precios de modelos de IA con gráficos de tendencia a la baja](../../assets/images/2026-08-09-deepseek-v4-flash-guerra-precios-ia.jpg)
+![DeepSeek V4-Flash cuesta 100x menos que Claude Fable 5 en benchmarks: la guerra de precios IA se acelera](../../assets/images/2026-08-09-deepseek-v4-flash-guerra-precios-ia.webp)
 
 La guerra de precios en IA entró en una fase brutal. **DeepSeek V4-Flash** se corona como el modelo más barato de correr en benchmarks estandarizados, y las riples ya están golpeando a OpenAI y Anthropic.
 

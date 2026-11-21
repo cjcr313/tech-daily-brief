@@ -12,7 +12,7 @@ tags:
 description: "AMD superó el billón de dólares en capitalización por primera vez, con su sistema Helios de 72 aceleradores Instinct como punta de lanza para los labs de IA."
 ---
 
-![Torre de racks de servidores con chips brillantes conectados por líneas de energía, irradiando calor computacional en tonos rojos y naranjas](../../assets/images/2026-09-23-amd-trinillon-dolares-helios-ia.jpg)
+![AMD entra al club del billón de dólares empujada por la demanda de chips de IA](../../assets/images/2026-09-23-amd-trinillon-dolares-helios-ia.webp)
 
 AMD acaba de cruzar una marca histórica: **superó el billón de dólares en capitalización de mercado** por primera vez, convirtiéndose en el cuarto fabricante de chips en ese club junto a Nvidia, Broadcom y Micron.
 

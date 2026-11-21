@@ -11,7 +11,7 @@ tags:
 description: "El directorio de Nvidia descartó traer de vuelta a Jensen Huang y sigue enfocado en la investigación de Wachtell Lipton; Kress presenta los resultados Q3 mañana en medio de un mercado nervioso."
 ---
 
-![Ilustración editorial tech: silueta de un ejecutivo con chaqueta de cuero caminando alejándose de un data center de GPUs brillando en verde, una puerta de sala de directorio cerrándose detrás, claroscuro dramático, paleta verde profundo y negro](../../assets/images/2026-11-16-nvidia-directorio-descarta-regreso-jensen-huang.jpg)
+![Nvidia cierra la puerta al regreso de Jensen Huang mientras Colette Kress prepara los resultados del trimestre](../../assets/images/2026-11-16-nvidia-directorio-descarta-regreso-jensen-huang.webp)
 
 La telenovela Nvidia tiene capítulo nuevo, y no va hacia donde muchos esperaban. Aunque en Silicon Valley crece el coro que pide el regreso de **Jensen Huang**, una fuente familiar con el asunto le dijo a CNBC que **el directorio de Nvidia no está considerando traerlo de vuelta como CEO**. La mesa está enfocada en la investigación liderada por el estudio jurídico **Wachtell Lipton**, que indaga si la conducta de Huang comprometió seguridad nacional o secretos corporativos. No hay conversaciones de regreso.
 

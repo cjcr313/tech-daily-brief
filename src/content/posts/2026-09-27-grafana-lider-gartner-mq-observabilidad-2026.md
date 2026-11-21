@@ -10,7 +10,7 @@ tags:
 description: "Gartner posiciona a Grafana Labs como Líder en su Magic Quadrant 2026 de Plataformas de Observabilidad."
 ---
 
-![Ilustración editorial de un cuadrante mágico con una plataforma de observabilidad destacada en la esquina de Líderes, rodeada de métricas, logs y trazas conectados en un tablero central](../../assets/images/2026-09-27-grafana-lider-gartner-mq-observabilidad-2026.jpg)
+![Grafana Labs es Líder en el Magic Quadrant 2026 de Observabilidad de Gartner](../../assets/images/2026-09-27-grafana-lider-gartner-mq-observabilidad-2026.webp)
 
 Grafana Labs anunció que fue posicionada como **Líder** en el **Magic Quadrant 2026 de Plataformas de Observabilidad** de Gartner. Es un reconocimiento relevante en un momento donde el mercado observability está convergiendo hacia plataformas abiertas y componibles, en lugar de suites cerradas.
 

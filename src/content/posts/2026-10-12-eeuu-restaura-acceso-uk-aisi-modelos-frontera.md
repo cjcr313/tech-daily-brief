@@ -10,7 +10,7 @@ tags:
 description: "La Casa Blanca revirtió la orden que obligaba a OpenAI, Anthropic y Google DeepMind a no compartir modelos pre-release con el AI Security Institute británico. Durante la pausa, Anthropic lanzó Claude Mythos 5.1 solo para organizaciones de EE.UU."
 ---
 
-![Ilustración editorial de dos banderas estilizadas de EE.UU. y Reino Unido conectadas por un puente de datos luminoso hacia un servidor de IA resguardado, tonos azul oscuro con acentos rojos y dorados, estilo ilustración tech diplomática profesional, sin texto](../../assets/images/2026-10-12-eeuu-restaura-acceso-uk-aisi-modelos-frontera.jpg)
+![EE.UU. le devuelve al Reino Unido el acceso a los modelos frontier tras 17 días de congelamiento](../../assets/images/2026-10-12-eeuu-restaura-acceso-uk-aisi-modelos-frontera.webp)
 
 Caso cerrado — al menos por ahora. El **11 de octubre la Casa Blanca restauró el acceso del AI Security Institute (AISI) del Reino Unido a los modelos pre-release de OpenAI, Anthropic y Google DeepMind**, poniendo fin a un congelamiento de 17 días que había empezado el 24 de septiembre, cuando la administración Trump ordenó a los labs pausar el intercambio pendiente de una revisión de seguridad nacional. Lo reportaron The Telegraph y Reuters.
 

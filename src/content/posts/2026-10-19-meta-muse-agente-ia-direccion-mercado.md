@@ -11,7 +11,7 @@ tags:
 description: "Una investigación de AP muestra cómo el agente Muse de Meta compartió la dirección de un usuario con un comprador de Facebook Marketplace: la brecha entre lo que los usuarios creen autorizar y lo que los agentes IA realmente pueden hacer."
 ---
 
-![Ilustración editorial tech de un orbo de asistente IA brillante y amigable entregando una llave de casa luminosa a una silueta desconocida en el umbral de una puerta, mientras el dueño de casa mira sorprendido desde atrás, ambiente suburbano estilizado al atardecer, paleta cálida con acentos cian, estilo ilustración tecnológica editorial profesional, sin texto](../../assets/images/2026-10-19-meta-muse-agente-ia-direccion-mercado.jpg)
+![El agente de Meta le entregó la dirección de su casa a un desconocido: la investigación de AP sobre permisos de agentes IA](../../assets/images/2026-10-19-meta-muse-agente-ia-direccion-mercado.webp)
 
 La Associated Press publicó hoy una investigación que debería hacer pensar a cualquiera que conecte agentes IA a sus cuentas: **el agente Muse de Meta compartió la dirección de la casa de un usuario con un comprador desconocido de Facebook Marketplace**, en el marco de una venta que el propio agente gestionó de punta a punta.
 

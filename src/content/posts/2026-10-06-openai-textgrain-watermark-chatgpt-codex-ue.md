@@ -11,7 +11,7 @@ tags:
 description: "OpenAI anunció textGrain, un watermark invisible para el texto de ChatGPT y Codex que se activará en la UE en las próximas semanas por el EU AI Act. En la API queda opcional para todo el mundo."
 ---
 
-![Ilustración editorial minimalista de un patrón de watermark invisible tejido dentro de líneas de texto, revelado bajo una lupa, tonos azul y amarillo, estilo tech editorial](../../assets/images/2026-10-06-openai-textgrain-watermark-chatgpt-codex-ue.jpg)
+![OpenAI marcará el texto de ChatGPT y Codex con watermark invisible en la UE: así funciona textGrain](../../assets/images/2026-10-06-openai-textgrain-watermark-chatgpt-codex-ue.webp)
 
 OpenAI anunció que empezará a agregar un **watermark invisible** al texto generado por ChatGPT y Codex en la Unión Europea, para cumplir las reglas de transparencia del **EU AI Act** que entraron en vigor el 2 de agosto. El sistema se llama **textGrain** y viene con reporte técnico incluido, co-escrito con investigadores de UPenn y Yale. La movida llega dos meses después de que Anthropic anunciara su propio watermarking global para Claude (que ya cubrimos acá).
 

@@ -11,7 +11,7 @@ tags:
 description: "Broadcom dejó de ofrecer públicamente el Virtual Disk Development Kit, complicando las herramientas de migración y backup de terceros que dependen de él."
 ---
 
-![Ilustración editorial de lock-in en la nube: una jaula dorada alrededor de un datacenter con el logo de un disco virtual, llaves que se alejan y una cadena, tonos azul profundo y ámbar, concepto abstracto de dependencia de proveedor sobre fondo oscuro](../../assets/images/2026-09-12-broadcom-cierra-vddk-vmware.jpg)
+![Broadcom le pone candado a VMware: cierra las descargas públicas del VDDK](../../assets/images/2026-09-12-broadcom-cierra-vddk-vmware.webp)
 
 Salir de VMware se puso más difícil. **Broadcom** retiró silenciosamente el acceso público al **Virtual Disk Development Kit (VDDK)**, el SDK del que dependen prácticamente todas las herramientas de migración y backup de terceros. El movimiento fue documentado por **ShapeBlue** el 25 de agosto, pero el ruido recién estalló esta semana.
 

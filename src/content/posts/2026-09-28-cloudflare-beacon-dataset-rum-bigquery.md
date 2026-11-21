@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare publicó BEACON, un dataset anonimizado con miles de millones de mediciones de rendimiento real (RUM) de 10.000 sitios, actualizado a diario en Google BigQuery."
 ---
 
-![Ilustración editorial de datos de rendimiento web fluyendo como haces de luz sobre un mapamundi, con histogramas y percentiles](../../assets/images/2026-09-28-cloudflare-beacon-dataset-rum-bigquery.jpg)
+![Cloudflare open-sourcea BEACON: miles de millones de mediciones RUM en BigQuery](../../assets/images/2026-09-28-cloudflare-beacon-dataset-rum-bigquery.webp)
 
 "Funciona en mi máquina" es la trampa clásica: quien lee esto probablemente está en un laptop potente con Wi-Fi veloz, lejos de la realidad de alguien con un celular de hace 4 años, batería baja y un plan de datos capado a 2 GB. Para cerrar esa brecha de percepción con datos objetivos, Cloudflare publicó el dataset **BEACON** (*Browser Experience Across Cloudflare's Observed Network*).
 

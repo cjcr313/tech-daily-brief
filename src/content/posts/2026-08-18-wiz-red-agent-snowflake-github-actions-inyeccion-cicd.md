@@ -11,7 +11,7 @@ tags:
 description: "El agente autónomo de pentesting de Wiz explotó una inyección en un workflow de GitHub Actions de Snowflake usando solo un issue malicioso, y se llevó un token de Jira con acceso a ingeniería, cumplimiento de seguridad y bug bounty."
 ---
 
-![Ilustración de un agente autónomo de seguridad explotando un pipeline de CI/CD mediante un issue malicioso en una plataforma de código](../../assets/images/2026-08-18-wiz-red-agent-snowflake-github-actions-inyeccion-cicd.jpg)
+![El 'Red Agent' de Wiz hackea el pipeline de Snowflake con un simple GitHub issue: la autopsia del bug de CI/CD](../../assets/images/2026-08-18-wiz-red-agent-snowflake-github-actions-inyeccion-cicd.webp)
 
 Wiz publicó la autopsia de una de esas demostraciones que duelen: su **Red Agent** —un agente autónomo de pentesting con IA— encontró y explotó una inyección de comandos en un workflow de GitHub Actions del repositorio público `snowflakedb/snowflake-connector-net` de Snowflake. El vector de ataque: **abrir un GitHub issue con título y cuerpo trucados**. Nada más.
 

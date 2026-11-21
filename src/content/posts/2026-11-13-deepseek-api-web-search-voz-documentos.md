@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek lanzó una importante actualización a su API incorporando búsqueda web nativa, extracción de sitios, análisis de documentos y herramientas de voz."
 ---
 
-![Ilustración editorial tech de capacidades de API de IA con búsqueda web, voz y documentos](../../assets/images/placeholder.jpg)
+![DeepSeek expande su API con web search nativo, análisis de documentos y voz](../../assets/images/placeholder.webp)
 
 DeepSeek volvió a golpear la mesa en el mercado de APIs de Inteligencia Artificial. La compañía china anunció una actualización masiva en su plataforma para desarrolladores, integrando **herramientas nativas de búsqueda web (web search), extracción de páginas, análisis de documentos y soporte para voz**, todo directamente desde la API oficial.
 

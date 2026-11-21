@@ -11,7 +11,7 @@ tags:
 description: "En una reunión interna, Altman abrió la puerta a desacelerar el lanzamiento de modelos frontera si la seguridad lo exige, en plena presión regulatoria de la UE y California."
 ---
 
-![Ilustración editorial de IA y seguridad: una mano presionando un botón de pausa sobre una red neuronal brillante, tonos azul profundo y ámbar, concepto abstracto de prudencia tecnológica sobre fondo oscuro](../../assets/images/2026-09-11-openai-altman-frenar-desarrollo-ia.jpg)
+![Sam Altman le dice a su equipo que OpenAI está dispuesto a frenar el ritmo de desarrollo](../../assets/images/2026-09-11-openai-altman-frenar-desarrollo-ia.webp)
 
 Sam Altman acaba de mover una pieza que nadie se esperaba. En una reunión interna esta semana, el CEO de OpenAI les dijo a sus empleados que la compañía **está abierta a desacelerar el desarrollo de sus sistemas de IA**. Nada de timeline concreto ni congelamiento técnico: más bien una señal de que, si las evaluaciones de seguridad lo justifican, están dispuestos a bajar el ritmo.
 

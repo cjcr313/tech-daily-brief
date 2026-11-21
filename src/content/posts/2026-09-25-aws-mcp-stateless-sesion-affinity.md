@@ -12,7 +12,7 @@ tags:
 description: "La nueva especificación de MCP elimina las sesiones a nivel de protocolo, simplificando el escalado horizontal y el enrutamiento de servidores MCP en AWS."
 ---
 
-![Ilustración editorial tech de un load balancer repartiendo peticiones de agentes de IA entre múltiples servidores MCP sin estado, con flujos de datos paralelos y sin conexiones pegajosas, tonos cian y púrpura](../../assets/images/2026-09-25-aws-mcp-stateless-sesion-affinity.jpg)
+![MCP se vuelve stateless: AWS elimina la afinidad de sesión en los despliegues de servidores MCP](../../assets/images/2026-09-25-aws-mcp-stateless-sesion-affinity.webp)
 
 El **Model Context Protocol (MCP)** acaba de dar un paso arquitectónico importante: la nueva especificación **elimina las sesiones a nivel de protocolo**, y AWS salió a explicar qué significa eso para quienes despliegan servidores MCP a escala.
 

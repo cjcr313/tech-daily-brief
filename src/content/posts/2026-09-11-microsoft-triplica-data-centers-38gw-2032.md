@@ -12,7 +12,7 @@ tags:
 description: "Según Bloomberg, Microsoft expandiría su huella de data centers desde 12 GW actuales a más de 38 GW en 2032, con un tercio dedicado a silicio de IA."
 ---
 
-![Ilustración editorial de infraestructura cloud: filas infinitas de servidores iluminados en un data center masivo con acentos azules y verdes, concepto abstracto de escala y energía sobre fondo oscuro](../../assets/images/2026-09-11-microsoft-triplica-data-centers-38gw-2032.jpg)
+![Microsoft planea triplicar su capacidad de data centers a 38 GW para 2032](../../assets/images/2026-09-11-microsoft-triplica-data-centers-38gw-2032.webp)
 
 La apuesta por la IA está dejando números de infraestructura que marean. Según un reporte de **Bloomberg**, Microsoft planea expandir su huella de data centers propios y arrendados desde los **12 gigavatios** actuales hasta **más de 38 GW para 2032**. Es más que triplicar, y la cifra por sí sola da una idea del hambre de cómputo que se viene.
 

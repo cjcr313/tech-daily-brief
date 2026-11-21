@@ -12,7 +12,7 @@ tags:
 description: "La comunidad Kubernetes anunció un working group que escribirá un estándar compartido de cómo deben comportarse los workloads en runtime: spec por versión, tests objetivos y tooling upstream. Meta: que dejar de revisar apps a mano antes de cada upgrade."
 ---
 
-![Ilustración editorial tech isométrica de contenedores de trabajo de Kubernetes pasando en fila por un pórtico de validación con escudos y sellos de verificación brillantes que emiten luces verdes de aprobación, con el plano de control de Kubernetes vigilando al fondo, paleta azul con acentos verdes y naranjas, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-27-kubernetes-workload-conformance-wg.jpg)
+![Kubernetes quiere certificar tus apps, no solo tu cluster: nace el Workload Conformance Working Group](../../assets/images/2026-10-27-kubernetes-workload-conformance-wg.webp)
 
 El blog de Kubernetes anunció hoy la creación del **Workload Conformance Working Group**, y la idea de fondo es bastante potente: hoy existe [Certified Kubernetes](https://www.cncf.io/training/certification/software-conformance/) para certificar que tu *cluster* cumple las reglas, y Kubernetes AI Conformance para medir si un cluster puede correr workloads de IA. Pero **nadie certifica los workloads mismos**. El resultado: cada operador de cluster termina revisando cada aplicación a mano antes de un upgrade o mantención rutinaria, y cada mantenedor de app responde las mismas preguntas una y otra vez en cada ambiente donde corre.
 

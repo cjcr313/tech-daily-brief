@@ -13,7 +13,7 @@ tags:
 description: "HashiCorp quiere que HCP Terraform sea la capa de gobernanza que controla a los agentes de IA que escriben y ejecutan infraestructura."
 ---
 
-![Ilustración editorial de agentes de IA orquestando infraestructura bajo una capa de gobernanza](../../assets/images/2026-09-02-hcp-terraform-control-plane-ia.jpg)
+![HCP Terraform se posiciona como el control plane de la infraestructura manejada por IA](../../assets/images/2026-09-02-hcp-terraform-control-plane-ia.webp)
 
 HashiCorp está reposicionando **HCP Terraform** como la capa de gobernanza y control para una nueva generación de **infraestructura manejada por IA**. El argumento de fondo es simple: con los agentes de código disparando cambios a velocidad de máquina, el gran desafío dejó de ser *escribir* la configuración y pasó a ser *verificarla y ejecutarla con seguridad*.
 

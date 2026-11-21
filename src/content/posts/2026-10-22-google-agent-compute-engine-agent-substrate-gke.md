@@ -11,7 +11,7 @@ tags:
 description: "En AGNTCon + MCPCon Google lanzó Agent Compute Engine: microVMs con checkpoint/restore y aislamiento por hardware, optimizadas para el loop agéntico. Y Agent Substrate para GKE es open source: 10x densidad, 200.000 agentes en benchmark."
 ---
 
-![Ilustración editorial tech de microVMs optimizadas para agentes de IA ejecutándose sobre infraestructura de Kubernetes en la nube](../../assets/images/google-agent-compute-engine-agent-substrate-gke.jpg)
+![Google Cloud lanza Agent Compute Engine: microVMs a medida de agentes, y Agent Substrate llega open source a GKE](../../assets/images/google-agent-compute-engine-agent-substrate-gke.webp)
 
 Google lo dijo sin rodeos en el anuncio: **"ejecutar agentes autónomos de forma segura es, en el fondo, un problema de infraestructura"**. Tras escalar Gemini a nivel planeta, en AGNTCon + MCPCon lanzaron **Agent Compute Engine**, el servicio de cómputo que ya ejecuta los agentes de Gemini — y que pronto estará en preview para los tuyos.
 

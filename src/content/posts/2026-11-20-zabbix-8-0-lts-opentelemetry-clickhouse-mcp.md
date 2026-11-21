@@ -11,7 +11,7 @@ tags:
 description: "La nueva versión LTS del monitoreo open source veterano suma trazas/métricas/logs vía OTLP/gRPC, almacenamiento histórico en ClickHouse con hasta 10x de rendimiento, motor de correlación causa/síntoma y acceso para agentes de IA vía MCP."
 ---
 
-![Ilustración editorial de un panel de monitoreo moderno con trazas distribuidas, métricas y un agente de IA consultando datos](../../assets/images/2026-11-20-zabbix-8-0-lts-opentelemetry-clickhouse-mcp.jpg)
+![Zabbix 8.0 LTS: APM nativo con OpenTelemetry, backend ClickHouse hasta 10x más rápido y un MCP server para que agentes de IA operen tu monitoreo](../../assets/images/2026-11-20-zabbix-8-0-lts-opentelemetry-clickhouse-mcp.webp)
 
 Zabbix, el veterano del monitoreo de infraestructura open source que muchos asociamos a las NOC de los 2010, soltó su versión **8.0 LTS**… y trae una agenda claramente escrita en 2026: **OpenTelemetry, ClickHouse y agentes de IA vía MCP**. La apuesta es que el monitor tradicional no tiene por qué quedarse fuera de la fiesta de la observabilidad moderna.
 

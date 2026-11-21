@@ -11,7 +11,7 @@ tags:
 description: "En el Open Source Summit de Praga, la CNCF confirmó a OVHcloud como miembro Platinum. Miles de clusters K8s productivos sobre Cilium, Harbor y soberanía cloud europea como carta de presentación."
 ---
 
-![Ilustración editorial tech de un centro de datos europeo uniéndose a una constelación global de nodos cloud native, con ruedas hexagonales de Kubernetes interconectadas por haces de luz hacia racks de servidores y una estrella de la UE como acento, estilo flat profesional, tonos azul profundo y acentos naranja, sin texto](../../assets/images/2026-10-07-ovhcloud-cncf-platinum-member.jpg)
+![OVHcloud sube a Platinum en la CNCF: el cloud europeo se planta en cloud native](../../assets/images/2026-10-07-ovhcloud-cncf-platinum-member.webp)
 
 En pleno Open Source Summit Europe, [la CNCF anunció](https://www.cncf.io/announcements/2026/10/07/cncf-welcomes-ovhcloud-a-leading-european-cloud-provider-and-global-cloud-and-ai-player-as-a-platinum-member/) que **OVHcloud subió su membresía a Platinum**, el nivel máximo del club que gobierna Kubernetes y compañía. Uno de los proveedores cloud independientes más grandes de Europa ahora tiene asiento en la mesa donde se deciden los rumbos del ecosistema cloud native.
 

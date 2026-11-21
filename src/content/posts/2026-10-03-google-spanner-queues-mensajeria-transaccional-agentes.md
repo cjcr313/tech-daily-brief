@@ -11,7 +11,7 @@ tags:
 description: "Google Cloud lanzó a GA las Spanner queues: mensajería transaccional nativa dentro de Spanner para que los agentes de IA decidan y actúen en una sola transacción atómica."
 ---
 
-![Ilustración editorial tech de una base de datos global conectada a canales de mensajes entrantes y salientes, con nodos y engranajes simbolizando transacciones atómicas entre agentes de IA, paleta azul y teal, estilo ilustración editorial profesional](../../assets/images/2026-10-03-google-spanner-queues-mensajeria-transaccional-agentes.jpg)
+![Spanner queues: Google mete la mensajería transaccional adentro de la base de datos (y apunta directo a los agentes)](../../assets/images/2026-10-03-google-spanner-queues-mensajeria-transaccional-agentes.webp)
 
 Google Cloud anunció la **disponibilidad general de Spanner queues**: mensajería transaccional nativa embebida directamente en Spanner. La premisa es simple y brutal a la vez: **crear un mensaje pasa a ser simplemente otra escritura dentro de tu transacción**. El cambio de estado del agente y sus acciones downstream se commitean juntos, atómicamente, o fallan completos.
 

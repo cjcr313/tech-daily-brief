@@ -11,7 +11,7 @@ tags:
 description: "Caída global de Microsoft 365 en su segundo día: Outlook, Exchange, calendarios y Copilot afectados, millones de usuarios impacto y la acción de MSFT bajando 2%."
 ---
 
-![Ilustración editorial de un mapa mundial con nodos de red desconectados y luces de estado rojas en un panel de monitoreo](../../assets/images/microsoft-365-caida-global-outlook-teams-copilot.jpg)
+![Microsoft lleva más de 18 horas con Outlook, Teams y Copilot caídos](../../assets/images/microsoft-365-caida-global-outlook-teams-copilot.webp)
 
 La semana del cloud no podía cerrar sin sobresalto: **Microsoft atraviesa una caída global** que partió cerca de las 18:00 GMT del jueves 12 de noviembre y que ya supera las 18 horas, extendiéndose por su segundo día. El impacto principal está en **Outlook y Exchange** — correos que no cargan ni se envían —, pero los calendarios, OneDrive, SharePoint y **Copilot** también quedaron en el camino. DownDetector llegó a registrar **más de 139.500 reportes de usuarios**, y en Europa se habla de millones de afectados.
 

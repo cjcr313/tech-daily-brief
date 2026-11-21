@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare Radar registró 49 disrupciones de internet entre julio y septiembre: 19 apagones dirigidos por gobiernos (18 solo por exámenes en Irak), 14 cortes eléctricos en 10 países y 5 desastres naturales. El informe trimestral completo."
 ---
 
-![Ilustración editorial tech de un mapa mundial estilizado en tonos azul oscuro donde nodos de red glowing en ámbar se apagan en varias regiones mientras ondas de desconexión se propagan por líneas de conexión, con rayos y tormentas sugeridas en los bordes, estilo ilustración tecnológica editorial profesional, sin texto](../../assets/images/2026-10-27-cloudflare-radar-q3-2026-internet-caidas.jpg)
+![Qué dejó internet fuera de línea en Q3 2026: electricidad, exámenes y desastres naturales](../../assets/images/2026-10-27-cloudflare-radar-q3-2026-internet-caidas.webp)
 
 Cloudflare publicó hoy su resumen trimestral de [Radar](https://radar.cloudflare.com/) sobre disrupciones de internet, y la lectura es clara: lo que más tumba internet no son ciberataques, sino **fallas en los sistemas físicos y políticos de los que depende**. Con más del 20% del tráfico web cruzando su red, Cloudflare tiene una vista privilegiada para detectar cuándo un país o proveedor se cae — y este Q3 registró **49 disrupciones** en total.
 

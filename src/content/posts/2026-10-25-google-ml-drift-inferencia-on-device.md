@@ -12,7 +12,7 @@ tags:
 description: "Google liberó ML Drift bajo Apache 2.0: un motor de compute GPU multiplataforma para inferencia on-device que abstrae OpenGL ES, OpenCL, Metal y WebGPU. Ya corre en millones de celulares vía YouTube, Chrome y Photos — y el viejo TFLite GPU delegate queda descontinuado."
 ---
 
-![Ilustración editorial tech de un smartphone con redes neuronales brillantes ejecutándose dentro de la pantalla, rodeado de chips GPU abstractos orbitando y conectados por flujos de datos luminosos, paleta violeta y turquesa con acentos cálidos, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-25-google-ml-drift-inferencia-on-device.jpg)
+![Google open-sourcea ML Drift: el motor GPU que acelera la IA de tu celular (y jubila al TFLite GPU delegate)](../../assets/images/2026-10-25-google-ml-drift-inferencia-on-device.webp)
 
 Google publicó [ML Drift](https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/), un motor de compute GPU **open source (Apache 2.0), multiplataforma, para inferencia de IA/ML on-device**. Si no te suena, mira el teléfono: es el motor que acelera LiteRT, y ya corre en millones de dispositivos a través de Chrome, YouTube Shorts, Google Photos y Meet.
 

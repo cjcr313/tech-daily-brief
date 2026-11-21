@@ -11,7 +11,7 @@ tags:
 description: "Un modelo stealth gratuito con contexto de 1M tokens apareció en OpenRouter y saca resultados de frontier. Las huellas dactilares del tokenizer apuntan a Zhipu y su GLM-5.3. Nadie ha confirmado nada."
 ---
 
-![Ilustración de un misterioso modelo de inteligencia artificial oculto tras una silueta de toro, rodeado de huellas digitales digitales y lupa, estilo editorial tech](../../assets/images/2026-08-22-ox-alpha-modelo-fantasma-openrouter-zhipu.jpg)
+![Ox Alpha: el modelo fantoma de OpenRouter que tiene a la comunidad IA haciendo laburo forense](../../assets/images/2026-08-22-ox-alpha-modelo-fantasma-openrouter-zhipu.webp)
 
 La comunidad de IA anda en modo detective desde el 20 de agosto, cuando apareció en OpenRouter un modelo listado como **`stealth/ox-alpha`**, desarrollado por un **tercero anónimo**, **gratuito durante una semana de preview** y con specs de primera línea:
 

@@ -11,7 +11,7 @@ tags:
 description: "Anthropic lanzó la preview de Claude Duet, su agente personal always-on para profesionales y pymes: briefs diarios, tareas en segundo plano y control antes de actuar. La respuesta al Muse de Meta y los Dots de OpenAI."
 ---
 
-![Ilustración editorial tech de un asistente de IA personal representado como un orbe luminoso naranja flotando sobre un escritorio de trabajo moderno, conectado con líneas finas a iconos abstractos de calendario, correos y gráficos flotantes en hologramas, un humano interactuando de frente en tono de colaboración, paleta cálida con azules profundos, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-10-22-anthropic-claude-duet-agente-personal.jpg)
+![Anthropic contraataca en la guerra de los agentes personales: Claude Duet llega en preview para plantarle cara a Muse y Dots](../../assets/images/2026-10-22-anthropic-claude-duet-agente-personal.webp)
 
 La guerra de los **agentes personales** tiene un tercer contendiente serio. Anthropic anunció este miércoles la preview de **Claude Duet**, su agente de IA "proactivo" diseñado para pequeñas empresas y profesionales, y entra directo a competir con el **Muse** de Meta —que según Zuckerberg ya fue configurado por más de 10 millones de personas en EE.UU. y Canadá en mes y medio— y los **Dots** de OpenAI, presentados en el DevDay de septiembre.
 

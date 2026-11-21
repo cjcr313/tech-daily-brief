@@ -13,7 +13,7 @@ tags:
 description: "systemd 262-rc2 agrega una instrucción trampa en AGENTS.md que obliga a los agentes de código IA a marcar sus parches, y cuya remoción manual prueba que un humano lo revisó."
 ---
 
-![Ilustración editorial de un canario dentro de una jaula posada sobre una terminal de código Linux, simbolizando la trampa para detectar código generado por IA sin revisión humana, estilo tech editorial con acentos en verde y ámbar](../../assets/images/2026-09-10-systemd-262-ai-canary.jpg)
+![systemd 262 mete un 'canary' de IA para pillar código generado sin revisión humana](../../assets/images/2026-09-10-systemd-262-ai-canary.webp)
 
 El proyecto **systemd** lanzó la versión **262-rc2** el 8 de septiembre con una idea que no es un feature técnico, sino una trampa de proceso: un **"AI canary"** escondido en el archivo `AGENTS.md`. El objetivo no es bloquear el código generado por IA, sino asegurarse de que **un humano le haya echado una mirada antes de que entre al proyecto**.
 

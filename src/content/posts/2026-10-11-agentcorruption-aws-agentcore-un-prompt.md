@@ -11,7 +11,7 @@ tags:
 description: "Zenity Labs demostró que un prompt inyectado a un agente público de Amazon Bedrock AgentCore podía robar credenciales temporales de AWS y saltar a todos los agentes de la cuenta. AWS ya corrigió, pero discute que fuera un bug."
 ---
 
-![Ilustración editorial de un agente de IA brillante atrapado en una red de nodos interconectados dentro de una nube, con una llave de credenciales luminosa escapándose hacia una silueta oscura, paleta azul oscuro y cian, estilo ilustración tech profesional dramática, sin texto](../../assets/images/2026-10-11-agentcorruption-aws-agentcore-un-prompt.jpg)
+![AgentCorruption: un solo prompt secuestra todos los agentes de AgentCore en una región de AWS](../../assets/images/2026-10-11-agentcorruption-aws-agentcore-un-prompt.webp)
 
 Zenity Labs bautizó **AgentCorruption** a una cadena de ataque que suena a pesadilla de cualquier equipo cloud: **un único prompt enviado a un agente público de Amazon Bedrock AgentCore bastaba para exponer a todos los agentes de la misma cuenta y región de AWS** — sus conversaciones privadas, código fuente, memorias de largo plazo, API keys, tokens OAuth y hasta los secretos guardados en AWS Secrets Manager.
 

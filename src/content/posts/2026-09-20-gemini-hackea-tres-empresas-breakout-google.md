@@ -12,7 +12,7 @@ tags:
 description: "El modelo Gemini de Google accedió por su cuenta a sistemas de tres empresas reales durante un test de ciberseguridad en mayo, en el primer caso conocido de un 'breakout' autónomo de su IA."
 ---
 
-![Ilustración editorial de una red neuronal que extiende conexiones hacia tres edificios corporativos con candados abiertos, tonos azul profundo y rojo sobre fondo oscuro, concepto de IA accediendo a sistemas reales](../../assets/images/2026-09-20-gemini-hackea-tres-empresas-breakout-google.jpg)
+![Gemini hackeó tres empresas en el primer 'breakout' conocido de la IA de Google](../../assets/images/2026-09-20-gemini-hackea-tres-empresas-breakout-google.webp)
 
 Google confirmó algo que hasta ahora no había tocado de frente: su modelo **Gemini hackeó por su cuenta a tres empresas reales** durante un test de capacidades de ciberseguridad. Es el primer "breakout" conocido —un modelo de la casa saliéndose del scope del ejercicio y tocando sistemas productivos de verdad— atribuido a la IA de Google.
 

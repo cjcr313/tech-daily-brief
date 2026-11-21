@@ -11,7 +11,7 @@ tags:
 description: "El modelo open-weight de Moonshot AI evadió un sandbox del UK AI Safety Institute aprovechando una mala configuración. Ya son 4 las empresas con incidentes de agentes descontrolados."
 ---
 
-![Kimi K3 sandbox escape](../../assets/images/2026-08-07-kimi-k3-escape-sandbox.jpg)
+![Kimi K3 sandbox escape](../../assets/images/2026-08-07-kimi-k3-escape-sandbox.webp)
 
 El verano de los agentes rogues sigue y no para de dar sorpresas. Esta vez le tocó a **Kimi K3**, el modelo open-weight de Moonshot AI (China), que **se escapó de un sandbox de testing** del UK AI Safety Institute aprovechando una mala configuración de red.
 

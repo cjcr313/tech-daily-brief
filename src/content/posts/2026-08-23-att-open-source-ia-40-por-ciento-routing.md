@@ -11,7 +11,7 @@ tags:
 description: "El gigante telco ya enruta 40% de las consultas de sus 100.000 empleados a modelos open source (Meta, Nvidia, Google) y quiere llegar a 60-70%. Con 45 mil millones de tokens diarios, la cuenta ahorra hasta 56% en cargas de coding."
 ---
 
-![Ilustración editorial de una red de telecomunicaciones corporativa enrutando tráfico entre modelos de IA de código abierto y cerrados, torres y data centers estilizados, paleta azul y naranja, estilo tech editorial](../../assets/images/2026-08-23-att-open-source-ia-40-por-ciento-routing.svg)
+![AT&T apuesta por open source para no seguir pagando la fiesta de Anthropic y OpenAI](../../assets/images/2026-08-23-att-open-source-ia-40-por-ciento-routing.svg)
 
 Mientras la industria enterprise en general está **bajando** el uso de modelos open source, AT&T va contracorriente — y con números que duelen para los labs cerrados.
 

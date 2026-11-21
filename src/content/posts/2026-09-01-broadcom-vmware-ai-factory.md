@@ -12,7 +12,7 @@ tags:
 description: "En VMware Explore 2026, Broadcom lanzó VMware AI Factory, la base software-defined de su Private AI Cloud: aprovisionamiento automatizado, GPU compartidas y sandboxes seguros para agentes."
 ---
 
-![Ilustración editorial de una fábrica de infraestructura de IA sobre nube privada con GPUs y agentes](../../assets/images/2026-09-01-broadcom-vmware-ai-factory.jpg)
+![Broadcom presenta VMware AI Factory: del metal al modelo en horas, con gobernanza para agentes](../../assets/images/2026-09-01-broadcom-vmware-ai-factory.webp)
 
 En el **VMware Explore 2026** de Las Vegas, Broadcom presentó **VMware AI Factory**, la fundación *software-defined* de su **VMware Private AI Cloud**. El pitch es directo: las empresas quieren correr IA donde ya viven sus datos, pero el camino del metal al modelo sigue siendo lento, caro y enredado.
 

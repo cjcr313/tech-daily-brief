@@ -12,7 +12,7 @@ tags:
 description: "Terminó el boost temporal de +50% en los límites semanales de Claude Code y Anthropic lo reemplazó por un aumento 'permanente' del 25%: en la práctica, los planes pagos pierden 17% de capacidad frente al verano."
 ---
 
-![Ilustración editorial de un medidor de uso que baja, una terminal de agente de código con un dial mostrando una reducción porcentual, tema oscuro con acentos naranja y teal, estilo vectorial plano minimalista](../../assets/images/2026-09-15-anthropic-recorta-limites-claude-code-17.jpg)
+![Anthropic recorta 17% los límites de Claude Code… y lo vende como un aumento](../../assets/images/2026-09-15-anthropic-recorta-limites-claude-code-17.webp)
 
 La matemática acá es medio cruel. Desde el **14 de septiembre**, Anthropic terminó el **boost temporal del 50%** en los límites semanales de Claude Code que estaba vigente desde el 13 de mayo. En su lugar, dejó un **aumento "permanente" del 25%** sobre el baseline pre-mayo. Suena bien hasta que haces la resta: si en verano tenías 150, ahora tienes 125. **Eso es un recorte neto del 17%.**
 

@@ -12,7 +12,7 @@ tags:
 description: "The Information destapó un acuerdo plurianual no anunciado entre Anthropic y la minera bitcoin australiana IREN. El laboratorio ya acumula ~US$530 mil millones en arriendos de data centers y apura a sus socios: encender un sitio de 245 MW un mes antes vale más de US$1.300 millones."
 ---
 
-![Ilustración editorial de un enorme data center futurista encendiéndose junto a una mina australiana, con líneas de energía convergiendo hacia una nube de IA brillante en el cielo, tonos azul profundo y naranja cálido, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-11-anthropic-iren-530b-arriendos-datacenters.jpg)
+![Anthropic suma a IREN en su maratón de arriendos: US$530 mil millones en data centers por encender](../../assets/images/2026-10-11-anthropic-iren-530b-arriendos-datacenters.webp)
 
 Mientras una parte de la industria discute si esto es una burbuja, Anthropic compra capacidad de cómputo como si la factura la pagara otro universo. **The Information destapó que el laboratorio detrás de Claude firmó un acuerdo plurianual de nube — no anunciado — con IREN**, la minera de bitcoin listada en la bolsa australiana. Y es solo el último de una lista que ya anda por los **US$530 mil millones en arriendos de data centers** que la empresa corre para encender.
 

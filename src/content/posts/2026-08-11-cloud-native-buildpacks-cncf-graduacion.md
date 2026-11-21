@@ -12,7 +12,7 @@ tags:
 description: "La CNCF anunció hoy la graduación de Cloud Native Buildpacks, el proyecto que construye imágenes OCI directamente desde código fuente sin Dockerfile."
 ---
 
-![Ilustración editorial de Cloud Native Buildpacks graduándose en CNCF](../../assets/images/placeholder.jpg)
+![Cloud Native Buildpacks se gradúa en la CNCF: el fin del Dockerfile obligatorio](../../assets/images/placeholder.webp)
 
 Hoy la CNCF (Cloud Native Computing Foundation) anunció la **graduación de Cloud Native Buildpacks**, el proyecto open source que genera imágenes de contenedor compatibles con OCI directamente desde el código fuente de tu aplicación. Sin Dockerfile. Sin configuración manual. Sin drama.
 

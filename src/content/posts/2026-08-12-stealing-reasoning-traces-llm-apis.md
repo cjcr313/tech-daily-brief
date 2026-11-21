@@ -11,7 +11,7 @@ tags:
 description: "Investigadores de Tübingen y Snyk descubrieron que los modelos más pequeños de OpenAI, Anthropic y Google pueden usarse como oráculos de desencriptación para robar el razonamiento oculto de los modelos frontier."
 ---
 
-![Ilustración editorial de un candado roto sobre circuitos neuronales representando una falla de seguridad en modelos de IA](../../assets/images/placeholder.jpg)
+![Robando los pensamientos ocultos de GPT-5.6, Claude Opus 4.8 y Gemini 3: la vulnerabilidad que rompe el chain-of-thought cifrado](../../assets/images/placeholder.webp)
 
 Una investigación publicada ayer (11 de agosto) por un equipo conjunto de **ELLIS Institute Tübingen, Max Planck Institute, MATS Research y Snyk** reveló una vulnerabilidad arquitectónica seria en cómo OpenAI, Anthropic y Google protegen el razonamiento interno de sus modelos frontier.
 

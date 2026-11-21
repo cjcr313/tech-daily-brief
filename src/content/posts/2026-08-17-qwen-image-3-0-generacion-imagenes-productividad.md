@@ -11,7 +11,7 @@ tags:
 description: "La tercera generación de la familia de image gen de Alibaba presume renderizado de texto de 10px, layouts densos tipo periódico y simulación de interfaces web. Apunta a productividad, no a posteos."
 ---
 
-![Ilustración editorial de un generador de imágenes IA componiendo una página densa tipo periódico con diagramas y bloques visuales, estilo tech editorial](../../assets/images/2026-08-17-qwen-image-3-0-generacion-imagenes-productividad.jpg)
+![Qwen-Image-3.0: Alibaba apunta a que la generación de imágenes sea 'útil' y no solo 'bonita'](../../assets/images/2026-08-17-qwen-image-3-0-generacion-imagenes-productividad.webp)
 
 Mientras Occidente discute benchmarks de modelos de texto, Alibaba sigue metiendo leña al ecosistema Qwen. Esta vez le tocó a las imágenes: la familia **Qwen-Image llega a su tercera generación** con **Qwen-Image-3.0**, y la versión **Pro ya está disponible** en la plataforma de Qwen para usarla vía API.
 

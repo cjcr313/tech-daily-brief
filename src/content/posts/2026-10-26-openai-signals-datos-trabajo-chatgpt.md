@@ -11,7 +11,7 @@ tags:
 description: "OpenAI Signals publicó datos de 165 actividades laborales en casi 100 países: el uso de ChatGPT para trabajo se está diversificando y los países se especializan. Un dataset trimestral de Q1 2025 a Q3 2026 para investigadores."
 ---
 
-![Ilustración editorial tech isométrica de un planeta con corrientes de datos luminosas fluyendo desde distintos países hacia un panel analítico central con gráficos y series de tiempo, nodos de actividad brillando en distintos colores por región, paleta teal y azul profundo con acentos violeta, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-26-openai-signals-datos-trabajo-chatgpt.jpg)
+![OpenAI suelta los datos: así ocupa el mundo ChatGPT para trabajar](../../assets/images/2026-10-26-openai-signals-datos-trabajo-chatgpt.webp)
 
 OpenAI publicó hoy una entrega nueva de **OpenAI Signals**: datos que mapean cómo la gente usa ChatGPT para trabajar, cubriendo **165 actividades laborales** (clasificadas como Intermediate Work Activities de O*NET) en **casi 100 países**, en series trimestrales desde Q1 2025 hasta Q3 2026.
 

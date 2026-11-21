@@ -11,7 +11,7 @@ tags:
 description: "Datos de gasto de 70 mil empresas estadounidenses muestran a OpenAI creciendo más rápido que Anthropic en Q3, aunque Claude sigue liderando en share."
 ---
 
-![Gráficos de mercado de IA empresarial con logos compitiendo](../../assets/images/2026-08-21-openai-gana-terreno-anthropic-empresas-ramp.jpg)
+![Gráficos de mercado de IA empresarial con logos compitiendo](../../assets/images/2026-08-21-openai-gana-terreno-anthropic-empresas-ramp.webp)
 
 La guerra enterprise entre OpenAI y Anthropic tiene un nuevo capítulo, y esta vez con data dura de por medio: Ramp, la fintech de tarjetas corporativas y gestión de gastos, publicó números de gasto en IA de más de 70 mil empresas estadounidenses — y la lectura es que **OpenAI está creciendo más rápido que Anthropic en lo que va del Q3**.
 

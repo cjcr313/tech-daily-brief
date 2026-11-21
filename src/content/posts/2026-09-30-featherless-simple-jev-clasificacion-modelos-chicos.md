@@ -11,7 +11,7 @@ tags:
 description: "Featherless abrió Simple Jev, una librería que convierte modelos open source en máquinas de clasificación zero-shot de alta velocidad. La tesis: clasificar un ticket con un modelo frontier es como pedir pizza en tanque."
 ---
 
-![Ilustración editorial minimalista de un pequeño scooter de reparto con una caja compacta, junto a un tanque militar enorme e innecesario, estilo flat tech editorial](../../assets/images/2026-09-30-featherless-simple-jev-clasificacion-modelos-chicos.jpg)
+![Featherless lanzó Simple Jev: no uses un tanque para entregar una pizza (ni un modelo frontier para clasificar un ticket)](../../assets/images/2026-09-30-featherless-simple-jev-clasificacion-modelos-chicos.webp)
 
 La discusión sobre qué tamaño de modelo conviene para cada tarea no se apaga, y Featherless —proveedor de inferencia serverless— le metió leña con un lanzamiento open source: **Simple Jev**, una librería que convierte modelos de IA open source en **motores de clasificación zero-shot de alta velocidad**.
 

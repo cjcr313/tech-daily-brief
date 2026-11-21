@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare plantea reemplazar el SDLC tradicional por un Agent Development Lifecycle, donde los agentes ejecutan el trabajo y los ingenieros definen políticas y revisan evidencia."
 ---
 
-![Ilustración editorial tech de una línea de ensamblaje de software donde robots agentes construyen y prueban código mientras un ingeniero supervisa con un panel de control, tonos naranja y azul sobre fondo claro](../../assets/images/2026-09-22-cloudflare-adlc-reemplaza-sdlc.jpg)
+![Cloudflare declara obsoleto el SDLC y propone el Agent Development Lifecycle (ADLC)](../../assets/images/2026-09-22-cloudflare-adlc-reemplaza-sdlc.webp)
 
 Cloudflare subió la apuesta conceptual: **declaró obsoleto el SDLC** (Software Development Lifecycle) y presentó su reemplazo, el **Agent Development Lifecycle (ADLC)**. El argumento es directo: el modelo tradicional —plan, diseño, implementación, prueba, deploy, mantenimiento— se rompió cuando los agentes de IA empezaron a generar cambios a un volumen que los pipelines humanos no alcanzan a revisar.
 

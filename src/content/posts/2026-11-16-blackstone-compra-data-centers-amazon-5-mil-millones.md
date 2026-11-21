@@ -11,7 +11,7 @@ tags:
 description: "El vehículo de data centers de Blackstone toma la mayoría en dos joint ventures con Amazon por unos US$5.000 millones; AWS retiene 25% y arrienda de vuelta los 13 edificios para liberar capital de IA."
 ---
 
-![Ilustración editorial tech: campus masivo de data centers modernos con torres de oficinas reflejadas en racks de servidores, brillo dorado financiero sobre infraestructura azul, vista aérea cinematográfica](../../assets/images/2026-11-16-blackstone-compra-data-centers-amazon-5-mil-millones.jpg)
+![Blackstone compra la mayoría de los data centers de Amazon en un deal de US$5 mil millones](../../assets/images/2026-11-16-blackstone-compra-data-centers-amazon-5-mil-millones.webp)
 
 **Blackstone** siguió comprando ladrillo digital: su vehículo de adquisición de data centers recién listado en bolsa tomó la **mayoría en dos joint ventures con afiliados de Amazon**, valorizando los activos en torno a los **US$5 mil millones**. Un afiliado de Amazon se queda con un ~25% sin control, y **AWS arrienda de vuelta los 13 "powered shells"** bajo contratos de largo plazo. Bloomberg y Quartz reportaron el acuerdo este lunes.
 

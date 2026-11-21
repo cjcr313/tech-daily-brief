@@ -11,7 +11,7 @@ tags:
 description: "OpenAI comenzó el rollout global de GPT-6 en ChatGPT con Intelligent UI: respuestas interactivas con gráficos, formularios y herramientas creadas al vuelo, además de 'responder mientras piensa'."
 ---
 
-![Ilustración editorial de una interfaz de chat que se transforma en componentes interactivos flotantes: gráficos, botones, formularios y mapas luminosos, degradado índigo a naranjo sobre fondo oscuro, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-08-gpt-6-chatgpt-intelligent-ui-rollout.jpg)
+![GPT-6 llega a los 1.200 millones de usuarios de ChatGPT y estrena Intelligent UI: adiós al muro de texto](../../assets/images/2026-10-08-gpt-6-chatgpt-intelligent-ui-rollout.webp)
 
 OpenAI dio el golpe de consumo masivo que venía anunciando: desde el **7 de octubre GPT-6 comienza su rollout global en ChatGPT**, primero para los planes de pago (Plus, Pro, Business y Enterprise) y desde el 8 de octubre para Free y Go. No es un modelo más en el dropdown: es la generación nueva de inteligencia llegando de golpe a los **más de 1.200 millones de personas que usan ChatGPT cada semana**.
 

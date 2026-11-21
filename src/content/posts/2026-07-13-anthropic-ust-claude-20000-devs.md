@@ -9,9 +9,9 @@ tags:
   - IA
   - Cloud
 description: "Anthropic se asocia con UST para capacitar a 20.000 desarrolladores e integrar Claude en flujos de trabajo clave en telecomunicaciones y semiconductores."
-ogImage: "../../assets/images/anthropic-ust-claude-20000-devs-cover.jpg"
+ogImage: "../../assets/images/anthropic-ust-claude-20000-devs-cover.webp"
 ---
-![Imagen de referencia](../../assets/images/anthropic-ust-claude-20000-devs-cover.jpg)
+![Imagen de referencia](../../assets/images/anthropic-ust-claude-20000-devs-cover.webp)
 
 
 ¡Buena cabros! Parece que Anthropic no quiere dejarle todo el pastel corporativo a OpenAI. Acaban de cerrar un partnership estratégico brutal con **UST**. 

@@ -12,7 +12,7 @@ tags:
 description: "El modelo de decisiones Jev llegó al ~13% de los equipos pagados de Vercel AI Gateway en 24 horas, el doble que la familia GPT-5.6 y 6x más que Fable 5.1 en el mismo plazo. Cloudflare, LangChain y Langfuse ya lo integraron."
 ---
 
-![Ilustración editorial de un flujo de decisión binario con nodos ramificados y flechas de colores sobre fondo oscuro, concepto de motor de decisiones de IA ultrarrápido](../../assets/images/2026-09-20-jev-typesafe-modelo-decisiones-record-vercel.jpg)
+![Jev, el modelo de decisiones de TypeSafe, rompe el récord de adopción de Vercel en 24 horas](../../assets/images/2026-09-20-jev-typesafe-modelo-decisiones-record-vercel.webp)
 
 Se llama **Jev**, salió el 15 de septiembre y en un día ya era historia. Según reporta Forbes, el modelo de decisiones de **TypeSafe** llegó al **~13% de los equipos pagados de Vercel AI Gateway en sus primeras 24 horas** — el ritmo de adopción más rápido en la historia de esa plataforma.
 

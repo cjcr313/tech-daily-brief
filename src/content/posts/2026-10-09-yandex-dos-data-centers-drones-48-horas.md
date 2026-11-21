@@ -11,7 +11,7 @@ tags:
 description: "Ucrania golpeó dos data centers de Yandex en dos días: Sasovo (Ryazan) quedó fuera el 8 de octubre y hoy le tocó al de Kaluga, el más potente de Rusia con 63 MW de diseño. La zona de disponibilidad ru-central1-b de Yandex Cloud está completamente caída."
 ---
 
-![Ilustración editorial isométrica de un gran data center con filas de racks de servidores y módulos de un edificio oscurecidos mientras otros siguen encendidos, cielo nocturno, paleta azul profundo con acentos naranjas de alerta, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-09-yandex-dos-data-centers-drones-48-horas.jpg)
+![Drones dejan fuera dos data centers de Yandex en 48 horas: la zona ru-central1-b voló y Yandex Cloud quedó cojo](../../assets/images/2026-10-09-yandex-dos-data-centers-drones-48-horas.webp)
 
 Cuando hablamos de fallas de zona de disponibilidad, soñamos con un router que se reinicia o un operador que borra la base de datos equivocada. Esta semana la realidad fue más brutal: **drones ucranianos dejaron fuera dos data centers de Yandex en menos de 48 horas**, y la infraestructura cloud de Rusia quedó coja frente a todos.
 

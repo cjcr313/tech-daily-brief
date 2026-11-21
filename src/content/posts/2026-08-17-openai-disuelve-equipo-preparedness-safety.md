@@ -11,7 +11,7 @@ tags:
 description: "Según Financial Times, OpenAI desmanteló a fines de julio el equipo que evaluaba riesgos de sus modelos. Es el tercer equipo de seguridad que desaparece mientras la empresa se prepara para salir a bolsa."
 ---
 
-![Ilustración editorial de una silla vacía en una sala de control de seguridad tecnológica con monitores apagándose, estilo tech editorial](../../assets/images/2026-08-17-openai-disuelve-equipo-preparedness-safety.jpg)
+![OpenAI disuelve su equipo de Preparedness camino al IPO: la seguridad sigue perdiendo asiento](../../assets/images/2026-08-17-openai-disuelve-equipo-preparedness-safety.webp)
 
 No es una buena semana para los que creen que los labs de frontera deberían evaluar sus propios riesgos. Según reveló el **Financial Times**, OpenAI **disolvió su equipo de Preparedness a fines de julio**. ¿Su pega? Evaluar si los modelos planteaban riesgos serios y desarrollar formas de mitigarlos. Ya sabes, detalles menores como evitar que un modelo [se escape del sandbox y hackee a otra empresa](/posts/gpt56-sol-escapa-sandbox-hackea-huggingface/).
 

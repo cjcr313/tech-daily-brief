@@ -24,15 +24,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "22"
+          cache: "npm"
       - name: Install dependencies
         run: npm ci
-      - name: Reparar referencias de imagen rotas (placeholder)
-        run: |
-          cd src/content/posts
-          for ref in $(grep -hoE '\.\./\.\./assets/images/[A-Za-z0-9._-]+\.(jpg|jpeg|png|webp|avif)' *.md | sort -u); do
-            f="../../assets/images/${ref##*/}"
-            [ -f "$f" ] || { echo "FIX: ${ref##*/}"; sed -i "s|$ref|../../assets/images/placeholder.jpg|g" *.md; }
-          done
       - name: Cuarentena de frontmatters YAML rotos (no congelan el sitio)
         run: |
           python3 - <<'PY'
@@ -59,7 +53,11 @@ jobs:
                   bad += 1
           print(f'frontmatters en cuarentena: {bad}')
           PY
-      - name: Build with Astro
+      - name: Optimizar imágenes nuevas (WebP) y sanitizar posts del cronjob
+        run: |
+          node scripts/optimize-images.mjs
+          node scripts/sanitize-posts.mjs
+      - name: Build with Astro & Pagefind
         run: npm run build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

@@ -11,7 +11,7 @@ tags:
 description: "Kubernetes Center de Azure suma actualizaciones multicluster, resource placement con Fleet, insights de monitoreo por nodo y pod, y AI Manager para desplegar modelos en AKS."
 ---
 
-![Ilustración editorial tech: consola de mando unificada flotando sobre una flota de clústeres Kubernetes conectados como nodos hexagonales, ondas de actualización y pulsos de monitoreo entre ellos, azules con acentos cálidos, estilo flat moderno](../../assets/images/2026-11-17-microsoft-ignite-kubernetes-center-2026.jpg)
+![Microsoft Ignite 2026: Kubernetes Center se vuelve el centro de mando multicluster de Azure](../../assets/images/2026-11-17-microsoft-ignite-kubernetes-center-2026.webp)
 
 En el marco de **Microsoft Ignite 2026**, Azure anunció nuevas experiencias para **Kubernetes Center**, su superficie unificada para entender tu *estate* de Kubernetes y actuar sobre él. Si manejar clusters era andar saltando entre vistas, revisando prerequisitos de upgrade uno por uno y conectando señales de monitoreo a mano, la idea es que todo eso pase a vivir en un mismo lugar.
 

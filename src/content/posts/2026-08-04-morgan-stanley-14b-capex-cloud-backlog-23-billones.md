@@ -12,7 +12,7 @@ tags:
 description: "Morgan Stanley calcula que el capex cloud de los hyperscalers llegará a US$1.4 billones en 2027, US$200B sobre el consenso. El backlog combinado ya cruza los US$2.3 billones."
 ---
 
-![Morgan Stanley proyecta capex cloud de US$1.4 billones para 2027](../../assets/images/2026-08-04-morgan-stanley-14b-capex-cloud.jpg)
+![Morgan Stanley proyecta capex cloud de US$1.4 billones para 2027](../../assets/images/2026-08-04-morgan-stanley-14b-capex-cloud.webp)
 
 Después del earnings season de Q2 donde AWS, Azure, Google Cloud y Meta reportaron números historicos, Morgan Stanley salió con un research note que básicamente dice: **el mercado sigue subestimando lo que se viene**.
 

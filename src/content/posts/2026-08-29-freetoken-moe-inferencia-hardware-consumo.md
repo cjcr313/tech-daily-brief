@@ -11,7 +11,7 @@ tags:
 description: "UC Berkeley y MIT lanzaron FreeToken, un motor de inferencia open-source que mete modelos Mixture-of-Experts gigantes en GPUs de consumidor dividiendo el cómputo entre CPU y GPU en tiempo real."
 ---
 
-![Ilustración editorial de un laptop corriendo un modelo de IA grande, con dos flujos paralelos de datos brillantes que representan cómputo dividido entre CPU y GPU y nodos de una red Mixture-of-Experts, paleta morada y turquesa, estilo tech minimalista](../../assets/images/2026-08-29-freetoken-moe-inferencia-hardware-consumo.jpg)
+![FreeToken: correr MoE frontier en hardware de consumo con co-ejecución CPU/GPU](../../assets/images/2026-08-29-freetoken-moe-inferencia-hardware-consumo.webp)
 
 La promesa de correr un modelo frontier en tu tarjeta gráfica de escritorio se acerca un poco más. Investigadores de **UC Berkeley y MIT** presentaron **FreeToken**, un motor de inferencia open-source pensado para meter modelos **Mixture-of-Experts (MoE)** gigantes en hardware de consumidor. En el equipo están los cofundadores de Databricks **Matei Zaharia** e **Ion Stoica**, más **Song Han** y **Kurt Keutzer**.
 

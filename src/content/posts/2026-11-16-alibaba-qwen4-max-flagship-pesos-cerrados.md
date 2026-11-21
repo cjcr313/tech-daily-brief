@@ -11,7 +11,7 @@ tags:
 description: "El nuevo flagship de Alibaba es un MoE de 2,4 billones de parámetros con contexto de 1M de tokens y 25% más barato que Qwen3.8-Max. El giro: sin pesos abiertos, en ruptura con la tradición Qwen."
 ---
 
-![Ilustración editorial tech de un modelo de IA gigante representado como red neuronal luminosa dorada dentro de un candado cerrado, sobre fondo de centro de datos azul oscuro, estilo ilustración profesional limpia](../../assets/images/2026-11-16-alibaba-qwen4-max-flagship-pesos-cerrados.jpg)
+![Alibaba lanza Qwen4-Max: 2,4 billones de parámetros, contexto de 1M de tokens y adiós a los pesos abiertos](../../assets/images/2026-11-16-alibaba-qwen4-max-flagship-pesos-cerrados.webp)
 
 Se terminó la espera: **Alibaba pasó Qwen4-Max de preview a disponibilidad general este 16 de noviembre**, y el lanzamiento trae novedades para arriba y para abajo. Para arriba, porque es el modelo más grande que ha publicado la empresa; para abajo, porque por primera vez un flagship de la familia Qwen **no se puede descargar**: pesos cerrados, fin de la fiesta open-weight en la cima del catálogo.
 

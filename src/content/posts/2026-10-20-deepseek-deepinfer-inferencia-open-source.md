@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek liberó en GitHub DeepInfer, su stack interno de inferencia (por ahora para V4.1-Flash), con decodificación especulativa para bajar costos de cómputo y energía. Con V4.1-Flash a $0.035 por millón de tokens de entrada vs $10 de GPT-6 Astra, la presión sobre OpenAI y Anthropic es directa."
 ---
 
-![Ilustración editorial tech de una gran turbina de inferencia futurista hecha de luz azul que procesa ríos de tokens brillantes, con etiquetas de precio digitáinéndose y disolviéndose a su paso, siluetas de ingenieros observando de espaldas, paleta azul profundo con acentos naranjas y rojos, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/deepseek-deepinfer-inferencia-open-source.jpg)
+![DeepSeek abre DeepInfer, su stack de inferencia: la guerra de precios de la IA se le declara a la factura](../../assets/images/deepseek-deepinfer-inferencia-open-source.webp)
 
 La era del "token-maxxing" quedó oficialmente enterrada. Cuando la factura de la IA empezó a doler — la consultora Accenture, que a inicios de año amenazaba con frenar promociones a quien no usara IA, ahora le puso tope a sus empleados de **US$29 al mes en gasto de Claude**, según 404 Media — el mercado cambió de pregunta: ya no es "¿cuánta IA puedes meter?" sino "¿a cuánto la metes?".
 

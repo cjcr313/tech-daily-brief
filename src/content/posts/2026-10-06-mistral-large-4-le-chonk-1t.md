@@ -11,7 +11,7 @@ tags:
 description: "Mistral lanza el preview de Large 4: MoE de 1 billón de parámetros (49B activos), multimodal, entrenado en GPUs Grace Blackwell en Europa, con pesos abiertos el 27 de octubre. El meme se hizo realidad."
 ---
 
-![Ilustración editorial de un gato enorme y regordete hecho de nodos de red neuronal brillantes, sentado sobre un data center europeo, con tonos azul profundo y toques sutiles tricolores](../../assets/images/2026-10-06-mistral-large-4-le-chonk-1t.jpg)
+![Mistral Large 4 'Le Chonk': 1 billón de parámetros hechos en Francia y los pesos abren el 27 de octubre](../../assets/images/2026-10-06-mistral-large-4-le-chonk-1t.webp)
 
 Mistral pasó meses aguantando memes y hoy respondió de la única forma que importa en este negocio: con un modelo. **Mistral Large 4 (ML4)**, apodado internamente **"Le Chonk"**, es un MoE de **1 billón de parámetros totales (un "trillion" en inglés) con 49 mil millones activos**, y está disponible desde hoy en preview vía API, con **pesos abiertos el 27 de octubre** bajo una licencia custom de Mistral.
 

@@ -12,7 +12,7 @@ tags:
 description: "Gartner reconoce a Google como Líder en Container Management por cuarto año consecutivo, con la mejor Ability to Execute y el primer lugar en todos los casos de uso."
 ---
 
-![Ilustración de un podio con un emblema de Kubernetes, representando el liderazgo de Google en container management](../../assets/images/2026-09-27-google-lider-gartner-mq-container-management.jpg)
+![Google es Líder por cuarto año seguido en el Magic Quadrant de Container Management de Gartner](../../assets/images/2026-09-27-google-lider-gartner-mq-container-management.webp)
 
 Gartner volvió a poner a Google en lo más alto del [Magic Quadrant de Container Management 2026](https://cloud.google.com/blog/products/containers-kubernetes/2026-gartner-magic-quadrant-for-container-management): **Líder por cuarto año consecutivo**, con la mejor posición en *Ability to Execute* entre todos los vendors evaluados.
 

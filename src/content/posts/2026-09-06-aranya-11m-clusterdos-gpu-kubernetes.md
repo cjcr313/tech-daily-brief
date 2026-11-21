@@ -12,7 +12,7 @@ tags:
 description: "La startup de infraestructura IA Aranaya recaudó US$11M en seed (First Round Capital) para automatizar el paso de servidores bare-metal a clústeres GPU productivos en menos de 48 horas con clusterdOS."
 ---
 
-![Ilustración editorial de racks de servidores bare-metal transformándose en un clúster GPU, con planos de Kubernetes superpuestos, estilo tech editorial](../../assets/images/2026-09-06-aranya-11m-clusterdos-gpu-kubernetes.jpg)
+![Aranya levanta US$11M para desplegar clústeres GPU bare-metal en 48 horas usando clusterdOS (Kubernetes)](../../assets/images/2026-09-06-aranya-11m-clusterdos-gpu-kubernetes.webp)
 
 Hay una nueva apuesta en la carrera por bajar la fricción de la infraestructura de IA. **Aranya**, startup estadounidense, cerró una ronda seed de **US$11 millones liderada por First Round Capital** para automatizar el despliegue de servidores bare-metal en clústeres GPU listos para producción **en menos de 48 horas**.
 

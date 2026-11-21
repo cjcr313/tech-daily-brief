@@ -11,7 +11,7 @@ tags:
 description: "NETSCOUT integró un servidor MCP en Omnis AI Insights para que agentes de IA consulten evidencia de red curada ('Smart Data') en runtime, reduciendo tokens y alucinaciones."
 ---
 
-![Ilustración editorial de cables de red luminosos conectando nodos de datos hacia un cerebro de IA central, estilo tech minimalista en azul profundo](../../assets/images/2026-10-02-netscout-mcp-omnis-ai-insights.jpg)
+![NETSCOUT conecta su observabilidad de red a agentes de IA vía MCP: datos curados en vez de telemetría cruda](../../assets/images/2026-10-02-netscout-mcp-omnis-ai-insights.webp)
 
 La observabilidad está pasando por su momento agéntico y NETSCOUT acaba de sumarse con un movimiento pragmático: **agregó conectividad MCP (Model Context Protocol) a su suite Omnis AI Insights**, permitiendo que asistentes y agentes de IA accedan directamente a su "Smart Data" en tiempo de ejecución. Nada de dashboards intermedios: el agente consulta la evidencia de red cuando la necesita.
 

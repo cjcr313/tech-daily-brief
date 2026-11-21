@@ -11,7 +11,7 @@ tags:
 description: "Con soporte GA del protocolo OpAMP, Fleet Management gestiona distribuciones upstream del OTel Collector sin obligarte a migrar a Alloy: mismo YAML, configuración central y auto-monitoreo incluido."
 ---
 
-![Ilustración editorial de una torre de control de observabilidad con dashboards luminosos comandando una flota de nodos colectores de telemetría distribuidos sobre un mapa de red, paleta turquesa y naranja sobre fondo oscuro, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-13-grafana-fleet-management-opamp-otel-ga.jpg)
+![Grafana Cloud ahora administra tus OpenTelemetry Collectors de terceros: Fleet Management con OpAMP llega a disponibilidad general](../../assets/images/2026-10-13-grafana-fleet-management-opamp-otel-ga.webp)
 
 Si tu pipeline de telemetría vive sobre OpenTelemetry Collectors, ya conoces el dolor: una distribución propia, YAML a mano por doquier, y una flota que crece sin que nadie tenga clara la salud de cada collector. La movida de Grafana Labs es llevar todo eso a un solo lugar: **Fleet Management en Grafana Cloud**, que ahora llega a disponibilidad general con soporte para el **Open Agent Management Protocol (OpAMP)**.
 

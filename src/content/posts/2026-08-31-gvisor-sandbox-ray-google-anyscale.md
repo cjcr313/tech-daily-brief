@@ -11,7 +11,7 @@ tags:
 description: "Una librería experimental integra sandboxing aislado con gVisor directamente en Ray, para ejecutar rollouts dinámicos y tool calls de agentes a escala."
 ---
 
-![Ilustración editorial de sandboxes gVisor ejecutándose en un clúster Ray](../../assets/images/2026-08-31-gvisor-sandbox-ray-google-anyscale.jpg)
+![Google y Anyscale llevan sandboxing nativo con gVisor a los clústeres de Ray](../../assets/images/2026-08-31-gvisor-sandbox-ray-google-anyscale.webp)
 
 El ecosistema de reinforcement learning adoptó a **Ray** como runtime de cómputo para los flujos de post-training. Pero a medida que los modelos razonan y se vuelven agenticos, apareció un cuello de botella: orquestar **sandboxes seguros y aislados a escala** para ejecutar rollouts dinámicos, generación de código e interacciones multi-turn con herramientas.
 

@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare lanzó Access para Workers: adjunta una política de autenticación directamente al Worker y queda privado en todos sus dominios, previews incluidos."
 ---
 
-![Ilustración de un candado digital protegiendo aplicaciones en la nube](../../assets/images/2026-08-15-cloudflare-access-workers-apps-internas-protegidas.jpg)
+![Ilustración de un candado digital protegiendo aplicaciones en la nube](../../assets/images/2026-08-15-cloudflare-access-workers-apps-internas-protegidas.webp)
 
 Con la era del "vibe coding", cualquier persona de la empresa puede armar una app en una tarde y dejarla en el internet público en cinco minutos más. Genial para la productividad, pesadilla para el CISO. Cloudflare lo resolvió con un lanzamiento directo: **Cloudflare Access para Workers**.
 

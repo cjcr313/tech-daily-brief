@@ -1,6 +1,9 @@
 ---
 import type { HTMLAttributes } from "astro/types";
+import { getRelativeLocaleUrl } from "astro:i18n";
+import IconRss from "@/assets/icons/IconRss.svg";
 import Socials from "./Socials.astro";
+import { CORE_CATEGORIES } from "@/utils/categories";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
@@ -10,27 +13,160 @@ type Props = {
 
 const { noMarginTop = false, class: className, ...attrs } = Astro.props;
 
-const t = useTranslations(Astro.currentLocale);
+const locale = Astro.currentLocale ?? config.site.lang;
+const t = useTranslations(locale);
 const currentYear = new Date().getFullYear();
 ---
 
 <footer
-  class:list={["app-layout", { "mt-auto": !noMarginTop }, className]}
+  class:list={[
+    "border-border bg-surface/70 border-t",
+    { "mt-16": !noMarginTop },
+    className,
+  ]}
   {...attrs}
 >
-  <div
-    class="border-border flex flex-col items-center justify-center gap-3 border-t py-6 sm:py-5"
-  >
-    <Socials />
-    <div class="flex flex-col items-center whitespace-nowrap">
-      <div class="flex items-center">
-        <span>{t.footer.copyright} &#169; {currentYear} Nauta Lab</span>
-        <span class="hidden sm:inline">&nbsp;|&nbsp;</span>
-        <span class="hidden sm:inline">{t.footer.allRightsReserved}</span>
+  <div class="app-layout py-10 sm:py-12">
+    <div class="grid grid-cols-1 gap-8 md:grid-cols-12">
+      <!-- Brand column -->
+      <div class="md:col-span-5">
+        <a
+          href={getRelativeLocaleUrl(locale, "")}
+          class="inline-flex items-center gap-2.5"
+        >
+          <span
+            class="border-border bg-[#0b1120] flex size-7 items-center justify-center rounded-lg border"
+            aria-hidden="true"
+          >
+            <svg viewBox="0 0 64 64" fill="none" class="size-5">
+              <circle
+                cx="32"
+                cy="32"
+                r="21"
+                stroke="#0284C7"
+                stroke-opacity="0.4"
+                stroke-width="3"></circle>
+              <path
+                d="M47 32a15 15 0 0 1-15 15"
+                stroke="#38BDF8"
+                stroke-width="3.5"
+                stroke-linecap="round"></path>
+              <path
+                d="M17 32a15 15 0 0 1 15-15"
+                stroke="#38BDF8"
+                stroke-width="3.5"
+                stroke-linecap="round"></path>
+              <circle cx="32" cy="32" r="5.5" fill="#38BDF8"></circle>
+            </svg>
+          </span>
+          <span class="font-display text-lg font-extrabold tracking-tight">
+            {config.site.title}
+          </span>
+        </a>
+
+        <p class="text-muted-foreground mt-3 max-w-sm text-sm leading-relaxed">
+          El pulso diario de Cloud Native, IA, Kubernetes, Seguridad e
+          Infraestructura. Resúmenes claros respaldados por fuentes primarias.
+        </p>
+
+        <div class="mt-4 flex flex-wrap items-center gap-3">
+          <Socials />
+          <a
+            href={getRelativeLocaleUrl(locale, "rss.xml")}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="border-border bg-background text-muted-foreground hover:border-accent hover:text-accent inline-flex items-center gap-1.5 rounded-lg border px-2.5 py-1.5 text-xs font-medium transition-colors"
+          >
+            <IconRss class="size-3.5" />
+            <span>Feed RSS</span>
+          </a>
+        </div>
       </div>
-      <span class="text-sm text-skin-muted mt-2">
-        Un sitio de Nauta Lab, incubadora de tecnología e ideas.
-      </span>
+
+      <!-- Categories column -->
+      <div class="md:col-span-4">
+        <h2
+          class="font-mono text-muted-foreground text-xs font-semibold tracking-wider uppercase"
+        >
+          Secciones
+        </h2>
+        <ul class="mt-3 grid grid-cols-2 gap-x-4 gap-y-2 text-sm">
+          {
+            CORE_CATEGORIES.map(cat => (
+              <li>
+                <a
+                  href={getRelativeLocaleUrl(locale, `tags/${cat.slug}`)}
+                  class="text-muted-foreground hover:text-accent transition-colors"
+                >
+                  {cat.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+
+      <!-- Site links column -->
+      <div class="md:col-span-3">
+        <h2
+          class="font-mono text-muted-foreground text-xs font-semibold tracking-wider uppercase"
+        >
+          Publicación
+        </h2>
+        <ul class="mt-3 space-y-2 text-sm">
+          <li>
+            <a
+              href={getRelativeLocaleUrl(locale, "about")}
+              class="text-muted-foreground hover:text-accent transition-colors"
+            >
+              Acerca de Ping Diario
+            </a>
+          </li>
+          <li>
+            <a
+              href={getRelativeLocaleUrl(locale, "posts")}
+              class="text-muted-foreground hover:text-accent transition-colors"
+            >
+              Todas las noticias
+            </a>
+          </li>
+          <li>
+            <a
+              href={getRelativeLocaleUrl(locale, "archives")}
+              class="text-muted-foreground hover:text-accent transition-colors"
+            >
+              Archivo por fecha
+            </a>
+          </li>
+          <li>
+            <a
+              href={getRelativeLocaleUrl(locale, "tags")}
+              class="text-muted-foreground hover:text-accent transition-colors"
+            >
+              Índice de etiquetas
+            </a>
+          </li>
+          <li>
+            <a
+              href={getRelativeLocaleUrl(locale, "search")}
+              class="text-muted-foreground hover:text-accent transition-colors"
+            >
+              Buscador
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div
+      class="border-border text-muted-foreground mt-8 flex flex-col items-center justify-between gap-2 border-t pt-6 text-xs sm:flex-row"
+    >
+      <p>
+        &#169; {currentYear} Ping Diario · Un medio de{" "}
+        <strong class="text-foreground font-semibold">Nauta Lab</strong>.{" "}
+        {t.footer.allRightsReserved}
+      </p>
+      <p class="font-mono text-[11px]">pingdiario.com</p>
     </div>
   </div>
 </footer>

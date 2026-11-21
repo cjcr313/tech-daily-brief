@@ -12,7 +12,7 @@ tags:
 description: "Google publica benchmarks de Pod Snapshots en GKE: hasta 89% menos latencia de arranque y modelos de 70B cargando en 37 segundos."
 ---
 
-![Ilustración editorial de un nodo Kubernetes restaurando instantáneamente el estado de un pod con GPU, con memoria y registros congelados volviendo a la vida sobre un bucket de Cloud Storage](../../assets/images/2026-09-27-gke-pod-snapshots-carga-modelos-ia.jpg)
+![GKE Pod Snapshots: cargar un modelo de 70B en 37 segundos](../../assets/images/2026-09-27-gke-pod-snapshots-carga-modelos-ia.webp)
 
 Google publicó los benchmarks de **Pod Snapshots en GKE**, y los números son de los que hacen ruido: hasta **89% menos latencia de arranque**, un modelo de **70B cargando en 37 segundos** y uno de 8B en 15. La gracia no es el caché clásico, sino checkpoint y restore: el snapshot congela todo lo que el proceso tenía vivo (file descriptors, threads, registros de CPU, memoria, filesystem del contenedor, volúmenes EmptyDir y tmpfs) y una réplica nueva arranca directo desde ahí.
 

@@ -12,7 +12,7 @@ tags:
 description: "AWS pidió a sus ingenieros internos apagar instancias EC2 ociosas para liberar capacidad. ~65% de instancias corren bajo 20% de CPU. El hambre de IA no tiene freno."
 ---
 
-![AWS engineers free up servers](../../assets/images/2026-08-09-aws-pide-ingenieros-apagar-servidores.jpg)
+![AWS engineers free up servers](../../assets/images/2026-08-09-aws-pide-ingenieros-apagar-servidores.webp)
 
 Cuando el cloud más grande del mundo le pide a **sus propios ingenieros** que apaguen servidores ociosos para liberar capacidad, sabes que la situación es seria. Según reportó *The Information*, AWS emitió una directiva interna pidiendo a sus equipos de ingeniería **cerrar instancias EC2 que ya no están usando** y reducir el consumo interno de compute.
 

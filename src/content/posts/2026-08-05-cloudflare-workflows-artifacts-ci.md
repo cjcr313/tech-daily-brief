@@ -10,7 +10,7 @@ tags:
   - DevOps
 description: "Cloudflare entra al mundo del CI/CD nativo con Workflows, Artifacts y su CI SDK, permitiendo armar pipelines con TypeScript y agentes IA."
 ---
-![CI/CD Cloudflare](../../assets/images/2026-08-05-cloudflare-workflows-artifacts-ci.jpg)
+![CI/CD Cloudflare](../../assets/images/2026-08-05-cloudflare-workflows-artifacts-ci.webp)
 
 Cloudflare no para de sacar herramientas, y ahora se meten de lleno al terreno de DevOps. Acaban de anunciar **Workflows, Artifacts y el CI SDK**, una suite completa para correr pipelines de CI/CD de forma nativa en su red.
 

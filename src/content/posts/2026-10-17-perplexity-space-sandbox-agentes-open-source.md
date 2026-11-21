@@ -12,7 +12,7 @@ tags:
 description: "Perplexity publicó bajo Apache 2.0 el sandbox de microVMs Firecracker que corre todas las sesiones de su agente Computer. Cero escapes en 108 intentos de red team."
 ---
 
-![Ilustración editorial de un agente de IA encapsulado en una burbuja de microVM aislada, con paredes de contención y canales de datos controlados alrededor](../../assets/images/2026-10-17-perplexity-space-sandbox-agentes-open-source.jpg)
+![Perplexity liberó SPACE: el sandbox Firecracker que aísla a sus agentes de IA ya es open source](../../assets/images/2026-10-17-perplexity-space-sandbox-agentes-open-source.webp)
 
 La pregunta incómoda de 2026 ya no es "¿dejamos que los agentes ejecuten código?" sino "¿dónde los dejamos ejecutarlo sin que incendien algo?". Perplexity respondió abriendo su propia respuesta: **SPACE** (Sandboxed Platform for Agentic Code Execution), el sandbox que corre en producción **todas las sesiones de su agente Perplexity Computer desde julio**, ahora disponible bajo **Apache 2.0**.
 

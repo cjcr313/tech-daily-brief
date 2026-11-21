@@ -12,7 +12,7 @@ tags:
 description: "Gimlet Labs cierra una Serie B de US$300M a una valorización de US$3 mil millones. Su plataforma descompone LLMs en módulos y los despliega en el chip óptimo para cada carga."
 ---
 
-![Ilustración editorial de inferencia de IA distribuida entre múltiples chips especializados](../../assets/images/2026-09-05-gimlet-labs-300m-inferencia-disagregada.jpg)
+![Gimlet Labs levanta US$300M para acelerar la inferencia 'disagregada' de LLMs](../../assets/images/2026-09-05-gimlet-labs-300m-inferencia-disagregada.webp)
 
 Gimlet Labs, la startup que acelera workloads de inferencia, acaba de levantar **US$300 millones en una Serie B** a una valorización de **US$3 mil millones**. La ronda la lideró Andreessen Horowitz, con Arm Holdings, Samsung Ventures y el fondo M12 de Microsoft entre los que se sumaron. El financiamiento total externo de la compañía llega a US$392 millones.
 

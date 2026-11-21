@@ -13,7 +13,7 @@ tags:
 description: "Investigadores presentaron CoreBreak en Black Hat USA 2026: vulnerabilidades en AWS Bedrock AgentCore, Google ADK y Vercel AI SDK que permiten bypassar el modelo y ejecutar tools directamente."
 ---
 
-![CoreBreak - Vulnerabilidad en agentes de IA](../../assets/images/2026-08-07-corebreak-flaw-agentes-ai-aws-google-vercel.jpg)
+![CoreBreak - Vulnerabilidad en agentes de IA](../../assets/images/2026-08-07-corebreak-flaw-agentes-ai-aws-google-vercel.webp)
 
 Esto es grave y hay que prestarle atención. En el **Black Hat USA 2026**, los investigadores Hedi Ingber y Aviyam Ivgi (cofundadores de Stealth) presentaron **CoreBreak** — un patrón de vulnerabilidad cross-platform que afecta la infraestructura de agentes de IA de **AWS, Google y Vercel**.
 

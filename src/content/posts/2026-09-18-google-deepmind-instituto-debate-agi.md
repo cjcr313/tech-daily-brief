@@ -13,7 +13,7 @@ tags:
 description: "DeepMind estrenó el DeepMind Institute, un think tank interno liderado por Shane Legg, James Manyika y Demis Hassabis para ampliar el debate global sobre la AGI, con cuatro ensayos inaugurales."
 ---
 
-![Ilustración editorial tech: una mesa redonda abstracta con tres figuras sentadas bajo un foco de luz, rodeadas de burbujas de diálogo y nodos de una red neuronal que se bifurcan en opiniones distintas, tonos azul profundo y ámbar sobre fondo oscuro, concepto de debate y gobernanza de la AGI](../../assets/images/2026-09-18-google-deepmind-instituto-debate-agi.jpg)
+![Google DeepMind lanza un instituto para abrir el debate sobre la AGI: 'no siempre estarán de acuerdo'](../../assets/images/2026-09-18-google-deepmind-instituto-debate-agi.webp)
 
 Google y Google DeepMind lanzaron este miércoles el **DeepMind Institute**, un think tank interno pensado para ampliar la conversación global sobre la inteligencia artificial general (AGI). La apuesta es explícita: en lugar de bajar línea con una postura oficial, quieren **exponer las diferencias** entre Google, DeepMind y la comunidad de investigación más amplia. Como lo plantea el anuncio: *"No siempre van a estar de acuerdo, y probablemente cambiarán de opinión a medida que llegue más data al frontier."*
 

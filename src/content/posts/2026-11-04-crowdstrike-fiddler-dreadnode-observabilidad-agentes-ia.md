@@ -11,7 +11,7 @@ tags:
 description: "En Fal.Con Europe 2026, CrowdStrike anunció la compra de Fiddler AI (US$400M) y Dreadnode (US$95M) para sumar observabilidad de agentes IA y testing de seguridad a Falcon, junto con un AI Kill Switch en runtime."
 ---
 
-![Ilustración editorial tech de un panel de control de ciberseguridad con tarjetas de grabadora de vuelo digital flotantes monitorizando agentes de IA representados como drones luminosos, paleta azul y ámbar sobre fondo oscuro, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-11-04-crowdstrike-fiddler-dreadnode-observabilidad-agentes-ia.jpg)
+![CrowdStrike comprará Fiddler y Dreadnode por US$495M: observabilidad de agentes IA llega a Falcon](../../assets/images/2026-11-04-crowdstrike-fiddler-dreadnode-observabilidad-agentes-ia.webp)
 
 Si el 2026 fue el año en que las empresas dejaron salir agentes de IA a producción, alguien tenía que encargarse de vigilarlos. **CrowdStrike firmó acuerdos definitivos para comprar Fiddler AI y Dreadnode**, dos startups de seguridad para IA, en anuncios hechos en su conferencia Fal.Con Europe 2026 de Barcelona. Según el Wall Street Journal, el paquete suma **US$495 millones**: US$400M por Fiddler y US$95M por Dreadnode.
 

@@ -11,7 +11,7 @@ tags:
 description: "Investigación de Cloudflare logró extraer datos entre Workers en producción con 99% de precisión. Ya hay mitigaciones activas y paper en arXiv."
 ---
 
-![Ilustración conceptual de un ataque de canal lateral Spectre filtrando bits entre contenedores aislados en la edge](../../assets/images/2026-08-20-cloudflare-workers-spectre-ataque-remoto-jwt.svg)
+![Cloudflare demuestra ataque Spectre remoto en Workers: fuga de datos a 12 bits por segundo entre tenants](../../assets/images/2026-08-20-cloudflare-workers-spectre-ataque-remoto-jwt.svg)
 
 Spectre no murió con los parches de 2018, y Cloudflare lo acaba de demostrar con su propia infraestructura. En un post publicado ayer, el equipo de seguridad de Workers reveló que **re-evaluaron los ataques Spectre remotos contra su plataforma y lograron una fuga de datos confiable en producción: hasta 12 bits por segundo con 99% de precisión**, desde un Worker hacia otro Worker co-ubicado en el mismo proceso.
 

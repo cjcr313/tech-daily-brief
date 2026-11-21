@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare integró Workers directamente en Gateway y DLP: nueva acción Forward en beta pública y Custom Functions para meter lógica propia dentro de la evaluación de políticas, sin mantener infraestructura extra."
 ---
 
-![Ilustración editorial tech de un escudo de seguridad modular atravesado por flujos de tráfico que pasan por engranajes y bloques de código flotantes en el borde de una red global, simbolizando un secure web gateway programable con lógica personalizada ejecutándose en línea, paleta naranja cálido sobre azul profundo, estilo ilustración profesional, iluminación cinematográfica, sin texto](../../assets/images/2026-10-16-cloudflare-gateway-dlp-programables-workers.jpg)
+![Cloudflare vuelve programable su Secure Web Gateway: tu código corriendo dentro de la política de seguridad](../../assets/images/2026-10-16-cloudflare-gateway-dlp-programables-workers.webp)
 
 Cloudflare le metió código propio a la seguridad de red. La compañía anunció que **Cloudflare Gateway y DLP (Data Loss Prevention) ahora se integran con su plataforma de edge computing**, liberando una nueva acción de política llamada **Forward** (ya en beta pública) y las **Custom Functions**, que llegarán antes de fin de año. Ambas disponibles para **todos los planes Zero Trust**.
 

@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare presentó Kitesurf, un motor de navegador liviano para cargas automatizadas: corre en WebAssembly/Rust sobre Workers y lo manejan Playwright o Puppeteer con menos overhead que Chromium."
 ---
 
-![Ilustración editorial de un navegador minimalista hecho de bloques WebAssembly flotando sobre una infraestructura cloud, con un agente de IA al volante](../../assets/images/2026-08-27-cloudflare-kitesurf-navegador-agentes.jpg)
+![Kitesurf: Cloudflare lanza un navegador pensado para agentes, no para humanos](../../assets/images/2026-08-27-cloudflare-kitesurf-navegador-agentes.webp)
 
 Cloudflare acaba de presentar **Kitesurf**, un navegador liviano diseñado para cargas automatizadas, no para personas. La tesis es directa: Chromium fue hecho para humanos y trae un overhead de memoria y cómputo que un agente de IA simplemente no necesita.
 

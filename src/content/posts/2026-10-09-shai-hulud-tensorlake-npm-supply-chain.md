@@ -11,7 +11,7 @@ tags:
 description: "La versión 0.5.144 del paquete npm tensorlake salió con el worm Shai-Hulud/ChainDrop escondido: roba tokens de GitHub, npm, claves de nube, secretos de Kubernetes y Vault. Y lo peor: salió con provenance attestation legítima."
 ---
 
-![Ilustración editorial de una cadena de suministro de paquetes de software con cajas en una cinta transportadora y una serpiente gigante infiltrándose entre ellas, acentos rojos y naranjos sobre fondo oscuro azul, estilo tech editorial dramático, sin texto](../../assets/images/2026-10-09-shai-hulud-tensorlake-npm-supply-chain.jpg)
+![Shai-Hulud vuelve a la carga: comprometen el SDK de npm tensorlake con un worm robacredenciales](../../assets/images/2026-10-09-shai-hulud-tensorlake-npm-supply-chain.webp)
 
 El worm de supply chain **Shai-Hulud** (aka ChainDrop) volvió a dar que hablar, y esta vez la víctima fue **tensorlake**, el SDK de TypeScript para la plataforma de indexing de documentos con IA. La versión maliciosa **0.5.144 se publicó en npm el 8 de octubre a las 01:12 UTC**, y [Socket la detectó a las 01:23](https://socket.dev/blog/tensorlake-compromise) — 11 minutos después. Velocidad de detección récord; el problema es todo lo demás.
 

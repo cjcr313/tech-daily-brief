@@ -11,7 +11,7 @@ tags:
 description: "Dynatrace normaliza la telemetría de IA desde coding agents, apps Python con OneAgent y frameworks OpenInference al mismo modelo gen_ai.*: menos plomería, visibilidad full-stack de tus workloads de IA."
 ---
 
-![Ilustración editorial tech de múltiples flujos de datos de colores convergiendo en un panel de observabilidad central unificado, paleta verde y violeta sobre fondo oscuro, estilo profesional sin texto](../../assets/images/2026-10-30-dynatrace-ai-observability-ingest-unificado.jpg)
+![Dynatrace unifica el ingest de AI Observability: coding agents, OneAgent y OpenInference en un solo modelo de datos](../../assets/images/2026-10-30-dynatrace-ai-observability-ingest-unificado.webp)
 
 Dynatrace [expandió las opciones de ingest](https://www.dynatrace.com/news/blog/dynatrace-unifies-ai-observability-ingest-across-coding-agents-oneagent-and-openinference/) de su producto AI Observability, con un objetivo claro: que la telemetría de IA llegue por la puerta que sea, **sin forzar re-instrumentación**, y caiga normalizada en el mismo modelo de datos `gen_ai.*`.
 

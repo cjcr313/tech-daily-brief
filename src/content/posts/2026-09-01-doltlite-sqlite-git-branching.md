@@ -12,7 +12,7 @@ tags:
 description: "DoltHub lanzó DoltLite Beta: SQLite con branching, merge y diff estilo Git, reemplazando el motor de almacenamiento por Prolly Trees. Y lo construyó un equipo de agentes."
 ---
 
-![Ilustración editorial de una base de datos SQLite con ramas estilo Git](../../assets/images/2026-09-01-doltlite-sqlite-git-branching.jpg)
+![DoltLite: un fork de SQLite con branching estilo Git, construido por 2.000 PRs de agentes de IA](../../assets/images/2026-09-01-doltlite-sqlite-git-branching.webp)
 
 DoltHub acaba de lanzar **DoltLite Beta**, un fork de SQLite que mete control de versiones estilo Git dentro de la base de datos embebida: **branch, merge y diff** sobre los datos, no sobre los archivos. Y el detalle que lo hace noticia: el equipo revela que el beta salió adelante con aproximadamente **2.000 pull requests escritos por agentes de IA**.
 

@@ -5,7 +5,7 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import Main from "@/components/Main.astro";
-import Card from "@/components/Card.astro";
+import NewsCard from "@/components/NewsCard.astro";
 import Footer from "@/components/Footer.astro";
 import Pagination from "@/components/Pagination.astro";
 import { getMainSortedPosts } from "@/utils/getSortedPosts";
@@ -23,18 +23,26 @@ const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
 ---
 
-<Layout title={`${t.pages.postsTitle} | ${config.site.title}`}>
+<Layout
+  title={`${t.pages.postsTitle}${page.currentPage > 1 ? ` · Página ${page.currentPage}` : ""} | ${config.site.title}`}
+  noindex={page.currentPage > 1}
+>
   <Header />
 
   <Breadcrumb />
 
-  <Main pageTitle={t.pages.postsTitle} pageDesc={t.pages.postsDesc}>
-    <ul>
-      {page.data.map(data => <Card {...data} />)}
+  <Main
+    pageTitle="Todas las noticias"
+    pageDesc={`${page.total} artículos publicados en Ping Diario · Página ${page.currentPage} de ${page.lastPage}.`}
+  >
+    <ul class="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
+      {page.data.map(post => <NewsCard post={post} />)}
     </ul>
   </Main>
 
-  <Pagination {page} />
+  <div class="app-layout pt-8">
+    <Pagination {page} />
+  </div>
 
   <Footer noMarginTop={page.lastPage > 1} />
 </Layout>

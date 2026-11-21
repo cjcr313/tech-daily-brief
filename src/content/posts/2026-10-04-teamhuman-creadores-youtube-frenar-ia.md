@@ -11,7 +11,7 @@ tags:
 description: "Mark Rober, Kurzgesagt y creadores que suman más de 300 millones de suscriptores lanzaron #TeamHuman con respaldo del Center for AI Safety: piden tracked de chips, acuerdos internacionales de 'límite de velocidad' y un watchdog tipo OIEA."
 ---
 
-![Ilustración editorial de una multitud diversa de personas unidas frente a una gigantesca estructura de inteligencia artificial abstracta y luminosa, con una línea de freno o pausa simbólica entre ambos lados, paleta cálida con azul tecnológico, estilo ilustración editorial profesional, sin texto](../../assets/images/2026-10-04-teamhuman-creadores-youtube-frenar-ia.jpg)
+![#TeamHuman: gigantes de YouTube con 300M+ suscriptores lanzan campaña para frenar globalmente la IA](../../assets/images/2026-10-04-teamhuman-creadores-youtube-frenar-ia.webp)
 
 La discusión sobre frenar la IA salió del paper académico y llegó al nicho de YouTube. Este **4 de octubre** se lanzó **#TeamHuman**, una campaña liderada por creadores que en conjunto suman **más de 300 millones de suscriptores** — encabezados por **Mark Rober** (83,1M), **Kurzgesagt** (25,6M) y **Preston** (17,9M) — pidiendo una **desaceleración global de la IA**.
 

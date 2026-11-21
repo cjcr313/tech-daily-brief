@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare anunció rendición de cuentas continua para bots verificados: mide si respetan robots.txt y responden a los 429, y lo traduce en una banda de confianza que será pública en Radar."
 ---
 
-![Ilustración editorial tech de un robot verificado con credencial siendo evaluado por un semáforo de confianza sobre un navegador de sitios web, estilo flat profesional en tonos naranja y azul oscuro, sin texto](../../assets/images/2026-10-17-cloudflare-bots-confianza-robots-txt-429.jpg)
+![Cloudflare le pondrá nota a los bots verificados: la confianza ahora se gana respetando robots.txt y los HTTP 429](../../assets/images/2026-10-17-cloudflare-bots-confianza-robots-txt-429.webp)
 
 La licencia de conducir te dice quién sos y que pasaste el examen, pero no te garantiza que vayas a manejar bien la próxima vez. Con esa analogía parte Cloudflare en su [nuevo anuncio](https://blog.cloudflare.com/verified-bots-accountability): tener identidad verificada como bot ya no alcanza — ahora la confianza se tiene que **ganar y volver a ganarse todos los días**.
 

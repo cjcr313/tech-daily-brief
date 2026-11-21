@@ -11,7 +11,7 @@ tags:
 description: "OpenAI anunció que respetará una señal compartida en robots.txt para expresar preferencias sobre el uso de contenido en entrenamiento de IA, basada en el trabajo del grupo AI Preferences de la IETF."
 ---
 
-![Ilustración editorial tech de un archivo robots.txt como documento luminoso conectado mediante líneas a varios logos abstractos de nubes de IA, sobre fondo azul oscuro, estilo profesional sin texto](../../assets/images/2026-10-30-openai-senal-comun-robots-txt-entrenamiento-ia.jpg)
+![OpenAI acatará una señal común en robots.txt para preferencias de entrenamiento de IA](../../assets/images/2026-10-30-openai-senal-comun-robots-txt-entrenamiento-ia.webp)
 
 OpenAI [anunció hoy](https://openai.com/index/helping-websites-express-ai-training-preferences/) que comenzará a honrar una **señal común en robots.txt** que permite a los sitios web expresar sus preferencias sobre el uso de su contenido para el entrenamiento de modelos generativos de IA. La medida es voluntaria y se apoya en el trabajo del **grupo de trabajo AI Preferences de la IETF**.
 

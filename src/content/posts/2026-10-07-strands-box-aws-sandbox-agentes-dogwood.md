@@ -11,7 +11,7 @@ tags:
 description: "AWS liberó Strands Box, un sandbox local open source que combina aislamiento a nivel OS con políticas semánticas en Dogwood. La idea: que tu agente pueda hacer git push, pero solo si los tests pasan."
 ---
 
-![Ilustración editorial tech de una caja de cristal translúcida conteniendo un pequeño agente robótico luminoso trabajando, con anillos de seguridad alrededor, estilo flat profesional en tonos naranjas AWS y azul oscuro, sin texto](../../assets/images/2026-10-07-strands-box-aws-sandbox-agentes-dogwood.jpg)
+![AWS abre Strands Box: sandbox open source para que tus agentes IA no anden en modo YOLO](../../assets/images/2026-10-07-strands-box-aws-sandbox-agentes-dogwood.webp)
 
 Si le diste acceso a un agente IA y ahora duermes con un ojo abierto, esto es para ti: AWS anunció **Strands Box**, un sandbox local **open source para agentes de IA** que combina aislamiento a nivel de sistema operativo con **políticas semánticas escritas en Dogwood**, el lenguaje de policy que AWS liberó hace unos meses. Está en developer preview y el código ya está en [GitHub](https://github.com/strands-agents/box).
 

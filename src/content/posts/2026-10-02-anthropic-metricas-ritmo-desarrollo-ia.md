@@ -11,7 +11,7 @@ tags:
 description: "Anthropic publicó métricas concretas de su operación interna: Claude ya 'lidera' el 26% del I+D de IA, 30.000 agentes corriendo en paralelo y solo 6% del compute de investigación va a seguridad."
 ---
 
-![Ilustración editorial de paneles de monitoreo y gráficos iluminando el interior de un laboratorio de IA futurista con servidores, paleta azul y naranja](../../assets/images/2026-10-02-anthropic-metricas-ritmo-desarrollo-ia.jpg)
+![Anthropic abre la caja negra: métricas para medir el ritmo de desarrollo de IA dentro de los labs frontier](../../assets/images/2026-10-02-anthropic-metricas-ritmo-desarrollo-ia.webp)
 
 Mientras la industria debate si frenar o no el desarrollo de IA frontier — con la FTC investigando, California citando a OpenAI y Amodei pidiendo "pacear" la frontera — Anthropic hizo algo que nadie había hecho con este nivel de detalle: **publicar números concretos de lo que pasa adentro de su casa**. El [post del Anthropic Institute](https://www.anthropic.com/institute/measuring-pace-of-ai-development) propone tres familias de métricas y entrega un snapshot interno. La idea es simple: si el mundo va a discutir el ritmo de la IA, mejor que la discusión sea con datos y no con vibes.
 

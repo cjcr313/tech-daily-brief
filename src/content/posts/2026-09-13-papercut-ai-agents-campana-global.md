@@ -11,7 +11,7 @@ tags:
 description: "GreyNoise revela una campaña donde un actor ruso usó cientos de agentes de IA (Codex + DeepSeek) para explotar dos fallas de PaperCut y comprometer 440 servidores en 395 organizaciones de 48 países."
 ---
 
-![Ilustración editorial de un enjambre de agentes de IA autónomos representados como nodos conectados irrumpiendo en un servidor de impresión corporativo, tonos rojo oscuro y gris metálico, estilo vectorial plano con acentos de amenaza](../../assets/images/2026-09-13-papercut-ai-agents-campana-global.jpg)
+![Un atacante soltó cientos de agentes de IA y rompió 395 organizaciones vía PaperCut](../../assets/images/2026-09-13-papercut-ai-agents-campana-global.webp)
 
 Esto no es un ejercicio de laboratorio ni una simulación: es la primera campaña documentada donde **un actor malicioso le delegó el trabajo pesado de una intrusión a cientos de agentes de IA**, y el resultado fue brutal. GreyNoise publicó el reporte "Agents Gone Wild" y los números son difíciles de ignorar: **al menos 440 servidores de PaperCut NG/MF comprometidos, repartidos en 395 organizaciones de 48 países**.
 

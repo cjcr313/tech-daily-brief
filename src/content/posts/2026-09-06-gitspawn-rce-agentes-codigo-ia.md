@@ -12,7 +12,7 @@ tags:
 description: "Manifold Security reveló GitSpawn, una familia de 8 fallas en 7 agentes de coding (Claude Code, Codex, Cursor, Goose, Hermes, Qwen Code y Grok Build) que permite ejecutar código solo con abrir un repositorio malicioso."
 ---
 
-![Ilustración editorial de una terminal con un agente de código IA abriendo un repositorio, del que brota una cadena de comandos maliciosos en rojo, estilo tech editorial](../../assets/images/2026-09-06-gitspawn-rce-agentes-codigo-ia.jpg)
+![GitSpawn: 8 vulnerabilidades RCE en 7 agentes de código IA — abrir un repo ajeno ya es suficiente para que te ejecuten comandos](../../assets/images/2026-09-06-gitspawn-rce-agentes-codigo-ia.webp)
 
 Se llama **GitSpawn** y no es un bug de Git: es una familia de **ocho vulnerabilidades en siete agentes de código con IA** que permite que un repositorio malicioso ejecute código en tu máquina **en el momento en que lo abres**. Sin prompt, sin click de aprobación y, en algunos agentes, antes incluso de que termine de cargar el workspace.
 

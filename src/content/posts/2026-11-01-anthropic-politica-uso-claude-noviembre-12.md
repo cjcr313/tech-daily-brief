@@ -11,7 +11,7 @@ tags:
 description: "La nueva Usage Policy de Anthropic entra en vigor el 12 de noviembre: prohíbe el abuso sostenido hacia sus modelos, la destilación no autorizada y sembrar contenido engañoso en fuentes de IA."
 ---
 
-![Ilustración editorial tech de un contrato flotante sobre un fondo de circuitos, con un escudo protector que separa dos figuras abstractas: un modelo de IA y una mano que intenta extraer datos, estilo geométrico minimalista, tonos terracota y crema, profesional, sin texto](../../assets/images/anthropic-politica-uso-claude-noviembre-12.jpg)
+![Anthropic estrena política de uso el 12 de noviembre: prohibido maltratar a Claude (y destilarlo sin permiso)](../../assets/images/anthropic-politica-uso-claude-noviembre-12.webp)
 
 Anthropic tiene fecha estampada para su nueva política de uso: **12 de noviembre de 2026**. Y aunque el titular que recorrió medios hoy es que no podrás "ser malo" con Claude, la letra pequeña tiene dientes bastante más afilados para equipos técnicos.
 

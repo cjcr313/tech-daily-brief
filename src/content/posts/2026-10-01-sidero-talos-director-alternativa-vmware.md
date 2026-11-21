@@ -11,7 +11,7 @@ tags:
 description: "Talos Director junta VMs, clústeres Kubernetes, storage y networking en una sola plataforma sobre un OS inmutable. Apunta directo a los que huyen de VMware."
 ---
 
-![Ilustración editorial de un datacenter estilizado y minimalista con contenedores, máquinas virtuales y redes convergiendo en un solo panel de control central sobre una base inmutable, estilo tech profesional, sin texto](../../assets/images/2026-10-01-sidero-talos-director-alternativa-vmware.jpg)
+![Sidero Labs lanza Talos Director: la alternativa open source a VMware para el datacenter](../../assets/images/2026-10-01-sidero-talos-director-alternativa-vmware.webp)
 
 Sidero Labs — la gente detrás de **Talos Linux** — anunció **Talos Director**, una plataforma de gestión de recursos para datacenters que se presenta sin rodeos como **"una poderosa nueva alternativa a VMware"** para empresas que están reevaluando su infraestructura. El anuncio salió el 30 de septiembre, en medio de TalosCon 2026.
 

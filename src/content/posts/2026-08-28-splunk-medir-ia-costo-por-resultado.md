@@ -12,7 +12,7 @@ tags:
 description: "Los precios por token cayeron más de 90% desde 2023, pero la cuenta de IA sigue subiendo. Splunk plantea que la métrica correcta es costo por resultado exitoso, no costo por token."
 ---
 
-![Ilustración editorial de una balanza que compara tokens (muchos, baratos) contra un resultado exitoso (uno solo, valioso), estilo tech editorial](../../assets/images/2026-08-28-splunk-medir-ia-costo-por-resultado.jpg)
+![Splunk: deja de medir tokens, mide el costo por resultado](../../assets/images/2026-08-28-splunk-medir-ia-costo-por-resultado.webp)
 
 Un fleet de agentes puede generar una factura al centavo sin mostrar si el gasto compró trabajo útil. La factura muestra cuánto gastaste; esconde si sirvió para algo. Splunk salió con un post que da en el clavo: nos volvimos buenísimos para medir tokens, y pésimos para medir valor.
 

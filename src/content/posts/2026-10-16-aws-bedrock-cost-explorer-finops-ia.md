@@ -11,7 +11,7 @@ tags:
 description: "AWS metió los atributos de producto de Bedrock en Cost Explorer y Budgets para desglosar el gasto de IA por modelo, proveedor y tipo de inferencia. Junto a eso: Lambda Web Functions, métricas de ECS gratis y más."
 ---
 
-![Ilustración editorial tech de un panel de control de costos en la nube con gráficos de barras y anillos flotantes que se descomponen en chips de IA y tokens, un lente de aumento enfocando facturas digitales, simbolizando visibilidad financiera del gasto de inteligencia artificial en la nube, paleta azul con acentos verdes, estilo ilustración profesional limpia, sin texto](../../assets/images/2026-10-16-aws-bedrock-cost-explorer-finops-ia.jpg)
+![AWS lleva el gasto de IA a Cost Explorer: atributos de Bedrock, Lambda Web Functions y una tuerca FinOps](../../assets/images/2026-10-16-aws-bedrock-cost-explorer-finops-ia.webp)
 
 La pregunta de moda en las empresas ya no es "¿usamos IA?" sino "¿cuánto nos está costando y quién la está gastando?". AWS le puso una respuesta parcial: **los atributos de producto de Amazon Bedrock ya están disponibles en AWS Cost Explorer, AWS Budgets y los Cost Management Dashboards**, lo que permite analizar el gasto de Bedrock **por modelo, proveedor de modelo, tipo de inferencia y feature**.
 

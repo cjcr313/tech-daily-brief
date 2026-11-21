@@ -11,7 +11,7 @@ tags:
 description: "Nuevo control de Cloudflare para bloquear el entrenamiento de IA sin perder indexación en buscadores: Apple, Google y Microsoft ya lo respetan o se comprometieron, y nace la designación 'Accountable'."
 ---
 
-![Ilustración editorial tech: un dueño de sitio web junto a una puerta brillante eligiendo qué robots pasan, un robot con lupa avanza mientras un robot de red neuronal es detenido amablemente, paleta naranja y gris, estilo vector plano moderno](../../assets/images/2026-11-18-cloudflare-disallow-ai-training-crawlers.jpg)
+![Cloudflare te deja salir en Google sin alimentar la IA: llega 'Disallow AI Training'](../../assets/images/2026-11-18-cloudflare-disallow-ai-training-crawlers.webp)
 
 El dilema llevaba años enredado: los gigantes usan **crawlers de doble uso** — un mismo bot sirve para búsqueda Y para entrenamiento de IA. Bloquear uno era bloquear ambos: o alimentabas el modelo o desaparecías de Google. Cloudflare acaba de romper esa disyuntiva con el nuevo ajuste **Disallow AI Training**: sigues indexado en búsqueda, pero ese mismo crawler no puede entrenar contigo. **Apple, Google y Microsoft ya lo respetan o se comprometieron a respetarlo en plazo definido**.
 

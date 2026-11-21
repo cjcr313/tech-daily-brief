@@ -12,7 +12,7 @@ tags:
 description: "Investigadores de Pillar Security usaron un prompt injection escondido en un GitHub issue para ganar acceso nivel Editor a un proyecto interno de Google Cloud vía Gemini CLI."
 ---
 
-![Prompt injection en Gemini CLI](../../assets/images/2026-08-31-gemini-cli-prompt-injection-gcp.jpg)
+![Prompt injection en Gemini CLI](../../assets/images/2026-08-31-gemini-cli-prompt-injection-gcp.webp)
 
 La seguridad de los coding agents sigue dando material. Esta vez la firma **Pillar Security** reveló cómo un **prompt injection** escondido en un GitHub issue les permitió ganar acceso de nivel **Editor** a un proyecto interno de **Google Cloud**, usando una falla en el **Gemini CLI**.
 

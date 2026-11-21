@@ -11,7 +11,7 @@ tags:
 description: "David Robinson, quien escribía los safety reports de cada lanzamiento de OpenAI, renunció tras 3,5 años con un ensayo demoledor: la 'cultura está rota' y 'el tiempo de prueba y error se terminó'."
 ---
 
-![Ilustración editorial de una figura que abandona una oficina iluminada de noche dejando atrás una puerta entreabierta hacia servidores brillantes, tonos azul oscuro y ámbar, concepto de renuncia y alerta en seguridad de IA](../../assets/images/2026-10-04-openai-robinson-renuncia-cultura-rota.jpg)
+![Renuncia el líder de seguridad de OpenAI: 'la cultura está rota' — y viene con ensayo en The Atlantic incluido](../../assets/images/2026-10-04-openai-robinson-renuncia-cultura-rota.webp)
 
 Otra semana movida en el frente de seguridad de OpenAI. Esta vez el que se va es David Robinson, líder del equipo de Safety Systems y una de las personas más longevas de la empresa (3,5 años, que en años-OpenAI equivalen a como tres siglos). Y no se fue en silencio: publicó un ensayo en The Atlantic titulado "Renuncié a OpenAI porque su cultura está rota".
 

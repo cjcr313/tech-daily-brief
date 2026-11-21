@@ -11,7 +11,7 @@ tags:
 description: "Splunk APM estrena Call Graph Profiling: correlaciona traces distribuidos con la ejecución a nivel de método para llegar del span lento al código exacto que se come el tiempo."
 ---
 
-![Ilustración editorial de un trace distribuido que se descompone en una jerarquía de llamadas a métodos, con el hotspot de latencia resaltado, estilo tech editorial](../../assets/images/2026-08-28-splunk-call-graph-profiling-apm.jpg)
+![Splunk APM: del trace lento al método lento con Call Graph Profiling](../../assets/images/2026-08-28-splunk-call-graph-profiling-apm.webp)
 
 Los traces distribuidos responden bien una pregunta: **¿dónde se fue el tiempo entre mis servicios?**. Pero apenas el trace apunta a un span lento, aparece la pregunta que de verdad duele: **¿qué pasó adentro del código durante ese span?**. Esa brecha es la que convierte una investigación prometedora en un paseo eterno entre AppOps y desarrollo. Splunk salió a cerrarla con **Call Graph Profiling en Splunk APM**.
 

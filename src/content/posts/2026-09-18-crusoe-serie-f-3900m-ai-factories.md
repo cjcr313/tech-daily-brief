@@ -12,7 +12,7 @@ tags:
 description: "El desarrollador de data centers Crusoe cerró una Serie F de US$3.900 millones con una valuación de US$30.900 millones para escalar infraestructura de IA y fábricas modulares Spark."
 ---
 
-![Ilustración editorial tech: una fila de fábricas de datos modulares tipo contenedor conectadas por cables de fibra luminosos, chips GPU como cajas brillantes, tonos naranja y gris acero sobre fondo oscuro, concepto de infraestructura de IA escalable](../../assets/images/2026-09-18-crusoe-serie-f-3900m-ai-factories.jpg)
+![Crusoe levanta US$3.900 millones para sus 'AI factories' modulares](../../assets/images/2026-09-18-crusoe-serie-f-3900m-ai-factories.webp)
 
 **Crusoe**, el desarrollador de data centers conocido por construir el campus de Abilene (Texas) que usa OpenAI, cerró el **primer tramo de su Serie F por US$3.900 millones**, dejando su valuación post-money en **US$30.900 millones**. Es una de las rondas de infraestructura de IA más grandes del año.
 

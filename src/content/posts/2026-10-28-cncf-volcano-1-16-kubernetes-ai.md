@@ -12,7 +12,7 @@ tags:
 description: "El proyecto graduado de la CNCF para batch scheduling lanzó la versión 1.16, introduciendo NamespaceQueue, algoritmos de fairshare y un ecosistema HyperNode ampliado para orquestar entrenamiento e inferencia de IA."
 ---
 
-![Ilustración editorial de nodos de clúster Kubernetes distribuyendo cargas de cómputo GPU de forma equitativa](../../assets/images/2026-10-28-cncf-volcano-1-16-kubernetes-ai.jpg)
+![CNCF Volcano v1.16: programación avanzada para workloads de IA y multitenancy en Kubernetes](../../assets/images/2026-10-28-cncf-volcano-1-16-kubernetes-ai.webp)
 
 El orquestador de trabajos batch y cargas masivas de la Cloud Native Computing Foundation (CNCF), **Volcano**, acaba de anunciar oficialmente el lanzamiento de su versión **v1.16**. La actualización se enfoca fuertemente en resolver los dolores de cabeza de las empresas que ejecutan entrenamiento de modelos de lenguaje e inferencia a gran escala sobre clústeres Kubernetes compartidos.
 

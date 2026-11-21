@@ -11,7 +11,7 @@ tags:
 description: "La campaña de robo de secretos vía GitHub Actions que nació en 2025 pegó de nuevo: 772 repos atacados entre agosto y septiembre, y el 8 de octubre una ráfaga de 346 repos más en minutos — incluyendo uno con 18 mil estrellas. Ahora revisa el working tree y el historial completo de git."
 ---
 
-![Ilustración editorial de una cadena de suministro de software con tuberías CI/CD y una sombra roja extrayendo llaves y credenciales](../../assets/images/2026-10-10-ghostaction-github-actions-nueva-ola-credenciales.jpg)
+![GhostAction vuelve con todo: 772 repositorios saqueados en GitHub y ahora también escarba en tu historial de git](../../assets/images/2026-10-10-ghostaction-github-actions-nueva-ola-credenciales.webp)
 
 Si creías que el robo de secretos vía GitHub Actions era cosa del pasado, malas noticias: **GhostAction está de vuelta, más grande y con mejor gusto para elegir víctimas**. GitGuardian, que bautizó la campaña original en septiembre de 2025, confirmó que la nueva ola golpeó **772 repositorios entre el 31 de agosto y el 30 de septiembre de este año** — y que el 8 de octubre hubo una ráfaga extra que cambia la escala del problema.
 

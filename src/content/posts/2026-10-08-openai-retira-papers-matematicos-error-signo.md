@@ -10,7 +10,7 @@ tags:
 description: "OpenAI publicó 722 manuscritos matemáticos generados por IA y al día siguiente retiró 3: un error de signo invalidó una prueba de clases Weil y arrastró dos papers dependientes. Aaronson, mientras, revela que los labs prueban si sus modelos pueden romper criptografía."
 ---
 
-![Ilustración editorial de una pizarra con geometría abstracta de tiza que se desmorona y cae, un símbolo de menos gigante invirtiendo la escena, fondo verde oscuro con polvo de tiza flotante, estilo ilustración profesional, sin texto](../../assets/images/2026-10-08-openai-retira-papers-matematicos-error-signo.jpg)
+![OpenAI retira 3 de sus 722 papers matemáticos generados por IA: un error de signo tumbó la fiesta](../../assets/images/2026-10-08-openai-retira-papers-matematicos-error-signo.webp)
 
 La semana pasada OpenAI soltó su release matemático más ambicioso: **722 manuscritos** con resultados generados por IA, incluyendo pruebas que rozan lo legendario (Unique Games Conjecture, L=BPL). Al día siguiente, el **log de versiones en GitHub** registró lo que nadie esperaba menos: la **retirada de 3 papers** por... un **error de signo**.
 

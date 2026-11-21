@@ -11,7 +11,7 @@ tags:
 description: "NVIDIA lanzó AICR v1.0, un runtime de configuración con recetas versionadas y evidencia firmada para clusters GPU acelerados en Kubernetes. El infierno de compatibilidad driver/runtime/operador, con contrato estable."
 ---
 
-![Ilustración editorial de un cluster GPU en Kubernetes representado como tablero de control con recetas versionadas y sellos de verificación, nodos brillantes interconectados, estilo ilustración tech profesional en verde y negro, sin texto](../../assets/images/2026-10-07-nvidia-aicr-10-gpu-cluster-kubernetes.jpg)
+![NVIDIA AICR v1.0: recetas versionadas y firmadas para clusters GPU en Kubernetes](../../assets/images/2026-10-07-nvidia-aicr-10-gpu-cluster-kubernetes.webp)
 
 Si alguna vez armaste un cluster Kubernetes con GPUs, conoces el calvario: kernel del host, driver de NVIDIA, container runtime, device plugins, operadores, CNI, storage… cada componente con su propio ciclo de releases. Una combinación que funciona perfecta en una generación de GPU y una versión de K8s puede **fallar silenciosamente en otra**, y rastrear el conflicto de versiones después del despliegue es de las tareas más ingratas del oficio.
 

@@ -12,7 +12,7 @@ tags:
 description: "La campaña de supply chain GhostAction comprometió unas 1.900 cuentas de GitHub e inyectó workflows maliciosos en más de 30.000 repos, con 3.177 intentos de extracción de secretos desde CI."
 ---
 
-![Ilustración editorial tech de un ataque de supply chain sobre repositorios y pipelines CI/CD](../../assets/images/ghostaction-github-1900-cuentas-30000-repos.jpg)
+![GhostAction: 1.900 cuentas de GitHub secuestradas y más de 30.000 repositorios en la mira](../../assets/images/ghostaction-github-1900-cuentas-30000-repos.webp)
 
 Si trabajas con GitHub Actions, esta noticia es para revisarla con calma. Según el reporte de **GitGuardian** difundido esta semana, la campaña de supply chain conocida como **GhostAction** escaló feo: comprometió la cuenta de unos **1.900 usuarios de GitHub** e inyectó workflows maliciosos en **más de 30.000 repositorios** de unas 3.000 organizaciones, con **3.174 intentos de extracción de secretos** desde la CI de repos públicos.
 

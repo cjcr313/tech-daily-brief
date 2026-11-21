@@ -11,7 +11,7 @@ tags:
 description: "El 9 de noviembre vuelve Observability Day como evento co-ubicado de KubeCon + CloudNativeCon NA 2026, reuniendo a maintainers, operadores y usuarios de la observabilidad cloud native."
 ---
 
-![Ilustración editorial de una sala de conferencias tech con personas y paneles de telemetría, señales de logs, trazas y métricas fluyendo como luz, tonos violeta y azul, estilo tech editorial](../../assets/images/2026-09-24-observability-day-kubecon-na-2026.jpg)
+![Observability Day vuelve a KubeCon NA 2026: la comunidad se junta en Salt Lake City](../../assets/images/2026-09-24-observability-day-kubecon-na-2026.webp)
 
 El **9 de noviembre de 2026**, en Salt Lake City, vuelve el **Observability Day** como evento co-ubicado de KubeCon + CloudNativeCon North America, juntando a maintainers, operadores y usuarios finales de la comunidad observabilidad de la CNCF.
 

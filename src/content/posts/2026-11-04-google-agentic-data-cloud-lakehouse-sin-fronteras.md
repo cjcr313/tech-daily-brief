@@ -12,7 +12,7 @@ tags:
 description: "Google Cloud actualizó su Agentic Data Cloud: borderless Lakehouse consulta datos en AWS y Azure sin egress, y Knowledge Catalog ahora se auto-enriquece y baja el consumo de tokens hasta 75%."
 ---
 
-![Ilustración editorial tech de tres nubes estilizadas conectadas por un lago central de datos luminoso, canalizaciones de luz fluyendo sin fronteras entre ellas, catálogos de conocimiento flotando como nodos brillantes, paleta azul de Google con acentos rojos y verdes, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-11-04-google-agentic-data-cloud-lakehouse-sin-fronteras.jpg)
+![Google dobla la apuesta por agentes autónomos: Agentic Data Cloud estrena Lakehouse sin fronteras](../../assets/images/2026-11-04-google-agentic-data-cloud-lakehouse-sin-fronteras.webp)
 
 Google Cloud le metió una segunda palada a su **Agentic Data Cloud**, la arquitectura que presentó en Cloud Next como el "sistema de acción" para agentes de IA, y que reemplaza los pipelines ETL frágiles de la era anterior. La tesis de Sirish Chandrasekaran, VP de product management de Google: los **agentes autónomos, no los humanos, serán pronto los principales consumidores de datos** corporativos — y merecen una infraestructura construida a la medida.
 

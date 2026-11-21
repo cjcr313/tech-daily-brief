@@ -11,7 +11,7 @@ tags:
 description: "El resolver DNS 1.1.1.1 ahora valida firmas DNSSEC con ML-DSA-44, el algoritmo post-cuántico estandarizado por el NIST."
 ---
 
-![Ilustración de criptografía post-cuántica protegiendo consultas DNS](../../assets/images/2026-09-10-cloudflare-1111-dnssec-post-cuantico.jpg)
+![Ilustración de criptografía post-cuántica protegiendo consultas DNS](../../assets/images/2026-09-10-cloudflare-1111-dnssec-post-cuantico.webp)
 
 El resolver DNS público **1.1.1.1 de Cloudflare** ahora valida firmas DNSSEC generadas con **ML-DSA-44**, el algoritmo de firma post-cuántica estandarizado por el NIST. Es un paso concreto para blindar DNSSEC contra un futuro donde los algoritmos de firma actuales dejen de ser seguros.
 

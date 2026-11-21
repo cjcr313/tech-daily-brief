@@ -12,7 +12,7 @@ tags:
 description: "La agencia federal confirmó la pesquisa tras meses de sustos de seguridad en los labs de frontera. Se suma al acuerdo voluntario firmado en la Casa Blanca y a la pausa de GPT-6.1 Astra."
 ---
 
-![Ilustración editorial de una lupa gigante escrutando cerebros de redes neuronales brillantes sobre columnas de edificio gubernamental, iluminación dramática, paleta verde azulado y azul marino](../../assets/images/2026-10-01-ftc-investiga-openai-anthropic-riesgos-ia.jpg)
+![La FTC abre investigación contra OpenAI y Anthropic por los riesgos de sus productos de IA](../../assets/images/2026-10-01-ftc-investiga-openai-anthropic-riesgos-ia.webp)
 
 La cosa se puso seria para los labs de frontera. La **Federal Trade Commission abrió una investigación formal contra OpenAI, Anthropic y otras empresas de IA** por los peligros potenciales de sus productos, según confirmó un portavoz de la agencia a CNBC. El [New York Post](https://nypost.com/2026/09/30/us-news/ftc-opens-sweeping-probe-of-anthropic-openai-and-other-super-intelligence-models/) fue el primero en reportarla; la FTC se negó a nombrar al resto de las empresas involucradas. Ni OpenAI ni Anthropic respondieron consultas de prensa.
 

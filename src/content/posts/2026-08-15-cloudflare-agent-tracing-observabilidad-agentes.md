@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare agregó spans de nivel agente a Workers: invocaciones, llamadas al modelo, tools y aprobaciones en un solo trace. Gratis en beta, de pago desde octubre."
 ---
 
-![Observabilidad de agentes de IA con tracing](../../assets/images/2026-08-15-cloudflare-agent-tracing.jpg)
+![Observabilidad de agentes de IA con tracing](../../assets/images/2026-08-15-cloudflare-agent-tracing.webp)
 
 Si alguna vez intentaste debuggear un agente de IA en producción, sabes el problema: el agente devuelve HTTP 200 y aun así falló. Eligió la tool equivocada, le pasó contexto viejo a un subagente o se quemó los tokens en un loop de retries — y tu telemetría tradicional no muestra nada de eso.
 

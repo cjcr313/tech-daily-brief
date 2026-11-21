@@ -11,7 +11,7 @@ tags:
 description: "Microsoft rompe 10 años de silencio y publica el ingreso trimestral de Azure en dólares: US$29.4B. Reestructura sus segmentos de 3 a 2 y saca GitHub y Security Copilot del cálculo de Azure."
 ---
 
-![Ilustración editorial de la nube Azure revelando cifras financieras](../../assets/images/2026-09-03-microsoft-azure-revenue-dolares-segmentos.jpg)
+![Microsoft revela por primera vez los ingresos de Azure en dólares: US$29.4 mil millones en un trimestre](../../assets/images/2026-09-03-microsoft-azure-revenue-dolares-segmentos.webp)
 
 Por primera vez en su historia, Microsoft publicó el ingreso trimestral de **Azure en dólares**: **US$29.4 mil millones**. La compañía rompió un silencio que mantuvo desde 2015 — cuando Amazon empezó a divulgar AWS— y que Alphabet replicó con Google Cloud en 2020. Ahora los tres hyperscalers por fin se sientan en la misma tabla de comparación.
 

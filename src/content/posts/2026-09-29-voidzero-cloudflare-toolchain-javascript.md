@@ -11,7 +11,7 @@ tags:
 description: "A cuatro meses de unirse a Cloudflare, VoidZero reporta 80+ releases y mejoras de rendimiento brutales en Vite, Vitest, Oxc y Rolldown."
 ---
 
-![Ilustración editorial de una toolchain de JavaScript acelerada: engranajes y piezas de código compilándose a gran velocidad sobre un fondo de nube](../../assets/images/2026-09-29-voidzero-cloudflare-toolchain-javascript.jpg)
+![VoidZero en Cloudflare: 80 releases y una toolchain de JavaScript hasta 10x más rápida](../../assets/images/2026-09-29-voidzero-cloudflare-toolchain-javascript.webp)
 
 Cuando VoidZero —Evan You y equipo, los creadores de Vite— se sumó a Cloudflare hace cuatro meses, prometieron mantener todo open source, vendor-agnóstico y manejado por la comunidad. Ahora, en plena Birthday Week de Cloudflare, hicieron un check-in de cómo va ese compromiso. Y los números son contundentes.
 

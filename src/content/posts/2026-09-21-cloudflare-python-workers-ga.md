@@ -12,7 +12,7 @@ tags:
 description: "Python Workers sale de beta y queda GA: adiós a la capa de conversión JavaScript, con soporte para Django, Flask y FastAPI vía WSGI/ASGI."
 ---
 
-![Ilustración editorial tech de una serpiente Python recorriendo un circuito de edge computing en la nube, con nodos distribuidos brillantes, tonos naranjas y azules sobre fondo oscuro](../../assets/images/2026-09-21-cloudflare-python-workers-ga.jpg)
+![Cloudflare hace a Python ciudadano de primera en Workers (GA) y elimina el 'pegamento' JavaScript](../../assets/images/2026-09-21-cloudflare-python-workers-ga.webp)
 
 Cloudflare declaró **disponibilidad general (GA)** para **Python Workers**, convirtiendo a Python en un lenguaje totalmente soportado en su plataforma de edge computing. La gran novedad no es poder escribir Workers en Python —eso ya existía en beta desde abril de 2024— sino que **se acabó el "pegamento" JavaScript** que ensuciaba la experiencia.
 

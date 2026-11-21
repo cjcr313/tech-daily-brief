@@ -11,7 +11,7 @@ tags:
 description: "El kit gratuito de herramientas MCP y skills de Google pasó a GA: conecta BigQuery, Bigtable, Spark y 15+ servicios del Data Cloud a Antigravity, Claude Code o Codex, cerrando la brecha de contexto de los coding agents."
 ---
 
-![Ilustración editorial tech de un pequeño robot bibliotecario conectándose con cables luminosos a cilindros de bases de datos y tablas en la nube, paleta azul verde y amarillo, sin texto](../../assets/images/2026-10-04-google-data-agent-kit-ga-agentes.jpg)
+![Google Cloud Data Agent Kit llega a GA: tu agente de código favorito conectado al Data Cloud completo](../../assets/images/2026-10-04-google-data-agent-kit-ga-agentes.webp)
 
 Google Cloud graduó **Data Agent Kit**: un kit **gratuito** de herramientas MCP (Model Context Protocol) y agent skills que permite que el coding agent que ya usas —Antigravity, Claude Code, Codex, Cursor u otros— trabaje directo contra tus productos de datos de Google Cloud.
 

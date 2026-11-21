@@ -3,10 +3,10 @@ title: "El 'Problema de los 4 Cuerpos' en SRE: El desafío de las operaciones au
 pubDatetime: 2026-07-10T14:15:00Z
 author: Nauta Lab
 tags:
-  - devops
-  - observabilidad
-  - kubernetes
-  - arquitectura
+  - DevOps
+  - Observabilidad
+  - Kubernetes
+  - Arquitectura
 ogImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop"
 description: "La CNCF advierte por qué la automatización pura sin contexto en Site Reliability Engineering está fallando y cómo solucionarlo."
 ---

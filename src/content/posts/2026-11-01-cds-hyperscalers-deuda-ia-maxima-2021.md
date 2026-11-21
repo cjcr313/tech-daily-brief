@@ -12,7 +12,7 @@ tags:
 description: "Los CDS de Amazon, Alphabet, Microsoft, Meta y Oracle marcan su nivel más alto desde 2021. La deuda que financia el build-out de IA ya tiene prima de riesgo visible."
 ---
 
-![Ilustración editorial tech de un campus de data center gigante proyectando una sombra sobre un skyline financiero con curvas de riesgo ascendentes, paleta verde azulado y ámbar, estilo revista profesional, sin texto](../../assets/images/2026-11-01-cds-hyperscalers-deuda-ia-maxima-2021.jpg)
+![Asegurar la deuda de los hyperscalers ya nunca fue tan caro desde 2021: el mercado le pone precio al capex de IA](../../assets/images/2026-11-01-cds-hyperscalers-deuda-ia-maxima-2021.webp)
 
 El 31 de octubre el WSJ publicó un dato que resume el ánimo del mercado hacia la fiebre de la IA: el costo de **asegurar contra default la deuda de los cinco hyperscalers — Amazon, Alphabet, Microsoft, Meta y Oracle — llegó a su nivel más alto desde 2021**, según datos de Solve. El diario califica el build-out de IA como *"la mayor apuesta de mercado de la historia"*. Y cuando el mercado de crédito empieza a moverse, hay que prestarle atención.
 

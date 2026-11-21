@@ -11,7 +11,7 @@ tags:
 description: "Amazon S3, incluidas S3 Tables (Iceberg gestionado) y S3 Vectors, ya se provisionan directo desde el Vercel Marketplace y v0: sin consola de AWS, sin credenciales estáticas y todo en una sola cuenta con una sola boleta."
 ---
 
-![Ilustración editorial isométrica de una plataforma de nube conectada por un puente luminoso a un entorno de desarrollo web modular, con buckets de almacenamiento, tablas analíticas y vectores de IA fluyendo entre ambos, paleta azul y violeta sobre fondo oscuro, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-15-aws-s3-vercel-marketplace-v0.jpg)
+![AWS mete S3, S3 Tables y S3 Vectors al Vercel Marketplace y v0: storage serio sin salir del flujo de frontend](../../assets/images/2026-10-15-aws-s3-vercel-marketplace-v0.webp)
 
 Durante años, el developer que construye en Vercel tenía una relación incómoda con AWS: la app vivía en un lado y el storage en otro, con credenciales copiadas a mano y una consola de por medio. Eso se acabó: **Amazon S3 —incluyendo S3 Tables y S3 Vectors— ya está disponible de forma nativa en el Vercel Marketplace y en v0**, cubriendo tres workloads distintos: storage cotidiano, analítica e IA.
 

@@ -11,7 +11,7 @@ tags:
 description: "Dos zero-days en Ahsay Cloud Backup Server se están explotando activamente desde el 7 de octubre: bypass de autenticación + inyección de comandos, webshells JSP y minería XMRig con persistencia. Versiones hasta 10.3.4 siguen vulnerables."
 ---
 
-![Ilustración editorial tech de un rack de servidores de respaldo con cintas y candados luminosos siendo alcanzado por flechas de intrusión rojas, mientras un escudo defensivo se agrieta, paleta oscura con acentos rojos y ámbar, estilo ilustración editorial profesional, sin texto](../../assets/images/2026-10-10-ahsaycbs-zero-days-backup-servers.jpg)
+![Zero-days encadenados contra AhsayCBS: servidores de backup tomados con SYSTEM sin credenciales](../../assets/images/2026-10-10-ahsaycbs-zero-days-backup-servers.webp)
 
 Si tienen un Ahsay Cloud Backup Server expuesto a internet, esta nota es para cerrar la pestaña y salir a verificarlo ahora mismo. Field Effect publicó el 9 de octubre un reporte de explotación activa de **dos vulnerabilidades zero-day encadenadas en AhsayCBS**, y el combo es de lo más feo: **acceso sin autenticación que termina en ejecución de comandos como `NT AUTHORITY\SYSTEM`**.
 

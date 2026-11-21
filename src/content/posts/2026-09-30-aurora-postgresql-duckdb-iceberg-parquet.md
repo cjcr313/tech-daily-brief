@@ -11,7 +11,7 @@ tags:
 description: "Aurora PostgreSQL ahora consulta Apache Iceberg y Parquet en S3 sin ETL, gracias a DuckDB embebido dentro del motor: datos operacionales y data lake en una sola query con sintaxis PostgreSQL."
 ---
 
-![Ilustración editorial de un cilindro de base de datos junto a un lago con icebergs de capas de datos, consultas fluyendo como líneas de luz entre ambos sin tuberías, paleta turquesa y azul noche, estilo ilustración tech, sin texto](../../assets/images/2026-09-30-aurora-postgresql-duckdb-iceberg-parquet.jpg)
+![DuckDB embebido en Aurora PostgreSQL: consulta Iceberg y Parquet directo desde tu base operacional](../../assets/images/2026-09-30-aurora-postgresql-duckdb-iceberg-parquet.webp)
 
 Esta es de esas que marca tendencia: **Aurora PostgreSQL ahora puede consultar directamente datos en Apache Iceberg y Parquet** en tu data lake (S3, S3 Tables y catálogos compatibles con Iceberg REST Catalog, incluido AWS Glue), usando tus mismas aplicaciones, herramientas y sintaxis PostgreSQL. Sin ETL, sin duplicar datos, sin pipelines reverse-ETL para sincronizar histórico con operacional.
 

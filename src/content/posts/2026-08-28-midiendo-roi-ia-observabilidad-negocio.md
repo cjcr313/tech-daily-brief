@@ -11,7 +11,7 @@ tags:
 description: "El gasto en IA está por las nubes, pero casi nadie puede demostrar retorno. Dynatrace plantea que la observabilidad debe conectarse con los KPIs del negocio."
 ---
 
-![Ilustración editorial de un panel de control que conecta métricas técnicas con indicadores de negocio, estilo tech editorial](../../assets/images/2026-08-28-midiendo-roi-ia-observabilidad-negocio.jpg)
+![Dynatrace: el ROI de la IA no se mide con métricas técnicas, se mide con el negocio](../../assets/images/2026-08-28-midiendo-roi-ia-observabilidad-negocio.webp)
 
 Dynatrace salió con un post que da en el clavo: el gasto empresarial en IA nunca había estado tan alto, pero cuando el directorio pregunta "¿y el retorno?", la mayoría no tiene una respuesta clara. No porque la IA no sirva, sino porque están midiendo lo que no corresponde.
 

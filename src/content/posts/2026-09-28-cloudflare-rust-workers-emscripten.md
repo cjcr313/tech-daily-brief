@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare lanzó el primer preview experimental del target Emscripten para Rust en Workers, desbloqueando librerías y apps que antes no corrían, con Tokio en el horizonte."
 ---
 
-![Ilustración editorial de un engranaje de Rust fusionándose con hexágonos de WebAssembly y sockets de red](../../assets/images/2026-09-28-cloudflare-rust-workers-emscripten.jpg)
+![Cloudflare mete Rust nativo a Workers con el target Emscripten de wasm-bindgen](../../assets/images/2026-09-28-cloudflare-rust-workers-emscripten.webp)
 
 Cloudflare lanzó el primer preview experimental de soporte de primera clase para el target `wasm32-unknown-emscripten` de Rust en su toolchain **wasm-bindgen** y en Rust Workers. Traducido: ahora se pueden compilar y desplegar librerías y aplicaciones Rust que antes no corrían en Workers, incluyendo — próximamente — el runtime async **Tokio**.
 

@@ -12,7 +12,7 @@ tags:
 description: "The New Stack destapa el problema de compartir GPUs en Kubernetes: métricas que mienten (300% de uso), atribución de costo imposible y pods que agarran GPUs que el scheduler nunca les asignó."
 ---
 
-![Ilustración editorial de contenedores de carga compitiendo por chips GPU luminosos sobre una rueda de timón, con un gran gráfico de costos al fondo, estilo tech editorial azul y verde](../../assets/images/2026-10-13-gpus-kubernetes-visibilidad-y-cuenta.jpg)
+![GPUs en Kubernetes: bring your own everything, empezando por la visibilidad y la cuenta](../../assets/images/2026-10-13-gpus-kubernetes-visibilidad-y-cuenta.webp)
 
 The New Stack publicó un análisis que duele y se siente real para cualquier platform team que ya compartió GPUs en Kubernetes: **mientras CPU y memoria vienen con métricas por pod, rightsizing y cost splits nativos, las GPUs compartidas no traen nada de eso**. La conclusión del título es directa: GPUs en K8s son bring-your-own-everything, empezando por la cuenta.
 

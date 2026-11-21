@@ -11,7 +11,7 @@ tags:
 description: "OpenAI notificó a SpaceX que terminará el contrato que proveía sus modelos a Cursor, con apagado propuesto para el 12 de noviembre de 2026. La razón: no confía en que Musk respete los términos de uso."
 ---
 
-![Ilustración editorial de un enchufe de energía desconectándose de un editor de código brillante, con un cohete y nodos de GPU difuminados de fondo, acentos rojos y azul acero, estilo tech editorial](../../assets/images/2026-08-30-openai-corta-cursor-spacex.jpg)
+![OpenAI corta a Cursor: le quita sus modelos tras la compra de SpaceX y da fecha de apagado](../../assets/images/2026-08-30-openai-corta-cursor-spacex.webp)
 
 Duró menos de dos semanas. Si hace unos días contábamos que **SpaceX completó la compra de Cursor por US$60 mil millones**, ahora la noticia es el movimiento que muchos esperaban (y temían): **OpenAI le corta el suministro de sus modelos a Cursor** y anunció una fecha concreta de apagado.
 

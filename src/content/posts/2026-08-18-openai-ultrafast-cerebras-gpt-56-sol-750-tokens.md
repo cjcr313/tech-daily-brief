@@ -11,7 +11,7 @@ tags:
 description: "OpenAI anticipó Ultrafast, un tier de API que corre GPT-5.6 Sol sobre hardware de Cerebras hasta 14x más rápido: 750 tokens de salida por segundo. La velocidad se vuelve característica del producto."
 ---
 
-![Ilustración editorial de un motor de cohete azul brillante acoplado a un orbe de datos, con estelas de luz que sugieren velocidad extrema, estilo tech editorial](../../assets/images/2026-08-18-openai-ultrafast-cerebras-gpt-56-sol-750-tokens.jpg)
+![OpenAI le mete un turbo a GPT-5.6 Sol: modo Ultrafast llega a 750 tokens/seg de la mano de Cerebras](../../assets/images/2026-08-18-openai-ultrafast-cerebras-gpt-56-sol-750-tokens.webp)
 
 La guerra de modelos ya no se pega solo por calidad ni por precio: ahora también por **velocidad pura**. OpenAI anunció en preview el modo **Ultrafast** para GPT-5.6 Sol, y el número llama la atención: **hasta 750 tokens de salida por segundo**, un máximo de **14x más rápido** que el modo Standard.
 

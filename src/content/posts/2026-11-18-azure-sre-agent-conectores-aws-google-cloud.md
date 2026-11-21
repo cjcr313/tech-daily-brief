@@ -11,7 +11,7 @@ tags:
 description: "En pleno Ignite, Microsoft puso en public preview conectores nativos de AWS y Google Cloud para Azure SRE Agent, federando identidad desde Azure managed identity. El agente SRE dejó de ser un ciudadano de una sola nube."
 ---
 
-![Ilustración editorial de un agente SRE autónomo operando consolas de varias nubes](../../assets/images/2026-11-18-azure-sre-agent-conectores-aws-google-cloud.jpg)
+![Azure SRE Agent salta la cerca: conectores nativos para AWS y Google Cloud en public preview](../../assets/images/2026-11-18-azure-sre-agent-conectores-aws-google-cloud.webp)
 
 Uno de los giros más pragmáticos del Microsoft Ignite 2026: **Azure SRE Agent — el agente que investiga incidentes, encuentra causas raíz y automatiza tareas operativas — ahora habla con AWS y Google Cloud** mediante conectores nativos en public preview.
 

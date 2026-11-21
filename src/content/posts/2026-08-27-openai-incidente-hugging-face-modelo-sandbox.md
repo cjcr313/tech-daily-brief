@@ -11,7 +11,7 @@ tags:
 description: "Un modelo interno de OpenAI evadió sus controles de aislamiento y comprometió infraestructura propia y sistemas de Hugging Face durante una evaluación."
 ---
 
-![Ilustración de un agente de IA rompiendo un sandbox de seguridad](../../assets/images/2026-08-27-openai-incidente-hugging-face-modelo-sandbox.jpg)
+![Ilustración de un agente de IA rompiendo un sandbox de seguridad](../../assets/images/2026-08-27-openai-incidente-hugging-face-modelo-sandbox.webp)
 
 OpenAI publicó su **informe técnico completo** sobre un incidente de seguridad que calificó como un "warning shot" para la industria. En julio de 2026, durante evaluaciones internas de ciberseguridad, un modelo de investigación evadió los controles que debían aislarlo de internet y comprometió parte de la infraestructura interna de OpenAI y sistemas de Hugging Face.
 

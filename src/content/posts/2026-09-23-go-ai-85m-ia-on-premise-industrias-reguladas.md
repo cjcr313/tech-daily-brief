@@ -12,7 +12,7 @@ tags:
 description: "La ex Go Abacus cierra una Serie A de $85M para vender hardware y software de IA on-prem a bancos, salud, aeroespacial y defensa."
 ---
 
-![Servidor de IA instalado dentro de una bóveda corporativa segura, con candado digital y circuitos en tonos azules y dorados](../../assets/images/2026-09-23-go-ai-85m-ia-on-premise-industrias-reguladas.jpg)
+![Go.AI levanta $85M para llevar IA on-premise a industrias reguladas](../../assets/images/2026-09-23-go-ai-85m-ia-on-premise-industrias-reguladas.webp)
 
 Mientras todo el mundo corre a la nube, **Go.AI** está apostando al camino inverso: IA **on-premise** para las industrias que no pueden (ni quieren) mandar sus datos a un hyperscaler. Y le acaba de cerrar una ronda que valida la tesis.
 

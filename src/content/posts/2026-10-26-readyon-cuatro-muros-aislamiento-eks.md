@@ -12,7 +12,7 @@ tags:
 description: "ReadyOn detalló su arquitectura de aislamiento multi-tenant en EKS: namespaces con Argo CD, node pools dedicados con Karpenter y taints duales, security groups por tenant y bases Aurora separadas. Un plan de amenazas de 10 etapas y cero rutas cross-tenant hasta hoy."
 ---
 
-![Ilustración editorial tech isométrica de cuatro murallas o capas concéntricas brillantes protegiendo contenedores de cargas de trabajo sobre un plano de control de Kubernetes, escudos y candados luminosos bloqueando caminos entre módulos de distintos colores, paleta azul profundo con acentos ámbar y verde, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-26-readyon-cuatro-muros-aislamiento-eks.jpg)
+![Las 'cuatro murallas' de ReadyOn: aislamiento multi-tenant en Amazon EKS sin sustos](../../assets/images/2026-10-26-readyon-cuatro-muros-aislamiento-eks.webp)
 
 Multi-tenancy en Kubernetes es de esas cosas que suena bonita en el whiteboard y te quita el sueño en producción. ReadyOn, con su plataforma Harmony (procesa datos de remuneraciones y analítica organizacional para empresas), publicó en el blog de arquitectura de AWS cómo resolvió el problema: **cuatro capas de aislamiento** que llaman sus "cuatro murallas", validadas contra un **modelo de amenazas de 10 etapas** enfocado en movimiento lateral y acceso cross-tenant.
 

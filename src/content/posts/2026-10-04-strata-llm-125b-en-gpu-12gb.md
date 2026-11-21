@@ -12,7 +12,7 @@ tags:
 description: "Strata, un motor de inferencia open source con licencia MIT, corre Qwen3.8-Flash-Next (125B parámetros, MoE) en una GPU consumer de 12 GB a 60-95 tokens por segundo, con API local compatible con OpenAI."
 ---
 
-![Ilustración editorial tech de una tarjeta gráfica gaming iluminada sobre un escritorio con un servidor de fondo, flujos de datos neuronales fluyendo desde la GPU hacia un cerebro digital, paleta violeta y azul oscura con acentos neón, estilo ilustración editorial profesional, sin texto](../../assets/images/2026-10-04-strata-llm-125b-en-gpu-12gb.jpg)
+![Strata: un modelo de 125 mil millones de parámetros corriendo en tu GPU gaming de 12 GB](../../assets/images/2026-10-04-strata-llm-125b-en-gpu-12gb.webp)
 
 Hace un tiempo, correr un modelo de 125 mil millones de parámetros exigía un nodo con varias A100 o alquilar API a un hyperscaler. **Strata**, un motor de inferencia open source bajo licencia **MIT**, se dedica a romper esa idea: corre **Qwen3.8-Flash-Next** —un MoE de 125B parámetros— en una **GPU gaming de 12 GB de VRAM** (NVIDIA o AMD) con 64 GB de RAM, escribiendo a **60-95 tokens por segundo**.
 

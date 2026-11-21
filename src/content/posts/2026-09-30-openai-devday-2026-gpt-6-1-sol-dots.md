@@ -11,7 +11,7 @@ tags:
 description: "En su DevDay 2026 OpenAI lanzó GPT-6.1 Sol, con inteligencia cercana a Astra para coding y computer use a 1/5 del precio, y dots, asistentes proactivos que siguen trabajando entre sesiones."
 ---
 
-![Ilustración editorial de una conferencia tech futurista con orbes de redes neuronales brillantes descendiendo sobre un escenario, uno grande y otros pequeños y eficientes, paleta púrpura y naranja](../../assets/images/2026-09-30-openai-devday-2026-gpt-6-1-sol-dots.jpg)
+![OpenAI DevDay 2026: GPT-6.1 Sol trae inteligencia casi-Astra a un quinto del precio (y presentó dots)](../../assets/images/2026-09-30-openai-devday-2026-gpt-6-1-sol-dots.webp)
 
 Se hizo el DevDay 2026 y OpenAI soltó más de 20 anuncios de una sola vez. Pero el que importa para quienes pagan la factura de la API tiene nombre y apellido: **GPT-6.1 Sol**.
 

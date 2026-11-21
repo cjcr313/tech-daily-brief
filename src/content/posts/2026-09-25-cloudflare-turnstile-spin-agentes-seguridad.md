@@ -12,7 +12,7 @@ tags:
 description: "Turnstile Spin usa tu agente de IA favorito para cablear la verificación server-side y arreglar configuraciones incompletas que dejan sitios expuestos a bots."
 ---
 
-![Ilustración editorial tech de un agente de IA conectando engranajes de seguridad en un sitio web, con un escudo brillante y circuitos, tonos naranja y azul oscuro](../../assets/images/2026-09-25-cloudflare-turnstile-spin-agentes-seguridad.jpg)
+![Cloudflare deja que tus agentes de IA configuren la seguridad de tu sitio con Turnstile Spin](../../assets/images/2026-09-25-cloudflare-turnstile-spin-agentes-seguridad.webp)
 
 Cloudflare sigue empujando la idea de que los agentes de IA no solo escriben código, sino que también pueden operar tu infraestructura. La novedad se llama **Turnstile Spin**: un mecanismo para que tu agente de codificación preferido deje bien configurada la verificación server-side de Turnstile, el servicio anti-bots de la compañía.
 

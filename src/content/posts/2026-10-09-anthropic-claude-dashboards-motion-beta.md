@@ -11,7 +11,7 @@ tags:
 description: "Anthropic metió a Claude en el negocio del BI: Claude Dashboards construye dashboards vivos desde preguntas en lenguaje natural (con la query SQL visible) y Claude Motion genera animaciones explicativas como código editable."
 ---
 
-![Ilustración editorial isométrica de dashboards de datos interactivos con gráficos de líneas y barras flotando junto a una línea de tiempo de animación con botón de play, degradado azul profundo con acentos turquesa y ámbar, estilo flat profesional, sin texto](../../assets/images/2026-10-09-anthropic-claude-dashboards-motion-beta.jpg)
+![Anthropic lanza Claude Dashboards y Claude Motion: dashboards vivos con la query a la vista y animaciones escritas como código](../../assets/images/2026-10-09-anthropic-claude-dashboards-motion-beta.webp)
 
 Anthropic sigue apretando la máquina de productos y ayer [anunció dos herramientas nuevas para Claude](https://claude.com/resources/articles/dashboards-and-motion): **Claude Dashboards** y **Claude Motion**, ambas en beta. La movida apunta directo al espacio de productividad empresarial que OpenAI y Google también persiguen — Reuters lo enmarcó como la pelea por la suite de oficina con IA de fondo.
 

@@ -12,7 +12,7 @@ tags:
 description: "Atlassian publicó vía CNCF un enfoque que correlaciona métricas, logs, trazas y topología de servicios para generar hipótesis rankeadas sobre el origen de un incidente."
 ---
 
-![Ilustración editorial tech de observabilidad: un grafo de servicios interconectados con nodos que se iluminan y una línea de tiempo de señales convergiendo hacia un punto de falla resaltado, tonos púrpura y cian sobre fondo oscuro, estilo abstracto de correlación](../../assets/images/2026-09-17-atlassian-automatiza-root-cause-analysis-multi-senal.jpg)
+![Atlassian automatiza el root cause analysis correlacionando métricas, logs y trazas](../../assets/images/2026-09-17-atlassian-automatiza-root-cause-analysis-multi-senal.webp)
 
 Atlassian publicó un nuevo enfoque para **automatizar el root cause analysis (RCA)** en incidentes cloud-native a gran escala, y lo hizo a través del blog de la **CNCF**. La idea de fondo: dejar de hacer que el ingeniero on-call salte manualmente entre dashboards y herramientas para conectar señales sueltas, y en su lugar correlacionar todo con un modelo de anomalías compartido.
 

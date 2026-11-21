@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare abrió la beta del Monetization Gateway: un 'paywall para agentes' que usa HTTP 402 para cobrar por acceso a sitios, APIs y herramientas MCP. Ya hay casos en producción."
 ---
 
-![Ilustración editorial tech de una puerta de pago digital (paywall) con un orbe de agente IA entregando monedas de token para cruzar, estilo ilustración profesional, sin texto](../../assets/images/2026-10-01-cloudflare-monetization-gateway-402-agentes.jpg)
+![Cloudflare Monetization Gateway entra en beta: cóbrale a los agentes IA con HTTP 402](../../assets/images/2026-10-01-cloudflare-monetization-gateway-402-agentes.webp)
 
 Cloudflare sigue apretando la manija de la "internet para agentes" y hoy dio un paso concreto: el **Monetization Gateway ya está en beta cerrada**, con casos de uso de clientes corriendo en producción.
 

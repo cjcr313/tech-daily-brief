@@ -12,7 +12,7 @@ tags:
 description: "La OpenSSF y el CNCF TAG Security lanzan la edición otoño 2026 del Security Slam: un desafío virtual de 30 días, y por primera vez abierto a cualquier proyecto open source, no solo CNCF."
 ---
 
-![Ilustración de un escudo de seguridad sobre engranajes de Kubernetes y candado abierto](../../assets/images/2026-09-25-cncf-security-slam-2026-fall-edition.jpg)
+![Ilustración de un escudo de seguridad sobre engranajes de Kubernetes y candado abierto](../../assets/images/2026-09-25-cncf-security-slam-2026-fall-edition.webp)
 
 Si te gusta meterle mano a la seguridad de tus proyectos y encima ganar algo de reconocimiento en el ecosistema cloud native, hay fecha nueva para agendar: el **Security Slam 2026 – Fall Edition** ya está en pie.
 

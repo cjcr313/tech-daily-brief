@@ -12,7 +12,7 @@ tags:
 description: "El equipo de seguridad de Google migró la librería giflib de C a Rust usando Gemini y fuzzing diferencial, eliminando de raíz una clase entera de vulnerabilidades de memoria."
 ---
 
-![Ilustración editorial: Gemini reescribiendo código C a Rust con seguridad de memoria](../../assets/images/2026-09-27-google-gemini-reescribe-c-a-rust.jpg)
+![Google usa Gemini para reescribir dependencias C a Rust con fuzzing diferencial](../../assets/images/2026-09-27-google-gemini-reescribe-c-a-rust.webp)
 
 Google acaba de validar una vía nueva para jubilar el C en infraestructura crítica: usar Gemini para traducir código legacy a Rust memory-safe, con fuzzing diferencial como juez. Y el resultado no es un experimento de laboratorio, es una librería que ya está corriendo en producción.
 

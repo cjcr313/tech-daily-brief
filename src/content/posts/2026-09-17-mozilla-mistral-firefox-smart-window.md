@@ -12,7 +12,7 @@ tags:
 description: "Mozilla se alió con Mistral para impulsar Smart Window, el asistente de navegación con IA de Firefox, usando modelos open source y privados como alternativa a los ecosistemas de Big Tech."
 ---
 
-![Ilustración editorial de un zorro abstracto navegando en una ventana de navegador con bloques de código y candados de privacidad](../../assets/images/2026-09-17-mozilla-mistral-firefox-smart-window.jpg)
+![Mozilla y Mistral se asocian: Firefox Smart Window ahora corre con modelos open source](../../assets/images/2026-09-17-mozilla-mistral-firefox-smart-window.webp)
 
 En plena discusión sobre quién controla la IA que usamos a diario, **Mozilla y Mistral** anunciaron una alianza con una idea clara: ofrecer una **alternativa open source a los ecosistemas de IA que vienen por defecto con los navegadores de Big Tech**. El resultado es que **Firefox Smart Window**, el asistente de navegación con IA de Mozilla, ahora funciona con modelos de Mistral.
 

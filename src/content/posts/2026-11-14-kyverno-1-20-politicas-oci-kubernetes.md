@@ -12,7 +12,7 @@ tags:
 description: "La nueva versión del motor de políticas para Kubernetes introduce empaquetado OCI para distribuir políticas CEL como contenedores, auditoría con --explain y control de excepciones temporales."
 ---
 
-![Ilustración editorial tech de un motor de políticas digital con un escudo de verificación OCI ensamblándose sobre un cluster de Kubernetes, tonos verde azulado y gris industrial, estilo vectorial limpio](../../assets/images/2026-11-14-kyverno-1-20-politicas-oci-kubernetes.jpg)
+![Kyverno 1.20 llega a Kubernetes: empaquetado OCI para políticas CEL y auditoría con --explain](../../assets/images/2026-11-14-kyverno-1-20-politicas-oci-kubernetes.webp)
 
 En el marco de KubeCon + CloudNativeCon North America 2026, la comunidad cloud native celebró el lanzamiento oficial de **Kyverno 1.20**, una de las actualizaciones más importantes para el motor de políticas de Kubernetes orientado a DevSecOps y GitOps.
 

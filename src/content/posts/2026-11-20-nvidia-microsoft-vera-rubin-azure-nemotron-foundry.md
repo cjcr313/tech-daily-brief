@@ -11,7 +11,7 @@ tags:
 description: "En pleno Microsoft Ignite, las VMs con los racks Vera Rubin NVL72 entraron a Azure en preview ampliada, la familia Nemotron 3.5 se despliega en Foundry Managed Compute, y confidencial computing se extiende a bare metal a escala de rack."
 ---
 
-![Ilustración editorial de racks de servidores GPU futuristas iluminados dentro de un data center moderno](../../assets/images/2026-11-20-nvidia-microsoft-vera-rubin-azure-nemotron-foundry.jpg)
+![NVIDIA y Microsoft amplían la colaboración full-stack: Vera Rubin NVL72 ya corre en Azure en preview y Nemotron 3.5 llega a Foundry](../../assets/images/2026-11-20-nvidia-microsoft-vera-rubin-azure-nemotron-foundry.webp)
 
 Mientras Anthropic hacía historia en Wall Street, Microsoft y NVIDIA aprovecharon Ignite para tirar un anuncio de infraestructura que va a marcar el 2027 de cualquiera que entrene o sirva modelos en la nube: **los sistemas Vera Rubin NVL72 ya están corriendo en los data centers de Azure en preview ampliada**, pensados para razonamiento pesado, aplicaciones agénticas y entrenamiento/inferencia a gran escala.
 

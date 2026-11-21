@@ -12,7 +12,7 @@ tags:
 description: "Microsoft presentó la tercera generación de su acelerador Maia: 96 chips por rack, 288GB de HBM4 por acelerador y despliegues multigigavatio desde 2027. La era del silicio propio para inferencia ya no es un experimento."
 ---
 
-![Ilustración editorial de un rack de data center con aceleradores de IA y refrigeración líquida, luces turquesa y flujos de datos dorados, estilo tech editorial](../../assets/images/placeholder.jpg)
+![Microsoft contraataca con Maia 300: su chip propio de inferencia apunta a más de un millón de unidades y 40% más tokens por megavatio](../../assets/images/placeholder.webp)
 
 Microsoft dejó la pieza más importante de su estrategia de silicio propio sobre la mesa: **Maia 300**, la tercera generación de su acelerador de IA, que desde 2027 se convertirá en el **sistema principal de inferencia** para sus productos y servicios. Según Reuters, el plan es desplegar **potencialmente más de un millón de chips** durante 2027, escalando la infraestructura Maia a niveles multigigavatio. La apuesta es directa: menos dependencia de Nvidia y AMD, y más control sobre el costo de servir Copilot, Foundry y compañía.
 

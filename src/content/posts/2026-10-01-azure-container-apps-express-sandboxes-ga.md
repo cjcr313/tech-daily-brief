@@ -11,7 +11,7 @@ tags:
 description: "Express elimina el provisioning de entornos y se apoya en Sandboxes, la capa de microVMs aisladas con arranque sub-segundo y suspend/resume que ya GA en Azure."
 ---
 
-![Ilustración editorial de sandboxes de computo aislados como cápsulas de microVM levantándose desde una piscina de recursos pre-calentados en la nube, estilo tech profesional, sin texto](../../assets/images/2026-10-01-azure-container-apps-express-sandboxes-ga.jpg)
+![Azure Container Apps Express llega a GA: Microsoft salta al carro de los sandboxes para agentes](../../assets/images/2026-10-01-azure-container-apps-express-sandboxes-ga.webp)
 
 Microsoft puso en GA dos piezas que van de la mano: **Azure Container Apps Express**, un modelo de deployment sin provisioning de entornos, y **Azure Container Apps Sandboxes**, la capa de cómputo aislada sobre la que corre. Sí: la misma forma que Google ya había shipped en GKE este año.
 

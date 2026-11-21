@@ -11,7 +11,7 @@ tags:
 description: "HashiCorp liberó la versión 8.0 del provider de Google Cloud para Terraform: cambio de default en load balancers, recursos eliminados y conversión de listas a sets. Guía rápida de qué revisar antes de subir."
 ---
 
-![Ilustración editorial tech de bloques de infraestructura modular conectándose en una configuración nueva, con un interruptor de versión grande cambiando de posición, paleta azul y naranja sobre fondo oscuro, estilo ilustración profesional de ingeniería de software, sin texto](../../assets/images/2026-10-09-terraform-google-cloud-provider-8-0-ga.jpg)
+![Terraform Google Cloud Provider 8.0 ya es GA: y sí, rompe cosas](../../assets/images/2026-10-09-terraform-google-cloud-provider-8-0-ga.webp)
 
 Si administras infraestructura en GCP con Terraform, agenda un rato esta semana: **HashiCorp anunció la disponibilidad general del provider de Google Cloud 8.0**, y como todo salto de versión mayor, trae cambios rompientes que conviene revisar con calma antes de que alguien haga `terraform apply` un viernes a las 6 de la tarde.
 

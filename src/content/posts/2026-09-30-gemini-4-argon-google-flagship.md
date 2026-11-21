@@ -11,7 +11,7 @@ tags:
 description: "Google anunció Gemini 4 Argon: lidera 13 de 18 benchmarks contra GPT-6 Astra, Claude Fable 5.1 y Opus 5.5 en knowledge work y contexto largo, pero el acceso será por fases vía el programa Fairwind."
 ---
 
-![Ilustración editorial tech de un orbe cristalino luminoso que emite haces de luz con formas de gráficos, rodeado de otros orbes más pequeños y apagados, paleta azul profundo con destellos verdes, estilo ilustración editorial, sin texto](../../assets/images/2026-09-30-gemini-4-argon-google-flagship.jpg)
+![Gemini 4 Argon: Google lanza su nuevo flagship, golpea fuerte en benchmarks… y casi nadie puede usarlo todavía](../../assets/images/2026-09-30-gemini-4-argon-google-flagship.webp)
 
 Google anunció hoy **Gemini 4 Argon**, su flagship esperado (y sucesor de lo que iba a ser Gemini 3.5 Pro), y los números dan para rato: **en 13 de 18 benchmarks queda primero o empatado contra GPT-6 Astra, Claude Fable 5.1 y Claude Opus 5.5**. A veces por margen amplio. Pero hay truco: por ahora, prácticamente nadie puede usarlo.
 

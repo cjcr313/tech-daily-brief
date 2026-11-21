@@ -12,7 +12,7 @@ tags:
 description: "Datadog monitoreó sus agentes internos con AI Guard y comparte qué telemetría sirve (y cuál no) para detectar un agente que se porta mal."
 ---
 
-![Ilustración de monitoreo de seguridad sobre un agente de IA](../../assets/images/2026-08-30-datadog-seguridad-agentes-ia-monitoreo.jpg)
+![Ilustración de monitoreo de seguridad sobre un agente de IA](../../assets/images/2026-08-30-datadog-seguridad-agentes-ia-monitoreo.webp)
 
 Mientras todos corren a meterle IA a todo, Datadog se puso a **vigilar a sus propios agentes** y publicó lo que aprendió. Spoiler: monitorear un agente de IA **no es lo mismo** que monitorear un servicio normal, y los logs de aplicación se quedan cortos.
 

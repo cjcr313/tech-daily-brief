@@ -11,7 +11,7 @@ tags:
 description: "GitLab anuncia la 'fábrica de software gobernada': Artifact Central, Dependency Firewall, Secrets Manager GA, Claude Mythos 5 en Duo Agent Platform y un estándar de 5 controles para el desarrollo agéntico."
 ---
 
-![Ilustración editorial de una fábrica de software gobernada: brazos robóticos ensamblando bloques de código luminosos en una línea de producción, con puestos de control y escudos de seguridad escaneando cada paquete](../../assets/images/2026-10-06-gitlab-governed-software-factory.jpg)
+![GitLab declara la guerra a la 'shadow software factory': agentes de IA sí, pero bajo gobierno](../../assets/images/2026-10-06-gitlab-governed-software-factory.webp)
 
 GitLab salió hoy con un anuncio grande y con nombre de tesis: la **"governed software factory"**, una fábrica de software gobernada. La idea es simple de enunciar y compleja de ejecutar: mover software desde la idea hasta producción dentro de un sistema conectado, bajo las políticas de la propia organización, y no en la torre de herramientas sueltas que la mayoría usa hoy.
 

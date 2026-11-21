@@ -12,7 +12,7 @@ tags:
 description: "Los agentes de IA crean su propio problema de monitoreo, y los dos grandes de la observabilidad ya están compitiendo por resolverlo: Datadog apuesta por la 'economía de inferencia' y Dynatrace mete telemetría de producción directo en Cursor."
 ---
 
-![Ilustración editorial de un panel de observabilidad con métricas en tiempo real conectado a un agente de IA de código, flujo de datos y gráficos, tonos azul profundo y teal, estilo vectorial plano minimalista](../../assets/images/2026-09-13-dynatrace-datadog-observabilidad-agentes-ia.jpg)
+![Dynatrace y Datadog se pelean la observabilidad de los agentes de IA](../../assets/images/2026-09-13-dynatrace-datadog-observabilidad-agentes-ia.webp)
 
 Los agentes de código venían a abaratar el software. Resulta que también van a multiplicar la cantidad de **cambios, fallas de producción y complejidad que hay que inspeccionar**. Y los dos pesos pesados de la observabilidad ya se están moviendo para quedarse con ese terreno.
 

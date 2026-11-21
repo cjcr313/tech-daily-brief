@@ -11,7 +11,7 @@ tags:
 description: "Un informe trimestral sobre 19 vendors chinos de modelos muestra que ninguno se sostiene solo vendiendo APIs: Xiaomi subsidia con autos y celulares, los labs viven de inversores. Mientras tanto, cinco modelos chinos puntúan 44-46 en Artificial Analysis y el MiMo-V2.6-Pro empata a Grok 4.7."
 ---
 
-![Ilustración editorial de un podio de leaderboard de IA con cinco podios brillantes en rojo y dorado sostenidos por pilares de monedas y engranajes agrietados, fondo de skyline nocturno estilo Shanghái, estética tech editorial](../../assets/images/2026-10-03-ia-china-q3-nadie-rentable-api.jpg)
+![IA china Q3 2026: compiten arriba en los benchmarks y nadie es rentable vendiendo APIs](../../assets/images/2026-10-03-ia-china-q3-nadie-rentable-api.webp)
 
 Mientras la conversación occidental se concentra en qué modelo puntúa más, un informe trimestral publicado hoy por Robonaissance junto a Inside China's Machine (vía TechFlow) se hace la pregunta incómoda: **¿cuánto cuestan estos modelos y quién está pagando la cuenta?** La respuesta, tras revisar los estados financieros de **19 vendors chinos**: ninguno puede demostrar que su negocio de modelos se sostenga solo. Las matrices tapan el hueco con otros negocios y los labs independientes viven de inversores.
 

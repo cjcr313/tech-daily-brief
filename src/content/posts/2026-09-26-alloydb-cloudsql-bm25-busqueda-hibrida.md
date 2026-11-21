@@ -12,7 +12,7 @@ tags:
 description: "Búsqueda vectorial + keyword en el mismo Postgres, sin mantener un backend de full-text aparte."
 ---
 
-![Ilustración editorial de una base de datos PostgreSQL fusionando dos tipos de búsqueda: vectores semánticos y coincidencia exacta por palabras clave, con un índice BM25 brillando en el centro](../../assets/images/2026-09-26-alloydb-cloudsql-bm25-busqueda-hibrida.jpg)
+![Google mete búsqueda híbrida nativa (BM25) a AlloyDB y Cloud SQL](../../assets/images/2026-09-26-alloydb-cloudsql-bm25-busqueda-hibrida.webp)
 
 Google Cloud acaba de matar una de esas fricciones que todos dábamos por sentadas: hasta hoy, si querías búsqueda por ranking BM25 en AlloyDB o Cloud SQL, tenías que montar un backend de full-text search aparte. Eso significaba silos de datos, lag de sincronización y más piezas que mantener. Se acabó.
 

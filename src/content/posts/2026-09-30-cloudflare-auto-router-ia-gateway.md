@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare lanzó Auto Router en beta pública para AI Gateway: configuras 'cloudflare/auto' y un clasificador en el edge decide qué modelo atiende cada request según complejidad y costo. Ahorro interno de hasta 30%."
 ---
 
-![Ilustración editorial isométrica de un enrutador inteligente central que ramifica caminos luminosos hacia chips de IA de distintos tamaños sobre una balanza con monedas, degradado turquesa y violeta, sin texto](../../assets/images/2026-09-30-cloudflare-auto-router-ia-gateway.jpg)
+![Cloudflare Auto Router: el modelo mágico 'cloudflare/auto' que elige por ti el modelo más barato capaz de hacer el trabajo](../../assets/images/2026-09-30-cloudflare-auto-router-ia-gateway.webp)
 
 La pregunta de "¿qué modelo uso para esto?" se está volviendo tan rutinaria que ya nadie la quiere responder. Cloudflare la resolvió con un nombre de modelo: **`cloudflare/auto`**. El **Auto Router**, ahora en **beta pública** dentro de AI Gateway, recibe cada request y decide en el edge qué modelo es suficientemente capaz para la tarea — sin que el usuario final elija nada. En uso interno, Cloudflare reporta **ahorros de hasta 30%** frente a usar solo modelos frontier como OpenAI Sol o Claude Opus.
 

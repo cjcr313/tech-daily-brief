@@ -11,7 +11,7 @@ tags:
 description: "Alibaba Cloud abrió su primera región de Sudamérica en Brasil, con dos data centers y un catálogo de servicios pensado para agentes de IA."
 ---
 
-![Ilustración editorial de dos data centers modernos integrados en un paisaje sudamericano, con conexiones de red y una capa de agentes de IA sobre la infraestructura](../../assets/images/2026-09-02-alibaba-cloud-region-brasil-sudamerica.jpg)
+![Alibaba Cloud aterriza en Brasil: su primera región de Sudamérica con dos data centers](../../assets/images/2026-09-02-alibaba-cloud-region-brasil-sudamerica.webp)
 
 Alibaba Cloud se puso las pilas en América Latina. Abrió su **primera región de Sudamérica**, en **Brasil**, compuesta por **dos data centers** y pensada para dar infraestructura local a empresas, devs, startups y organismos públicos. Con esto, Brasil se suma a México (que llegó en febrero de 2025) y se convierte en el segundo hub de la nube china en la región, y el primero en Sudamérica.
 

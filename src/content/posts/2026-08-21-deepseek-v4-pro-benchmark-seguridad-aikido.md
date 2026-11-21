@@ -11,7 +11,7 @@ tags:
 description: "Aikido quemó 11.7B tokens probando 10 modelos contra 32 CVEs frescos: DeepSeek V4 Pro encontró 28 y tres corridas baratas superan a Opus 5, Grok 4.6 y Sol."
 ---
 
-![Escáner de seguridad analizando código en busca de vulnerabilidades](../../assets/images/2026-08-21-deepseek-v4-pro-benchmark-seguridad-aikido.jpg)
+![Escáner de seguridad analizando código en busca de vulnerabilidades](../../assets/images/2026-08-21-deepseek-v4-pro-benchmark-seguridad-aikido.webp)
 
 Aikido Security acaba de publicar uno de esos benchmarks que uno sí puede tomar en serio: quemaron **11.700 millones de tokens** poniendo 10 modelos de IA a redis-cover 32 vulnerabilidades reales recién divulgadas (CVEs frescos, sin contaminación de entrenamiento), con tres corridas por modelo y 96 runs totales. El resultado es una bofetada para el establishment cerrado: **el open source ya juega en primera línea en seguridad ofensiva de código**.
 

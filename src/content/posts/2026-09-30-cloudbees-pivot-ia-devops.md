@@ -11,7 +11,7 @@ tags:
 description: "El nuevo CEO de CloudBees, Mo Plassnig, confirmó el pivot completo a una organización AI-first: la apuesta es que el cuello de botella enterprise pasará a ser cómo gestionar el código que la IA produce a escala."
 ---
 
-![Ilustración editorial de una línea de ensamblaje industrial de software reconfigurándose a sí misma con brazos robóticos y circuitos de IA, engranajes y tuberías de código fluyendo, paleta ámbar y azul acero, estilo ilustración tech, sin texto](../../assets/images/2026-09-30-cloudbees-pivot-ia-devops.jpg)
+![CloudBees se declara AI-first: el nuevo CEO quiere armar CI/CD para el diluvio de código generado por máquinas](../../assets/images/2026-09-30-cloudbees-pivot-ia-devops.webp)
 
 CloudBees, uno de los stalwarts del CI/CD enterprise (y casa de Jenkins), se la jugó: su nuevo CEO **Mo Plassnig** confirmó en WeAreDevelopers (San José) que la compañía entra en un **pivot completo a organización AI-first**. Y según cuenta, el mandato del directorio fue directo: "no sigas como hasta ahora".
 

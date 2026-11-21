@@ -11,7 +11,7 @@ tags:
 description: "GPT-6.1 Terra apunta al trabajo de oficina automatizable: razonamiento visual, computer use y escritura más natural, con precios de API 50% menores que GPT-5.6 Terra y costos por tarea hasta 9x menores que Claude Opus 5.5."
 ---
 
-![Ilustración editorial tech isométrica de un núcleo de IA veloz en forma de cometa luminosa guiando brazos robóticos que interactúan con interfaces de escritorio, formularios y líneas de tiempo de video, haces de luz eficientes y monedas simbolizando bajo costo, paleta naranja e índigo con acentos cian, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-26-openai-gpt-6-1-terra-computer-use-barato.jpg)
+![OpenAI lanza GPT-6.1 Terra: computer use de calidad frontier a la mitad del precio](../../assets/images/2026-10-26-openai-gpt-6-1-terra-computer-use-barato.webp)
 
 Mientras el mundo discute qué modelo frontier gana el benchmark de la semana, OpenAI sacó hoy algo distinto: **GPT-6.1 Terra**, un modelo rápido y barato pensado para el trabajo real de todos los días — leer facturas, rellenar formularios, editar video, interpretar planos técnicos y operar software de escritorio.
 

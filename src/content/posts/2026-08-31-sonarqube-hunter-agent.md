@@ -12,7 +12,7 @@ tags:
 description: "Sonar presentó un agente de IA que rastrea cómo se mueven el código y los datos para encontrar broken access control, fallas de lógica de negocio y problemas de autenticación."
 ---
 
-![SonarQube Hunter Agent](../../assets/images/2026-08-31-sonarqube-hunter-agent.jpg)
+![SonarQube Hunter Agent](../../assets/images/2026-08-31-sonarqube-hunter-agent.webp)
 
 **Sonar** sacó un agente de IA nuevo: el **SonarQube Hunter Agent**, pensado para encontrar las vulnerabilidades que los scanners tradicionales simplemente no ven.
 

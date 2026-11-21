@@ -11,7 +11,7 @@ tags:
 description: "OpenAI desconecta definitivamente ChatGPT Atlas, su navegador con IA agentiva, apenas 10 meses después del lanzamiento. Las capacidades se absorben en ChatGPT y Codex."
 ---
 
-![ChatGPT Atlas desconectado](../../assets/images/2026-08-09-openai-atlas-browser-muere.jpg)
+![ChatGPT Atlas desconectado](../../assets/images/2026-08-09-openai-atlas-browser-muere.webp)
 
 Hoy es el último día de **ChatGPT Atlas**, el navegador IA de OpenAI. Después de apenas **10 meses de vida** (lanzado en octubre 2025), Atlas se apaga definitivamente este **9 de agosto de 2026**. Sin actualizaciones de seguridad. Sin soporte. Chao.
 

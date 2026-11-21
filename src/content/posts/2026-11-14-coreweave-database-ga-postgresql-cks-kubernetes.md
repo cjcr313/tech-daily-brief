@@ -12,7 +12,7 @@ tags:
 description: "CoreWeave anunció la disponibilidad general de CoreWeave Database, un servicio de PostgreSQL administrado que corre directo dentro de los clústeres CKS junto a cargas de entrenamiento e inferencia de IA."
 ---
 
-![Ilustración editorial tech de una base de datos PostgreSQL administrada e integrada dentro de un clúster de Kubernetes con nodos GPU en tonos azul medianoche y cian](../../assets/images/2026-11-14-coreweave-database-ga-postgresql-cks-kubernetes.jpg)
+![CoreWeave lanza CoreWeave Database GA: PostgreSQL administrado dentro de tus clústeres de Kubernetes CKS](../../assets/images/2026-11-14-coreweave-database-ga-postgresql-cks-kubernetes.webp)
 
 En el marco de las novedades de **KubeCon + CloudNativeCon North America 2026**, CoreWeave dio un paso estratégico importante al anunciar la **disponibilidad general (GA) de CoreWeave Database**, su nuevo servicio administrado de PostgreSQL diseñado específicamente para correr directo dentro de los clústeres **CoreWeave Kubernetes Service (CKS)**.
 

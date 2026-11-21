@@ -12,7 +12,7 @@ tags:
 description: "El dashboard de operación de Dapr deja de estar detrás de un paywall: cluster-level ops, advisories, alertas de incidentes y multi-cluster, gratis y sin tarjeta."
 ---
 
-![Dashboard de operaciones multi-clúster de Kubernetes mostrando estado de workloads Dapr, alertas de incidentes y advisories de buenas prácticas](../../assets/images/2026-09-23-diagrid-dapr-ops-dashboard-gratis.jpg)
+![Diagrid libera Dapr Ops Dashboard gratis para todos los equipos de Kubernetes](../../assets/images/2026-09-23-diagrid-dapr-ops-dashboard-gratis.webp)
 
 Diagrid, la empresa detrás de Dapr (el Distributed Application Runtime ya graduado en la CNCF), anunció que su **Dapr Ops Dashboard queda gratis para todos los equipos**. Se acabó el paywall: todas las funciones que antes pedían plan pagado ahora están disponibles sin tarjeta de crédito y sin período de prueba.
 

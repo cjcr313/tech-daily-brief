@@ -11,7 +11,7 @@ tags:
 description: "En ObservabilityCON 2026 Grafana Labs lanzó una ola de anuncios para llevar Grafana Cloud a operaciones agenticas: Assistant Watchers GA, Managed Sandboxes y Pages en preview, Agent Observability con OpenTelemetry, búsqueda full-text en logs y Adaptive Telemetry para cortar costos."
 ---
 
-![Ilustración editorial tech de una sala de control futurista con dashboards holográficos flotantes de gráficos y trazas luminosas, agentes robóticos autónomos pequeños operando paneles junto a siluetas de ingenieros supervisando, paleta azul profundo con acentos naranja y verde neón, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-21-grafana-observabilitycon-2026-operaciones-agenticas.jpg)
+![Grafana se juega por las operaciones agenticas: Watchers, Sandboxes y Agent Observability en ObservabilityCON 2026](../../assets/images/2026-10-21-grafana-observabilitycon-2026-operaciones-agenticas.webp)
 
 Mientras el miércoles su propio informe dejaba la cifra incómoda —85% confía en que la IA investigue incidentes, pero solo 52% la dejaría tocar producción—, **Grafana Labs respondió ayer en ObservabilityCON 2026 (San Francisco) con la apuesta que cierra esa brecha: operaciones agenticas con aprobación humana**. El "open agentic observability cloud" dejó de ser eslogan y se concretó en un paquete de anuncios que mezcla agentes always-on, sandboxes para proponer fixes y observabilidad para... tus propios agentes de IA.
 

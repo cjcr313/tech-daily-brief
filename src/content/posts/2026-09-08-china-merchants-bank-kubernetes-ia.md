@@ -12,7 +12,7 @@ tags:
 description: "El banco chino ganó el CNCF End User Case Study Contest con un control plane unificado que comparte casi 10.000 tarjetas aceleradoras entre entrenamiento, fine-tuning e inferencia."
 ---
 
-![Ilustración editorial de un data center bancario con filas de servidores GPU ejecutando entrenamiento e inferencia de IA sobre un plano de control unificado de Kubernetes, tonos azules y dorados](../../assets/images/2026-09-08-china-merchants-bank-kubernetes-ia.jpg)
+![China Merchants Bank unifica entrenamiento e inferencia de IA en Kubernetes con casi 10.000 aceleradores](../../assets/images/2026-09-08-china-merchants-bank-kubernetes-ia.webp)
 
 **China Merchants Bank**, uno de los bancos comerciales más grandes de China, se llevó el **CNCF End User Case Study Contest** en la KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026. ¿El motivo? Un caso de libro sobre cómo exprimir Kubernetes para IA a escala.
 

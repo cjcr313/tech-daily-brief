@@ -11,7 +11,7 @@ tags:
 description: "El primer modelo especializado en investigación de incidentes de Datadog: built on GLM-5.3 Flash, iguala a GPT-6.1 Sol y Claude Opus 5.5 en calidad de investigación a una fracción del costo. Ya alimenta Bits Investigation."
 ---
 
-![Ilustración editorial de un ingeniero de confiabilidad asistido por un agente de IA que examina un mar de gráficos, trazas y logs en un centro de operaciones](../../assets/images/2026-10-17-datadog-scout-1-0-modelo-sre-bits-ai.jpg)
+![Datadog lanzó Scout 1.0: un modelo SRE entrenado con RL que investiga alerts de producción antes que tú](../../assets/images/2026-10-17-datadog-scout-1-0-modelo-sre-bits-ai.webp)
 
 Datadog acaba de [presentar Scout 1.0](https://www.datadoghq.com/blog/ai/introducing-scout-sre-specialized-model-bits-ai/), su **primer modelo de IA especializado en investigar incidentes de producción**. Ya está en producción alimentando **Bits Investigation**, la herramienta que Datadog describe como su "AI SRE": examina las alerts *antes* de que un ingeniero humano se ponga a trabajar.
 

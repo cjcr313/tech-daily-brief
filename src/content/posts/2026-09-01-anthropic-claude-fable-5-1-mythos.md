@@ -10,7 +10,7 @@ tags:
 description: "Los nuevos Claude Fable 5.1 y Mythos 5.1 llegan con una baja del 75% en lectura de caché y una arquitectura de seguridad que deja la telemetría dentro de la infraestructura del cliente."
 ---
 
-![Ilustración editorial de dos modelos de IA gemelos con capas de seguridad empresarial](../../assets/images/2026-09-01-anthropic-claude-fable-5-1-mythos.jpg)
+![Anthropic lanza Claude Fable 5.1 y Mythos 5.1: 75% más barato en caché y guardarraíles para la empresa](../../assets/images/2026-09-01-anthropic-claude-fable-5-1-mythos.webp)
 
 Septiembre arrancó movido en el mundo IA: Anthropic acaba de soltar sus modelos más potentes hasta la fecha, **Claude Fable 5.1** y **Claude Mythos 5.1**. Ambos nombres apuntan al mismo modelo de fondo, con una diferencia clave de gobernanza.
 

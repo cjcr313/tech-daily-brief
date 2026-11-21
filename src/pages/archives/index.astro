@@ -1,20 +1,27 @@
 ---
 import { getRelativeLocaleUrl } from "astro:i18n";
 import { getCollection } from "astro:content";
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
+import timezone from "dayjs/plugin/timezone";
+import "dayjs/locale/es";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import Main from "@/components/Main.astro";
 import Footer from "@/components/Footer.astro";
-import Card from "@/components/Card.astro";
-import { postFilter, mainPostFilter } from "@/utils/postFilter";
+import { getCategoryMeta } from "@/utils/categories";
+import { getPostUrl } from "@/utils/getPostPaths";
+import { mainPostFilter } from "@/utils/postFilter";
 import { getPostsByGroupCondition } from "./_utils/getPostsByGroupCondition";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
+dayjs.extend(utc);
+dayjs.extend(timezone);
+
 const locale = Astro.currentLocale ?? config.site.lang;
 
-// Redirect to 404 page if `showArchives` config is false
 const notFoundUrl = getRelativeLocaleUrl(locale, "404");
 if (!config.features.showArchives && notFoundUrl) {
   return Astro.rewrite(notFoundUrl);
@@ -23,8 +30,14 @@ if (!config.features.showArchives && notFoundUrl) {
 const t = useTranslations(locale);
 
 const posts = await getCollection("posts");
-const filteredPosts = posts.filter(postFilter);
+const filteredPosts = posts.filter(mainPostFilter);
 const monthFormatter = new Intl.DateTimeFormat(locale, { month: "long" });
+
+const groupedByYear = Object.entries(
+  getPostsByGroupCondition(filteredPosts, post =>
+    post.data.pubDatetime.getFullYear()
+  )
+).sort(([yearA], [yearB]) => Number(yearB) - Number(yearA));
 ---
 
 <Layout title={`${t.pages.archivesTitle} | ${config.site.title}`}>
@@ -32,57 +45,112 @@ const monthFormatter = new Intl.DateTimeFormat(locale, { month: "long" });
 
   <Breadcrumb />
 
-  <Main pageTitle={t.pages.archivesTitle} pageDesc={t.pages.archivesDesc}>
-    {
-      Object.entries(
-        getPostsByGroupCondition(filteredPosts, post =>
-          post.data.pubDatetime.getFullYear()
-        )
-      )
-        .sort(([yearA], [yearB]) => Number(yearB) - Number(yearA))
-        .map(([year, yearGroup]) => (
-          <div>
-            <span class="text-2xl font-bold">{year}</span>
-            <sup class="text-muted-foreground text-sm">{yearGroup.length}</sup>
-            {Object.entries(
-              getPostsByGroupCondition(
-                yearGroup,
-                post => post.data.pubDatetime.getMonth() + 1
-              )
+  <Main
+    pageTitle="Archivo cronológico"
+    pageDesc={`${filteredPosts.length} noticias organizadas por año y mes.`}
+  >
+    <div class="space-y-8">
+      {
+        groupedByYear.map(([year, yearGroup], yearIdx) => {
+          const months = Object.entries(
+            getPostsByGroupCondition(
+              yearGroup,
+              post => post.data.pubDatetime.getMonth() + 1
             )
-              .sort(([monthA], [monthB]) => Number(monthB) - Number(monthA))
-              .map(([month, monthGroup]) => (
-                <div class="flex flex-col sm:flex-row">
-                  <div class="mt-6 min-w-36 text-lg sm:my-6">
-                    <span class="font-bold">
-                      {monthFormatter.format(
-                        new Date(2000, Number(month) - 1, 1)
-                      )}
-                    </span>
-                    <sup class="text-muted-foreground text-xs">
-                      {monthGroup.length}
-                    </sup>
-                  </div>
-                  <ul>
-                    {monthGroup
-                      .sort(
-                        (a, b) =>
-                          Math.floor(
-                            new Date(b.data.pubDatetime).getTime() / 1000
-                          ) -
-                          Math.floor(
-                            new Date(a.data.pubDatetime).getTime() / 1000
-                          )
-                      )
-                      .map(data => (
-                        <Card {...data} />
-                      ))}
-                  </ul>
-                </div>
-              ))}
-          </div>
-        ))
-    }
+          ).sort(([mA], [mB]) => Number(mB) - Number(mA));
+
+          return (
+            <section>
+              <div class="border-border mb-4 flex items-baseline gap-2.5 border-b pb-2">
+                <h2 class="font-display text-2xl font-extrabold tracking-tight">
+                  {year}
+                </h2>
+                <span class="font-mono text-muted-foreground text-xs">
+                  {yearGroup.length} artículos
+                </span>
+              </div>
+
+              <div class="space-y-3">
+                {months.map(([month, monthGroup], monthIdx) => {
+                  const rawMonth = monthFormatter.format(
+                    new Date(2000, Number(month) - 1, 1)
+                  );
+                  const monthLabel =
+                    rawMonth.charAt(0).toUpperCase() + rawMonth.slice(1);
+                  const sortedMonthPosts = [...monthGroup].sort(
+                    (a, b) =>
+                      new Date(b.data.pubDatetime).getTime() -
+                      new Date(a.data.pubDatetime).getTime()
+                  );
+                  const defaultOpen = yearIdx === 0 && monthIdx === 0;
+
+                  return (
+                    <details
+                      open={defaultOpen}
+                      class="bg-surface border-border group rounded-2xl border shadow-xs"
+                    >
+                      <summary class="flex cursor-pointer list-none items-center justify-between px-5 py-4 font-semibold select-none">
+                        <span class="flex items-center gap-3">
+                          <span class="font-display text-base font-bold">
+                            {monthLabel} {year}
+                          </span>
+                          <span class="font-mono bg-muted text-muted-foreground rounded-full px-2.5 py-0.5 text-xs">
+                            {monthGroup.length}
+                          </span>
+                        </span>
+                        <span
+                          aria-hidden="true"
+                          class="font-mono text-muted-foreground text-xs transition-transform group-open:rotate-180"
+                        >
+                          ▾
+                        </span>
+                      </summary>
+
+                      <ul class="divide-border border-border divide-y border-t px-5">
+                        {sortedMonthPosts.map(post => {
+                          const cat = getCategoryMeta(post.data.tags?.[0]);
+                          const dayLabel = dayjs(post.data.pubDatetime)
+                            .tz(config.site.timezone)
+                            .locale("es")
+                            .format("DD MMM");
+                          return (
+                            <li class="py-3">
+                              <a
+                                href={getPostUrl(
+                                  post.id,
+                                  post.filePath,
+                                  locale
+                                )}
+                                class="group/item flex flex-col gap-1.5 sm:flex-row sm:items-center sm:gap-4"
+                              >
+                                <span class="font-mono text-muted-foreground w-16 shrink-0 text-xs">
+                                  {dayLabel}
+                                </span>
+                                <span
+                                  class:list={[
+                                    "font-mono inline-flex w-fit shrink-0 items-center gap-1 rounded-full border px-2 py-0.5 text-[10px] font-semibold uppercase",
+                                    cat.chipClass,
+                                  ]}
+                                >
+                                  {cat.label}
+                                </span>
+                                <span class="text-foreground group-hover/item:text-accent text-sm font-medium transition-colors">
+                                  {post.data.title}
+                                </span>
+                              </a>
+                            </li>
+                          );
+                        })}
+                      </ul>
+                    </details>
+                  );
+                })}
+              </div>
+            </section>
+          );
+        })
+      }
+    </div>
   </Main>
 
   <Footer />

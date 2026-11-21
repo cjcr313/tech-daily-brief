@@ -1,20 +1,25 @@
 @plugin "@tailwindcss/typography";
 
 @layer base {
-  /* ===== Override default Tailwind Typography styles ===== */
+  /* ===== Editorial Tech Prose Styles ===== */
   .app-prose {
-    @apply prose;
+    @apply prose prose-slate dark:prose-invert max-w-none text-[1.0625rem] leading-[1.75];
 
     h1,
     h2,
     h3,
     h4,
     th {
-      @apply text-foreground mb-3;
+      @apply text-foreground font-bold tracking-tight;
+      font-family: var(--font-display), var(--font-sans), system-ui, sans-serif;
+    }
+
+    h2 {
+      @apply mt-10 mb-4 border-b border-border pb-2 text-2xl leading-snug;
     }
 
     h3 {
-      @apply italic;
+      @apply mt-7 mb-3 text-xl leading-snug not-italic;
     }
 
     p,
@@ -22,13 +27,16 @@
     ol,
     ul,
     figcaption,
-    table,
-    code {
-      @apply text-foreground;
+    table {
+      @apply text-foreground/90;
+    }
+
+    strong {
+      @apply font-semibold text-foreground;
     }
 
     a {
-      @apply text-foreground hover:text-accent wrap-break-word decoration-dashed underline-offset-4 focus-visible:no-underline;
+      @apply text-accent font-medium wrap-break-word underline decoration-accent/40 underline-offset-4 transition-colors hover:decoration-accent focus-visible:no-underline;
     }
 
     ul {
@@ -40,46 +48,41 @@
     }
 
     hr {
-      @apply border-border;
+      @apply my-8 border-border;
     }
 
     img {
-      @apply border-border mx-auto border;
-    }
-
-    img[role="button"] {
-      @apply cursor-zoom-in;
-
-      &:focus-visible {
-        @apply outline-2 outline-offset-2 outline-dashed;
-      }
+      @apply border-border mx-auto w-full rounded-2xl border shadow-xs;
     }
 
     figcaption {
-      @apply opacity-75;
+      @apply text-muted-foreground mt-2 text-center text-sm;
     }
 
     table {
+      @apply w-full border-collapse text-sm;
+
       th,
       td {
-        @apply border-border border p-2;
+        @apply border-border border px-3 py-2;
       }
 
       th {
-        @apply py-1.5;
+        @apply bg-muted/70 text-left font-semibold;
       }
     }
 
     code {
-      @apply bg-muted/75 text-foreground rounded p-1 wrap-break-word before:content-none after:content-none;
+      @apply bg-muted text-foreground rounded-md px-1.5 py-0.5 text-[0.875em] font-medium wrap-break-word before:content-none after:content-none;
+      font-family: var(--font-mono), ui-monospace, monospace;
     }
 
     .astro-code code {
-      @apply flex-[1_0_100%] bg-inherit p-0;
+      @apply flex-[1_0_100%] bg-inherit p-0 font-normal;
     }
 
     blockquote {
-      @apply border-s-accent/80 wrap-break-word opacity-80;
+      @apply border-s-accent bg-muted/50 text-foreground/85 rounded-e-xl border-s-4 py-1 pr-4 pl-4 not-italic;
     }
 
     details:not(.callout) {
@@ -87,11 +90,16 @@
     }
 
     summary {
-      @apply focus-visible:outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-dashed;
+      @apply focus-visible:outline-accent focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-offset-1;
     }
 
     pre {
-      @apply focus-visible:outline-accent focus-visible:border-transparent focus-visible:outline-2 focus-visible:outline-dashed;
+      @apply rounded-xl border border-border focus-visible:outline-accent focus-visible:border-transparent focus-visible:outline-2;
+    }
+
+    /* Style the trailing primary sources paragraph as an editorial citation card */
+    > p:last-child:has(> strong:first-child) {
+      @apply mt-10 rounded-2xl border border-border bg-muted/50 px-5 py-4 text-sm leading-relaxed text-muted-foreground;
     }
   }
 
@@ -100,12 +108,18 @@
     @apply outline-border flex border bg-(--shiki-light-bg) text-(--shiki-light) [&_span]:text-(--shiki-light);
   }
 
-  html[data-theme="dark"] .astro-code {
+  html[data-theme="dark"] .astro-code,
+  html:has(> head > meta[name="color-scheme"][content="dark"]) .astro-code {
     @apply bg-(--shiki-dark-bg) text-(--shiki-dark) [&_span]:text-(--shiki-dark);
   }
 
+  @media (prefers-color-scheme: dark) {
+    html:not([data-theme="light"]):not(:has(> head > meta[name="color-scheme"][content="light"])) .astro-code {
+      @apply bg-(--shiki-dark-bg) text-(--shiki-dark) [&_span]:text-(--shiki-dark);
+    }
+  }
+
   /* Styles for Shiki transformers */
-  /* https://shiki.style/packages/transformers */
   .astro-code {
     .line.diff.add {
       @apply relative inline-block w-full bg-green-400/20 before:absolute before:-left-3 before:text-green-500 before:content-['+'];

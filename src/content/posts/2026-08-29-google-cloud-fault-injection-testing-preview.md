@@ -11,7 +11,7 @@ tags:
 description: "Nueva feature en preview para simplificar las pruebas de resiliencia inyectando fallas de forma controlada en Google Cloud, sin armar tu propio Chaos Monkey."
 ---
 
-![Ilustración editorial de un panel de control inyectando fallas controladas en una red de servicios en la nube, con interruptores de circuit-breaker y relámpagos sutiles, tonos violeta y cian, estilo tech editorial](../../assets/images/2026-08-29-google-cloud-fault-injection-testing-preview.jpg)
+![Google Cloud presenta Fault Injection Testing en preview: chaos engineering gestionado](../../assets/images/2026-08-29-google-cloud-fault-injection-testing-preview.webp)
 
 Google Cloud presentó **Fault Injection Testing en preview**, una feature pensada para que los equipos prueben resiliencia sin tener que armar su propio laboratorio de caos desde cero. La idea de fondo: **inyectar fallas de forma controlada y segura** para ver cómo reacciona tu sistema antes de que lo haga un incidente real.
 

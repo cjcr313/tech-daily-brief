@@ -11,7 +11,7 @@ tags:
 description: "Kubeflow renueva casi todo su stack antes de graduarse en la CNCF: Kale 2.0, Notebooks v2 con CRDs, Trainer con soporte HPC vía Flux, y KServe con un CRD dedicado para LLMs."
 ---
 
-![Ilustración editorial de un ecosistema de machine learning sobre plataformas de contenedores con tuberías de datos conectando módulos, estilo tech editorial](../../assets/images/2026-08-15-kubeflow-graduacion-cncf-kale-notebooks-v2.jpg)
+![Kubeflow se arma rumbo a la graduación CNCF: Kale 2.0, Notebooks v2 y HPC en Kubernetes](../../assets/images/2026-08-15-kubeflow-graduacion-cncf-kale-notebooks-v2.webp)
 
 Kubeflow está a punto de ponerse la toga: el proyecto está avanzando rápido hacia su **graduación en la CNCF**, y para demostrar que está a la altura acaba de renovar prácticamente todo su stack. InfoQ hizo un resumen completo y acá va lo importante.
 

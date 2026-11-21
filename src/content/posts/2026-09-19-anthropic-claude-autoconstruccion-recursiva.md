@@ -11,7 +11,7 @@ tags:
 description: "Anthropic publicó datos inéditos mostrando que Claude lidera una parte creciente del desarrollo del próximo modelo, con los ingenieros despachando 8x más código por trimestre. La automejora recursiva dejó de ser teoría."
 ---
 
-![Ilustración editorial de un modelo de IA construyéndose a sí mismo, un bucle recursivo de código y circuitos neuronales](../../assets/images/2026-09-19-anthropic-claude-autoconstruccion-recursiva.jpg)
+![Anthropic revela que Claude ya ayuda a construir su propia próxima versión: el camino a la automejora recursiva](../../assets/images/2026-09-19-anthropic-claude-autoconstruccion-recursiva.webp)
 
 Anthropic acaba de soltar una confesión que suena a ciencia ficción pero viene con datos duros: **Claude ya está ayudando a construir su propia próxima versión**. La empresa publicó este jueves un informe del Anthropic Institute ("When AI builds itself") donde reconoce que una fracción creciente del desarrollo de sus modelos la está haciendo la propia IA.
 

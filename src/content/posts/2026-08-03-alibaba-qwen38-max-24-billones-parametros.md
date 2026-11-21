@@ -10,7 +10,7 @@ tags:
 description: "Alibaba sacó Qwen3.8-Max con 2.4 billones de parámetros MoE, contexto de 1M y pesos abiertos la próxima semana. Más grande, más barato y más multimodal que nunca."
 ---
 
-![Alibaba Qwen3.8-Max 2.4 billones de parámetros](../../assets/images/2026-08-03-alibaba-qwen38-max-24-billones-parametros.jpg)
+![Alibaba Qwen3.8-Max 2.4 billones de parámetros](../../assets/images/2026-08-03-alibaba-qwen38-max-24-billones-parametros.webp)
 
 Alibaba no se anda con chiquitas. Mientras DeepSeek le pegaba al costo con V4 Flash, la gente de Qwen salió con todo: **Qwen3.8-Max**, un modelo Mixture-of-Experts de **2.4 billones (trillones en inglés) de parámetros**, con contexto de **1 millón de tokens** y capacidades multimodales (texto, imagen y video como input).
 

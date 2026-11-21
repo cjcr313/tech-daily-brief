@@ -11,7 +11,7 @@ tags:
 description: "Entre el 7 y el 14 de agosto Cloudflare registró 13 incidentes separados: R2, Durable Objects, Workers KV, Workers AI y red en cuatro continentes. Un cliente reporta 67GB sin recuperar y sin postmortem oficial."
 ---
 
-![Ilustración editorial de una nube de red global con nodos parpadeando en alerta naranja y cables de datos desconectados, estilo tech editorial](../../assets/images/2026-08-16-cloudflare-13-incidencias-8-dias-r2-concentracion.svg)
+![Cloudflare acumula 13 incidentes en 8 días: R2 con datos posiblemente perdidos y la pregunta incómoda de la concentración](../../assets/images/2026-08-16-cloudflare-13-incidencias-8-dias-r2-concentracion.svg)
 
 Trece incidentes en ocho días. Ese es el registro que dejó la página de status de Cloudflare entre el **7 y el 14 de agosto**, tocando R2 object storage, Durable Objects, Workers KV, Workers AI, email security y performance de red en cuatro continentes. Ninguno fue del tamaño del outage global de noviembre 2025, pero la frecuencia reopenó la pregunta que los equipos DevOps ya se hacían: ¿qué pasa cuando una sola empresa está enfrente de casi un quinto del tráfico web y las cosas se rompen repetidamente en la misma semana?
 

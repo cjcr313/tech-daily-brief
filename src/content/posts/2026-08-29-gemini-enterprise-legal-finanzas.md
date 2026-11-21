@@ -11,7 +11,7 @@ tags:
 description: "Google Cloud estrena su suite de soluciones Gemini Enterprise por industria, arrancando con Legal y Servicios Financieros. La jugada de Thomas Kurian para llevar IA regulada a los verticales enterprise."
 ---
 
-![Ilustración editorial de una balanza de la justicia y una bóveda bancaria integradas por nodos de un modelo de IA brillante, tonos azul profundo y dorado, estilo tech editorial](../../assets/images/2026-08-29-gemini-enterprise-legal-finanzas.jpg)
+![Google Cloud lanza Gemini Enterprise para Legal y Servicios Financieros: IA de industria, no genérica](../../assets/images/2026-08-29-gemini-enterprise-legal-finanzas.webp)
 
 Google Cloud dejó de vender "Gemini para todos" y pasó a "Gemini para *tu* industria". Esta semana presentó **Gemini Enterprise for Legal** y **Gemini Enterprise for Financial Services**, las dos primeras piezas de lo que describen como una **nueva suite de soluciones por industria**. El anuncio viene firmado por **Thomas Kurian**, el CEO de Google Cloud, y marca un giro claro: competir en los verticales regulados con IA hecha a la medida del compliance de cada sector.
 

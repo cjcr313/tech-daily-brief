@@ -12,7 +12,7 @@ tags:
 description: "State of Cloud Security 2026 de Datadog: la mediana de vulnerabilidades high/critical por workload pasó de 4 a 16 entre mayo y noviembre. La IA aceleró el desarrollo… y la superficie de ataque."
 ---
 
-![Ilustración editorial de un muro creciente de alertas rojas y escudos de vulnerabilidad sobre torres de servidores en la nube](../../assets/images/datadog-state-cloud-security-2026-cuadruplica.jpg)
+![Datadog: las vulnerabilidades críticas en la nube se cuadruplicaron en seis meses](../../assets/images/datadog-state-cloud-security-2026-cuadruplica.webp)
 
 Datadog publicó su **State of Cloud Security 2026** (10 de noviembre), con análisis de la postura de seguridad de miles de organizaciones clientes. El dato que grita: **la mediana de vulnerabilidades high/critical por workload en la nube pasó de 4 en mayo a 16 en noviembre**. Cuatro veces más en menos de un año.
 

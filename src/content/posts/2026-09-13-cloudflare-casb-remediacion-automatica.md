@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare CASB suma políticas de remediación automática: lógica event-driven para revocar accesos y disparar webhooks sin intervención manual."
 ---
 
-![Ilustración editorial de un panel de seguridad SaaS donde un flujo automatizado revoca permisos de archivos compartidos de forma autónoma, con líneas de eventos conectadas y un guardián de nube, estilo tech con acentos naranja de Cloudflare](../../assets/images/2026-09-13-cloudflare-casb-remediacion-automatica.jpg)
+![Cloudflare CASB deja de ser una alarma pasiva: ahora remedia solo los riesgos SaaS](../../assets/images/2026-09-13-cloudflare-casb-remediacion-automatica.webp)
 
 Cloudflare le pegó una sacudida a su CASB (*Cloud Access Security Broker*): el producto ahora **remedia los riesgos solo**, sin esperar a que un humano confirme cada acción. El anuncio se llama *automatic remediation policies* y convierte a CASB en un motor de automatización nativo, montado sobre la plataforma de desarrollo de Cloudflare One.
 

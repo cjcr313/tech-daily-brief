@@ -11,7 +11,7 @@ tags:
 description: "El seguimiento del incidente eMudhra: ~22.000 handshakes con claves débiles, certificados falsificados en menos de una hora y más de la mitad del tráfico que aún acepta la cadena comprometida."
 ---
 
-![Ilustración editorial de un candado digital destruido con una llave gigante marcada con el número 4, sobre un fondo de conexiones de red en azul oscuro](../../assets/images/2026-10-31-cloudflare-emudhra-claves-debiles-seguimiento.jpg)
+![eMudhra: Cloudflare muestra cómo se están explotando las claves débiles y cuánta Internet sigue expuesta](../../assets/images/2026-10-31-cloudflare-emudhra-claves-debiles-seguimiento.webp)
 
 Si el otro día te perdiste el capítulo inicial: una autoridad certificadora india, eMudhra, tenía ocho claves privadas intermedias ridiculamente débiles. Donde debía haber un número aleatorio de 115 dígitos, apareció el número **4**. Las otras siete tampoco eran gran cosa: 56, 66, 115, 155, 156, 230 y 237. Cualquiera podía recuperar esas claves desde los certificados públicos y fabricar certificados válidos para cualquier dominio. Ahora Cloudflare publicó el seguimiento, y los números son para tomarse el asunto en serio.
 

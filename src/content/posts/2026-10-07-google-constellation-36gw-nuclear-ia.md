@@ -11,7 +11,7 @@ tags:
 description: "Google contrató 3.590 MW con Constellation Energy, con 890 MW de nuclear nueva vía 11 upgrades de reactores. Bajo el modelo bring your own power de PJM, la energía se volvió el cuello de botella real de la IA."
 ---
 
-![Ilustración editorial de un data center conectado a una central nuclear con torres de refrigeración al atardecer, cables de energía luminosos atravesando el paisaje, estilo ilustración tech profesional en tonos cálidos y azul profundo, sin texto](../../assets/images/2026-10-07-google-constellation-36gw-nuclear-ia.jpg)
+![Google firma 3,6 GW con Constellation: un cuarto de energía nuclear nueva para sus data centers de IA](../../assets/images/2026-10-07-google-constellation-36gw-nuclear-ia.webp)
 
 La carrera de la IA dejó de pelearse solo en chips: ahora se pelea en la red eléctrica. Google anunció un acuerdo landmark con **Constellation Energy** por **3.590 MW** de capacidad, dentro del marco *bring your own power* de PJM (el operador de red de la costa este de EE.UU.), pensado para alimentar sus data centers de IA.
 

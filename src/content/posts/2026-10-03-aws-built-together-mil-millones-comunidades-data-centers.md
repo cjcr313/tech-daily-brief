@@ -11,7 +11,7 @@ tags:
 description: "Amazon anunció 'Built Together': más de US$1.000 millones en cinco años para comunidades estadounidenses que albergan sus data centers, más compromisos sobre electricidad y agua. La infraestructura de IA también se pelea en el concejo municipal."
 ---
 
-![Ilustración editorial de un moderno data center conectado con una pequeña comunidad: casas, parque, línea eléctrica y gotas de agua, con un apretón de manos flotando entre ambos, paleta azul y verde, estilo tech editorial, sin texto](../../assets/images/2026-10-03-aws-built-together-mil-millones-comunidades-data-centers.jpg)
+![AWS pone US$1.000 millones sobre la mesa para que las comunidades no odien sus data centers](../../assets/images/2026-10-03-aws-built-together-mil-millones-comunidades-data-centers.webp)
 
 La carrera de la IA tiene un cuello de botella que no se resuelve con más GPUs: **los permisos y la buena voluntad de las comunidades donde van los data centers**. Por eso Amazon anunció este viernes el programa **"Built Together"**: una inversión de **más de US$1.000 millones en cinco años** para las comunidades estadounidenses que alojan sus data centers, junto con compromisos concretos sobre el impacto en **electricidad y agua** de estas instalaciones.
 

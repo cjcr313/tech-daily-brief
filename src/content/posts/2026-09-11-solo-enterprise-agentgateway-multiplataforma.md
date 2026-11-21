@@ -12,7 +12,7 @@ tags:
 description: "Solo Enterprise para agentgateway ahora corre en dos modos: Kubernetes con GitOps o standalone en VMs, ECS o bare metal, con UI de autoservicio y MCP empresarial."
 ---
 
-![Ilustración editorial de un gateway de conectividad para agentes IA desplegándose tanto sobre un cluster Kubernetes como sobre máquinas virtuales y bare metal, con una interfaz de administración unificada](../../assets/images/2026-09-11-solo-enterprise-agentgateway-multiplataforma.jpg)
+![Solo.io lleva agentgateway a cualquier infraestructura con su edición Enterprise standalone](../../assets/images/2026-09-11-solo-enterprise-agentgateway-multiplataforma.webp)
 
 Solo.io sigue empujando su tesis de que la gobernanza de agentes IA es la próxima gran batalla de infraestructura. Esta vez el anuncio es sobre **agentgateway**, su gateway AI-native para conectar, asegurar y gobernar tráfico agentic: la edición Enterprise ahora corre en **dos modos**.
 

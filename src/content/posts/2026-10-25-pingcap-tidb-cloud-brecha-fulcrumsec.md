@@ -11,7 +11,7 @@ tags:
 description: "El grupo de extorsión FulcrumSec asegura haber robado 10,6 TB de PingCAP: código fuente, 115K API keys de consola y credenciales root de bases de datos de clientes. PingCAP confirmó exposición de datos y pide rotar keys ya."
 ---
 
-![Ilustración editorial de una base de datos en la nube con un candado roto y cables de datos filtrándose hacia afuera](../../assets/images/2026-10-25-pingcap-tidb-cloud-brecha-fulcrumsec.jpg)
+![PingCAP confirma brecha: FulcrumSec reclama 10,6 TB del control plane de TiDB Cloud, incluyendo API keys de clientes](../../assets/images/2026-10-25-pingcap-tidb-cloud-brecha-fulcrumsec.webp)
 
 Domingo con noticia gruesa: **PingCAP**, la empresa detrás de TiDB (la base SQL distribuida open source compatible con MySQL), confirmó acceso no autorizado a sus sistemas internos y el robo de código fuente y datos relacionados con clientes. El responsable sería **FulcrumSec**, grupo de ciberextorsión que reclama haberse llevado **10,6 TB**: control plane completo de TiDB Cloud, estados de facturación en GCP y AWS, Jira, CRM, analítica, código fuente y **cuatro años de logs de conexión de todos los clientes**, incluyendo las IPs de sus servidores de aplicación.
 

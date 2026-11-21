@@ -12,7 +12,7 @@ tags:
 description: "En swampUP 2026, JFrog presentó DevGovOps con AppTrust: compliance automático para la cadena de suministro de software en la era de los agentes de IA."
 ---
 
-![Ilustración editorial de gobernanza automatizada en la cadena de suministro de software](../../assets/images/2026-09-03-jfrog-apptrust-devgovops-compliance.jpg)
+![JFrog lanza AppTrust: gobernanza que corre a la velocidad de los agentes de IA](../../assets/images/2026-09-03-jfrog-apptrust-devgovops-compliance.webp)
 
 En **swampUP 2026**, JFrog salió a marcar cancha con un problema que se viene arrastrando hace meses en el mundo DevOps: los agentes de IA ya escriben, commitean y shipean código a velocidad de máquina, pero la gobernanza y el compliance siguen corriendo a velocidad de humano. Su respuesta es **JFrog AppTrust**, una nueva tanda de capacidades de **DevGovOps** que mete el cumplimiento *dentro* del release, no como una auditoría al final.
 

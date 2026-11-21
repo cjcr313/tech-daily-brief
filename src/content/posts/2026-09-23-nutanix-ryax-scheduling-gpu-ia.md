@@ -12,7 +12,7 @@ tags:
 description: "La adquisición de la francesa Ryax suma bin-packing fraccional de GPUs y placement costo-consciente a Nutanix Kubernetes Platform y Enterprise AI."
 ---
 
-![Orquestación de GPU en un clúster Kubernetes: scheduling inteligente que empaqueta cargas de IA en GPUs fraccionadas a través de data centers, nube y HPC](../../assets/images/2026-09-23-nutanix-ryax-scheduling-gpu-ia.jpg)
+![Nutanix compra Ryax para meter scheduling GPU-aware en su stack de IA agéntica](../../assets/images/2026-09-23-nutanix-ryax-scheduling-gpu-ia.webp)
 
 Nutanix anunció la compra de **Ryax Technologies**, una firma francesa de orquestación de cómputo y scheduling de workloads impulsado por IA, por un monto no revelado. El plan: integrar su tecnología de utilización de GPU y scheduling inteligente en las próximas versiones de **Nutanix Kubernetes Platform (NKP)** y **Nutanix Enterprise AI (NAI)**.
 

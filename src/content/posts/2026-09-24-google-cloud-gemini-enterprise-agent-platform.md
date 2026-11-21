@@ -12,7 +12,7 @@ tags:
 description: "Google Cloud presenta en Next el nuevo Gemini Enterprise: una plataforma end-to-end para la era agéntica, con Agent Platform (evolución de Vertex AI), app enterprise y ecosistema de partners."
 ---
 
-![Ilustración editorial de una plataforma de agentes de IA: un panel central brillante con múltiples agentes autónomos conectados por nodos de datos, tonos azul profundo y acentos dorados, estilo tech editorial](../../assets/images/2026-09-24-google-cloud-gemini-enterprise-agent-platform.jpg)
+![Google Cloud lanza Gemini Enterprise Agent Platform: Vertex AI se transforma en la plataforma agéntica](../../assets/images/2026-09-24-google-cloud-gemini-enterprise-agent-platform.webp)
 
 Google Cloud aprovechó su evento **Next** para presentar la nueva cara de Gemini Enterprise: un sistema end-to-end para la "era agéntica", pensado para delegar resultados de negocio a agentes en vez de microgestionar tareas. La primera ola de la IA cambió cómo buscamos información; esta segunda ola cambia cómo se hace el trabajo.
 

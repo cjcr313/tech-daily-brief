@@ -11,7 +11,7 @@ tags:
 description: "En el día de seguridad de su Birthday Week, Cloudflare lanzó Threat Signals (skills agénticas de threat intelligence gratuitas), Application Profiles para positive security y su framework de seguridad adaptativa para la era de la IA."
 ---
 
-![Ilustración editorial de un escudo formado por señales de radar y ondas de red protegiendo servidores, azul oscuro con destellos naranjas de alerta](../../assets/images/2026-09-30-cloudflare-threat-signals-seguridad-agentica.jpg)
+![Cloudflare lanza Threat Signals: inteligencia de amenazas open source como skills para agentes, gratis para todas las cuentas](../../assets/images/2026-09-30-cloudflare-threat-signals-seguridad-agentica.webp)
 
 La Birthday Week de Cloudflare siguió con todo y esta vez tocó el día de seguridad. Tres anuncios que juntos dibujan hacia dónde va la protección de aplicaciones cuando el que ataca y el que defiende tienen IA.
 

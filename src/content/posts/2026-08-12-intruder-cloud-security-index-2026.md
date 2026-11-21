@@ -11,7 +11,7 @@ tags:
 description: "Intruder analizó 3.000 organizaciones y descubrió que los riesgos de seguridad cloud son completamente distintos según el provider. AWS lidera en misconfigurations."
 ---
 
-![Ilustración editorial de tres columnas de nubes representando AWS, Azure y Google Cloud con distintos indicadores de alerta de seguridad](../../assets/images/placeholder.jpg)
+![AWS vs Azure vs Google Cloud: el índice 2026 de Intruder muestra que las misconfigurations no se parecen en nada](../../assets/images/placeholder.webp)
 
 **Intruder** publicó su **2026 Cloud Security Index** ayer, y los resultados son bastante claros: si estás corriendo multi-cloud, tus riesgos de seguridad son completamente diferentes según el provider.
 

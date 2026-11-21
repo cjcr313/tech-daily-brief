@@ -11,7 +11,7 @@ tags:
 description: "La startup berlinesa OllyGarden cerró US$4M con inversiones estratégicas de Datadog, Grafana Labs y Dash0. Su misión: eliminar la telemetría basura (cada vez más generada por IA) directo en el código, y de yapa lanzó Minimum Viable Instrumentation."
 ---
 
-![Ilustración editorial tech de un jardín de datos donde flujos de telemetría ordenados son podados y filtrados antes de llegar a un backend de observabilidad, con herramientas de jardinero digitales, estilo ilustración editorial profesional en tonos verdes y azules](../../assets/images/2026-10-09-ollygarden-4m-datadog-grafana-telemetria-mvi.jpg)
+![OllyGarden levanta US$4M con Datadog, Grafana Labs y Dash0 detrás: la apuesta es limpiar la telemetría antes de que llegue a tu backend](../../assets/images/2026-10-09-ollygarden-4m-datadog-grafana-telemetria-mvi.webp)
 
 Si tres de los jugadores más grandes de observabilidad ponen plata en la misma startup pequeña, es porque ven un problema que les está pasando la cuenta a todos: **la telemetría basura**. OllyGarden, startup de Berlín, anunció hoy un round de **US$4 millones** liderado por Next Frontier Capital, Grand Ventures y ACTAI Ventures, con DIG Ventures repitiendo, y — acá lo interesante — **inversiones estratégicas de Datadog, Grafana Labs y Dash0**.
 

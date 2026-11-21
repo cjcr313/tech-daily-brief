@@ -11,7 +11,7 @@ tags:
 description: "Dynatrace Snowflake Observability llegó a GA: 14 dashboards listos para monitorear costos, rendimiento, seguridad, operaciones y calidad de datos del warehouse, sin configuración desde cero."
 ---
 
-![Ilustración editorial tech de observabilidad de datos en la nube: un copo de nieve estilizado de datos conectado con líneas luminosas a paneles de monitoreo con gráficos de costos, rendimiento y calidad de datos, paleta azul profundo y verde menta, ilustración digital profesional limpia sin texto](../../assets/images/2026-10-13-dynatrace-snowflake-observability-ga.jpg)
+![Dynatrace lleva la observabilidad hasta Snowflake: costos, performance y calidad de datos en un solo lugar](../../assets/images/2026-10-13-dynatrace-snowflake-observability-ga.webp)
 
 Dynatrace anunció la disponibilidad general de **Dynatrace Snowflake Observability**, que mete el data warehouse dentro del perímetro de la plataforma vía la app **Dynatrace Data Observability**: visibilidad unificada de **costos, rendimiento, seguridad, operaciones y calidad de datos** — los cinco dominios — con onboarding guiado, recolección automática de telemetría y **14 dashboards preconstruidos**. Cero canvas en blanco.
 

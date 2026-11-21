@@ -11,7 +11,7 @@ tags:
 description: "Bloomberg: DeepSeek está por asegurar al menos ¥80.000 millones (US$12.000M) en su ronda pre-IPO, con Tencent y CATL entre los mayores aportes. El interés explotó tras el lanzamiento de V4.1-Flash y el term sheets firmados podrían llevar el total cerca de los US$15.000M."
 ---
 
-![Ilustración editorial conceptual de una ronda de financiamiento récord: una ballena estilizada de circuitos azules nadando sobre un río de billetes y chips, con siluetas de rascacielos corporativos al fondo, paleta azul profundo y dorado, estilo ilustración editorial profesional sin texto](../../assets/images/2026-10-06-deepseek-12-mil-millones-tencent-catl.jpg)
+![DeepSeek cerraría una ronda de US$12.000 millones respaldada por Tencent: buscaba la mitad y la demanda la triplicó](../../assets/images/2026-10-06-deepseek-12-mil-millones-tencent-catl.webp)
 
 Si alguien dudaba de que DeepSeek es la startup mejor financiada del planeta open-weight, hoy la duda se acabo. Según Bloomberg, **DeepSeek está por asegurar al menos ¥80.000 millones (~US$12.000 millones) en su última ronda**, con Tencent y CATL (el gigante de baterías) entre quienes pusieron los cheques más grandes.
 

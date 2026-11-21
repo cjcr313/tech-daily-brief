@@ -11,7 +11,7 @@ tags:
 description: "El plugin Kueue 0.1.0-alpha para Headlamp agrega vistas de solo lectura para Workloads, ClusterQueues, LocalQueues, ResourceFlavors y Cohorts: depurar por qué un Job batch no parte sin reconstruir el path de admisión a puro YAML."
 ---
 
-![Ilustración editorial isométrica de un panel de control de Kubernetes con un Job atrapado en una fila de espera representada como carriles luminosos que atraviesan colas y compuertas de cuota, un lente de inspección resaltando la sección bloqueada, paleta azul y ámbar sobre fondo oscuro, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-15-kueue-headlamp-plugin-troubleshooting-job-pendiente.jpg)
+![¿Por qué tu Job de Kubernetes sigue pendiente? El nuevo plugin de Kueue para Headlamp deja el kubectl de lado](../../assets/images/2026-10-15-kueue-headlamp-plugin-troubleshooting-job-pendiente.webp)
 
 Escenario conocido por cualquiera que opere workloads batch: lanzas un Job de Kubernetes, pasa un minuto, pasan dos, y nada. El Job sigue **suspendido**, no hay logs de aplicación y muchas veces ni siquiera existe un Pod que inspeccionar. Si tu cluster usa [Kueue](https://kueue.sigs.k8s.io/), esto puede ser completamente normal — y la pregunta correcta no es "¿por qué está pending el Pod?", sino **"¿Kueue ya admitió el Workload?"**.
 

@@ -12,7 +12,7 @@ tags:
 description: "Tras la adquisición de Polar Signals, Dash0 anunció la disponibilidad general de su motor de continuous profiling basado en eBPF, integrado de forma nativa en OpenTelemetry."
 ---
 
-![Ilustración editorial tech de profiling continuo de software con gráficos de llama e eBPF en un panel de observabilidad](../../assets/images/2026-11-14-dash0-continuous-profiling-ga-opentelemetry-ebpf.jpg)
+![Dash0 lanza Continuous Profiling GA: observabilidad de código en producción con eBPF y OpenTelemetry](../../assets/images/2026-11-14-dash0-continuous-profiling-ga-opentelemetry-ebpf.webp)
 
 En el marco de **KubeCon + CloudNativeCon North America 2026**, la plataforma de observabilidad **Dash0** anunció la **disponibilidad general (GA) de su motor de Continuous Profiling** (perfilado continuo de código), una de las piezas más esperadas tras la adquisición estratégica de **Polar Signals** realizada hace unos meses.
 

@@ -12,7 +12,7 @@ tags:
 description: "New Relic abre en public preview su Autopilot Kubernetes Agent: más de 90 detectores diagnósticos, causa raíz y código de remediación generado por IA, con revisión humana."
 ---
 
-![Ilustración editorial de un robot mecánico reparando un grupo de contenedores hexagonales interconectados tipo carga marítima, con timón de Kubernetes](../../assets/images/new-relic-autopilot-kubernetes-agent.jpg)
+![New Relic lanza agente de IA que diagnostica incidentes de Kubernetes y escribe el fix](../../assets/images/new-relic-autopilot-kubernetes-agent.webp)
 
 New Relic sacó a **public preview** el **Autopilot Kubernetes Agent**, un agente especializado que investiga incidentes en clusters, identifica la causa raíz y **genera el código de remediación** para que un ingeniero lo revise y ejecute. La apuesta: embeber IA agéntica directo en el flujo de trabajo del ingeniero, no en otra ventana de chat.
 

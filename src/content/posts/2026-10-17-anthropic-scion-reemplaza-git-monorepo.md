@@ -12,7 +12,7 @@ tags:
 description: "Anthropic migró su monorepo completo fuera de Git a Scion, un sistema interno construido en 5 meses para el flujo de código generado por agentes. Y no lo va a liberar."
 ---
 
-![Ilustración editorial de un monorepo gigante siendo reemplazado por una arquitectura centralizada de servidores, con nodos y ramas de código convergiendo](../../assets/images/2026-10-17-anthropic-scion-reemplaza-git-monorepo.jpg)
+![Anthropic le dijo chao a Git: Scion, su control de versiones interno que aguanta 30.000 merges diarios](../../assets/images/2026-10-17-anthropic-scion-reemplaza-git-monorepo.webp)
 
 La historia se puso de moda esta semana gracias a The New Stack, pero el pieza central es un post de ingeniería de Anthropic: **la empresa migró su monorepo principal completamente fuera de Git** hacia **Scion**, un sistema de control de versiones construido en casa. Y el motivo no es caprich de arquitecto: es que **el código generado por agentes de IA literalmente rompió Git**.
 

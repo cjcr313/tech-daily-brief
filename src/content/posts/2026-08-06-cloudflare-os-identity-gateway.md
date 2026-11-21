@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare sorprende anunciando Cloudflare OS, una plataforma abierta para agentes, y un nuevo Identity-Aware AI Gateway."
 ---
 
-![Cloudflare OS e Identity AI Gateway](../../assets/images/2026-08-06-cloudflare-os-identity-gateway.jpg)
+![Cloudflare OS e Identity AI Gateway](../../assets/images/2026-08-06-cloudflare-os-identity-gateway.webp)
 
 Cloudflare se sigue expandiendo con fuerza en el ecosistema de la inteligencia artificial. Hoy hicieron dos anuncios potentes que apuntan directo a cómo construimos y observamos agentes de IA.
 

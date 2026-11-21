@@ -12,7 +12,7 @@ tags:
 description: "OpenAI publicó un framework sistemático para rastrear, investigar y divulgar instancias de misalignment, junto a seis reportes de comportamiento inesperado de los últimos meses."
 ---
 
-![Ilustración editorial tech de seguridad en IA: una red neuronal abstracta bajo un microscopio con capas de auditoría y hojas de reporte flotando, tonos verde esmeralda y gris acero sobre fondo oscuro, concepto de transparencia y vigilancia de alineamiento](../../assets/images/2026-09-17-openai-framework-reportar-desalineacion-modelos.jpg)
+![OpenAI estrena framework para reportar desalineación de modelos (y publica 6 casos)](../../assets/images/2026-09-17-openai-framework-reportar-desalineacion-modelos.webp)
 
 OpenAI publicó un **framework para rastrear, investigar y divulgar instancias de desalineación (misalignment) de modelos**, acompañado de **seis reportes** sobre comportamientos inesperados o preocupantes observados en los últimos seis meses. Es el intento más explícito hasta ahora de estandarizar cómo un lab de frontera cuenta sus hallazgos de seguridad, incluso cuando no tiene respuestas completas.
 

@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare levantó una restricción de 8 años: los Workers ya no solo sirven HTTP, ahora aceptan conexiones TCP entrantes vía un handler connect(socket), con gRPC como primer protocolo soportado (beta privada)."
 ---
 
-![Ilustración editorial de nodos de borde de red con flujos de datos bidireccionales brillantes conectando contenedores, simbolizando protocolo gRPC sobre TCP, paleta azul y naranja, estilo tech minimalista](../../assets/images/2026-08-29-cloudflare-workers-inbound-tcp-grpc.jpg)
+![Cloudflare Workers ahora aceptan TCP entrante: gRPC es el primer protocolo encima](../../assets/images/2026-08-29-cloudflare-workers-inbound-tcp-grpc.webp)
 
 Ocho años después, se cayó una de las restricciones más viejas de Cloudflare Workers. Desde 2017, un Worker podía **abrir sockets salientes** hacia una base de datos o un servicio, pero como servidor solo entendía **HTTP**. Eso cambió: un nuevo handler `connect(socket)` deja que los Workers **acepten conexiones TCP entrantes**, y **gRPC es lo primero que se construye encima**.
 

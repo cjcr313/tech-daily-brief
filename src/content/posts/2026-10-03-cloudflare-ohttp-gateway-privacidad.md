@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare abre la beta cerrada de su OHTTP Gateway: un add-on self-serve para que los backends reciban requests HTTP sin ver IPs ni fingerprints de los usuarios, sobre el estándar IETF RFC 9458."
 ---
 
-![Ilustración editorial tech de privacidad en la red: un sobre cifrado viajando por dos saltos independientes hacia un servidor, ocultando el rastro del remitente, paleta naranja y gris oscuro con candados estilizados, estilo ilustración editorial profesional](../../assets/images/2026-10-03-cloudflare-ohttp-gateway-privacidad.jpg)
+![Cloudflare lanza su OHTTP Gateway en beta cerrada: privacidad con separación de confianza para recibir requests sin ver la IP del usuario](../../assets/images/2026-10-03-cloudflare-ohttp-gateway-privacidad.webp)
 
 Cloudflare anunció la **beta cerrada de su OHTTP Gateway self-serve**, junto con el renombramiento del clásico Privacy Gateway a **Cloudflare OHTTP Relay**. La idea de fondo: hoy los usuarios cargan con demasiada responsabilidad por su propia privacidad — VPNs, bloquear cookies, adblockers — mientras que los desarrolladores terminan sabiendo más de sus usuarios de lo que quisieran: cada intercambio cliente-servidor deja un rastro con IP, fingerprint TLS y compañía.
 

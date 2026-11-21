@@ -11,7 +11,7 @@ tags:
 description: "Con OpenTelemetry ya graduado en la CNCF, la comunidad mira hacia adelante: convenciones semánticas para GenAI, observabilidad browser/mobile y cero-código con OTel Injector."
 ---
 
-![Ilustración editorial de señales de telemetría convergiendo en un faro radiante sobre una corona de laurel, simbolizando la graduación de OpenTelemetry](../../assets/images/2026-08-31-opentelemetry-graduacion-cncf-ahora-que.jpg)
+![OpenTelemetry ya es proyecto graduado de la CNCF: ¿y ahora qué?](../../assets/images/2026-08-31-opentelemetry-graduacion-cncf-ahora-que.webp)
 
 OpenTelemetry (OTel) ya está en el club grande. La CNCF confirmó en mayo su **graduación**, poniéndolo al nivel de Kubernetes y Prometheus como proyecto maduro. Ahora la comunidad —Adriana Villela y Reese Lee, del End User SIG— publica la pregunta que sigue: **¿y ahora qué?** Y la respuesta es más hoja de ruta que nostalgia.
 

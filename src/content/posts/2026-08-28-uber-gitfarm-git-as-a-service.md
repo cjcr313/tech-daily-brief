@@ -12,7 +12,7 @@ tags:
 description: "Uber abrió GitFarm, una plataforma que ejecuta operaciones Git como servicio centralizado y elimina los clones locales: checkouts en menos de 500 ms y hasta 80% menos consumo de recursos."
 ---
 
-![Ilustración editorial de una granja centralizada de repositorios Git sirviendo operaciones a múltiples servicios a través de una API, estilo tech editorial, sin texto](../../assets/images/2026-08-28-uber-gitfarm-git-as-a-service.jpg)
+![Uber presenta GitFarm: Git como servicio para monorepos gigantes](../../assets/images/2026-08-28-uber-gitfarm-git-as-a-service.webp)
 
 Uber publicó **GitFarm**, una plataforma de *Git como servicio* para ejecutar operaciones Git a través de sus monorepos de gran escala. La idea central: mover las operaciones de repositorio a un servicio compartido y **eliminar los clones locales**, bajando el consumo de recursos en más del 80%.
 

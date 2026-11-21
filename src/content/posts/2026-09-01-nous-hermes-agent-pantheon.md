@@ -11,7 +11,7 @@ tags:
 description: "Hermes Agent v0.21.0 trae Bot Mode con perfiles-agente, chats grupales entre bots y comunicaciones agent-to-agent. 2.475 PRs de 760+ contribuidores."
 ---
 
-![Ilustración editorial de varios agentes de IA conectados en red](../../assets/images/2026-09-01-nous-hermes-agent-pantheon.jpg)
+![Nous Research lanza Hermes Agent v0.21.0 'Pantheon': bots que se hablan entre ellos](../../assets/images/2026-09-01-nous-hermes-agent-pantheon.webp)
 
 Nous Research sacó **Hermes Agent v0.21.0**, bautizado "The Pantheon Release", y el foco está claro: dejar de ver a los agentes como asistentes individuales y empezar a tratarlos como **una red de identidades que conversan entre sí**.
 

@@ -12,7 +12,7 @@ tags:
 description: "Devoteam, la consultora tech de EMEA, se asocia con Dynatrace para combinar su motor de IA Davis, OneAgent y Grail con consultoría hands-on y observabilidad alineada al negocio."
 ---
 
-![Ilustración editorial de un centro de control de observabilidad donde un motor de IA analiza telemetría en tiempo real conectando sistemas técnicos con métricas de negocio](../../assets/images/2026-09-08-devoteam-dynatrace-observabilidad-ia-emea.jpg)
+![Devoteam se alía con Dynatrace para llevar observabilidad impulsada por IA a las empresas de EMEA](../../assets/images/2026-09-08-devoteam-dynatrace-observabilidad-ia-emea.webp)
 
 La consultora europea **Devoteam** anunció una alianza estratégica con **Dynatrace** para empujar observabilidad impulsada por IA en todo el bloque EMEA. La jugada junta la plataforma de Dynatrace con la consultoría hands-on de Devoteam, que ya venía implementando Dynatrace en clientes grandes del sector bancario, utilities y retail de lujo.
 

@@ -11,7 +11,7 @@ tags:
 description: "Gemini 3.8 Flash Cyber llega como el modelo de ciberseguridad más capaz de Google, repartido vía Fairwind a defensores de infraestructura crítica."
 ---
 
-![Ilustración editorial de un escudo de ciberseguridad potenciado por IA](../../assets/images/2026-09-03-gemini-3-8-flash-cyber-fairwind-program.jpg)
+![Google lanza Gemini 3.8 Flash Cyber y el programa Fairwind: la defensa ataca primero](../../assets/images/2026-09-03-gemini-3-8-flash-cyber-fairwind-program.webp)
 
 Google acaba de jugar una ficha fuerte en la pelea por la ciberseguridad con IA: lanzó **Gemini 3.8 Flash Cyber**, que describe como su modelo de ciberseguridad más capaz hasta la fecha, y lo está repartiendo a un grupo selecto de defensores a través de un programa nuevo llamado **Fairwind**.
 

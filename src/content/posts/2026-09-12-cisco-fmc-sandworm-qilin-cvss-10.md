@@ -11,7 +11,7 @@ tags:
 description: "Cisco Talos documentó tres clústeres de atacantes explotando CVE-2026-20079 y CVE-2026-20316 para robar credenciales y desplegar ransomware Qilin sobre el Secure Firewall Management Center."
 ---
 
-![Ilustración editorial de seguridad de red: un firewall corporativo con grietas y luces de alarma rojas, con siluetas de agentes de amenaza al acecho, tonos azul profundo y rojo, concepto abstracto de ciberataque sobre fondo oscuro](../../assets/images/2026-09-12-cisco-fmc-sandworm-qilin-cvss-10.jpg)
+![Cisco FMC bajo fuego: Sandworm y Qilin explotan una falla CVSS 10.0](../../assets/images/2026-09-12-cisco-fmc-sandworm-qilin-cvss-10.webp)
 
 El aparato que se supone protege tu perímetro se convirtió en la puerta de entrada. **Cisco Talos** reveló que al menos **tres clústeres de atacantes** están explotando dos vulnerabilidades en el **Secure Firewall Management Center (FMC)** para robar credenciales, moverse lateralmente y, en un caso, desplegar **ransomware Qilin**.
 

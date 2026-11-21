@@ -11,7 +11,7 @@ tags:
 description: "El equipo detrás de Model Context Protocol define sus prioridades: mensajería agentic, transporte HTTP-native, identidad de agentes y discovery progresivo de herramientas."
 ---
 
-![Ilustración editorial de una red de nodos y conectores convergiendo en carreteras estructuradas de datos](../../assets/images/2026-08-23-mcp-nuevo-roadmap-2026.jpg)
+![MCP publica su nuevo roadmap: cinco frentes para consolidarse como la capa de transporte de los agentes de IA](../../assets/images/2026-08-23-mcp-nuevo-roadmap-2026.webp)
 
 El blog oficial de Model Context Protocol publicó su **nuevo roadmap**, y es una lectura obligada para cualquiera construyendo integraciones de agentes. Después de un primer semestre frenético (la spec 2026-07-28 fue una overhaul a full), los Core Maintainers cerraron el fin de semana con una hoja de ruta de **cinco áreas prioritarias**, cada una con mantenedores responsables y Working Groups detrás.
 

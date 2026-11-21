@@ -11,7 +11,7 @@ tags:
 description: "Samsung fabricará los core dies de memoria en su proceso DRAM 1c, pero los base dies de la HBM custom de Nvidia (NVHBM) los producirá TSMC en 3nm. La primera vez que Samsung externaliza esa parte del stack."
 ---
 
-![Ilustración editorial de un primer plano de una torre de chips de memoria avanzados con una capa lógica esmeralda brillante en la base resaltada y radiando patrones de circuito, dos brazos robóticos armando el stack desde lados opuestos, paisaje de placa de circuito al fondo, paleta verde esmeralda y cobre, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-18-samsung-tsmc-nvidia-hbm-base-dies.jpg)
+![Samsung le encarga a TSMC los base dies de la HBM de Nvidia: alianza inédita por los 3nm](../../assets/images/2026-10-18-samsung-tsmc-nvidia-hbm-base-dies.webp)
 
 La carrera por la memoria HBM tiene un giro inesperado: según el Seoul Economic Daily, **Samsung producirá los core dies de memoria con su proceso DRAM 1c, pero los base dies de la HBM custom de Nvidia (NVHBM) los fabricará TSMC en su proceso lógico de 3nm**. Es la **primera vez que Samsung entrega la producción de base dies de HBM a un tercero** — y el tercero es, justo, su rival más directo.
 

@@ -11,7 +11,7 @@ tags:
 description: "AWS Interconnect - multicloud con Azure ya está GA (Google Cloud y OCI venían antes): circuitos privados administrados entre nubes con la Connection Coordinator API como contrato común. Se acabó la era del DIY con cross-connects."
 ---
 
-![Ilustración editorial de tres nubes conectadas por circuitos luminosos privados](../../assets/images/2026-11-18-aws-interconnect-multicloud-azure-ga.jpg)
+![AWS Interconnect llega a GA con Azure: el triángulo multicloud AWS–Azure–Google queda cerrado](../../assets/images/2026-11-18-aws-interconnect-multicloud-azure-ga.webp)
 
 Después de años de multicloud "a la pinta", donde conectar AWS con Azure significaba pedir cross-connects físicos, configurar BGP en ambos lados y coordinar a tres equipos distintos, hoy el asunto se puso serio: **AWS Interconnect - multicloud con Microsoft Azure ya está generalmente disponible**.
 

@@ -11,7 +11,7 @@ tags:
 description: "Datadog integra capacidades para investigar anomalías de costos directamente desde su asistente con IA, Bits Chat."
 ---
 
-![Imagen de referencia](../../assets/images/2026-08-01-datadog-finops.jpg)
+![Imagen de referencia](../../assets/images/2026-08-01-datadog-finops.webp)
 
 Controlar el gasto en la nube siempre ha sido un cacho, pero Datadog está buscando simplificar la vida usando IA. Acaban de lanzar una nueva **Cloud Cost skill** integrada directamente en **Bits Chat**, su asistente de IA conversacional.
 

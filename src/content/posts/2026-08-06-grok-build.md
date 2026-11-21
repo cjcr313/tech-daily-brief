@@ -10,7 +10,7 @@ tags:
   - DevOps
 description: "xAI presenta Grok Build, un agente de terminal que utiliza el nuevo modelo Grok 4.5 para planificar y ejecutar código con sub-agentes en paralelo."
 ---
-![Grok Build](../../assets/images/2026-08-06-grok-build.jpg)
+![Grok Build](../../assets/images/2026-08-06-grok-build.webp)
 
 La carrera por el mejor agente de código sigue on fire, y ahora xAI (los cabros de Elon Musk) se tiran a la piscina con **Grok Build**. Se trata de un agente de terminal diseñado específicamente para devs, y viene con el motor del recién lanzado **Grok 4.5**.
 

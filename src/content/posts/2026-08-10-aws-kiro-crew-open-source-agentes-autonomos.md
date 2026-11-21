@@ -12,7 +12,7 @@ tags:
 description: "AWS liberó Kiro Crew como open source, una plataforma de orquestación que convierte agentes de IA en equipos de ingeniería persistentes y autónomos."
 ---
 
-![AWS open-sourcea Kiro Crew](../../assets/images/2026-08-10-aws-kiro-crew-open-source-agentes-autonomos.jpg)
+![AWS open-sourcea Kiro Crew](../../assets/images/2026-08-10-aws-kiro-crew-open-source-agentes-autonomos.webp)
 
 AWS acaba de hacer un movimiento bastante interesante: **open-sourceó Kiro Crew**, una plataforma de orquestación diseñada para convertir agentes de código IA en equipos de ingeniería persistentes y autónomos. La idea no es que un bot te autocomplete código, sino que múltiples agentes trabajen juntos en workflows completos de desarrollo.
 

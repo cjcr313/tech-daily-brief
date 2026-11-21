@@ -11,7 +11,7 @@ tags:
 description: "La rama noref-filemap-read-with-llm elimina el conteo de referencias de folios en lecturas pequeñas: de 10M a 33M lecturas por segundo. Torvalds acreditó a Claude Code el código, los tests y hasta el borrador de la carta."
 ---
 
-![Ilustración editorial del pingüino de Linux estilizado trabajando junto a un asistente de IA luminoso sobre el código fuente del kernel, con un page cache representado como bloques de memoria brillantes acelerando, paleta azul y naranja sobre fondo oscuro, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-13-linus-torvalds-claude-code-page-cache-linux.jpg)
+![Linus Torvalds publicó una rama del kernel de Linux co-escrita con Claude Code: casi triplica las lecturas del page cache](../../assets/images/2026-10-13-linus-torvalds-claude-code-page-cache-linux.webp)
 
 Si alguien todavía discute si los agentes de código sirven para algo serio, este fin de semana llegó el contraejemplo definitivo: **Linus Torvalds publicó una rama del kernel de Linux cuya serie de parches fue co-escrita con Claude Code** — sí, el agente de línea de comandos de Anthropic — y los números de performance son cualquier cosa de modestos: **casi 3x de throughput en lecturas pequeñas del page cache**.
 

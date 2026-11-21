@@ -12,7 +12,7 @@ tags:
 description: "El TOC de la CNCF abrió una iniciativa formal para evaluar si MCP puede ser el wire spec por defecto para agentes distribuidos en Kubernetes, con Agent CRDs y gateways."
 ---
 
-![Ilustración editorial tech de un plano de conexión entre nodos de Kubernetes y agentes de IA, con líneas de protocolo y conectores brillantes, tonos púrpura y cian sobre fondo oscuro](../../assets/images/2026-09-22-cncf-evalua-mcp-wire-spec-agentes.jpg)
+![La CNCF evalúa el Model Context Protocol como el estándar de comunicación de agentes en Kubernetes](../../assets/images/2026-09-22-cncf-evalua-mcp-wire-spec-agentes.webp)
 
 La estandarización de los agentes de IA acaba de dar un salto hacia la infraestructura. El **Technical Oversight Committee (TOC) de la CNCF** abrió una iniciativa formal —la **Initiative 1746**— para evaluar si el **Model Context Protocol (MCP)**, creado por Anthropic, puede convertirse en el **wire spec por defecto para sistemas de agentes distribuidos sobre Kubernetes**.
 

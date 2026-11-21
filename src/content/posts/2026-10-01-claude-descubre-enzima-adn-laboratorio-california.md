@@ -10,7 +10,7 @@ tags:
 description: "Anthropic reportó que Claude ayudó a identificar un sistema enzimático jamás caracterizado en el ADN, útil potencialmente para edición génica. Y de paso confirmó que tiene su propio laboratorio biológico en California."
 ---
 
-![Ilustración editorial de una doble hélice de ADN luminosa conectada a un cerebro de circuitos digitales mediante flujos de datos, paleta azul profundo y verde bioluminiscente](../../assets/images/2026-10-01-claude-descubre-enzima-adn-laboratorio-california.jpg)
+![Claude identificó un mecanismo desconocido en el ADN humano — y reveló el laboratorio bio secreto de Anthropic en California](../../assets/images/2026-10-01-claude-descubre-enzima-adn-laboratorio-california.webp)
 
 Noticia de esas que cruzan la IA con ciencia dura: **Anthropic anunció que Claude ayudó a un equipo de investigadores a identificar un sistema enzimático previamente no caracterizado en el ADN humano**, un mecanismo molecular que nadie había descrito antes. Los científicos todavía están averiguando qué hace exactamente y si tiene aplicaciones prácticas, pero la pista inicial apunta a que **podría ser útil para edición génica**.
 

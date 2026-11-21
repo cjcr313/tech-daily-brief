@@ -12,7 +12,7 @@ tags:
 description: "Alibaba Cloud y Cambricon entran como miembros Platinum de la PyTorch Foundation, y Ant Group como Gold, en el primer KubeCon + PyTorch Conference China."
 ---
 
-![Ilustración editorial del open AI stack chino: chips, modelos abiertos y framework PyTorch unidos como piezas de una arquitectura abierta, estilo tech editorial con acentos rojos y dorados](../../assets/images/2026-09-09-pytorch-foundation-alibaba-cambricon-ant.jpg)
+![PyTorch Foundation suma a Alibaba Cloud, Cambricon y Ant Group: China entra de lleno al open AI stack](../../assets/images/2026-09-09-pytorch-foundation-alibaba-cambricon-ant.webp)
 
 La **PyTorch Foundation** (bajo el alero de la Linux Foundation) anunció en Shanghái que **Alibaba Cloud** y **Cambricon** se suman como miembros **Platinum**, mientras que **Ant Group** entra como miembro **Gold**. El anuncio cayó en el marco del primer **KubeCon + CloudNativeCon + OpenInfra Summit + PyTorch Conference China 2026**, y deja una señal clara: los pesos pesados chinos ya no solo consumen PyTorch, también quieren sentarse a la mesa donde se decide su rumbo.
 

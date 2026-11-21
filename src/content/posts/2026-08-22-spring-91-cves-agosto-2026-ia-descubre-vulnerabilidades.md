@@ -11,7 +11,7 @@ tags:
 description: "Broadcom publicó 91 CVEs del ecosistema Spring en un solo día, con más de 200.000 componentes afectados. El driver: la IA aceleró el descubrimiento de vulnerabilidades 1.700% y la cadena de suministro no da abasto."
 ---
 
-![Ilustración editorial de una avalancha de notificaciones de seguridad cayendo sobre una cadena de engranajes de software, estilo tech editorial con paleta oscura y acentos rojos](../../assets/images/2026-08-22-spring-91-cves-agosto-2026-ia-descubre-vulnerabilidades.jpg)
+![91 CVEs de Spring de una sola vez: la IA encuentra bugs más rápido de lo que los absorbemos](../../assets/images/2026-08-22-spring-91-cves-agosto-2026-ia-descubre-vulnerabilidades.webp)
 
 Broadcom soltó el **20 de agosto un megabatch de advisories de seguridad para Spring** y su ecosistema: **91 CVEs** que Sonatype ya indexó, afectando Spring Security, Spring Cloud Config, Spring AI, Spring Data REST, Spring Integration, Reactor Core, Reactor Netty, Spring AMQP y Spring Batch, entre otros. El número que más impresiona: **209.569 componentes afectados** identificados por Sonatype Guide — muchos ni siquiera son de Spring, sino proyectos de terceros que empaquetan código Spring vulnerable adentro.
 

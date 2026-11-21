@@ -10,7 +10,7 @@ tags:
   - IA
 description: "Datadog lanza su MCP Server oficial en el Anthropic Plugin Marketplace, conectando Claude directamente con tu telemetría."
 ---
-![Datadog Anthropic MCP](../../assets/images/2026-08-04-datadog-anthropic-mcp.jpeg)
+![Datadog Anthropic MCP](../../assets/images/2026-08-04-datadog-anthropic-mcp.webp)
 
 La guerra por ser el ecosistema donde viven tus agentes SRE acaba de sumar otro capítulo. Datadog hizo oficial la llegada de su **Datadog MCP Server** directamente al **Anthropic Plugin Marketplace**.
 

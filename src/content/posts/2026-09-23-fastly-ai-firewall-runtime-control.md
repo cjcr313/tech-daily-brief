@@ -12,7 +12,7 @@ tags:
 description: "Fastly mete control de gasto, failover de modelos y firewall anti prompt-injection en línea, justo cuando el 93% de las empresas se pasa del presupuesto de IA."
 ---
 
-![Firewall en el edge filtrando tráfico de IA: un muro de seguridad delante de modelos LLM que inspecciona prompts y enruta llamadas a distintos proveedores](../../assets/images/2026-09-23-fastly-ai-firewall-runtime-control.jpg)
+![Fastly lanza AI Firewall y AI Runtime Control para gobernar la IA en el edge](../../assets/images/2026-09-23-fastly-ai-firewall-runtime-control.webp)
 
 Fastly quiere ser el "control plane" del tráfico de IA que pasa por el edge. La compañía lanzó **AI Runtime Control**, **AI Firewall** y capacidades reforzadas de **API Security**, apuntando al mismo dolor: las empresas ya están en producción con IA, pero sin control de gasto ni de seguridad en tiempo real.
 

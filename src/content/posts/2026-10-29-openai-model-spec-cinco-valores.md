@@ -10,7 +10,7 @@ tags:
 description: "OpenAI reorganizó su Model Spec alrededor de cinco valores (fidelidad a la intención humana, minimización de daño, honestidad, agencia humana y cuidado), jubiló la guía de estilo detallada y renombró 'the assistant' a GPT."
 ---
 
-![Ilustración editorial tech de un documento estructural flotante hecho de capas geométricas concéntricas que emanan de un núcleo luminoso, rodeado de cinco prismas de colores ordenando la luz en haces, sobre fondo azul profundo minimalista, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-10-29-openai-model-spec-cinco-valores.jpg)
+![OpenAI actualiza su Model Spec: ahora todo gira alrededor de cinco valores](../../assets/images/2026-10-29-openai-model-spec-cinco-valores.webp)
 
 Mientras los modelos de OpenAI toman acciones cada vez más consequenciales en el mundo, la empresa actualizó hoy su **Model Spec** — el documento público que describe cómo quiere que se comporten sus modelos. Y el cambio estructural es claro: toda la guía se reorganizó alrededor de **cinco valores fundamentales**.
 

@@ -11,7 +11,7 @@ tags:
 description: "OpenAI notificó el 14 de octubre la deprecación de GPT-4o, GPT-4o mini, GPT-4.1 y GPT-4.1 mini: fuera de la API el 14 de enero de 2027. El reemplazo recomendado es GPT-6 Luna. Quedan ~90 días para migrar."
 ---
 
-![Ilustración editorial tech de una antigua generación de chips y engranajes desvaneciéndose en partículas de luz mientras emerge una nueva generación modular luminosa, paleta azul profundo con acentos verde neón, estilo ilustración tech editorial, sin texto](../../assets/images/openai-retira-gpt-4o-gpt-4-1-api-enero-2027.jpg)
+![OpenAI entierra la era GPT-4: GPT-4o y GPT-4.1 salen de la API el 14 de enero de 2027](../../assets/images/openai-retira-gpt-4o-gpt-4-1-api-enero-2027.webp)
 
 Fin de ciclo: **OpenAI notificó a los desarrolladores que GPT-4o, GPT-4o mini, GPT-4.1 y GPT-4.1 mini salen de la API el 14 de enero de 2027**. El aviso apareció el 14 de octubre en su página de deprecaciones, dejando unos 90 días de plazo para migrar. El modelo recomendado como reemplazo: **GPT-6 Luna**.
 

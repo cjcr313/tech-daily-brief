@@ -11,7 +11,7 @@ tags:
 description: "Atacantes combinan CVE-2026-42018, CVE-2026-42016 y CVE-2026-82329 para escalar de un token anónimo a administrador total y plantar backdoors en instancias self-hosted."
 ---
 
-![Ilustración editorial de cadena de suministro de software: un repositorio de artefactos con un candado roto y piezas de un rompecabezas encajando hacia una llave dorada de administrador, tonos azul profundo y rojo, concepto abstracto de escalada de privilegios sobre fondo oscuro](../../assets/images/2026-09-12-jfrog-artifactory-toma-control-admin.jpg)
+![JFrog Artifactory: encadenan tres fallas para tomarse el control de admin](../../assets/images/2026-09-12-jfrog-artifactory-toma-control-admin.webp)
 
 Si tu pipeline de CI/CD pasa por un **Artifactory self-hosted**, esto te toca directo. Investigadores documentaron ataques activos que **encadenan tres vulnerabilidades** para pasar de cero a **control administrativo total**, y de ahí a plantar backdoors en los repositorios.
 

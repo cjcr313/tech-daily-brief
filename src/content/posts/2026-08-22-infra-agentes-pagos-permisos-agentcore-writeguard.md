@@ -11,7 +11,7 @@ tags:
 description: "AWS lanzó AgentCore Payments en GA y Cloudflare presentó WriteGuard en beta privada. Los agentes IA pasan de 'chatbot con scripts' a plataforma distribuida con billing, estado y permisos de escritura."
 ---
 
-![Ilustración de agentes IA como orbes luminosos cruzando puertas de permisos con candados y flujos de pagos por tokens](../../assets/images/2026-08-22-infra-agentes-pagos-permisos-agentcore-writeguard.svg)
+![La infraestructura de agentes madura: pagos autónomos (AgentCore Payments GA) y permisos de escritura (Cloudflare WriteGuard)](../../assets/images/2026-08-22-infra-agentes-pagos-permisos-agentcore-writeguard.svg)
 
 Los agentes IA están dejando de ser "chatbot con scripts" para convertirse en sistemas distribuidos de verdad. Y como todo sistema distribuido que se respeta, necesitan las primitivas aburridas pero críticas: **billing, estado de larga duración y permisos**. Esta semana llegaron movimientos concretos en las tres.
 

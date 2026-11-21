@@ -11,7 +11,7 @@ tags:
 description: "Datadog creció 35% interanual y su Infrastructure Monitoring superó los US$2.000M en ARR, pero renovaciones anticipadas de clientes IA y un mayor cliente más austero ensombrecieron la guía del Q4: la acción cayó más de 10%."
 ---
 
-![Ilustración editorial tech de un dashboard de observabilidad luminoso con gráficos ascendentes que cruzan una línea de meta marcada por un arco de luz, mientras una línea roja descendente se refleja en un panel bursátil al fondo, paleta azul y verde con acentos rojos sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-11-05-datadog-q3-2026-arr-infra-desplome.jpg)
+![Datadog Q3 2026: US$1.197M de ingresos, US$2.000M de ARR en infraestructura… y la acción se desploma](../../assets/images/2026-11-05-datadog-q3-2026-arr-infra-desplome.webp)
 
 Datadog reportó ayer su Q3 2026 y, a punta de números, fue un trimestre para enmarcar: **US$1.197 millones de ingresos, +35% interanual**, por sobre el techo de su propia guía. Margen operativo no-GAAP de **28%** (vs 23% hace un año) y free cash flow de US$251M. Y aun así, el mercado le bajó el pulgar: **la acción se desplomó más de 10%** después del anuncio. ¿El motivo? Todo lo que no está en el retrovisor.
 

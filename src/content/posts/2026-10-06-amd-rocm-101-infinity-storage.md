@@ -11,7 +11,7 @@ tags:
 description: "AMD lanzó ROCm 10.1 con AMD Infinity Storage y hipFILE mejorado (backend async fast-path, batch I/O, estadísticas multi-tier), hipThreads para acelerar código threaded sin reescribirlo, LLVM 24, y amd-smi reemplazando definitivamente a rocmsmi con visibilidad de pods de Kubernetes."
 ---
 
-![Ilustración editorial conceptual de un stack de software de GPU: autopistas de datos luminosas fluyendo entre chips y unidades de almacenamiento estilizadas sobre una placa base, con un medidor de flujo brillante en el centro, paleta roja y gris oscura, estilo ilustración editorial profesional sin texto](../../assets/images/2026-10-06-amd-rocm-101-infinity-storage.jpg)
+![AMD ROCm 10.1: la apuesta ya no es el compute puro, es el cuello de botella del movimiento de datos](../../assets/images/2026-10-06-amd-rocm-101-infinity-storage.webp)
 
 AMD acaba de liberar **ROCm 10.1**, manteniendo el ciclo de release de seis semanas que prometió con ROCm 10.0 (fines de agosto). Y aunque suena a version patch, la tesis de fondo es mas interesante: **AMD cree que el próximo cuello de botella del entrenamiento de IA no es el compute, sino mover los datos** — y esta versión apunta directo ahí.
 

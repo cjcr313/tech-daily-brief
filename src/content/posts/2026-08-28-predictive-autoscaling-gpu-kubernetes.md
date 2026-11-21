@@ -12,7 +12,7 @@ tags:
 description: "Dos ingenieros de Adobe construyeron un controlador que predice demanda 10 minutos antes y pre-provisiona GPUs, después de que el autoscaling reactivo los dejara con 20% de errores en producción."
 ---
 
-![Ilustración editorial de una granja de GPUs con nodos encendiéndose en olas ordenadas antes de una ola de tráfico, estilo tech editorial, sin texto](../../assets/images/2026-08-28-predictive-autoscaling-gpu-kubernetes.jpg)
+![Autoscaling predictivo para GPUs en Kubernetes: por qué el HPA reactivo llega tarde](../../assets/images/2026-08-28-predictive-autoscaling-gpu-kubernetes.webp)
 
 Se repite en todas partes: el pager suena de madrugada, un servicio se cae bajo tráfico y el autoscaling, que se supone debía salvarte, llega tarde. Dos ingenieros de Adobe (Ramkumar Nagaraj y Bingi Narasimha Karthik, ambos Golden Kubestronaut) contaron en el blog del CNCF cómo les pasó exactamente eso con workloads de GPU, y qué construyeron para que no volviera a pasar.
 

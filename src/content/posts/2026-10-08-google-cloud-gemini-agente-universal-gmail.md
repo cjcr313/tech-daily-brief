@@ -11,7 +11,7 @@ tags:
 description: "En Gemini at Work 2026, Google Cloud presentó un agente empresarial que trabaja por horas o días, coordina sub-agentes y llega a Workspace, Microsoft 365 y Slack — cada uno con su propia cuenta Gmail, calendario y Drive."
 ---
 
-![Ilustración de un asistente robótico amigable en el centro orbitado por iconos de correo, calendario, archivos y chats conectados a nubes empresariales, degradado azul violeta, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-08-google-cloud-gemini-agente-universal-gmail.jpg)
+![Google Cloud lanza el agente Gemini 'universal': persiste días, orquesta sub-agentes y tiene su propio Gmail](../../assets/images/2026-10-08-google-cloud-gemini-agente-universal-gmail.webp)
 
 En su evento **Gemini at Work 2026**, Google Cloud hizo una apuesta fuerte por el trabajo agentico de larga duración: un **agente Gemini "universal" para empresas** que no vive dentro de una conversación, sino que **persiste por horas o días**, orquesta sub-agentes y se conecta con **Google Workspace, Microsoft 365 y Slack**.
 

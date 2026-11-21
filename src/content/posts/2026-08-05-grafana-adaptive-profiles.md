@@ -10,7 +10,7 @@ tags:
   - DevOps
 description: "La nueva función de Adaptive Profiles en Grafana promete reducir drásticamente los costos de observabilidad."
 ---
-![Grafana Adaptive Profiles](../../assets/images/2026-08-05-grafana-adaptive-profiles.jpg)
+![Grafana Adaptive Profiles](../../assets/images/2026-08-05-grafana-adaptive-profiles.webp)
 
 Mantener la observabilidad a raya sin que los costos de cloud se disparen es el pan de cada día, y Grafana Labs acaba de lanzar un salvavidas. Han añadido **Adaptive Profiles** a su suite de observabilidad.
 

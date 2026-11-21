@@ -13,7 +13,7 @@ tags:
 description: "Black Hat USA 2026 marcó un quiebre: se acabó el 'AI-powered' como marketing y entró la conversación sobre gobernanza, observabilidad de agentes y controles reales. 39 empresas dedicadas exclusivamente a seguridad de IA."
 ---
 
-![Black Hat 2026 - IA Security](../../assets/images/placeholder.jpg)
+![Black Hat 2026 - IA Security](../../assets/images/placeholder.webp)
 
 El Black Hat USA 2026 cerró esta semana y el resumen es claro: **la IA dejó de ser el futuro para convertirse en el problema operativo de hoy**. La conversación cambió fundamentalmente — menos hype, más "¿cómo aseguramos esto que ya está corriendo en producción?"
 

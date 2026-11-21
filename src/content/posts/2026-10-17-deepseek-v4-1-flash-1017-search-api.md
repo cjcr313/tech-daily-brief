@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek actualizó su modelo Flash: DeepSWE 77.0, Terminal-Bench 4.0 en 42.3 y outputs más cortos al mismo precio. Además abrió su motor de búsqueda in-house como API para filtrar spam SEO."
 ---
 
-![Ilustración editorial de un motor de búsqueda de IA representado como una red global filtrando resultados de calidad sobre un fondo de datos](../../assets/images/2026-10-17-deepseek-v4-1-flash-1017-search-api.jpg)
+![DeepSeek V4.1-Flash-1017: mismo precio, más agentic, y de paso abre su buscador interno como API](../../assets/images/2026-10-17-deepseek-v4-1-flash-1017-search-api.webp)
 
 DeepSeek empezó el día con doble anuncio en su [changelog oficial](https://api-docs.deepseek.com/updates/): un checkpoint nuevo de su modelo Flash enfocado en trabajo agentic, y la apertura de su motor de búsqueda interno como API. Vamos por partes.
 

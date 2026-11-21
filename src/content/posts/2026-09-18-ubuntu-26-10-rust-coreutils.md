@@ -13,7 +13,7 @@ tags:
 description: "Ubuntu movió los últimos tres comandos GNU —cp, mv y rm— a la implementación en Rust de uutils, cerrando la migración completa de sus coreutils."
 ---
 
-![Ilustración editorial tech: engranajes y bloques de terminal Linux transformándose de un material metálico oscuro a un metal naranja óxido, con el cangrejo de Rust como figura abstracta en el fondo, tonos naranja oxidado y gris acero sobre fondo oscuro, concepto de migración de herramientas a Rust](../../assets/images/2026-09-18-ubuntu-26-10-rust-coreutils.jpg)
+![Ubuntu 26.10 completa su 'rustificación': cp, mv y rm se pasan a Rust](../../assets/images/2026-09-18-ubuntu-26-10-rust-coreutils.webp)
 
 Canonical dio el paso que venía cocinando hace rato: **Ubuntu 26.10 "Stonking Stingray" ya no usa GNU Core Utilities en su stack base**. Los últimos tres comandos que seguían en su versión GNU —`cp`, `mv` y `rm`— se movieron a la implementación de **uutils coreutils**, escrita en Rust. Con eso, la "rustificación" del sistema base queda completa.
 

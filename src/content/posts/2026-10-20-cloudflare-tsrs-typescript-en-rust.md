@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare, VoidZero y Max Schwenk publicaron tsrs, un port del compilador de TypeScript a Rust: hasta 8x más rápido y 70% menos memoria que TypeScript 7.0, incubado dentro del proyecto Oxc y sin forkear el lenguaje. Se instala con npm."
 ---
 
-![Ilustración editorial tech de un cangrejo mecánico de metal naranja que reescribe bloques de código azul luminoso transformándolos en engranajes de acero brillante dentro de una forja futurista, chispas de luz, siluetas de desarrolladores observando de espaldas, paleta azul profundo con acentos naranja oxidado, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/cloudflare-tsrs-typescript-en-rust.jpg)
+![Cloudflare y VoidZero presentan tsrs: el compilador de TypeScript portado a Rust, hasta 8x más rápido](../../assets/images/cloudflare-tsrs-typescript-en-rust.webp)
 
 Después del port de TypeScript a Go (el TypeScript nativo 7.x que ya lo hacía 10x más rápido), uno pensaría que el tema estaba cerrado. No lo está: **Cloudflare y VoidZero están colaborando con Max Schwenk (de Owner.com) en `tsrs`, un port del compilador de TypeScript a Rust** — y los números prometen: **hasta 8x más rápido y ~70% menos memoria que TypeScript 7.0**, usando la misma cantidad de workers de type-check.
 

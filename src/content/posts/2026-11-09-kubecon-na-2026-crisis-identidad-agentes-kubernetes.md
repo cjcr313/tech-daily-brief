@@ -11,7 +11,7 @@ tags:
 description: "KubeCon + CloudNativeCon NA abre hoy en Salt Lake City con una tensión de fondo: los agentes de IA corren en clusters pero comparten identidad de service account, y nadie puede probar cuál hizo qué."
 ---
 
-![Ilustración editorial tech de un clúster Kubernetes estilizado como grilla hexagonal luminosa con varios agentes de IA idénticos operando dentro y un signo de interrogación flotando sobre sus identidades, paleta azul profundo y cian, estilo ilustración profesional sin texto](../../assets/images/kubecon-na-2026-crisis-identidad-agentes-kubernetes.jpg)
+![KubeCon NA 2026 arranca hoy: la gran pregunta es por qué Kubernetes no puede decir qué agente de IA hizo qué](../../assets/images/kubecon-na-2026-crisis-identidad-agentes-kubernetes.webp)
 
 Arrancó **KubeCon + CloudNativeCon North America 2026** en el Salt Palace de Salt Lake City (9 al 12 de noviembre). Y si esperabas que la nota dominante fuera otra pelea de schedulers de GPU, prepárate: la pregunta que organiza esta edición es más incómoda — **cuando un agente de IA dentro del cluster toma una acción con consecuencias, ¿puedes probar cuál fue?**
 

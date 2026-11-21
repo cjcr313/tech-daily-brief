@@ -12,7 +12,7 @@ tags:
 description: "Google Kubernetes Engine 1.37 trae scale-to-zero nativo integrado en el control plane, eliminando la necesidad de operadores extra como KEDA para cargas batch, event-driven y entornos de desarrollo."
 ---
 
-![Ilustración editorial: un clúster de Kubernetes con pods que se apagan hasta cero réplicas y un medidor que rebota al detectar demanda, estilo tech editorial limpio](../../assets/images/2026-09-25-gke-scale-to-zero-nativo-kubernetes.jpg)
+![GKE 1.37 habilita scale-to-zero nativo: adiós a KEDA para cargas esporádicas](../../assets/images/2026-09-25-gke-scale-to-zero-nativo-kubernetes.webp)
 
 Google le pegó el palo al gato a uno de los dolores más viejos del cloud-native: las cargas de trabajo que corren de forma esporádica (batch, workers event-driven, entornos de desarrollo) pero que **siguen consumiendo cómputo mientras esperan pega**. En **GKE 1.37**, la respuesta es un **scale-to-zero nativo**, integrado directo en el control plane.
 

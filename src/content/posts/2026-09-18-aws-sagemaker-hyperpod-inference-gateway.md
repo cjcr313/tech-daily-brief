@@ -12,7 +12,7 @@ tags:
 description: "AWS presentó un gateway de inferencia Kubernetes-native que reduce la latencia del primer token hasta en 82% usando señales de GPU en tiempo real."
 ---
 
-![Ilustración de un gateway de inferencia enrutando solicitudes LLM hacia pods GPU en un clúster Kubernetes](../../assets/images/2026-09-18-aws-sagemaker-hyperpod-inference-gateway.jpg)
+![Ilustración de un gateway de inferencia enrutando solicitudes LLM hacia pods GPU en un clúster Kubernetes](../../assets/images/2026-09-18-aws-sagemaker-hyperpod-inference-gateway.webp)
 
 AWS anunció hoy **Amazon SageMaker HyperPod Inference Gateway**, un sistema de enrutamiento Kubernetes-native y GPU-aware para servir modelos de lenguaje a escala. Se instala como un add-on administrado sobre Amazon EKS, reutilizando la infraestructura HyperPod que ya tengas corriendo.
 

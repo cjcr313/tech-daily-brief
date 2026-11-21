@@ -11,7 +11,7 @@ tags:
 description: "OpenAI confirmó que en diciembre ChatGPT y Codex compartirán un solo allowance de tokens para Plus, Pro y Business. Las sesiones pesadas de código comerán el mismo presupuesto que el chat."
 ---
 
-![Ilustración editorial tech de dos corrientes de tokens brillantes que se fusionan en un solo medidor de presupuesto compartido, estilo geométrico minimalista, degradado violeta y azul, profesional, sin texto](../../assets/images/2026-11-01-openai-chatgpt-codex-pool-unificado-diciembre.jpg)
+![OpenAI unificará el uso de ChatGPT y Codex en un solo pool desde diciembre](../../assets/images/2026-11-01-openai-chatgpt-codex-pool-unificado-diciembre.webp)
 
 OpenAI confirmó el 31 de octubre un cambio que va a reordenar cómo varios equipos usan sus suscripciones: **desde diciembre, ChatGPT y Codex consumirán de un único pool compartido de tokens** para los planes Plus, Pro y Business, reemplazando los presupuestos separados por producto que existen hoy.
 

@@ -12,7 +12,7 @@ tags:
 description: "AWS Emulator replica las APIs de AWS en tu laptop, gratis y sin cuenta. El twist: todo el código lo escribieron agentes autónomos, con licencia CC0 en GitHub."
 ---
 
-![Ilustración editorial de un computador portátil proyectando una nube holográfica en miniatura sobre el escritorio, con pequeños robots ensamblando bloques de infraestructura](../../assets/images/aws-emulator-nube-local-agentes-ia.jpg)
+![AWS lanzó un emulador gratis de su nube… escrito completo por agentes de IA](../../assets/images/aws-emulator-nube-local-agentes-ia.webp)
 
 AWS sorprendió esta semana con el lanzamiento de **AWS Emulator**: un emulador local y gratuito de sus APIs en la nube. Apuntas el AWS CLI o cualquier SDK a un endpoint HTTPS local (puerto 9297) y pruebas tu aplicación contra "AWS" desde tu propia máquina, **sin cuenta de AWS y sin costo**. Solo pagas cuando despliegas de verdad en la nube.
 

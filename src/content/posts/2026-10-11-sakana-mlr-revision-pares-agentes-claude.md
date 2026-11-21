@@ -10,7 +10,7 @@ tags:
 description: "El sistema MLR de Sakana AI detectó 73,43% de contradicciones plantadas en papers de conferencias reales — 5x el mejor sistema previo. El asterisco: con papers de arXiv retirados de verdad, cae a 16%. La revisión por pares con IA llega, pero con letra chica."
 ---
 
-![Ilustración editorial de tres robots revisores con lupas examinando una gran pila de papers académicos flotantes, marcando errores con luz roja y verificaciones verdes, paleta azul oscuro con acentos violeta, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-11-sakana-mlr-revision-pares-agentes-claude.jpg)
+![Sakana AI pone tres agentes de Claude a revisar papers y caza el 73% de los errores plantados](../../assets/images/2026-10-11-sakana-mlr-revision-pares-agentes-claude.webp)
 
 Sakana AI — el laboratorio japonés ya conocido por su trabajo en orquestación de agentes y ciencia autónoma — publicó **MLR (Multi-Layered Review)**, un sistema de revisión por pares asistida por LLM que imita cómo un buen revisor humano estructura su trabajo: primero entender a fondo, recién después criticar. El resultado de cabeza: **detectó el 73,43% de los errores plantados que afectan el claim central de un paper**, contra el **14,81%** del mejor sistema previo (AgentReview). Cinco veces mejor suena bien… hasta leer el asterisco.
 

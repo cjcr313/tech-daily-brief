@@ -11,7 +11,7 @@ tags:
 description: "State of Observability 2026 de Dynatrace: 87% ya usa agentes de IA en operaciones, pero solo 27% tiene visibilidad de cómo deciden. La brecha entre ambición y ejecución."
 ---
 
-![Ilustración editorial de un brazo robótico de IA operando una sala de control con dashboards luminosos mientras una persona supervisa con lupa](../../assets/images/dynatrace-state-observability-2026-brecha-ia.jpg)
+![Dynatrace: la ambición de IA en observabilidad corre más rápido que la ejecución](../../assets/images/dynatrace-state-observability-2026-brecha-ia.webp)
 
 Dynatrace publicó su informe **State of Observability 2026** — encuesta a 1.202 líderes tecnológicos de empresas en 12 países, levantada en agosto — y el hallazgo central confirma una tensión que se venía barruntando: **las organizaciones están delegando operaciones en agentes de IA más rápido de lo que pueden verificarlos**.
 

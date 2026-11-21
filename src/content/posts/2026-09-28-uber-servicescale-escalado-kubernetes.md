@@ -13,7 +13,7 @@ tags:
 description: "Uber detalla su controlador ServiceScale, que separa la intención de escalado de su ejecución para que varios orquestadores manejen los mismos workloads de Kubernetes."
 ---
 
-![Ilustración editorial de varios orquestadores enviando señales de escalado a un controlador central que ajusta la cantidad de pods en un clúster Kubernetes distribuido](../../assets/images/2026-09-28-uber-servicescale-escalado-kubernetes.jpg)
+![Uber separa la intención del escalado: ServiceScale, su nuevo controlador de Kubernetes](../../assets/images/2026-09-28-uber-servicescale-escalado-kubernetes.webp)
 
 Uber publicó un post técnico bien jugoso sobre cómo evolucionó su plataforma de cómputo: pasó de un único orquestador de escalado a un modelo donde **varios orquestadores pueden controlar el escalado de los mismos workloads de Kubernetes** de forma segura. La pieza, escrita por los ingenieros Egor Grishechko y Srikar Paruchuru, explica el porqué y el cómo del nuevo controlador **ServiceScale**.
 

@@ -11,7 +11,7 @@ tags:
 description: "Un evento eléctrico en la zona europe-west2-b de Londres dejó fuera de servicio a 36 productos de Google Cloud —GKE, Cloud SQL, BigQuery, Cloud Storage— y se llevó puesto a Revolut. Lección de siempre: la región que no diseñaste para fallar, falla."
 ---
 
-![Ilustración editorial tech del skyline de Londres nocturno con un data center isométrico donde un sector quedó a oscuras con luces de alerta rojas parpadeantes, ingenieros con cascos respondiendo con linternas, paleta azul profundo con acentos rojos y ámbar, estilo ilustración tecnológica profesional dramática, sin texto](../../assets/images/2026-10-21-google-cloud-caida-londres-europe-west2.jpg)
+![Google Cloud se cae en Londres: 'power event' en europe-west2 tumbó 36 servicios y hasta Revolut](../../assets/images/2026-10-21-google-cloud-caida-londres-europe-west2.webp)
 
 El martes a las **07:08 hora del Reino Unido** se apagó media nube londinense. Google confirmó un **"power event" en la zona europe-west2-b** que dejó servicios de esa availability zone totalmente caídos y disparó errores elevados y fallas de red intermitentes en el resto de la región **europe-west2** (Londres). Nada menos que **36 productos** aparecían en la página de salud: Compute Engine, **GKE**, **Cloud SQL**, Cloud Storage, **BigQuery**, Cloud Run, Spanner, Pub/Sub, App Engine... prácticamente el catálogo completo.
 

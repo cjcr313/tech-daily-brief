@@ -12,7 +12,7 @@ tags:
 description: "La startup de scraping optimizado para agentes cierra una Serie B de $75M y apunta a su servicio de licenciamiento de datos Alexandria."
 ---
 
-![Araña robótica de datos tejiendo una red sobre páginas web, con documentos PDF flotando y nodos de extracción brillantes](../../assets/images/2026-09-23-firecrawl-75m-serie-b-web-scraping-agentes.jpg)
+![Firecrawl levanta $75M para que los agentes de IA lean la web](../../assets/images/2026-09-23-firecrawl-75m-serie-b-web-scraping-agentes.webp)
 
 El scraping dejó de ser un script sucio en Python para convertirse en **la capa de entrada de datos de los agentes de IA**. Y Firecrawl acaba de levantar una ronda grande para dominar ese espacio.
 

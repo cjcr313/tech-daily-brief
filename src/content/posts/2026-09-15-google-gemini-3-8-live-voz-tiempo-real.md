@@ -12,7 +12,7 @@ tags:
 description: "Google DeepMind presentó dos modelos de audio en vivo —Gemini 3.8 Live y Live Extended Thinking— y el segundo se quedó con el #1 del ranking de calidad speech-to-speech de Artificial Analysis."
 ---
 
-![Ilustración editorial de un asistente de voz con ondas de audio y red neuronal, conversación en tiempo real, tonos azul profundo y púrpura, estilo vectorial plano minimalista](../../assets/images/2026-09-15-google-gemini-3-8-live-voz-tiempo-real.jpg)
+![Google lanza Gemini 3.8 Live: voz en tiempo real que quiere dejar de sonar a robot](../../assets/images/2026-09-15-google-gemini-3-8-live-voz-tiempo-real.webp)
 
 Google sigue con el ritmo frenético de lanzamientos este 2026 y ahora le tocó al audio. **Google DeepMind presentó dos modelos de diálogo en vivo**: **Gemini 3.8 Live** y **Gemini 3.8 Live Extended Thinking**. La jugada apunta directo a los voice agents, ese terreno donde la experiencia todavía se siente más a central telefónica que a conversación real.
 

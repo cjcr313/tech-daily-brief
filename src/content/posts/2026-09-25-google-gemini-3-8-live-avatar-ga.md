@@ -12,7 +12,7 @@ tags:
 description: "Gemini 3.8 Live con Live Avatar ya está disponible de forma general en Gemini Enterprise: avatares de video con sincronización labial, diálogo nativo voz-a-voz y comprensión visual en vivo."
 ---
 
-![Ilustración editorial: un avatar de video conversacional con sincronización labial sobre un kiosco interactivo, ondas de audio y un flujo de cámara en vivo, tonos azul profundo y acentos violeta, estilo tech editorial](../../assets/images/2026-09-25-google-gemini-3-8-live-avatar-ga.jpg)
+![Google Cloud lleva Gemini 3.8 Live con Live Avatar a disponibilidad general](../../assets/images/2026-09-25-google-gemini-3-8-live-avatar-ga.webp)
 
 Google Cloud sigue empujando su apuesta por la voz y el video conversacional: **Gemini 3.8 Live con Live Avatar** pasó de preview a **disponibilidad general (GA)** en Gemini Enterprise. La tecnología se había mostrado por primera vez en Google Cloud Next 2026 y ahora está lista para producción enterprise.
 

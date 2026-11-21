@@ -12,7 +12,7 @@ tags:
 description: "La alianza mete modelos abiertos Nemotron dentro de Palantir Foundry y AIP para optimizar cadenas de suministro críticas, con el primer despliegue en la propia supply chain de NVIDIA."
 ---
 
-![Ilustración editorial de una cadena de suministro industrial orquestada por IA: racks de GPU, rutas logísticas y un grafo de datos conectando piezas, proveedores y decisiones, estilo tech editorial con acentos en verde y azul](../../assets/images/2026-09-10-nvidia-palantir-ia-soberana-supply-chain.jpg)
+![NVIDIA y Palantir arman un stack de IA soberana para cadenas de suministro (empezando por la propia NVIDIA)](../../assets/images/2026-09-10-nvidia-palantir-ia-soberana-supply-chain.webp)
 
 Este **10 de septiembre** NVIDIA y Palantir anunciaron una colaboración para llevar **IA soberana a cadenas de suministro críticas**, y el primer cliente es nada menos que NVIDIA misma. La jugada mete los **modelos abiertos Nemotron** dentro de **Palantir Foundry** y **AIP**, todo anclado en la **Ontology** de Palantir para que la organización mantenga el control y la propiedad de sus datos.
 

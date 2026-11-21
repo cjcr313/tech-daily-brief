@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare sumó detección de transacciones completas a su WAF: correlaciona cada request con su response para confirmar exploits exitosos y exposición de datos. Disponible para todos los planes, incluido Free."
 ---
 
-![Ilustración editorial tech de un firewall web inspeccionando tanto la petición como la respuesta HTTP para detectar exploits exitosos](../../assets/images/cloudflare-waf-deteccion-transacciones.jpg)
+![El WAF de Cloudflare ahora también lee las respuestas: detección de transacciones completas, hasta en el plan Free](../../assets/images/cloudflare-waf-deteccion-transacciones.webp)
 
 El WAF de Cloudflare llevaba años mirando solo la mitad de la película: el request. Ahora puede **correlacionar cada petición con su respuesta** para responder dos preguntas a la vez: "¿este request se ve malicioso?" y — la clave — **"¿qué pasó cuando la aplicación lo procesó?"**. Y la capacidad viene con dos piezas: detección de transacciones completas y **response rules** que pueden bloquear la respuesta del origen antes de que llegue al atacante.
 

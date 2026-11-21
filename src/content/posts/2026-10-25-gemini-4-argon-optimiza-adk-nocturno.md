@@ -11,7 +11,7 @@ tags:
 description: "Google corrió Gemini 4 Argon 11 horas sin supervisión sobre el codebase del Agent Development Kit: filtró sesiones y lazy loading lograron -40% de overhead y -21% en imports. Cuatro cambios fueron rechazados en revisión."
 ---
 
-![Ilustración editorial de un robot ingeniero trabajando de noche frente a pantallas con código y gráficos de rendimiento](../../assets/images/2026-10-25-gemini-4-argon-optimiza-adk-nocturno.jpg)
+![Google dejó a Gemini 4 Argon optimizando su ADK toda la noche: 200K líneas de Python, dos PRs aceptados y 40% menos overhead](../../assets/images/2026-10-25-gemini-4-argon-optimiza-adk-nocturno.webp)
 
 Google publicó un experimento que vale la pena leerse dos veces: dejaron a **Gemini 4 Argon** corriendo **11 horas sin supervisión** sobre el codebase de su propio Agent Development Kit (ADK) — más de **200.000 líneas de Python en ~800 archivos, con casi 17.000 tests unitarios** — con una sola misión: que el framework deje de agregar overhead perceptible a los agentes que corre.
 

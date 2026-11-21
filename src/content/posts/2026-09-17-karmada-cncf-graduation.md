@@ -12,7 +12,7 @@ tags:
 description: "Karmada, el proyecto de orquestación multi-cluster y multi-cloud, alcanzó la graduación de la CNCF, el máximo nivel de madurez del ecosistema."
 ---
 
-![Ilustración editorial tech: múltiples clústeres de Kubernetes como planetas orbitando en armonía alrededor de un núcleo central de control, con líneas de conexión brillantes, tonos azul profundo y violeta sobre fondo oscuro, concepto de orquestación multi-cluster](../../assets/images/2026-09-17-karmada-cncf-graduation.jpg)
+![Karmada se gradúa en la CNCF: el orquestador multi-cluster de Kubernetes llega a la élite](../../assets/images/2026-09-17-karmada-cncf-graduation.webp)
 
 **Karmada**, el proyecto open source de orquestación multi-cluster y multi-cloud sobre Kubernetes, alcanzó la **graduación de la Cloud Native Computing Foundation (CNCF)**, el máximo nivel de madurez del ecosistema. El anuncio llegó en el marco de KubeCon + CloudNativeCon, y lo posiciona en el selecto grupo de proyectos que la fundación considera listos para producción a escala empresarial.
 

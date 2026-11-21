@@ -12,7 +12,7 @@ tags:
 description: "Splunk open-sourceó Token Meter, un dashboard local que lee los logs de Claude Code y Codex para mostrar en vivo el costo y la actividad de las sesiones de agentes de IA."
 ---
 
-![Ilustración editorial de un dashboard local de observabilidad monitoreando el gasto de agentes de código IA: paneles con métricas de tokens y costos flotando sobre líneas de código brillantes, tonos azul profundo y ámbar sobre fondo oscuro](../../assets/images/2026-09-19-splunk-token-meter-open-source.jpg)
+![Splunk libera Token Meter, su herramienta open source para vigilar el gasto de los agentes de código](../../assets/images/2026-09-19-splunk-token-meter-open-source.webp)
 
 Splunk (el brazo de Cisco) acaba de abrir una pieza que va directo al bolsillo de los equipos que ya están corriendo agentes de código a diario. **Token Meter** es una herramienta open source que lee los *trace logs* que Claude Code, Codex y otros agentes dejan en disco, y los convierte en una vista en vivo de **cuántos tokens se gastan, cuánto cuesta la sesión y en qué se fue el tiempo**.
 

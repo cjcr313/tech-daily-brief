@@ -12,7 +12,7 @@ tags:
 description: "Kubernetes v1.37 trae containerd 2.0 obligatorio, cgroup v2 forzado y DRA para GPUs. Tres breaking changes que van a romper clústeres si no te preparas."
 ---
 
-![Imagen de referencia](../../assets/images/2026-07-14-k8s-137-cover.jpg)
+![Imagen de referencia](../../assets/images/2026-07-14-k8s-137-cover.webp)
 
 Kubernetes v1.37 sale el **26 de agosto de 2026** y trae **tres cambios breaking** que silenciosamente van a romper tu clúster durante el upgrade si los ignoras. Lo peor: los tres se anunciaron en el ciclo v1.35, así que ya llevan tiempo avisando, pero la mayoría de los equipos no ha hecho nada.
 

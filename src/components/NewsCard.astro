@@ -1,7 +1,10 @@
 ---
+import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
 import { getPostUrl } from "@/utils/getPostPaths";
 import { getPostCover } from "@/utils/postCover";
+import { getCategoryMeta } from "@/utils/categories";
+import { getReadingTimeMinutes } from "@/utils/readingTime";
 import Datetime from "./Datetime.astro";
 
 type Props = { post: CollectionEntry<"posts"> };
@@ -9,84 +12,86 @@ type Props = { post: CollectionEntry<"posts"> };
 const { post } = Astro.props;
 const { data } = post;
 const cover = getPostCover(post);
-const tag = data.tags?.[0] ?? "ia";
-
-const chipColors: Record<string, string> = {
-  kubernetes:
-    "text-sky-700 border-sky-700/30 dark:text-sky-300 dark:border-sky-400/40",
-  cloud: "text-blue-700 border-blue-700/30 dark:text-blue-300 dark:border-blue-400/40",
-  seguridad:
-    "text-rose-700 border-rose-700/30 dark:text-rose-300 dark:border-rose-400/40",
-  observabilidad:
-    "text-amber-700 border-amber-700/30 dark:text-amber-300 dark:border-amber-400/40",
-  ia: "text-violet-700 border-violet-700/30 dark:text-violet-300 dark:border-violet-400/40",
-  devops:
-    "text-emerald-700 border-emerald-700/30 dark:text-emerald-300 dark:border-emerald-400/40",
-  infraestructura:
-    "text-slate-600 border-slate-600/30 dark:text-slate-300 dark:border-slate-400/40",
-  arquitectura:
-    "text-teal-700 border-teal-700/30 dark:text-teal-300 dark:border-teal-400/40",
-};
-
-const coverGradients: Record<string, string> = {
-  kubernetes: "from-[#0c4a6e] via-[#2563eb] to-[#7dd3fc]",
-  cloud: "from-[#0c4a6e] via-[#0284c7] to-[#38bdf8]",
-  seguridad: "from-[#7f1d1d] via-[#dc2626] to-[#f97316]",
-  observabilidad: "from-[#78350f] via-[#d97706] to-[#facc15]",
-  ia: "from-[#4c1d95] via-[#7c3aed] to-[#0ea5e9]",
-  devops: "from-[#14532d] via-[#16a34a] to-[#4ade80]",
-  infraestructura: "from-[#1e293b] via-[#475569] to-[#94a3b8]",
-  arquitectura: "from-[#134e4a] via-[#0d9488] to-[#5eead4]",
-};
+const category = getCategoryMeta(data.tags?.[0]);
+const readingTime = getReadingTimeMinutes(post.body);
+const postUrl = getPostUrl(post.id, post.filePath, Astro.currentLocale);
 ---
 
 <li class="min-w-0">
   <a
-    href={getPostUrl(post.id, post.filePath, Astro.currentLocale)}
-    class="group flex h-full flex-col overflow-hidden rounded-2xl border border-border bg-muted/40 transition-all hover:-translate-y-0.5 hover:border-accent hover:shadow-lg"
+    href={postUrl}
+    class="group bg-surface border-border hover:border-accent/60 flex h-full flex-col overflow-hidden rounded-2xl border shadow-xs transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md"
   >
-    <div class="relative aspect-video overflow-hidden">
+    <div class="bg-muted relative aspect-video overflow-hidden">
       {
-        cover ? (
+        cover?.image && !cover.isSvg ? (
+          <Image
+            src={cover.image}
+            alt=""
+            width={640}
+            format="webp"
+            quality={78}
+            loading="lazy"
+            decoding="async"
+            class="absolute inset-0 size-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
+          />
+        ) : cover?.url ? (
           <img
-            src={cover}
+            src={cover.url}
             alt=""
             loading="lazy"
             decoding="async"
-            class="absolute inset-0 size-full object-cover transition-transform duration-300 group-hover:scale-105"
+            class="absolute inset-0 size-full object-cover transition-transform duration-300 group-hover:scale-[1.03]"
           />
         ) : (
           <div
             class:list={[
               "absolute inset-0 flex items-center justify-center bg-linear-to-br",
-              coverGradients[tag] ?? coverGradients["ia"],
+              category.gradientClass,
             ]}
           >
-            <span class="text-3xl font-bold tracking-widest text-white/60 uppercase">
-              {tag}
+            <span class="font-mono text-2xl font-bold tracking-widest text-white/60 uppercase">
+              {category.label}
             </span>
           </div>
         )
       }
     </div>
-    <div class="flex flex-1 flex-col gap-2 p-4">
-      <span
-        class:list={[
-          "self-start rounded-full border px-2 py-0.5 text-[11px] font-semibold tracking-wider uppercase",
-          chipColors[tag] ?? chipColors["ia"],
-        ]}
+
+    <div class="flex flex-1 flex-col gap-2.5 p-4 sm:p-5">
+      <div class="flex items-center justify-between gap-2">
+        <span
+          class:list={[
+            "font-mono inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 text-[11px] font-semibold tracking-wide uppercase",
+            category.chipClass,
+          ]}
+        >
+          <span
+            class:list={["size-1.5 rounded-full", category.dotClass]}
+            aria-hidden="true"></span>
+          {category.label}
+        </span>
+      </div>
+
+      <h3
+        class="font-display text-foreground group-hover:text-accent line-clamp-2 text-[1.05rem] leading-snug font-bold tracking-tight transition-colors"
       >
-        {tag}
-      </span>
-      <h3 class="line-clamp-2 text-base leading-snug font-semibold transition-colors group-hover:text-accent">
         {data.title}
       </h3>
-      <p class="line-clamp-2 text-sm text-muted-foreground">
+
+      <p class="text-muted-foreground line-clamp-2 text-sm leading-relaxed">
         {data.description}
       </p>
-      <div class="mt-auto flex items-center justify-between pt-2">
-        <Datetime {...data} />
-        <span class="text-xs font-semibold text-accent">Leer →</span>
+
+      <div
+        class="border-border/70 mt-auto flex items-center justify-between border-t pt-3"
+      >
+        <Datetime {...data} readingTime={readingTime} />
+        <span
+          class="font-mono text-accent text-xs font-semibold transition-transform group-hover:translate-x-0.5"
+        >
+          Leer →
+        </span>
       </div>
     </div>
   </a>

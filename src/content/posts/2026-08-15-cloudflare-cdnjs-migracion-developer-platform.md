@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare migró cdnjs —el CDN open source de JS/CSS usado por el 12% de los sitios web— completamente a su Developer Platform: Workers, R2, Workflows, Queues y Containers."
 ---
 
-![Ilustración editorial de una red global de distribución de contenido conectando nodos en todo el mundo](../../assets/images/2026-08-15-cloudflare-cdnjs-migracion-developer-platform.jpg)
+![Cloudflare migra cdnjs a su propia plataforma: 9 mil millones de peticiones al día en Workers](../../assets/images/2026-08-15-cloudflare-cdnjs-migracion-developer-platform.webp)
 
 ¿El mejor caso de estudio de dogfooding reciente? Cloudflare migró **cdnjs**, su CDN open source de librerías JavaScript y CSS, completamente a su propia Developer Platform. Nada de infra dedicada: todo corre sobre Workers, R2, Workflows, Queues, Durable Objects, KV y Containers.
 

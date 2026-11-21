@@ -11,7 +11,7 @@ tags:
 description: "El kernel 7.2 ya está disponible: scheduler que agrupa tareas por caché L3, Btrfs con large folios por defecto, exFAT hasta 87% más rápido y un Torvalds resignado al tsunami de fixes generados por herramientas de IA."
 ---
 
-![Ilustración del kernel Linux 7.2 con un scheduler consciente de caché y flujos de datos optimizados](../../assets/images/2026-08-18-linux-7-2-cache-aware-scheduling-nueva-normalidad-ia.jpg)
+![Ilustración del kernel Linux 7.2 con un scheduler consciente de caché y flujos de datos optimizados](../../assets/images/2026-08-18-linux-7-2-cache-aware-scheduling-nueva-normalidad-ia.webp)
 
 Linus Torvalds liberó **Linux 7.2 como estable** este fin de semana, a tiempo pese a un ciclo de desarrollo movidito. Y cuando digo movidito, me refiero a que el propio Linus tuvo que aceptar que los releases "enormes" son ahora el estándar: la última semana del ciclo volvió a ser más grande de lo que le habría gustado, pero como él mismo escribió, "con todo esto del 'nuevo normal', si retrasara los releases por esa razón, probablemente nunca tendríamos un release".
 

@@ -12,7 +12,7 @@ tags:
 description: "Splunk libera AI-Powered Data Management dentro de Cisco Data Fabric: Auto-schema GA para onboarding guiado y Self-Healing Pipelines que detectan drift CIM."
 ---
 
-![Ilustración editorial de un flujo de machine data que se ordena solo: tuberías de logs, métricas y traces que se alinean en una estructura limpia con un motor de IA supervisando, estilo tech editorial](../../assets/images/2026-08-30-splunk-ai-data-management-auto-schema-pipelines.jpg)
+![Splunk mete IA a la gestión de datos: Auto-schema GA y pipelines que se auto-reparan](../../assets/images/2026-08-30-splunk-ai-data-management-auto-schema-pipelines.webp)
 
 Splunk acaba de ponerle IA a una de las partes más fomes (y más críticas) de la observabilidad: **hacer que el machine data llegue bien, estructurado y confiable**. La novedad se llama **AI-Powered Data Management**, corre sobre **Cisco Data Fabric powered by Splunk Platform**, y trae dos capacidades que pasan a disponibilidad general (GA) más una que queda en acceso controlado.
 

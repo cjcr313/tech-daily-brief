@@ -11,7 +11,7 @@ tags:
 description: "Xiaomi open-sourcéa MiMo-V2.6 Pro y Flash: pesos abiertos, licencia MIT y un stack de reinforcement learning con más de 7.000 entornos de tareas."
 ---
 
-![Ilustración editorial tech de un cerebro de silicio con circuitos brillantes desprendiéndose en bloques de pesos abiertos, estética de hardware Xiaomi, tonos naranja y gris sobre fondo oscuro](../../assets/images/2026-09-22-xiaomi-mimo-v2-6-modelo-abierto-309b.jpg)
+![Xiaomi libera MiMo-V2.6 Pro y Flash: un modelo abierto de 309B con stack de RL](../../assets/images/2026-09-22-xiaomi-mimo-v2-6-modelo-abierto-309b.webp)
 
 Xiaomi se mete de lleno en la carrera de los **modelos abiertos chinos**. El equipo MiMo liberó **MiMo-V2.6 Pro y MiMo-V2.6 Flash**, con pesos abiertos, **licencia MIT** y —el detalle que lo diferencia— un **stack completo de reinforcement learning** para entrenar agentes.
 

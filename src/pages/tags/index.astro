@@ -1,17 +1,41 @@
 ---
 import { getCollection } from "astro:content";
+import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Breadcrumb from "@/components/Breadcrumb.astro";
 import Main from "@/components/Main.astro";
 import Footer from "@/components/Footer.astro";
-import Tag from "@/components/Tag.astro";
+import { CORE_CATEGORIES } from "@/utils/categories";
 import { getUniqueTags } from "@/utils/getUniqueTags";
+import { getMainSortedPosts } from "@/utils/getSortedPosts";
+import { slugifyAll } from "@/utils/slugify";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
 
-const posts = await getCollection("posts", ({ data }) => !data.draft);
-const tags = getUniqueTags(posts);
+const posts = getMainSortedPosts(
+  await getCollection("posts", ({ data }) => !data.draft)
+);
+const uniqueTags = getUniqueTags(posts);
+
+const counts = new Map<string, number>();
+for (const post of posts) {
+  for (const s of new Set(slugifyAll(post.data.tags))) {
+    counts.set(s, (counts.get(s) ?? 0) + 1);
+  }
+}
+
+const coreSlugs = new Set(CORE_CATEGORIES.map(c => c.slug));
+const coreWithCounts = CORE_CATEGORIES.map(c => ({
+  ...c,
+  count: counts.get(c.slug) ?? 0,
+}));
+
+const otherTags = uniqueTags
+  .filter(t => !coreSlugs.has(t.tag))
+  .map(t => ({ ...t, count: counts.get(t.tag) ?? 0 }))
+  .filter(t => t.count > 0)
+  .sort((a, b) => b.count - a.count || a.tagName.localeCompare(b.tagName));
 
 const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
@@ -22,10 +46,67 @@ const t = useTranslations(locale);
 
   <Breadcrumb />
 
-  <Main pageTitle={t.pages.tagsTitle} pageDesc={t.pages.tagsDesc}>
-    <ul class="flex flex-wrap gap-6">
-      {tags.map(({ tag, tagName }) => <Tag {tag} {tagName} />)}
-    </ul>
+  <Main
+    pageTitle="Temas y Etiquetas"
+    pageDesc="Explora la cobertura de Ping Diario por especialidad técnica."
+  >
+    <section>
+      <h2
+        class="font-mono text-muted-foreground mb-4 text-xs font-semibold tracking-wider uppercase"
+      >
+        Secciones principales
+      </h2>
+      <ul class="grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-4">
+        {
+          coreWithCounts.map(cat => (
+            <li>
+              <a
+                href={getRelativeLocaleUrl(locale, `tags/${cat.slug}`)}
+                class="bg-surface border-border hover:border-accent/60 flex items-center justify-between rounded-2xl border p-4 shadow-xs transition-all hover:-translate-y-0.5 hover:shadow-md"
+              >
+                <span class="flex items-center gap-2.5 font-semibold">
+                  <span
+                    class:list={["size-2.5 rounded-full", cat.dotClass]}
+                    aria-hidden="true"
+                  />
+                  {cat.label}
+                </span>
+                <span class="font-mono bg-muted text-muted-foreground rounded-full px-2.5 py-0.5 text-xs font-semibold">
+                  {cat.count}
+                </span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </section>
+
+    {
+      otherTags.length > 0 && (
+        <section class="mt-10">
+          <h2
+            class="font-mono text-muted-foreground mb-4 text-xs font-semibold tracking-wider uppercase"
+          >
+            Otras etiquetas ({otherTags.length})
+          </h2>
+          <ul class="flex flex-wrap gap-2">
+            {otherTags.map(({ tag, tagName, count }) => (
+              <li>
+                <a
+                  href={getRelativeLocaleUrl(locale, `tags/${tag}`)}
+                  class="bg-surface border-border text-foreground hover:border-accent hover:text-accent inline-flex items-center gap-2 rounded-full border px-3.5 py-1.5 text-sm font-medium transition-colors"
+                >
+                  <span>#{tagName}</span>
+                  <span class="font-mono text-muted-foreground text-xs">
+                    {count}
+                  </span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )
+    }
   </Main>
 
   <Footer />

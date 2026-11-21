@@ -12,7 +12,7 @@ tags:
 description: "Rhodium Group estima que todos los modelos chinos combinados generan apenas US$10.700 millones anuales, una décima parte de lo que facturan OpenAI y Anthropic juntos."
 ---
 
-![Ilustración editorial tech: una balanza asimétrica con dos pilas de monedas y circuitos, el lado de OpenAI y Anthropic mucho más alto que el lado chino, tonos azul profundo y rojo sobre fondo oscuro, concepto de brecha de ingresos en IA](../../assets/images/2026-09-18-modelos-chinos-facturan-10-openai-anthropic.jpg)
+![Modelos chinos facturan solo 10% de lo que generan OpenAI y Anthropic](../../assets/images/2026-09-18-modelos-chinos-facturan-10-openai-anthropic.webp)
 
 Todos los modelos de IA chinos **combinados** generan apenas un **10%** de los ingresos que reportan OpenAI y Anthropic juntos. Esa es la conclusión del think tank estadounidense **Rhodium Group**, publicado el jueves, y que mete presión directa sobre las valuaciones de las startups chinas.
 

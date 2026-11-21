@@ -12,7 +12,7 @@ tags:
 description: "Microsoft anuncia un marco para Medio Oriente con foco en Kuwait, Qatar, Arabia Saudita y Emiratos Árabes: inversión millonaria en cloud y centros de datos de IA."
 ---
 
-![Ilustración editorial de infraestructura de centros de datos en la nube y de IA construyéndose en un horizonte urbano del Golfo Pérsico, con grúas, racks de servidores y líneas de red](../../assets/images/2026-09-24-microsoft-10-mil-millones-golfo.jpg)
+![Microsoft invertirá más de US$10 mil millones en cloud e IA en el Golfo hasta 2030](../../assets/images/2026-09-24-microsoft-10-mil-millones-golfo.webp)
 
 Microsoft anunció un **nuevo marco para Medio Oriente** con una inversión de **más de US$10 mil millones entre ahora y 2030**, centrada en infraestructura de **cloud e inteligencia artificial**. El foco inicial: **Kuwait, Qatar, Arabia Saudita y los Emiratos Árabes Unidos**.
 

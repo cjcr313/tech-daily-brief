@@ -11,7 +11,7 @@ tags:
 description: "El blog oficial de Kubernetes publicó benchmarks del soporte de swap en nodos (GA desde v1.34): con Local SSD NVMe se duplica o triplica la densidad de pods para agentes de IA, sandboxes de navegadores y runtimes de Python."
 ---
 
-![Ilustración editorial tech de nodos Kubernetes liberando memoria RAM dormida hacia discos NVMe, permitiendo que más pods de IA quepan en el mismo nodo, tonos azul y naranja, estilo isométrico](../../assets/images/2026-10-06-kubernetes-node-swap-densidad-3x-agentes.jpg)
+![Kubernetes: swap en nodos con NVMe entrega hasta 3x más densidad de pods para workloads agénticos](../../assets/images/2026-10-06-kubernetes-node-swap-densidad-3x-agentes.webp)
 
 El blog oficial de Kubernetes publicó un post con benchmarks que viene a resucitar una palabra prohibida durante años en el ecosistema: **swap**. Con el soporte de swap en nodos ya en General Availability desde **Kubernetes v1.34**, y respaldando ese swap con **SSDs NVMe locales**, un nodo puede mandar a disco la memoria dormida de los pods y meter muchos más workloads en el mismo hardware. Spoiler: hasta **3x más densidad** en el mejor caso.
 

@@ -11,7 +11,7 @@ tags:
 description: "Claude Fable 5.2 baja de precio de $10 a $8 por millón de tokens de entrada, responde 30% más rápido y soporta retención cero de datos. El lanzamiento llega con el IPO de Anthropic a la vuelta de la esquina."
 ---
 
-![Ilustración editorial de dos modelos de IA gemelos compitiendo en velocidad y precio](../../assets/images/anthropic-fable-mythos-5-2-mas-baratos-rapidos.jpg)
+![Anthropic lanza Claude Fable 5.2 y Mythos 5.2: más baratos, más rápidos y a semanas del IPO](../../assets/images/anthropic-fable-mythos-5-2-mas-baratos-rapidos.webp)
 
 Anthropic arrancó la semana con lanzamiento doble: **Claude Fable 5.2 y Claude Mythos 5.2**, las nuevas versiones de sus modelos más avanzados. La compañía promete mejoras en **coding, razonamiento y visión**, además de una comunicación más clara con el usuario. Pero lo que va a mover el mercado es otra cosa: el precio.
 

@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek publicó en Hugging Face los pesos de V4-Flash-Vision-Exp, su primer modelo multimodal experimental de la familia V4, bajo licencia MIT."
 ---
 
-![Ilustración editorial de un modelo multimodal abierto que procesa imagen y texto](../../assets/images/2026-09-01-deepseek-v4-flash-vision-exp.jpg)
+![DeepSeek libera V4-Flash-Vision-Exp: su primer modelo multimodal abierto](../../assets/images/2026-09-01-deepseek-v4-flash-vision-exp.webp)
 
 Diez días después de lanzarlo por API, **DeepSeek** soltó los pesos de **V4-Flash-Vision-Exp** en Hugging Face, bajo licencia **MIT**. Es su primer modelo multimodal experimental dentro de la familia V4, construido sobre la arquitectura de **V4-Flash** (284B parámetros, 13B activos) con un encoder de visión agregado.
 

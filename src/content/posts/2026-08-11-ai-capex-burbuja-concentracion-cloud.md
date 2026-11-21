@@ -12,7 +12,7 @@ tags:
 description: "El capex IA sube a US$863 mil millones en 2026 y analistas advierten que el crecimiento del cloud se sostiene en dos clientes que jamás han sido rentables. ¿Burbuja o inversión estratégica?"
 ---
 
-![Gráfico abstracto de burbuja financiera con iconos de nube y servidores, estilo ilustración editorial tech colores azul y naranjo](../../assets/images/placeholder.jpg)
+![La matemática de la IA no cierra: 48% del revenue de Google Cloud depende de dos empresas que no dan profit](../../assets/images/placeholder.webp)
 
 Hay un número que está dando vueltas por Wall Street y que debería hacerte pensar dos veces antes de asumir que el boom de IA es indefinido: **OpenAI y Anthropic podrían representar el 48% de los ingresos de Google Cloud para 2027**.
 

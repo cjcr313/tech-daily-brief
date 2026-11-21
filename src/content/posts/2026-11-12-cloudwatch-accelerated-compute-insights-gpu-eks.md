@@ -11,7 +11,7 @@ tags:
 description: "AWS presentó en KubeCon la nueva capa de CloudWatch que muestra cada acelerador del fleet con atribución por workload: visibilidad a nivel de dispositivo GPU en EKS para cortar el desperdicio de cómputo."
 ---
 
-![Ilustración editorial tech de racks de servidores con chips de GPU luminosos en gradas, algunos brillando intensamente y otros tenues, con una lupa gigante de observabilidad enfocando uno de los chips, paleta naranja cálido y azul oscuro, estilo ilustración profesional sin texto](../../assets/images/cloudwatch-accelerated-compute-insights-gpu-eks.jpg)
+![AWS CloudWatch lanza 'accelerated compute insights': visibilidad por workload para tus GPUs en EKS, y el fin del acelerador caro e invisible](../../assets/images/cloudwatch-accelerated-compute-insights-gpu-eks.webp)
 
 La paradoja del boom de IA: las empresas gastan fortunas en aceleradores (GPUs, Trainium) y luego se enteran de lo que pasa con ellos... más o menos nunca. **Amazon CloudWatch accelerated compute insights**, lanzado en KubeCon North America 2026, ataca exactamente ese punto ciego: **una vista operacional única de cada acelerador del fleet, con visibilidad a nivel de dispositivo en Amazon EKS**.
 

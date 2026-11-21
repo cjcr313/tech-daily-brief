@@ -10,7 +10,7 @@ tags:
 description: "OpenAI presentó el Admin plugin para ChatGPT Work y Codex: los admins ahora pueden revisar uso, gestionar miembros y permisos, y aprobar gastos sin salir de la conversación."
 ---
 
-![Ilustración editorial de un panel de administración de un workspace con un agente de IA gestionando miembros, permisos y uso de créditos](../../assets/images/2026-08-25-openai-admin-plugin-chatgpt-work-codex.svg)
+![OpenAI lanza el Admin plugin: administra ChatGPT Work y Codex desde el chat](../../assets/images/2026-08-25-openai-admin-plugin-chatgpt-work-codex.svg)
 
 Si algo duele en los workspaces de ChatGPT que están creciendo, es la administración: saltar entre analytics, settings y reportes para entender qué pasa y poder actuar. OpenAI acaba de atacar eso con el **Admin plugin** para **ChatGPT Work** y **Codex**, una forma de hacer las tareas de admin directamente desde la conversación.
 

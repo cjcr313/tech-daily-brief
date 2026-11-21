@@ -12,7 +12,7 @@ tags:
 description: "En su primera conferencia global, NetBox Labs anunció sociedades con NVIDIA y Grafana Labs, plugin GA en el catálogo de Grafana, telemetría de red con Orb vía OpenTelemetry, seis integraciones nuevas y agentes de IA con gobernanza."
 ---
 
-![Ilustración editorial tech isométrica de una base de datos central brillante conectada con líneas luminosas a racks de servidores, salas de datacenter y dashboards de observabilidad con gráficos, representando inteligencia de infraestructura y telemetría de red, paleta azul profundo con acentos naranjas, sin texto](../../assets/images/2026-10-14-netbox-evolve-grafana-nvidia-infra-inteligente.jpg)
+![NetBox Evolve: NetBox Labs se alía con NVIDIA y Grafana Labs para convertirse en la capa de inteligencia de la infraestructura](../../assets/images/2026-10-14-netbox-evolve-grafana-nvidia-infra-inteligente.webp)
 
 En el Kennedy Space Center (combio apropiado, todo sea decir) se hizo la **primera conferencia global de NetBox**, NetBox Evolve —escape apropiado, todo sea dicho— y la empresa aprovechó de soltar un aluvín de anuncios: sociedades estratégicas con **NVIDIA y Grafana Labs**, nuevas integraciones, y agentes de IA para automatizar el trabajo rutinario de infra. La idea de fondo: que NetBox pase de ser "el Excel sagrado de la red" (system of record) a ser la **capa de inteligencia** que alimenta observabilidad, automatización y agentes.
 

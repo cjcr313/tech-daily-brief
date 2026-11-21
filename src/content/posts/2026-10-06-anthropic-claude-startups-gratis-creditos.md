@@ -10,7 +10,7 @@ tags:
 description: "Anthropic amplió su programa Claude for Startups: año gratis de Claude Team para 5 puestos, US$1.000 en créditos API y acceso al Marketplace. La guerra por el ecosistema developer se intensifica."
 ---
 
-![Ilustración editorial de un cohete pequeño despegando junto a una interfaz de chat de IA con créditos y engranajes flotando, paleta cálida naranja y violeta, estilo tech editorial, sin texto](../../assets/images/2026-10-06-anthropic-claude-startups-gratis-creditos.jpg)
+![Anthropic corteja a las startups: un año gratis de Claude Team y US$1.000 en créditos API](../../assets/images/2026-10-06-anthropic-claude-startups-gratis-creditos.webp)
 
 Anthropic salió hoy con una jugada clara para ganar el corazón (y el stack) de las startups: **amplió su programa Claude for Startups** con un paquete que incluye **un año gratis de Claude Team** — el plan pago para equipos, con hasta **5 puestos premium** — más **US$1.000 en créditos API** para construir con Claude.
 

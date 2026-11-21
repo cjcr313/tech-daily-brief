@@ -11,7 +11,7 @@ tags:
 description: "La nueva edición del rating de neoclouds de SemiAnalysis revisó 77 proveedores: Nebius acompaña a CoreWeave en el Platinum, Google Cloud sube al Gold junto a Oracle, y Azure baja a Silver. Solo 19 neoclouds en el mundo consiguen medalla."
 ---
 
-![Ilustración editorial de un podio de medallas frente a hileras de racks de servidores GPU con LEDs encendidos, medallas de oro plata y bronce flotando, paleta azul profundo dorado y gris acero, estilo ilustración editorial profesional sin texto](../../assets/images/2026-10-05-clustermax-30-ranking-gpu-clouds.jpg)
+![ClusterMAX 3.0: SemiAnalysis califica a los clouds de GPU y Azure se cae del podio](../../assets/images/2026-10-05-clustermax-30-ranking-gpu-clouds.webp)
 
 Si estás decidiendo dónde alquilar GPUs este trimestre, hay lectura obligada: **SemiAnalysis publicó ClusterMAX 3.0**, la tercera edición de su sistema de rating para *neoclouds* y clouds de GPU, y esta vez el mercado tembló más que de costumbre.
 

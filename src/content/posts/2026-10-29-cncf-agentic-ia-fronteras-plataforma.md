@@ -12,7 +12,7 @@ tags:
 description: "Nuevo post en el blog de CNCF: la autoridad de los agentes se acumula de forma invisible y ningún prompt la contiene. La solución no es más gobernanza, es una plataforma con privilegios mínimos — un agente es un workload."
 ---
 
-![Ilustración editorial tech de anillos concéntricos de malla geométrica protegiendo un núcleo luminoso central, con un pequeño robot autónomo operando dentro del anillo interior y varias herramientas flotando fuera de los anillos exteriores, paleta azul profundo con acentos cian, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-10-29-cncf-agentic-ia-fronteras-plataforma.jpg)
+![CNCF: el problema de los límites en la IA agéntica es un problema de plataforma](../../assets/images/2026-10-29-cncf-agentic-ia-fronteras-plataforma.webp)
 
 El blog de CNCF publicó hoy una pieza que va directo al grano de un problema que toda equipo con agentes en producción conoce en carne propia: **"The boundary problem in agentic AI is a platform problem"**, de William Rizzo (Kairos) y Francesco Beltramini. La tesis: un agente autónomo hace exactamente lo que sus herramientas le permiten — y ese conjunto de capacidades casi nunca fue decidido deliberadamente por nadie. **Se acumuló**.
 

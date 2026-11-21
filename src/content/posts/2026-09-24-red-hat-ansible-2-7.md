@@ -12,7 +12,7 @@ tags:
 description: "Ansible Automation Platform 2.7 integra servidores MCP para acercar la automatización a operaciones asistidas por IA, con más opciones de despliegue."
 ---
 
-![Ilustración editorial de orquestación de automatización de TI con nodos de servidores conectados por flujos de trabajo, paleta roja y negra de Red Hat, redes abstractas de servidores y playbooks](../../assets/images/2026-09-24-red-hat-ansible-2-7.jpg)
+![Red Hat lanza Ansible Automation Platform 2.7 con integración de MCP para operar con IA](../../assets/images/2026-09-24-red-hat-ansible-2-7.webp)
 
 Red Hat empujó **Ansible Automation Platform 2.7**, y la jugada central es clara: **acercar la automatización a las operaciones asistidas por IA**. La nueva versión integra **servidores de Model Context Protocol (MCP)**, lo que abre la puerta a que agentes y asistentes de IA se conecten a tus playbooks y flujos de automatización de forma más nativa.
 

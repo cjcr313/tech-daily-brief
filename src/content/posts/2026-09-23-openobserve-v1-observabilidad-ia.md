@@ -12,7 +12,7 @@ tags:
 description: "La plataforma open source de observabilidad unifica agent tracing, monitoreo de LLMs y evaluación en el mismo lugar donde ya viven logs, métricas, traces y RUM."
 ---
 
-![Panel de observabilidad unificado que conecta una sesión de agente, llamadas a modelos, tool calls y telemetría de base de datos en un solo flujo](../../assets/images/2026-09-23-openobserve-v1-observabilidad-ia.jpg)
+![OpenObserve llega a v1.0 y mete la observabilidad de IA al lado de logs, métricas y traces](../../assets/images/2026-09-23-openobserve-v1-observabilidad-ia.webp)
 
 OpenObserve, la plataforma de observabilidad open source, acaba de anunciar la **disponibilidad general de su v1.0**, tanto para despliegues self-hosted como para OpenObserve Cloud. El titular es claro: la **observabilidad de IA** deja de ser una herramienta aparte y se suma al mismo lugar donde ya conviven logs, métricas, traces y real user monitoring (RUM).
 

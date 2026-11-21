@@ -12,7 +12,7 @@ tags:
 description: "El SOC Analyst Agent usa los modelos Daybreak de OpenAI para convertir preguntas en lenguaje natural en investigaciones estructuradas y trazables, sin quitarle el control al humano."
 ---
 
-![Ilustración editorial de un centro de operaciones de seguridad asistido por un agente IA](../../assets/images/2026-09-09-proofpoint-soc-analyst-agent-openai-daybreak.jpg)
+![Proofpoint lanza su agente SOC basado en los modelos ciber de OpenAI (Daybreak)](../../assets/images/2026-09-09-proofpoint-soc-analyst-agent-openai-daybreak.webp)
 
 Proofpoint presentó su **SOC Analyst Agent**, una capacidad agéntica que usa los modelos **Daybreak de OpenAI** para ayudar a los equipos de seguridad a investigar amenazas, conectar señales entre sus productos y automatizar el análisis repetitivo. Es la primera herramienta de Proofpoint que nace del **OpenAI Daybreak Defense Network**, el programa de acceso temprano a modelos ciber que OpenAI armó para los defensores.
 

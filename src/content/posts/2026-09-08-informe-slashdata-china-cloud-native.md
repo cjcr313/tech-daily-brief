@@ -12,7 +12,7 @@ tags:
 description: "El informe de CNCF y SlashData estima que China concentra 1,75 millones de desarrolladores cloud native, con 400.000 enfocados en IA, mientras la carga migra de entrenar a servir modelos."
 ---
 
-![Ilustración editorial de un mapa de China iluminado por una red de nodos y contenedores que convergen hacia un data center central, con líneas de flujo de datos hacia servidores de inferencia, tonos rojos y azules](../../assets/images/2026-09-08-informe-slashdata-china-cloud-native.jpg)
+![China ya suma 1,75 millones de desarrolladores cloud native y la IA empuja hacia la inferencia](../../assets/images/2026-09-08-informe-slashdata-china-cloud-native.webp)
 
 La CNCF y SlashData publicaron el **State of Cloud Native Development in China**, un informe que le pone números al momento cloud native del gigante asiático y, de paso, confirma una tendencia que ya se sentía en el aire: **la IA está migrando del entrenamiento a la inferencia en producción**.
 

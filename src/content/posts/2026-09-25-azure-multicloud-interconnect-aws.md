@@ -13,7 +13,7 @@ tags:
 description: "Azure Multicloud Interconnect simplifica la conectividad privada de alto rendimiento entre Azure y AWS, con una experiencia cloud-native integrada y specs de API abiertas."
 ---
 
-![Ilustración editorial: dos nubes conectadas por un enlace privado de alta velocidad, una azul (Azure) y otra naranja (AWS), con nodos de red y candados de seguridad, estilo tech editorial limpio](../../assets/images/2026-09-25-azure-multicloud-interconnect-aws.jpg)
+![Microsoft y AWS lanzan Azure Multicloud Interconnect: conectividad privada entre las dos nubes](../../assets/images/2026-09-25-azure-multicloud-interconnect-aws.webp)
 
 Multicloud dejó de ser una excepción: hoy es la norma. Pero conectar Azure y AWS por red privada seguía siendo un dolor — semanas o meses coordinando provisioning, procesos operativos y soporte fragmentado. **Microsoft y AWS** se unieron para resolverlo con **Azure Multicloud Interconnect**.
 

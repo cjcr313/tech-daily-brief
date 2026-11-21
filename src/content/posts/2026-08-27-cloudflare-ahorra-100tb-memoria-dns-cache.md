@@ -12,7 +12,7 @@ tags:
 description: "Cinco optimizaciones en Rust recortaron 56% la memoria por entrada del cache DNS de 1.1.1.1, liberando ~100 TB en toda la flota."
 ---
 
-![Ilustración de un servidor DNS optimizado con memoria liberada](../../assets/images/2026-08-27-cloudflare-ahorra-100tb-memoria-dns-cache.jpg)
+![Ilustración de un servidor DNS optimizado con memoria liberada](../../assets/images/2026-08-27-cloudflare-ahorra-100tb-memoria-dns-cache.webp)
 
 Cloudflare acaba de publicar un postazo de ingeniería mostrando cómo optimizaron el cache DNS de 1.1.1.1 y ahorraron unos **100 terabytes de memoria** en toda su flota. Nada de magia: cinco cambios quirúrgicos a nivel de Rust en cómo se guardan las entradas en memoria.
 

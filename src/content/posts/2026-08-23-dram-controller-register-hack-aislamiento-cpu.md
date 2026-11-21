@@ -11,7 +11,7 @@ tags:
 description: "Un investigador publicó una herramienta que altera registros del controlador de memoria para mapear direcciones físicas a DRAM y leer regiones protegidas como SMM RAM, sin disparar excepciones."
 ---
 
-![Ilustración editorial de un chip de CPU con capas de memoria protegidas siendo atravesadas por un circuito, estilo tech editorial oscuro](../../assets/images/2026-08-23-dram-controller-register-hack-aislamiento-cpu.jpg)
+![Skitter Creek Bath Salts: manipulando el controlador DRAM para romper el aislamiento de memoria de la CPU](../../assets/images/2026-08-23-dram-controller-register-hack-aislamiento-cpu.webp)
 
 Si te gustan los ataques a nivel hardware, agarra un café: el investigador de seguridad Christopher Domas publicó **skitter-creek-bath-salts**, un proyecto open source que rompe los límites de privilegio tradicionales de la CPU apuntando a la capa más baja de la jerarquía de memoria física: **los registros de traducción del controlador DRAM**.
 

@@ -11,7 +11,7 @@ tags:
 description: "Sysdig documentó el primer ransomware completamente autónomo impulsado por LLM. Reconnaissance, robo de credenciales, lateral movement y destrucción sin intervención humana."
 ---
 
-![JadePuffer: el primer ransomware 100% agéntico, autopilotado por LLM](../../assets/images/2026-07-17-jadepuffer-ransomware-agentico-ia.jpg)
+![JadePuffer: el primer ransomware 100% agéntico, autopilotado por LLM](../../assets/images/2026-07-17-jadepuffer-ransomware-agentico-ia.webp)
 
 
 La ciberseguridad acaba de cruzar un umbral. **Sysdig** publicó el análisis de **JadePuffer**, lo que afirman es el primer ransomware campaign completamente impulsado por un LLM — sin operador humano detrás.

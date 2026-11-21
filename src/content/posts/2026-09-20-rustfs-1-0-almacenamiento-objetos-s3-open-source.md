@@ -12,7 +12,7 @@ tags:
 description: "RustFS 1.0 salió de beta: almacenamiento distribuido de objetos compatible con S3, escrito en Rust y bajo Apache 2.0, que se posiciona como la alternativa open source a MinIO."
 ---
 
-![Ilustración editorial de un sistema de almacenamiento distribuido: nodos hexagonales interconectados con shards de datos y erasure coding en tonos naranja óxido y azul profundo](../../assets/images/2026-09-20-rustfs-1-0-almacenamiento-objetos-s3-open-source.jpg)
+![RustFS 1.0 llega a GA: almacenamiento de objetos S3 open source que llena el hueco de MinIO](../../assets/images/2026-09-20-rustfs-1-0-almacenamiento-objetos-s3-open-source.webp)
 
 RustFS acaba de cruzar la línea de meta: **la versión 1.0 está en general availability (GA)** y es la primera release "production-ready" de esta plataforma de almacenamiento de objetos distribuido escrita en **Rust**. Licenciada bajo **Apache 2.0**, ofrece una API compatible con Amazon S3 pensada para despliegues distribuidos donde importan la escalabilidad, la redundancia y poder seguir usando las herramientas S3 de siempre.
 

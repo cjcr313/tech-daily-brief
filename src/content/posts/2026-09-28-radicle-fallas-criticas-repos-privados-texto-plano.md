@@ -12,7 +12,7 @@ tags:
 description: "La red P2P de colaboración de código Radicle reveló dos vulnerabilidades críticas en su protocolo: repositorios privados viajando en cleartext y suplantación de nodos. Recomiendan apagar operaciones clearnet."
 ---
 
-![Ilustración editorial de nodos de una red peer-to-peer intercambiando paquetes de Git, con un candado roto simbolizando la falta de cifrado en el canal de transporte](../../assets/images/2026-09-28-radicle-fallas-criticas-repos-privados-texto-plano.jpg)
+![Radicle expone repos privados en texto plano: dos fallas críticas en su protocolo de red](../../assets/images/2026-09-28-radicle-fallas-criticas-repos-privados-texto-plano.webp)
 
 Radicle, la red peer-to-peer de colaboración de código que se presenta como la alternativa descentralizada a GitHub, acaba de revelar **dos vulnerabilidades críticas en su protocolo de red** que eliminan la confidencialidad en todas las versiones de nodo lanzadas hasta la fecha. El impacto es feo: un atacante en el camino de la red puede **leer datos de repositorios privados en texto plano** y **suplantar nodos** en las allow-lists de conexión.
 

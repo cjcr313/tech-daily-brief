@@ -11,7 +11,7 @@ tags:
 description: "La empresa israelí convirtió su adquisición Wand en una beta que ajusta automáticamente los requests de CPU y memoria en Kubernetes según el comportamiento real en producción. Sin instalar nada nuevo y con el nodo completo en la mirilla."
 ---
 
-![Ilustración editorial tech de un clúster de contenedores Kubernetes siendo calibrado por brazos robóticos que ajustan medidores de recursos, con gráficos de uso flotando sobre nodos hexagonales, paleta azul y verde esmeralda, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-11-03-groundcover-autonomous-infrastructure-kubernetes-rightsizing.jpg)
+![groundcover lanza Autonomous Infrastructure: rightsizing automático de Kubernetes usando tu propia telemetría](../../assets/images/2026-11-03-groundcover-autonomous-infrastructure-kubernetes-rightsizing.webp)
 
 ¿Cuántos requests de CPU y memoria en tu clúster son números que alguien puso "a ojo" antes del primer deploy y nadie volvió a tocar? Exacto. **groundcover** lanzó hoy en beta **Autonomous Infrastructure**, una funcionalidad que usa la telemetría que ya recolecta su sensor para **ajustar esos requests automáticamente según cómo se comporta cada workload en producción**.
 

@@ -11,7 +11,7 @@ tags:
   - IA
 description: "El nuevo SDK MCP Server de Kubeflow permite a agentes de IA orquestar directamente trabajos de entrenamiento y cargas en Kubernetes."
 ---
-![Kubeflow MCP Server](../../assets/images/2026-08-04-kubeflow-mcp.jpeg)
+![Kubeflow MCP Server](../../assets/images/2026-08-04-kubeflow-mcp.webp)
 
 Si estabas esperando el momento en que los agentes de IA empezaran a tomar el control directo de las operaciones de Machine Learning, llegó la hora. CNCF acaba de anunciar el **Kubeflow SDK MCP Server**.
 

@@ -11,7 +11,7 @@ tags:
 description: "NiSource y Microsoft firmaron un acuerdo de 20 años por ~1.100 MW para un campus de data centers en el noroeste de Indiana, con 600 MW de baterías y ahorros de US$1.750 millones para clientes."
 ---
 
-![Ilustración editorial de un campus de data centers junto a torres eléctricas y campos solares en el medio oeste estadounidense, con líneas de transmisión conectando ambos mundos](../../assets/images/2026-10-17-microsoft-nisource-indiana-1100mw-datacenter.jpg)
+![Microsoft asegura 1.100 MW en Indiana: 20 años de energía para su próximo campus de data centers](../../assets/images/2026-10-17-microsoft-nisource-indiana-1100mw-datacenter.webp)
 
 La carrera por asegurar energía para IA sigue produciendo acuerdos cada vez más creativos. El viernes, **NiSource** (matriz de la eléctrica NIPSCO) anunció un contrato de **20 años con Microsoft para suministrar ~1.100 MW de nueva generación** a un campus de data centers en el noroeste de Indiana. El servicio parte en **2028 y corre hasta 2048**.
 

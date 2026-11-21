@@ -12,7 +12,7 @@ tags:
 description: "Un equipo de tres personas de Hacktron AI usó Claude Opus 5 para encadenar dos vulnerabilidades y llegar hasta el monorepo interno de OpenAI, gastando menos de US$3.000 en tokens."
 ---
 
-![Ilustración editorial tech: cadena de nodos que conecta una red neuronal con un candado roto y un repositorio de código, tonos azul profundo y rojo sobre fondo oscuro, concepto de explotación de vulnerabilidades asistida por IA](../../assets/images/2026-09-19-openai-hackeada-claude-opus-5-hacktron.jpg)
+![White hats usaron Claude Opus 5 para hackear a OpenAI en menos de 72 horas](../../assets/images/2026-09-19-openai-hackeada-claude-opus-5-hacktron.webp)
 
 Un equipo de **tres personas** de la startup **Hacktron AI** gastó menos de **US$3.000 en tokens de Claude Opus 5** y 72 horas para hackear a OpenAI. No es un sketch: es un caso real de bug bounty, reportado en julio y revelado esta semana, que muestra cómo los agentes de IA están cambiando la economía de la explotación de vulnerabilidades.
 

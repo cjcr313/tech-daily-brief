@@ -11,7 +11,7 @@ tags:
 description: "En San Francisco, Grafana Labs anunció Watchers en GA, Managed Sandboxes y Pages en preview, full-text search GA en Grafana Cloud Logs y la suite Adaptive Telemetry que rebaja el gasto de telemetría entre 30% y 50%."
 ---
 
-![Ilustración editorial de un observatorio de datos con dashboards, gráficos de monitoreo y nodos de inteligencia artificial conectados](../../assets/images/2026-11-19-observabilitycon-2026-grafana-anuncios-agent-observability.jpg)
+![ObservabilityCON 2026: Grafana convierte las sesiones de agentes IA en la quinta señal de telemetría y declara la guerra a los costos](../../assets/images/2026-11-19-observabilitycon-2026-grafana-anuncios-agent-observability.webp)
 
 Mientras el mundo tech miraba la bolsa de Nueva York, en San Francisco se celebró **ObservabilityCON 2026** y Grafana Labs aprovechó de vaciar el carro de anuncios. El eje: **operaciones autónomas con IA, economía del cloud y visibilidad de punta a punta**, incluyendo una pieza que faltaba en el rompecabezas: observar a los propios agentes de IA como una señal más de telemetría.
 

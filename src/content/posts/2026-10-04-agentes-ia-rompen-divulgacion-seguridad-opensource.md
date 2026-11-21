@@ -11,7 +11,7 @@ tags:
 description: "Un maintainer de OCaml detectó probes explotando un bug minutos después de abrir el PR que lo arreglaba. Los agentes de IA convirtieron las pistas públicas en exploits y las embargoes de CVEs quedaron obsoletos."
 ---
 
-![Ilustración editorial tech de un candado digital agrietado mientras pequeños agentes robóticos se acercan raudos hacia un cofre de código abierto, paleta azul oscuro y naranja, sin texto](../../assets/images/2026-10-04-agentes-ia-rompen-divulgacion-seguridad-opensource.jpg)
+![Los agentes de IA están rompiendo la divulgación de seguridad del open source: 'el rumor ya es el exploit'](../../assets/images/2026-10-04-agentes-ia-rompen-divulgacion-seguridad-opensource.webp)
 
 Anil Madhavapeddy —profesor de Cambridge y maintainer core del compilador OCaml— escribió una de las piezas más inquietantes de la semana: los agentes de IA pueden convertir **pistas públicas sobre vulnerabilidades en exploits funcionales**, y con eso el modelo tradicional de divulgación coordinada del open source quedó chato.
 

@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare movió su blog a EmDash, el CMS open source construido sobre Astro, y contó cómo probó la plataforma a escala masiva siendo su propio cliente más exigente."
 ---
 
-![Ilustración editorial de una migración de plataforma de blog a gran escala, con contenido fluyendo entre nubes y engranajes de infraestructura](../../assets/images/2026-08-25-cloudflare-blog-emdash-migracion.svg)
+![Cloudflare migra su blog a EmDash: 'Customer Zero' en serio](../../assets/images/2026-08-25-cloudflare-blog-emdash-migracion.svg)
 
 Si notaste que el blog de Cloudflare cambió de cara (dark mode, look más moderno), no fue solo cosmética. Detrás hubo una migración grande: el **miércoles 12 de agosto** movieron el blog a **EmDash**, un CMS construido para funcionar sobre **Astro** y con Cloudflare.
 

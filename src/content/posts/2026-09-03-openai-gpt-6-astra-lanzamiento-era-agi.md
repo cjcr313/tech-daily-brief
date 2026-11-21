@@ -11,7 +11,7 @@ tags:
 description: "OpenAI liberó GPT-6 Astra, su modelo más grande hasta ahora: 100K GPUs de entrenamiento, cruza el umbral crítico de ciberseguridad y Brockman lo llama 'salto generacional'."
 ---
 
-![GPT-6 Astra de OpenAI: la era AGI](../../assets/images/2026-09-03-openai-gpt-6-astra.jpg)
+![GPT-6 Astra de OpenAI: la era AGI](../../assets/images/2026-09-03-openai-gpt-6-astra.webp)
 
 Se acabó la espera. Este jueves OpenAI liberó **GPT-6 Astra**, el modelo que llevaba semanas sonando como el próximo gran salto. Y no defraudó en hype: Greg Brockman, presidente de la compañía, lo llamó un *"salto generacional en capacidad"* que mete de lleno a la frontera en la *"era AGI"*.
 

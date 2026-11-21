@@ -10,7 +10,7 @@ tags:
 description: "La FTC envió citaciones civiles a OpenAI y Anthropic pidiendo documentos sobre incidentes de seguridad, privacidad y marketing. La era de la autorregulación llegó a su fin."
 ---
 
-![Ilustración editorial de un edificio gubernamental clásico con columnas, desde el cual emerge una mano sostiene escaleras de documentos luminosos hacia dos torres corporativas modernas de vidrio azul, tonos institucionales azul y dorado, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-15-ftc-subpoenas-openai-anthropic.jpg)
+![La FTC citó a OpenAI y Anthropic: el regulador quiere ver los papeles de seguridad de las dos gigantes de la IA](../../assets/images/2026-10-15-ftc-subpoenas-openai-anthropic.webp)
 
 Aviso para las dos gigantes de la IA: la fiesta de la autorregulación se acabó. Este miércoles 15 de octubre, la **Comisión Federal de Comercio (FTC) de Estados Unidos envió citaciones civiles (civil subpoenas) a OpenAI y Anthropic**, según informó primero Axios y confirmó Reuters.
 

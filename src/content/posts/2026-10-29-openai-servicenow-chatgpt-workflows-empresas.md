@@ -12,7 +12,7 @@ tags:
 description: "OpenAI y ServiceNow ampliaron su partnership: acciones de ServiceNow dentro de ChatGPT, Codex en AI Workflow Factory, seguridad conjunta y voz en el Control Tower. El MCP plugin ya está disponible."
 ---
 
-![Ilustración editorial tech de un ingeniero de guardia conversando con un asistente de inteligencia artificial que conecta tarjetas de flujo de trabajo, alertas de monitoreo y escudos de seguridad sobre un escritorio holográfico, paleta azul profundo con acentos verdes y turquesa, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-10-29-openai-servicenow-chatgpt-workflows-empresas.jpg)
+![OpenAI y ServiceNow expanden su alianza: ChatGPT y Codex se meten de lleno en los workflows de TI](../../assets/images/2026-10-29-openai-servicenow-chatgpt-workflows-empresas.webp)
 
 Si el anuncio de OpenAI con Oracle apuntaba a las apps de negocio dentro de ChatGPT, el de ayer con **ServiceNow** apunta directo al día a día de los equipos de TI. Las dos empresas expandieron el partnership que arrancaron en enero, y el resultado es que ChatGPT y Codex se integran en más capas de la plataforma —y ServiceNow entra al chat de la gente de OpenAI.
 

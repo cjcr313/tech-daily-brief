@@ -11,7 +11,7 @@ tags:
 description: "Dos CVEs críticas (CVSS 9.2) en el core de PHP permiten RCE sin autenticar. Las descubrieron GPT-5.6 Sol y Gemini 4 Argon antes que los atacantes, con divulgación coordinada global. Si corres PHP 5.4 a 8.5.11: a actualizar ahora."
 ---
 
-![Ilustración editorial tech de una vulnerabilidad crítica en el núcleo de PHP descubierta por inteligencia artificial antes que los atacantes](../../assets/images/php-php2shell-cves-criticas-rce.jpg)
+![php2shell: la IA encontró dos CVEs críticas en PHP antes que los atacantes — y el parcheo es urgente](../../assets/images/php-php2shell-cves-criticas-rce.webp)
 
 La historia de seguridad de la semana (y candidata a la del año): el core de PHP tiene dos vulnerabilidades críticas bautizadas **php2shell**, con divulgación coordinada este 21 de octubre. Lo revolucionario no son solo los bugs — es **quién los encontró y cómo**: modelos de IA de frontera los descubrieron *antes* que los atacantes, abriendo lo que OpenAI llama la "ventana del defensor".
 

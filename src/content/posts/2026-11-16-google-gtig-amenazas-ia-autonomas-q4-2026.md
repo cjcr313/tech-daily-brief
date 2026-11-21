@@ -12,7 +12,7 @@ tags:
 description: "El nuevo AI Threat Tracker de Google Threat Intelligence Group documenta frameworks ofensivos multi-agente, weaponización automática de n-days y LLMJacking a escala industrial."
 ---
 
-![Ilustración editorial tech: enjambre de bots agentes autónomos brillando en rojo que sondean una fortaleza de servidores con pipelines automatizados, atmósfera azul oscura de ciberseguridad, estilo cinematográfico](../../assets/images/2026-11-16-google-gtig-amenazas-ia-autonomas-q4-2026.jpg)
+![Google GTIG declara abiertamente que la era de los ataques autónomos ya llegó](../../assets/images/2026-11-16-google-gtig-amenazas-ia-autonomas-q4-2026.webp)
 
 Si alguien todavía pensaba que la IA ofensiva era cosa de demos y papers, **Google Threat Intelligence Group (GTIG) y Mandiant** le pusieron fecha al asunto en su nuevo *AI Threat Tracker*: los actores de amenaza ya pasaron del prompting manual a **workflows autónomos con frameworks multi-agente**. La frase del reporte lo dice sin anestesia: la era de los ataques autónomos ya llegó.
 

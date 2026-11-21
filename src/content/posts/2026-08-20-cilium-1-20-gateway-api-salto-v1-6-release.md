@@ -11,7 +11,7 @@ tags:
 description: "La release más cargada en un tiempo: Gateway API v1.6.1 con ListenerSets, BackendTLSPolicy y rutas TCP/UDP, además de datapath extensible para que los clouds no forkeen Cilium. Con Karpenter 1.14 y Rancher 2.15 de postre."
 ---
 
-![Ilustración editorial de una malla de red kubernetes con nodos hexagonales conectados por flujos de luz verde turquesa y un gran gateway hexagonal central, estilo tech editorial sobre fondo oscuro](../../assets/images/2026-08-20-cilium-1-20-gateway-api-salto-v1-6-release.jpg)
+![Cilium 1.20 llega con Gateway API a full: salto de v1.4 a v1.6, TCPRoute/UDPRoute y plugins de datapath extensible](../../assets/images/2026-08-20-cilium-1-20-gateway-api-salto-v1-6-release.webp)
 
 Cilium soltó la 1.20.0 y no es una release más: son **más de 2.660 commits** con una comunidad de **1.100+ contribuidores** (y casi 25.000 estrellas en GitHub). Si tu cluster corre Cilium —y cada vez más clusters del mundo corren Cilium—, acá va lo que importa.
 

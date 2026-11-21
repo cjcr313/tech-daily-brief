@@ -11,7 +11,7 @@ tags:
 description: "El estudio State of SRE and Platform Engineering 2026 de Dynatrace confirma el giro: monitorear sistemas de IA es hoy el top use case de los SRE (58%) y el 67% exige funciones con IA en su plataforma de observabilidad."
 ---
 
-![Ilustración editorial de un panel de control de observabilidad con gráficos y un cerebro digital en el centro, donde una IA vigila señales de salud de otros sistemas de IA, estilo tech editorial](../../assets/images/2026-08-26-dynatrace-state-of-sre-platform-engineering-2026.jpg)
+![Dynatrace: los workloads de IA ya son problema de SRE y el 67% exige observabilidad con IA](../../assets/images/2026-08-26-dynatrace-state-of-sre-platform-engineering-2026.webp)
 
 Dynatrace publicó su investigación **State of SRE and Platform Engineering 2026**, y el resumen es una frase: los workloads de IA dejaron de ser experimento y pasaron a ser responsabilidad operacional de los equipos de SRE y platform engineering. Con todo lo que eso implica en confiabilidad, costo y monitoreo.
 

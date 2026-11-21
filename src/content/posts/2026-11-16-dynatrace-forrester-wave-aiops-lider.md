@@ -11,7 +11,7 @@ tags:
 description: "Forrester evaluó 10 proveedores en 24 criterios y dio a Dynatrace el puntaje más alto en Current Offering, con notas máximas en root cause analysis causal, SRE autónomo y explicabilidad de algoritmos."
 ---
 
-![Ilustración editorial de una consola de observabilidad con topología de servicios iluminada en verde y teal, ondas de análisis causal convergiendo en un nodo central, fondo oscuro profesional, estilo ilustración tech moderna](../../assets/images/2026-11-16-dynatrace-forrester-wave-aiops-lider.jpg)
+![Dynatrace nombrado Leader del Forrester Wave de AIOps: análisis causal y SRE autónomo como sellos distintivos](../../assets/images/2026-11-16-dynatrace-forrester-wave-aiops-lider.webp)
 
 Dynatrace fue nombrado **Leader en el último Forrester Wave de plataformas AIOps**, la evaluación que comparó **10 proveedores en 24 criterios**. El dato fino: recibió el **puntaje más alto de la categoría Current Offering**, con la máxima nota en **16 criterios**, incluyendo los tres que hoy definen la categoría: análisis causal de root cause, **SRE autónomo con orquestación de IA**, y confianza/explicabilidad algorítmica.
 

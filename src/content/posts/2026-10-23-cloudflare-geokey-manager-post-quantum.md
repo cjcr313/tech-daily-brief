@@ -11,7 +11,7 @@ tags:
 description: "PQ GeoKey Manager en beta cerrada: claves TLS envueltas con ML-KEM-768 + X25519 que solo pueden abrir servidores de la geografía autorizada. GA en Q1 2027."
 ---
 
-![Ilustración editorial de criptografía post-quantum y soberanía de datos: claves cifradas protegidas dentro de una región geográfica](../../assets/images/cloudflare-geokey-manager-post-quantum.jpg)
+![Cloudflare lanza GeoKey Manager post-quantum: claves que solo se desencriptan en la región que elijas](../../assets/images/cloudflare-geokey-manager-post-quantum.webp)
 
 Cloudflare anunció hoy su **PQ GeoKey Manager** en beta cerrada, como pieza angular de su Data Localization Suite: claves de descifrado que **solo pueden abrirse en la geografía que el cliente elija**, ahora protegidas con criptografía post-quantum. GA planeada para Q1 2027.
 

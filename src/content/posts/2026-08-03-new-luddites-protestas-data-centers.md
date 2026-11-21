@@ -11,7 +11,7 @@ tags:
 description: "75 proyectos de data centers por US$130B fueron frenados en Q1 2026 por oposición local. Al menos 37 arrestos este año. La resistencia social es ahora un factor de riesgo real para la expansión del cloud."
 ---
 
-![Protestas contra data centers: el movimiento Neo-Luddita](../../assets/images/2026-08-03-new-luddites-protestas-data-centers.jpg)
+![Protestas contra data centers: el movimiento Neo-Luddita](../../assets/images/2026-08-03-new-luddites-protestas-data-centers.webp)
 
 Mientras AWS, Azure, Google Cloud y Meta anuncian cientos de miles de millones en capex para infraestructura de IA, hay algo que nadie en las earnings calls quiere hablar: **la gente no quiere data centers en su backyard**. Y en 2026, esa resistencia se está convirtiendo en un factor estructural que afecta directamente la expansión del cloud.
 

@@ -12,7 +12,7 @@ tags:
 description: "Cada pull request de un ingeniero de OpenAI pasa ahora por una revisión de seguridad automatizada, y el modelo que revisa puede frenar el merge si detecta una vulnerabilidad."
 ---
 
-![Ilustración editorial de un guardián de IA revisando un pull request: un modelo de lenguaje examinando líneas de código y bloqueando un merge con un candado, estilo tech editorial con acentos en rojo y azul profundo](../../assets/images/2026-09-10-openai-ia-bloquea-codigo-ingenieros.jpg)
+![OpenAI le dio a una IA el poder de bloquear el código de sus propios ingenieros](../../assets/images/2026-09-10-openai-ia-bloquea-codigo-ingenieros.webp)
 
 OpenAI acaba de cruzar una línea que en DevOps se venía discutiendo hace rato: **le dio a un modelo de IA poder de veto sobre el código que escriben sus propios ingenieros**. Según reporta [The New Stack](https://thenewstack.io/openai-ai-code-review/), **cada pull request** que envía un ingeniero de OpenAI pasa por una revisión de seguridad automatizada, y el modelo que revisa **puede frenar el merge** si detecta una vulnerabilidad.
 

@@ -11,7 +11,7 @@ tags:
 description: "Investigadores de Okta descubrieron servicios como Poison Claude que revenden acceso a modelos de Anthropic usando créditos cloud fraudulentos. El operador puede ver todos tus prompts."
 ---
 
-![Poison Claude mercado negro tokens IA](../../assets/images/2026-08-06-poison-claude-tokens-ilegales.jpg)
+![Poison Claude mercado negro tokens IA](../../assets/images/2026-08-06-poison-claude-tokens-ilegales.webp)
 
 Si creías que el mercado negro era solo para Netflix y Spotify, te equivocaste. Ahora también hay mercado negro para **tokens de IA**. Investigadores de Okta descubrieron más de media docena de servicios ilegales en foros underground y plataformas de mensajería que revenden acceso a modelos frontier a precios ridículamente bajos — con un detalle no menor: **el operador ve absolutamente todos tus prompts**.
 

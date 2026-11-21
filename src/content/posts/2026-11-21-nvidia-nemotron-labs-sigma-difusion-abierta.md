@@ -12,7 +12,7 @@ tags:
 description: "NVIDIA publicó 14 checkpoints abiertos (3B/8B) de LLMs por difusión continua: generan bloques de 64 tokens en paralelo, decodifican hasta 3.46x más rápido y la licencia permite uso comercial. Ejecutable con vLLM o SGLang en tu propia GPU."
 ---
 
-![Ilustración editorial tech de partículas de ruido caótico transformándose gradualmente en estructuras geométricas ordenadas que fluyen sobre un chip de silicio, proceso de difusión visual, paleta verde NVIDIA sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-11-21-nvidia-nemotron-labs-sigma-difusion-abierta.jpg)
+![NVIDIA abre Nemotron-Labs-Sigma: 14 checkpoints de modelos de lenguaje por difusión continua (3B y 8B)](../../assets/images/2026-11-21-nvidia-nemotron-labs-sigma-difusion-abierta.webp)
 
 NVIDIA soltó **Nemotron-Labs-Sigma**, una familia abierta de **modelos de lenguaje por difusión continua**. Nada de autoregresión token a token: acá el modelo **des-ruidiza representaciones en un espacio de embedding de 16 dimensiones y genera texto en bloques de 64 tokens**, con varios pasos de denoising por bloque antes de emitirlo.
 

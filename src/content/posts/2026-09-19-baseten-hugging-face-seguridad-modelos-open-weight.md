@@ -12,7 +12,7 @@ tags:
 description: "Baseten (vía su brazo Base Labs) se alía con Hugging Face y Goodfire AI para crear un estándar de infraestructura de seguridad para modelos de pesos abiertos."
 ---
 
-![Baseten y Hugging Face se unen para blindar la seguridad de los modelos open-weight](../../assets/images/2026-09-19-baseten-hugging-face-seguridad-modelos-open-weight.jpg)
+![Baseten y Hugging Face se unen para blindar la seguridad de los modelos open-weight](../../assets/images/2026-09-19-baseten-hugging-face-seguridad-modelos-open-weight.webp)
 
 La seguridad de los modelos open-weight se está tomando la conversación, y ahora hay tres jugadores que quieren ponerle orden. **Baseten** —a través de su brazo de investigación **Base Labs**— se alió con **Hugging Face** y **Goodfire AI** para construir una infraestructura abierta de evaluación y monitoreo de seguridad para modelos de pesos abiertos.
 

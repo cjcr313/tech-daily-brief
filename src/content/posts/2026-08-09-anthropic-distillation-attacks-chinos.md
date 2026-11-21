@@ -11,7 +11,7 @@ tags:
 description: "Anthropic destapó campañas industriales de destilación ilegal: tres labs chinos extrajeron capacidades de Claude mediante 24.000 cuentas fraudulentas."
 ---
 
-![Ilustración editorial de un escudo de seguridad protegiendo un modelo de IA contra intentos de extracción de datos](../../assets/images/2026-08-09-anthropic-distillation-attacks-chinos.jpg)
+![Anthropic acusa a DeepSeek, Moonshot y MiniMax de robar capacidades de Claude con 16 millones de consultas fraudulentas](../../assets/images/2026-08-09-anthropic-distillation-attacks-chinos.webp)
 
 Anthropic soltó una bomba esta semana: **tres laboratorios chinos de IA — DeepSeek, Moonshot AI y MiniMax — ejecutaron campañas industriales de destilación ilícita** para extraer capacidades de Claude y mejorar sus propios modelos.
 

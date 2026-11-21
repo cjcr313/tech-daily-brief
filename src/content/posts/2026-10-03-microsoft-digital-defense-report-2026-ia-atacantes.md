@@ -12,7 +12,7 @@ tags:
 description: "El Digital Defense Report 2026 de Microsoft concluye que los atacantes ya capturaron la ventaja de la IA: vulnerabilidades weaponizadas en menos de 24 horas, ~40.000 CVEs en un semestre y ransomware autónomo operando en organizaciones reales."
 ---
 
-![Ilustración editorial de un escudo digital azul defendiendo una red de nodos contra un enjambre de drones rojos autónomos que avanzan rápidamente, fondo azul marino oscuro con acentos neón, estilo tech editorial, sin texto](../../assets/images/2026-10-03-microsoft-digital-defense-report-2026-ia-atacantes.jpg)
+![Microsoft lo dice sin anestesia: la IA ya le dio la ventaja a los atacantes](../../assets/images/2026-10-03-microsoft-digital-defense-report-2026-ia-atacantes.webp)
 
 Nada de tono futurista ni escenarios hipotéticos: el [Digital Defense Report 2026](https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/) de Microsoft, publicado esta semana y basado en el análisis de **165 billones de señales de seguridad diarias** (trillion, en inglés), llega a una conclusión bastante incómoda: **la IA ya corrió el cerco y, en el corto plazo, la ventaja es de los atacantes**.
 

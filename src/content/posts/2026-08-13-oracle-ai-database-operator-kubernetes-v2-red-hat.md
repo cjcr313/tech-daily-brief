@@ -11,7 +11,7 @@ tags:
 description: "Oracle actualizó su Database Operator para K8s con soporte para Autonomous AI Database, RAC, True Cache y un nuevo PrivateAI controller. Además, sumó autoscaling para OpenShift en OCI."
 ---
 
-![Ilustración editorial de un operador de Kubernetes gestionando bases de datos con elementos de IA, estilo tech editorial](../../assets/images/2026-08-13-oracle-ai-database-operator-kubernetes-v2-red-hat.jpg)
+![Oracle lanza AI Database Operator para Kubernetes v2.2.0 + alianza con Red Hat](../../assets/images/2026-08-13-oracle-ai-database-operator-kubernetes-v2-red-hat.webp)
 
 Oracle no es la empresa más cool del cloud, pero cuando se trata de **correr bases de datos serias en Kubernetes**, son de los que más están invirtiendo. Y esta semana lo demostraron.
 

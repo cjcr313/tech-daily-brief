@@ -11,7 +11,7 @@ tags:
 description: "El WSJ reporta que la administración Trump nombrará a más de dos docenas de empresas de IA —incluidas Nvidia, Amazon, Microsoft, OpenAI y Anthropic— como 'campeones nacionales' para ganarle mercado exterior a China. Anuncio podría caer esta semana."
 ---
 
-![Ilustración editorial tech: escudo federal envolviendo chips y servidores de IA, bandera estadounidense estilizada en circuitos, silueta de dragón competitivo al fondo, paleta azul y dorado, estilo ilustración profesional](../../assets/images/2026-11-16-eeuu-campeones-nacionales-ia-nvidia-openai-anthropic.jpg)
+![EE.UU. prepara designar a Nvidia, OpenAI y Anthropic como 'campeones nacionales' de la IA](../../assets/images/2026-11-16-eeuu-campeones-nacionales-ia-nvidia-openai-anthropic.webp)
 
 Nueva jugada geopolítica en la guerra de la IA: según reporta **The Wall Street Journal**, la administración Trump planea designar a **más de dos docenas de empresas como "campeones nacionales" de la IA** — con **Nvidia, Amazon, Microsoft, OpenAI y Anthropic** entre las destacadas. El objetivo es directo: ayudar a las firmas estadounidenses a **ganarle negocios en el exterior a los rivales chinos**.
 

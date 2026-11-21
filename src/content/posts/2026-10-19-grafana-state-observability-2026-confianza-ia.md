@@ -11,7 +11,7 @@ tags:
 description: "Grafana Labs publicó su 2026 State of Observability Report junto a ETR: la IA ya está embebida en observabilidad (68% en pilotos o producción), pero la confianza en dejarla actuar sola en producción va a la zaga. Dato regional: incluyó 50 decisores de LatAm."
 ---
 
-![Ilustración editorial tech de un panel de observabilidad holográfico flotante con gráficos y trazas luminosas, un brazo robótico que apunta con precisión hacia un gran interruptor de producción protegido tras una barrera de cristal semitransparente, siluetas de ingenieros observando de espaldas, paleta azul profundo con acentos naranja y verde neón, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-19-grafana-state-observability-2026-confianza-ia.jpg)
+![Informe 2026 de Grafana: 85% deja que la IA investigue incidentes, pero solo la mitad la dejaría remendar producción](../../assets/images/2026-10-19-grafana-state-observability-2026-confianza-ia.webp)
 
 Grafana Labs liberó hoy su **2026 State of Observability Report**, hecho en conjunto con ETR (a Futurum company), y el hallazgo central es una brecha que ya varios sospechaban en producción: **85% de los líderes IT se siente cómodo dejando que la IA investigue incidentes (solo lectura), pero solo 52% la dejaría remendar incidentes de forma totalmente autónoma**. O sea: la IA puede mirar, diagnosticar y recomendar — pero tocar producción es otra conversación.
 

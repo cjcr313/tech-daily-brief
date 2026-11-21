@@ -11,7 +11,7 @@ tags:
 description: "Las nuevas salvaguardas de 'preserved thinking' en Claude Fable 5.1 y Opus 5.5 bajaron la extracción de razonamiento entre 10x y 100x, con decenas de miles de cuentas baneadas en dos horas."
 ---
 
-![Ilustración editorial de un escudo digital luminoso protegiendo un núcleo de razonamiento de IA en forma de red neuronal, mientras intentos de extracción abstractos se desvanecen a su alrededor, paleta violeta y azul acero sobre fondo oscuro, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-13-anthropic-preserved-thinking-anti-distilacion.jpg)
+![Anthropic blinda a Claude contra los distiladores: sus defensas reducen el robo de razonamiento entre 90% y 99%](../../assets/images/2026-10-13-anthropic-preserved-thinking-anti-distilacion.webp)
 
 La guerra entre labs y distiladores pasó de las acusaciones a la artillería técnica. **Anthropic publicó el 12 de octubre que sus nuevas defensas de "preserved thinking" en Claude Fable 5.1 y Opus 5.5 redujeron la cosecha de datos por distiladores entre 90% y 99%** — con bannazos masivos incluidos: **decenas de miles de cuentas fueron eliminadas en las dos horas posteriores al despliegue**.
 

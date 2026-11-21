@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare permite que tráfico público alcance backends privados sin exponer IPs ni abrir puertos: WAF, bot management y caching aplicados a APIs internas, backends de agentes IA y servidores MCP."
 ---
 
-![Ilustración editorial de un muro protector naranja y blanco frente a servidores privados ocultos tras una nube cerrada, candados digitales y flujo de tráfico ordenado, estilo ilustración tech corporativa limpia](../../assets/images/2026-11-16-cloudflare-private-origins-ga.jpg)
+![Cloudflare Private Origins llega a disponibilidad general: WAF y bots para apps que nunca quisieron ver internet](../../assets/images/2026-11-16-cloudflare-private-origins-ga.webp)
 
 Cloudflare pasó **Application Services for Private Origins** a disponibilidad general, y la idea de fondo es de esas que cambian reglas tácitas que llevábamos años asumiendo: ahora el tráfico de internet puede llegar a aplicaciones hosteadas en redes privadas **sin exponer direcciones IP ni abrir puertos inbound en el firewall**. Anunciada en beta cerrada en junio, la función llega con configuración simplificada: las IPs privadas se detectan automáticamente en registros DNS proxied, y el routing privado se configura vía API de DNS.
 

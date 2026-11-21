@@ -11,7 +11,7 @@ tags:
 description: "Jasmine Wang, Tomek Korbak y Mikita Balesni publicaron una carta abierta negando mala conducta tras ser despedidos de OpenAI por 'breach of trust'. La empresa respondió y el episode deja una pregunta incómoda: ¿quién vigila a los que vigilan?"
 ---
 
-![Ilustración editorial de tres escritorios vacíos frente a una torre corporativa de IA brillante y cerrada, con una carta flotando entre ambos, tonos azul oscuro y naranja, sin texto](../../assets/images/2026-10-11-openai-despide-investigadores-safety-carta-abierta.jpg)
+![OpenAI despidió a 3 investigadores de seguridad y la pelea ya es pública](../../assets/images/2026-10-11-openai-despide-investigadores-safety-carta-abierta.webp)
 
 Lo que empezó como un despido interno ya es una pelea pública con cartas, memos filtrados y declaraciones cruzadas. **OpenAI despidió la semana pasada a tres investigadores de seguridad — Jasmine Wang, Tomek Korbak y Mikita Balesni —** acusándolos de compartir información confidencial con una organización externa de safety. El jueves publicaron una **carta abierta** negando toda mala conducta, y el viernes la empresa salió a defender los despidos como un tema de **"breach of trust"**. Nadie está retrocediendo.
 

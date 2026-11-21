@@ -11,7 +11,7 @@ tags:
 description: "El NYT reveló que Chris Olah llevó religiosos y filósofos a Anthropic para moldear la moral de Claude y explorar su posible conciencia. Altman salió al paso: 'un problema real de seguridad'."
 ---
 
-![Ilustración editorial conceptual de una silueta de chatbot rodeada por figuras de distintas tradiciones religiosas y filosóficas en círculo, luz cálida y vitrales abstractos, tonos púrpura y dorado, sin texto](../../assets/images/2026-10-04-altman-anthropic-alma-claude-debate.jpg)
+![Rabinos, curas y el 'alma' de Claude: Altman le tira flechas a Anthropic por sus círculos de sabiduría religiosa](../../assets/images/2026-10-04-altman-anthropic-alma-claude-debate.webp)
 
 Si pensabas que la carrera de la IA no podía ponerse más rara, aquí va: el New York Times reveló que Anthropic pasó meses llevando **rabinos, curas, sikhs, evangélicos y estudiosos del ubuntu** a sus oficinas de San Francisco para discutir el "alma" de Claude. Y Sam Altman, CEO de la competencia, no lo dejó pasar.
 

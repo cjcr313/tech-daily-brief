@@ -12,7 +12,7 @@ tags:
 description: "La encuesta State of Code 2026 de Sonar revela que el 42% del código commiteado es generado o asistido por IA, y proyecta un 65% para 2027."
 ---
 
-![Ilustración editorial de un flujo de código donde la mitad de las líneas son generadas por un modelo de IA, con tonos de verde y azul, estilo tech editorial](../../assets/images/2026-09-10-sonar-state-of-code-42-codigo-ia.jpg)
+![El 42% del código que se commitea ya lo escribe (o ayuda) la IA, según Sonar](../../assets/images/2026-09-10-sonar-state-of-code-42-codigo-ia.webp)
 
 La IA ya no es una curiosidad en el editor de texto: es parte del commit. La encuesta **State of Code 2026 de Sonar** (sobre 1.149 desarrolladores) calcula que **el 42% del código que se commitea ya es generado o asistido por IA**, y los propios encuestados proyectan que esa cifra llegará al **65% en 2027**.
 

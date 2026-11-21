@@ -10,7 +10,7 @@ tags:
   - Cloud
 description: "Un ataque masivo a la cadena de suministro de npm compromete más de 1.300 paquetes usando gusanos autorreplicantes."
 ---
-![Ataque npm Supply Chain](../../assets/images/2026-08-05-npm-worm-keyv-chaindrop.jpg)
+![Ataque npm Supply Chain](../../assets/images/2026-08-05-npm-worm-keyv-chaindrop.webp)
 
 Tremendo dolor de cabeza para la comunidad DevOps y Node.js. Un ataque masivo de supply-chain ha golpeado el registro npm con dos variantes principales de malware.
 

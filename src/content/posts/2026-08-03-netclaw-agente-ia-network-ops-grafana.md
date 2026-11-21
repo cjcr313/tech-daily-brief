@@ -12,7 +12,7 @@ tags:
 description: "NetClaw es un agente open source que conecta infraestructura de red, Grafana, Prometheus, Loki y nubes públicas vía MCP. Operaciones de red conversacionales desde Slack."
 ---
 
-![NetClaw agente de IA para network ops](../../assets/images/2026-08-03-netclaw-agente-ia-network.jpg)
+![NetClaw agente de IA para network ops](../../assets/images/2026-08-03-netclaw-agente-ia-network.webp)
 
 Si alguna vez quisiste preguntarle a tu infraestructura "¿qué pasa con el BGP en el router 3?" y obtener una respuesta en vez de abrir cinco tabs, **NetClaw** te va a interesar.
 

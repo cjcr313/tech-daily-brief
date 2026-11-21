@@ -12,7 +12,7 @@ tags:
 description: "El CFO de Cloudflare predice que el tráfico no-humano será 1000x mayor que el humano en 5 años. Q2 2026: revenue US$696M, +36% YoY."
 ---
 
-![Cloudflare humans rounding error internet traffic](../../assets/images/2026-08-08-cloudflare-humanos-error-redondeo-internet.jpg)
+![Cloudflare humans rounding error internet traffic](../../assets/images/2026-08-08-cloudflare-humanos-error-redondeo-internet.webp)
 
 Una frase para el marco: **"los humanos serán un error de redondeo en internet"**. No es un clickbait de Twitter — lo dijo Thomas Seifert, CFO de Cloudflare, durante la llamada de earnings del Q2 2026.
 

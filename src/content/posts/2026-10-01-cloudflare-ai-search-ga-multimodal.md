@@ -11,7 +11,7 @@ tags:
 description: "AI Search pasó a general available con embeddings de imagen nativos (Qwen3-VL-Embedding), OCR para PDFs escaneados y archivos de 10 MiB. El billing parte el 1 de noviembre, con free tier incluido."
 ---
 
-![Ilustración editorial de una lupa gigante examinando documentos, imágenes y gráficos conectados por nodos de datos flotantes, paleta naranja Cloudflare y gris azulado](../../assets/images/2026-10-01-cloudflare-ai-search-ga-multimodal.jpg)
+![Cloudflare AI Search llega a GA con búsqueda multimodal: ahora entiende imágenes y PDFs escaneados](../../assets/images/2026-10-01-cloudflare-ai-search-ga-multimodal.webp)
 
 Sigue la Birthday Week de Cloudflare y hoy le tocó a **AI Search, que pasó a general available** con mejoradas serias en búsqueda multimodal. Para quien no lo seguía: AI Search combina **Workers AI, Vectorize, R2 y Browser Render** en un pipeline manejado de indexación y retrieval — el mismo motor que alimenta la búsqueda del blog y la documentación de Cloudflare.
 

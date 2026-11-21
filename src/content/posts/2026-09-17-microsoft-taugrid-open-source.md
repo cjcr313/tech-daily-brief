@@ -13,7 +13,7 @@ tags:
 description: "Microsoft open-sourceó TauGrid, una plataforma cloud-native que reemplaza el patchwork de herramientas para gestionar cargas de IA sobre clusters Kubernetes con GPU."
 ---
 
-![Ilustración editorial tech: un solo timón (Helm) dirigiendo una flota de nodos GPU como contenedores iluminados, con flujos de datos de entrenamiento e inferencia conectados, tonos azul eléctrico y cian sobre fondo oscuro, concepto de orquestación unificada de IA](../../assets/images/2026-09-17-microsoft-taugrid-open-source.jpg)
+![Microsoft libera TauGrid: un solo Helm para correr cargas de IA en Kubernetes con GPU](../../assets/images/2026-09-17-microsoft-taugrid-open-source.webp)
 
 Microsoft puso en open source **TauGrid**, una plataforma cloud-native pensada para reemplazar el enredo de herramientas que los equipos arman hoy para correr cargas de IA sobre clústeres de Kubernetes con GPU. La promesa es contundente: **un solo `helm install`** y listo.
 

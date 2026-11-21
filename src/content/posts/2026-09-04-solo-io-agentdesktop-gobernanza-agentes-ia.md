@@ -12,7 +12,7 @@ tags:
 description: "El nuevo proyecto open source de Solo.io extiende la gobernanza de infraestructura agentic hasta las máquinas donde corren Claude Code y Codex."
 ---
 
-![Agentes IA gobernados desde el escritorio con agentdesktop](../../assets/images/2026-09-04-solo-io-agentdesktop-gobernanza-agentes-ia.jpg)
+![Agentes IA gobernados desde el escritorio con agentdesktop](../../assets/images/2026-09-04-solo-io-agentdesktop-gobernanza-agentes-ia.webp)
 
 Solo.io anunció **agentdesktop**, un nuevo proyecto open source que lleva la gobernanza que ya tenía implementada para infraestructura agentic hasta el lugar donde de verdad viven los agentes: las máquinas de los desarrolladores, donde corren **Claude Code, Codex** y otros agentes de propósito general.
 

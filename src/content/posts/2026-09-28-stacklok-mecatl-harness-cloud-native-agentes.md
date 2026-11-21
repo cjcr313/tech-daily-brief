@@ -13,7 +13,7 @@ tags:
 description: "Craig McLuckie (Stacklok) presenta Mecatl, un runtime de agentes diseñado como sistema distribuido desde el día uno: el loop separado del filesystem, las credenciales y el sandbox."
 ---
 
-![Ilustración editorial de un motor de agente de IA desacoplado en componentes distribuidos —clientes, entornos de ejecución, herramientas y servicios— conectados sobre un clúster Kubernetes](../../assets/images/2026-09-28-stacklok-mecatl-harness-cloud-native-agentes.jpg)
+![Stacklok open-sourcea Mecatl: el harness cloud-native para agentes que no quieren vivir en tu laptop](../../assets/images/2026-09-28-stacklok-mecatl-harness-cloud-native-agentes.webp)
 
 Craig McLuckie —co-fundador de Heptio, uno de los creadores de Kubernetes y hoy CEO de Stacklok— publicó un post en el blog de la CNCF que vale la pena leer con calma. La tesis: los agentes de código se volvieron útiles cuando **dejaron de ser un chat box**, y eso fue gracias a cuatro cosas —tools capaces, un repo y filesystem compartidos, subagentes, y skills que capturan lo aprendido. El problema es que esos patrones nacieron **en el laptop del desarrollador**, y ahí no van a quedarse.
 

@@ -11,7 +11,7 @@ tags:
 description: "El segundo modelo de la startup de Mira Murati: MoE de 594B parámetros (17B activos), 31 en el índice de Artificial Analysis, coding agéntico de largo horizonte y pesos bajo Apache 2.0 la próxima semana."
 ---
 
-![Ilustración editorial tech de una esfera neuronal compacta y brillante emergiendo de un cofre abierto que libera partículas luminosas](../../assets/images/thinking-machines-inkling-2-small-abre-pesos.jpg)
+![Thinking Machines abre el juego: Inkling 2 Small promete ser el modelo open weights más potente fuera de China](../../assets/images/thinking-machines-inkling-2-small-abre-pesos.webp)
 
 La startup de Mira Murati sigue moviéndose rápido. Ayer **Thinking Machines Lab lanzó Inkling 2 Small**, la segunda generación de sus modelos, y la apuesta es clara: **cuando abra los pesos la próxima semana bajo Apache 2.0, sería el modelo open weights de mayor puntaje desarrollado fuera de China**, según el ranking de Artificial Analysis.
 

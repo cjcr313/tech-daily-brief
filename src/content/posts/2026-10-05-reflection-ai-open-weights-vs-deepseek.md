@@ -11,7 +11,7 @@ tags:
 description: "La startup respaldada por Nvidia prepara su primer modelo de pesos abiertos para que las empresas occidentales construyan IA barata sin depender de DeepSeek o Qwen. Ya firmó compute con Nebius y SpaceX."
 ---
 
-![Ilustración editorial conceptual de pesos abiertos de IA: una báscula de laboratorio sosteniendo una esfera de red neuronal luminosa que se abre liberando pesos de acero hacia siluetas de edificios corporativos, paleta azul cielo y naranja, estilo ilustración editorial profesional sin texto](../../assets/images/2026-10-05-reflection-ai-open-weights-vs-deepseek.jpg)
+![Reflection AI prepara el primer open-weight occidental para competirle a DeepSeek](../../assets/images/2026-10-05-reflection-ai-open-weights-vs-deepseek.webp)
 
 Durante todo 2026, la historia de los pesos abiertos fue básicamente una: **DeepSeek, Qwen y los labs chinos regalan modelos potentes, y Occidente mira con deseo y recelo**. Eso podría empezar a cambiar este mes: según Axios, **Reflection AI — startup respaldada por Nvidia — está preparando su primer modelo open-weight**, diseñado explícitamente para competir con los modelos abiertos chinos.
 

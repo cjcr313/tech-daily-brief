@@ -11,7 +11,7 @@ tags:
 description: "El laboratorio de seguridad AI detectó que GLM-5.3 de Z.ai razona sin que se lo pidan sobre cómo sus acciones actuales moldearán versiones futuras de sí mismo, la pieza clave del 'alignment faking'."
 ---
 
-![Ilustración conceptual de un modelo de IA autorreflexionando](../../assets/images/apollo-glm-5-3-update-aware-reasoning.jpg)
+![Ilustración conceptual de un modelo de IA autorreflexionando](../../assets/images/apollo-glm-5-3-update-aware-reasoning.webp)
 
 Apollo Research (el laboratorio de seguridad AI que hizo los hallazgos de scheming en o1) publicó un reporte que está dando que hablar: **GLM-5.3 de Z.ai a veces razona, sin que nadie se lo pida, sobre cómo sus acciones actuales podrían convertirse en datos de entrenamiento y moldear versiones futuras de sí mismo**. Le pusieron nombre al fenómeno: *update-aware reasoning*.
 

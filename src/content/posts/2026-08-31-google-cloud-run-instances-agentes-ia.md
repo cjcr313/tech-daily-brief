@@ -11,7 +11,7 @@ tags:
 description: "Google lanzó Cloud Run instances, un runtime singleton para workloads de larga duración como agentes de IA, con costo predecible de US$5,70 al mes."
 ---
 
-![Ilustración editorial de una instancia Cloud Run ejecutando un agente de IA](../../assets/images/2026-08-31-google-cloud-run-instances-agentes-ia.jpg)
+![Cloud Run instances: instancias persistentes y baratas para agentes de IA](../../assets/images/2026-08-31-google-cloud-run-instances-agentes-ia.webp)
 
 Google Cloud sumó una pieza pensada justo para el boom de los agentes: **Cloud Run instances**, un runtime de cómputo singleton para cargas de larga duración y con estado. La tesis es simple: los agentes de IA personales no se comportan como un servicio web stateless.
 

@@ -11,7 +11,7 @@ tags:
 description: "Amjad Masad confirmó en Disrupt que Replit ya no trabaja con Anthropic: costo, rendimiento de GPT-6 en benchmarks internos y una sociedad con OpenAI de agosto. Aunque fuentes internas dicen que el divorcio no es tal."
 ---
 
-![Ilustración editorial de dos logos corporativos abstractos separándose por una línea de puntos, estilo minimalista tech](../../assets/images/2026-10-17-replit-deja-de-trabajar-con-anthropic-ceo.jpg)
+![Replit le dijo chao a Anthropic: \"ChatGPT es mejor ahora\", según su CEO en TechCrunch Disrupt](../../assets/images/2026-10-17-replit-deja-de-trabajar-con-anthropic-ceo.webp)
 
 Drama en el ecosistema de herramientas de desarrollo con IA. **Amjad Masad, CEO y cofundador de Replit, dijo el jueves en el escenario de TechCrunch Disrupt que la empresa "ya no está trabajando con Anthropic"**. La plataforma que fue durante años el caso emblemático de Claude en producción se cambió de bando, y las razones suenan a factura y benchmarks.
 

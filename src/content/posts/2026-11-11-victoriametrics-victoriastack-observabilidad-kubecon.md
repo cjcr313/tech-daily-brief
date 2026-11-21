@@ -12,7 +12,7 @@ tags:
 description: "VictoriaMetrics presentó VictoriaStack en KubeCon NA 2026: métricas, logs y traces en un solo stack open-source, pensado para el volumen de telemetría que generan los agentes de IA."
 ---
 
-![Ilustración editorial de tres torres de datos interconectadas —métricas, logs y trazas— fluyendo hacia un panel de observabilidad unificado](../../assets/images/victoriametrics-victoriastack-observabilidad-kubecon.jpg)
+![VictoriaMetrics lanza VictoriaStack: el stack open-source que une métricas, logs y traces](../../assets/images/victoriametrics-victoriastack-observabilidad-kubecon.webp)
 
 En pleno KubeCon + CloudNativeCon North America 2026, VictoriaMetrics sacó del horno **VictoriaStack**: un stack de observabilidad **open-source** que reúne a VictoriaMetrics (métricas), VictoriaLogs (logs) y VictoriaTraces (trazas) bajo un mismo paraguas. La idea es simple pero potente: darte la facilidad de un SaaS de observabilidad sin soltar el control ni el presupuesto de las herramientas self-managed.
 

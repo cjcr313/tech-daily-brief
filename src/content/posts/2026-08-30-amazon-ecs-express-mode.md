@@ -12,7 +12,7 @@ tags:
 description: "AWS lanza ECS Express Mode: pasas una imagen y dos roles IAM, y obtienes un servicio HTTPS en Fargate con load balancer, TLS, autoscaling y canary releases listo de una. Sin sprawl, con rollback automático."
 ---
 
-![Ilustración editorial de un contenedor desplegándose sobre un load balancer con despliegues canary y escalado automático, estética tech minimalista](../../assets/images/2026-08-30-amazon-ecs-express-mode.jpg)
+![Amazon ECS Express Mode: despliegas un contenedor en un solo paso y te olvidas del boilerplate de infra](../../assets/images/2026-08-30-amazon-ecs-express-mode.webp)
 
 La promesa de los contenedores siempre fue simple: si corre en tu máquina, corre en producción. Y se cumple — el contenedor corre. El problema es el impuesto que viene después: montar el load balancer, las políticas de escalado, el networking, los roles IAM con el mínimo privilegio, la config de seguridad… en algún punto entre el tercer módulo de Terraform y la segunda revisión de IAM, perdiste la velocidad que los contenedores te debían dar.
 

@@ -11,7 +11,7 @@ tags:
 description: "Datos de Synergy Research para Q3 2026: gasto cloud creció 55% interanual, AWS cae a 26%, Google Cloud escala a 16%, y los neoclouds Anthropic y SpaceX debutan en el top 10 mundial por primera vez en la historia."
 ---
 
-![Ilustración editorial tech de un podio de gráficos de barras 3D representando proveedores de nube compitiendo en altura, con dos plataformas nuevas emergiendo desde abajo rodeadas de luz, fondo degradado azul índigo a violeta, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-11-03-synergy-q3-2026-anthropic-spacex-top-10-cloud.jpg)
+![El mercado cloud llegó a US$168 mil millones en Q3: Google Cloud sube a 16% y Anthropic y SpaceX entran al top 10 por primera vez](../../assets/images/2026-11-03-synergy-q3-2026-anthropic-spacex-top-10-cloud.webp)
 
 Los números de Synergy Research Group para el tercer trimestre ya están fuera y la conclusión es una sola: **el mercado cloud sigue acelerando a un ritmo que ni los analistas esperaban**. El gasto empresarial en servicios de infraestructura cloud llegó a **US$168 mil millones en Q3 2026, un 55% más que hace un año**. Sí, leíste bien: el mercado se duplicó en solo ocho trimestres y lleva **12 trimestres consecutivos con tasas de crecimiento crecientes**.
 

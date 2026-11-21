@@ -28,8 +28,12 @@ const { Content } = await render(about);
 
   <Breadcrumb />
 
-  <Main pageTitle={about.data.title} class="app-prose">
-    <Content />
+  <Main pageTitle={about.data.title} pageDesc={about.data.description}>
+    <article
+      class="app-prose bg-surface border-border max-w-3xl rounded-3xl border p-6 shadow-xs sm:p-10"
+    >
+      <Content />
+    </article>
   </Main>
 
   <Footer />

@@ -11,7 +11,7 @@ tags:
 description: "Un usuario reportó que Claude Code enviaba el email de la cuenta en el header User-Agent de requests web, y que ahora recibe decenas de scam emails al día. Anthropic ya tiene un plugin de mitigación, pero con dudas sobre su efectividad."
 ---
 
-![Ilustración editorial tech de un sobre brillante escapándose de una ventana de terminal abierta y viajando por cables de red hacia torres de servidores lejanas, fondo azul oscuro con acentos teal y ámbar, estilo vectorial plano](../../assets/images/2026-11-08-claude-code-user-agent-fuga-email-privacidad.jpg)
+![Claude Code metía tu email en el header User-Agent: el issue #107757 enciende la alarma de privacidad en agentes de código](../../assets/images/2026-11-08-claude-code-user-agent-fuga-email-privacidad.webp)
 
 El problema de los agentes de código con acceso a la web no es teórico. El 5 de noviembre, el usuario **taylor-edwards** abrió el issue [#107757](https://github.com/anthropics/claude-code/issues/107757) en el repo de Claude Code con un título directo al grano: *"Privacy violation in User-Agent header"*. Su reclamo: **Claude Code estaba enviando el email de la cuenta logueada a sitios de terceros dentro del header User-Agent de las requests web**, sin permiso y sin que el usuario supiera. Hoy recibe "decenas de scam emails al día".
 

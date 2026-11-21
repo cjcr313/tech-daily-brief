@@ -10,7 +10,7 @@ tags:
   - IA
 description: "Google Cloud lanza Cortex Framework v7, habilitando a los agentes de IA para trabajar directamente con datos empresariales de SAP en BigQuery."
 ---
-![Google Cloud Cortex v7](../../assets/images/2026-08-06-google-cloud-cortex.jpg)
+![Google Cloud Cortex v7](../../assets/images/2026-08-06-google-cloud-cortex.webp)
 
 Para los que andan metidos en el mundo enterprise, Google Cloud acaba de soltar una tremenda actualización: **Google Cloud Cortex Framework v7 ya está en General Availability (GA)**. Y la gracia principal de esta versión es que tiende un puente directo entre la Inteligencia Artificial y los mastodontes de datos corporativos.
 

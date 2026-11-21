@@ -11,7 +11,7 @@ tags:
 description: "Meta presenta Muse Code, un agente de terminal potenciado por Muse Spark 1.2 que lanza sub-agentes en paralelo para trabajar en repos grandes. Más barato que Claude y Codex."
 ---
 
-![Meta Muse Code AI Coding Agent](../../assets/images/2026-08-06-meta-muse-code-coding-agent.jpg)
+![Meta Muse Code AI Coding Agent](../../assets/images/2026-08-06-meta-muse-code-coding-agent.webp)
 
 Meta se mandó la movida que todos esperaban: entrar de lleno a la pelea de los coding agents. **Mark Zuckerberg anunció Muse Code**, el primer agente autónomo de código de Meta, disponible desde ayer en beta para macOS y Linux.
 

@@ -11,7 +11,7 @@ tags:
 description: "AWS lanzó Lambda Web Functions: apps web Node.js estándar corriendo directo en Lambda, con requests concurrentes, response streaming y cobro solo por CPU activa."
 ---
 
-![Ilustración editorial de una aplicación web desplegándose directamente sobre una nube modular serverless](../../assets/images/aws-lambda-web-functions-nodejs.jpg)
+![AWS le dice adiós a los adaptadores: Lambda Web Functions corre tu Express o Hono tal cual, con streaming y menos cold starts](../../assets/images/aws-lambda-web-functions-nodejs.webp)
 
 AWS acaba de soltar una de esas noticias que hacen repensar cómo se arma una API hoy: **Lambda Web Functions**. La idea es simple y brutal a la vez: tomas un servidor HTTP estándar en Node.js —Express, Hono, Fastify, Next.js, lo que sea— y lo despliegas en Lambda **sin adaptadores, sin capas intermedias, sin reescribir nada**. Un comando y listo.
 

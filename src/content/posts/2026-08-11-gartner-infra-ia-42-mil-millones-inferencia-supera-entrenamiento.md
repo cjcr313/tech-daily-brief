@@ -12,7 +12,7 @@ tags:
 description: "Gartner proyecta que el gasto en IaaS optimizado para IA casi se duplica a US$42B en 2026. Por primera vez, inferencia (US$23,3B) supera a entrenamiento (US$19B). Los hyperscalers invierten más de US$500B en capex."
 ---
 
-![Ilustración editorial de un data center futurista con gráficos de crecimiento y nodos de inferencia IA](../../assets/images/2026-08-11-gartner-infra-ia-42-mil-millones.jpg)
+![Gartner: infraestructura IA sube 96% a US$42 mil millones en 2026 y la inferencia ya le gana al entrenamiento](../../assets/images/2026-08-11-gartner-infra-ia-42-mil-millones.webp)
 
 Gartner soltó un reporte ayer que confirma lo que ya se olía: **la IA dejó de ser experimental y se volvió infraestructura de producción**. El gasto global en IaaS optimizado para IA va a crecer **96% este año**, llegando a **US$42 mil millones**. Y acá viene el dato que cambia el enfoque: **inferencia supera a entrenamiento por primera vez**.
 

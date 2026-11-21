@@ -11,7 +11,7 @@ tags:
 description: "Workers y Durable Objects ahora soportan profiling on-demand de CPU y memoria con flamegraphs interactivos capturados en producción, sin redeploy. La perla: lo capturado es tráfico real, no un lab."
 ---
 
-![Panel de observabilidad con flamegraph naranja analizando el rendimiento de código en producción](../../assets/images/2026-10-10-cloudflare-workers-profiling-produccion-flamegraphs.jpg)
+![Panel de observabilidad con flamegraph naranja analizando el rendimiento de código en producción](../../assets/images/2026-10-10-cloudflare-workers-profiling-produccion-flamegraphs.webp)
 
 Los logs y las métricas agregadas te dicen *cuánto*, pero casi nunca te dicen *dónde*. Para ese "dónde" existe el profiling, y hasta ahora en el mundo serverless era básicamente un dolor: o reproducías el problema en local (ja, buena suerte) o te quedabas mirando dashboards sin saber qué función estaba quemando CPU. Cloudflare cerró ese hueco: **profiling CPU y memoria on-demand para Workers y Durable Objects, capturado directamente en producción**, con flamegraphs interactivos en el dashboard.
 

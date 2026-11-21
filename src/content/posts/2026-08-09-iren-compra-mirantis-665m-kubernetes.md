@@ -12,7 +12,7 @@ tags:
 description: "IREN cerró la compra de Mirantis por US$665M en acciones. El ex-minero de bitcoin ahora ofrece plataforma de cloud nativa con Kubernetes y subió su target de ingresos 2026 a US$4B."
 ---
 
-![IREN acquires Mirantis](../../assets/images/2026-08-09-iren-compra-mirantis-665m-kubernetes.jpg)
+![IREN acquires Mirantis](../../assets/images/2026-08-09-iren-compra-mirantis-665m-kubernetes.webp)
 
 La transformación más salvaja del año en infraestructura: **IREN**, originalmente una empresa de mining de bitcoin, cerró la adquisición de **Mirantis** — uno de los players históricos del ecosistema Kubernetes y cloud native — por **US$665 millones**. La operación se concretó el 3 de agosto y se paga principalmente en acciones: 12.6 millones de shares de IREN valorados en $625M más $40M en efectivo y RSUs.
 

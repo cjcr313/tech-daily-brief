@@ -11,7 +11,7 @@ tags:
 description: "Flux perdió a su empresa creadora en 2024 y todos le escribieron el obituario. Dos años después va por v2.9.5, Microsoft y AWS lo tienen incrustado en sus productos y Morgan Stanley corre 500+ clústeres con él. La pregunta ya no es si sobrevive, sino qué arquitectura de GitOps quieres."
 ---
 
-![Ilustración editorial tech del resurgimiento de GitOps: un pipeline continuo de commits fluyendo desde un repositorio hacia múltiples clústeres de Kubernetes, con engranajes y flechas reconstruyéndose a sí mismas sobre un tablero de control, paleta azul y verde oscura, estilo ilustración editorial profesional](../../assets/images/2026-10-05-flux-cd-resurgimiento-gitops-vs-argo-cd.jpg)
+![Weaveworks murió, Flux no: el resurgimiento del GitOps comunitario y la pelea con Argo CD](../../assets/images/2026-10-05-flux-cd-resurgimiento-gitops-vs-argo-cd.webp)
 
 Cuando Weaveworks — la empresa que creó Flux — cerró en febrero de 2024, los obituarios se escribieron solos: proyecto GitOps pierde a su sponsor comercial, fin de la historia. Spoiler: no pasó nada de eso.
 

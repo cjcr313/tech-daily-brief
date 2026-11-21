@@ -12,7 +12,7 @@ tags:
 description: "Google AX (Agent Executor), un runtime distribuido open-source para agentes sobre Kubernetes, llegó al #1 de Hacker News con su v0.3.0 y promete matar la factura por cómputo ocioso."
 ---
 
-![Runtime de agentes distribuido sobre Kubernetes con pods y actores suspendidos](../../assets/images/2026-09-22-google-ax-agent-executor-runtime-open-source.jpg)
+![Runtime de agentes distribuido sobre Kubernetes con pods y actores suspendidos](../../assets/images/2026-09-22-google-ax-agent-executor-runtime-open-source.webp)
 
 Un runtime de procesos le ganó a todos los modelos frontera en Hacker News. Y no fue por magia, sino por un argumento que le llega directo al bolsillo: **la factura de cloud**.
 

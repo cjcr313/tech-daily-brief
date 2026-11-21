@@ -11,7 +11,7 @@ tags:
 description: "Cisco/Splunk publicó su informe anual con 2.050 encuestados en 10 países: 55% no logra controlar los costos de IA y 60% dice que los picos sorpresa de facturación duelen más que la base alta. La observabilidad emerge como el freno de los agentes."
 ---
 
-![Ilustración editorial tech de un dashboard de observabilidad flotante con gráficos de costos y trazas luminosas en azul profundo, junto a una boleta digital que se dispara en picos naranjas y rojos vigilada por un guardián robótico con lupa, siluetas de ingenieros observando de espaldas, paleta azul profundo con acentos naranja y verde neón, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-20-splunk-state-observability-2026-costos-ia-impredecibles.jpg)
+![Splunk State of Observability 2026: la crisis no es la cuenta de la IA, es el susto de la boleta](../../assets/images/2026-10-20-splunk-state-observability-2026-costos-ia-impredecibles.webp)
 
 Un día después del informe de Grafana, llegó el contrapunto pesado: Cisco publicó hoy el **Splunk State of Observability 2026 — "Restoring Predictability in the AI Era"**, su sexta edición anual, con **2.050 profesionales de ITOps e ingeniería en 10 países** (encuesta de Oxford Economics, febrero-marzo 2026). Y mientras Grafana miraba la confianza, Splunk pone el dedo en la herida que más le importa al CFO: **la factura de la IA se volvió impredecible**.
 

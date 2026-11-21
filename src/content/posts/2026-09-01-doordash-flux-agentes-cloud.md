@@ -12,7 +12,7 @@ tags:
 description: "Flux, la plataforma de DoorDash, sacó los agentes de los notebooks de los devs y los llevó a sandboxes Firecracker en la nube: 130.000 tareas automatizadas en un mes."
 ---
 
-![Ilustración editorial de agentes de ingeniería corriendo en sandboxes aislados en la nube](../../assets/images/2026-09-01-doordash-flux-agentes-cloud.jpg)
+![DoorDash movió 130.000 tareas de ingeniería a agentes en la nube con Flux](../../assets/images/2026-09-01-doordash-flux-agentes-cloud.webp)
 
 Correr agentes de IA en el notebook del developer ya no daba el ancho. DoorDash lo dejó claro con **Flux**, su plataforma cloud para cargas de agentes de ingeniería, que automatizó **130.000 tareas en un solo mes** durante 2026.
 

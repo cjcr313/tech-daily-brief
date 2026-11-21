@@ -12,7 +12,7 @@ tags:
 description: "Preview de cross-cloud caching y conexiones cross-cloud para consultar S3 y ADLS moviendo menos del 5% de los datos."
 ---
 
-![Ilustración editorial de datos repartidos entre varias nubes (Amazon S3, Azure, Google Cloud) conectados por un caché inteligente que reduce el tráfico entre nubes, con bloques de columnas y un Lakehouse central](../../assets/images/2026-09-26-bigquery-borderless-lakehouse-cross-cloud-caching.jpg)
+![BigQuery suma caching cross-cloud para bajar el costo de consultar datos en otras nubes](../../assets/images/2026-09-26-bigquery-borderless-lakehouse-cross-cloud-caching.webp)
 
 Consultar datos que viven en otra nube siempre fue caro: o los duplicabas, o pagabas transferencia por cada query. Google Cloud acaba de dar un paso grande para que eso deje de ser así, con dos features nuevas en preview para el **borderless Lakehouse**.
 

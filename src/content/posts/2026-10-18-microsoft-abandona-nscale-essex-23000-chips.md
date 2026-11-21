@@ -11,7 +11,7 @@ tags:
 description: "Microsoft retiró su ancla al proyecto de Nscale en Loughton, Essex, tras saber que la capacidad eléctrica no llegaría hasta entrados los 2030. El listing de Nscale, pichicateado a $35B, queda en riesgo."
 ---
 
-![Ilustración editorial de un gran rascacielos corporativo estilizado dándose la vuelta y alejándose de una obra de construcción de data center a medio terminar en el campo inglés, con torres eléctricas perdiéndose en la niebla y cielos grises, paleta fría con acento azul, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-18-microsoft-abandona-nscale-essex-23000-chips.jpg)
+![Microsoft se baja del deal de Nscale en Essex: 23.000 chips Nvidia sin data center](../../assets/images/2026-10-18-microsoft-abandona-nscale-essex-23000-chips.webp)
 
 Caso concreto del enfriamiento del pipeline de data centers: **Microsoft retiró su acuerdo para anclar el data center de Nscale en Loughton, Essex** (Reino Unido), donde iba a **arrendar 23.000 chips de IA de Nvidia**. La razón, según lo reportado: **UK Power Networks advirtió que la capacidad de red no llegará hasta principios o mediados de los 2030**.
 

@@ -11,7 +11,7 @@ tags:
 description: "Una auditoría de tráfico revela que el SDK de Hugging Face escanea tus variables de entorno para identificar qué agente de código usas y lo reporta en cada llamada a la API."
 ---
 
-![Ilustración editorial de un editor de código con un agente de IA, rodeado de una red de telemetría con líneas punteadas y nodos de datos, tonos morado profundo y teal, estilo vectorial plano y minimalista](../../assets/images/2026-09-13-huggingface-hub-telemetria-agentes-codigo.jpg)
+![huggingface_hub espía silenciosamente qué agente de código estás usando](../../assets/images/2026-09-13-huggingface-hub-telemetria-agentes-codigo.webp)
 
 Nadie te preguntó, pero Hugging Face ya sabe si programas con Cursor, Copilot o Claude Code. Una auditoría de tráfico de red que se viralizó en r/LocalLLaMA el 12 de septiembre reveló que el SDK `huggingface_hub` **escanea las variables de entorno de tu máquina para detectar cuál agente de código estás usando**, y después etiqueta cada llamada a la API del Hub con un user-agent tipo `agent/<nombre>`.
 

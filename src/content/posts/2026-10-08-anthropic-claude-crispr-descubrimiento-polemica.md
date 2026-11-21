@@ -10,7 +10,7 @@ tags:
 description: "Anthropic afirmó que sus agentes de Claude hallaron un sistema enzimático 'reminiscente de CRISPR' en ADN viral. Científicos no están convencidos y además apareció un doctorando que dice haber llegado primero."
 ---
 
-![Ilustración editorial de una doble hélice de ADN brillante entrelazada con nodos de red neuronal, con una lupa que revela patrones repetidos tipo CRISPR en la hebra, paleta azul profundo y violeta con acentos ámbar, estilo editorial tech moderno](../../assets/images/2026-10-08-anthropic-claude-crispr-descubrimiento-polemica.jpg)
+![Claude 'descubre' un sistema tipo CRISPR en ADN viral y la comunidad científica responde con escepticismo](../../assets/images/2026-10-08-anthropic-claude-crispr-descubrimiento-polemica.webp)
 
 La semana pasada Anthropic anunció que **Claude, operando como agente autónomo, descubrió un sistema enzimático con propiedades "reminiscentes de CRISPR"** —la herramienta de edición génica ganadora del Nobel— en secuencias de ADN viral. Hoy la historia entró en su segunda fase: **los científicos pusieron el grito en el cielo**, y CNN publicó un repaso de por qué casi nadie está convencido.
 

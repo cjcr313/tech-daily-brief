@@ -11,7 +11,7 @@ tags:
 description: "Dynatrace hizo rollout de un rediseño completo a todas sus apps el mismo día gracias al design system Strato: nuevo filtrado por valor, timeframes que viajan entre apps y accesibilidad centralizada."
 ---
 
-![Ilustración editorial de un rediseño de interfaz propagándose simultáneamente a múltiples paneles de observabilidad](../../assets/images/2026-09-29-dynatrace-strato-design-refresh-todas-las-apps.jpg)
+![Dynatrace le cambió la cara a todas sus apps de una sola vez: así funciona el refresh vía Strato](../../assets/images/2026-09-29-dynatrace-strato-design-refresh-todas-las-apps.webp)
 
 Si abres Dynatrace hoy y se te hace raro, no es tu pantalla: la plataforma completa recibió un rediseño visual de golpe. Menos capas visuales, mejor contraste en modo oscuro, colores de estado y gráficos más vibrantes y fáciles de distinguir, y nuevas paletas temáticas para los charts. Lo interesante no es el cambio estético en sí, sino **cómo lo hicieron**: todo llegó a todas las apps el mismo día, sin que nadie tuviera que mover un dedo.
 

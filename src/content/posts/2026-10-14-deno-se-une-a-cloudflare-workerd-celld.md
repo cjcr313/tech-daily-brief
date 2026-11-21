@@ -11,7 +11,7 @@ tags:
 description: "Todo el equipo de Deno pasa a Cloudflare para hacer de Workers y Durable Objects un estándar autoalojable: celld y workerd se fusionan, Deno Deploy cierra en 6 meses, el runtime Deno tendrá un año más de soporte y JSR migra su infraestructura."
 ---
 
-![Ilustración editorial tech de un dinosaurio estilizado (deno) caminando hacia una nube naranja brillante sobre un paisaje de servidores distribuidos conectados por líneas luminosas formando una malla de nodos, símbolo de runtimes uniéndose, paleta azul profundo con acentos naranjas, estilo ilustración tech editorial, sin texto](../../assets/images/2026-10-14-deno-se-une-a-cloudflare.jpg)
+![Deno se une a Cloudflare: el equipo de Ryan Dahl se muda para fusionar workerd y celld](../../assets/images/2026-10-14-deno-se-une-a-cloudflare.webp)
 
 Notición para el mundo JavaScript/serverless: **el equipo completo de Deno se une a Cloudflare**, y Ryan Dahl y Kenton Varda lo contaron en posts cruzados. El objetivo declarado: fusionar **celld** (el runtime distribuido que Dahl lanzó en agosto) con **workerd**, para que el modelo de programación de Workers y Durable Objects se pueda correr **de forma autoalojada como ciudadano de primera clase**, no solo dentro de la red de Cloudflare.
 

@@ -11,7 +11,7 @@ tags:
 description: "Anunciado en Ignite: la app de Copilot clona repos de Azure DevOps, deja que agentes abran y completen PRs solos, opera tu navegador vía extensión y llega como GA a GitHub Enterprise Server."
 ---
 
-![Ilustración editorial tech: un robot copilot amigable en una cabina futurista controlando varias pantallas con ramas de código, pull requests y una ventana de navegador web, paleta naranja cálido y azul marino, estilo vector plano moderno](../../assets/images/2026-11-18-github-copilot-app-azure-devops-navegador.jpg)
+![La app de GitHub Copilot ahora trabaja con Azure DevOps, tu navegador y GitHub Enterprise Server](../../assets/images/2026-11-18-github-copilot-app-azure-devops-navegador.webp)
 
 "Copilot es más útil cuando puede trabajar donde tú trabajas". Con esa frase GitHub aprovechó Microsoft Ignite para anunciar que la **app standalone de GitHub Copilot** ahora soporta tus repos de **Azure DevOps**, tu instancia de **GitHub Enterprise Server** y hasta **el navegador donde ya estás firmado**.
 

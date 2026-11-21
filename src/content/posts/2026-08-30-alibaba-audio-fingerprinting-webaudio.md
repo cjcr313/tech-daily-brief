@@ -11,7 +11,7 @@ tags:
 description: "Un dev descubrió que AliExpress mantenía un stream de audio inaudible para hacer device fingerprinting con la Web Audio API, usando el hardware del usuario como identificador único."
 ---
 
-![Ilustración editorial de una onda de audio espectral saliendo de una página web, con un candado quebrado y circuitos de fondo, acentos violeta y negro, estilo tech editorial](../../assets/images/2026-08-30-alibaba-audio-fingerprinting-webaudio.jpg)
+![AliExpress hacía fingerprinting de audio silencioso: la Web Audio API usada para rastrear tu hardware](../../assets/images/2026-08-30-alibaba-audio-fingerprinting-webaudio.webp)
 
 Todo partió por un problema de audífonos. Un developer estaba peleando con sus **audífonos Bluetooth multipoint** que no soltaban el audio del PC para pasárselo al teléfono, y en la búsqueda del culpable se topó con algo mucho más grande: **AliExpress estaba ejecutando rutinas de fingerprinting de audio silencioso** en su homepage.
 

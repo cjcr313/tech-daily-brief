@@ -11,7 +11,7 @@ tags:
 description: "Un mercado de predicción en Manifold marca 93% de probabilidad de que un laboratorio chino supere la frontera dominada por labs de EE.UU. en un leaderboard mayor, impulsado por Kimi K3 a 3 puntos del mejor modelo de Anthropic."
 ---
 
-![Ilustración editorial de dos corredores abstractos de carreras hechos de luz, uno rojo y uno dorado, casi cruzando juntos la línea de meta en una pista tecnológica futurista, paleta oscura con acentos rojos y dorados, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-12-manifold-93-lab-chino-frontera-ia.jpg)
+![El mercado le da 93% a que un lab chino alcanza la frontera de IA de EE.UU.: Kimi K3 queda a 3 puntos de Anthropic](../../assets/images/2026-10-12-manifold-93-lab-chino-frontera-ia.webp)
 
 La conversación de la semana en IA no la abrió un lanzamiento, sino **una apuesta**: el mercado "SOAI#8" en Manifold — creado por Zvi Mowshowitz a partir de la predicción #8 del State of AI Report — pregunta si *"un lab chino supera la frontera dominada por labs de EE.UU. en un leaderboard mayor (ej. LMArena o Artificial Analysis)"*. Al 11 de octubre el **YES cotiza a ~93%**, con más de la mitad de todo su volumen histórico cambiando de manos en un solo día.
 

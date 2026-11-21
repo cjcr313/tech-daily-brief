@@ -12,7 +12,7 @@ tags:
 description: "Nace la AI Energy Management Alliance, una coalición de 18 empresas liderada por Emerald AI, Google y NVIDIA para que los data centers de IA modulen su consumo eléctrico según las condiciones de la red."
 ---
 
-![Ilustración editorial de un data center de IA conectado a una red eléctrica, con flujos de energía bidireccionales y medidores inteligentes, tonos verde esmeralda y azul profundo sobre fondo oscuro, estilo vectorial plano minimalista](../../assets/images/2026-09-16-ai-energy-management-alliance.jpg)
+![NVIDIA, Google y Emerald AI lanzan la AEMA: data centers que se adaptan a la red eléctrica](../../assets/images/2026-09-16-ai-energy-management-alliance.webp)
 
 El cuello de botella de la IA ya no es solo el silicio: es la **electricidad**. Y acá llega una señal fuerte de que los grandes se están coordinando para que los data centers dejen de ser "ese vecino que se chupa toda la red". Este martes, **Emerald AI, Google y NVIDIA** lanzaron la **AI Energy Management Alliance (AEMA)**, una coalición que arranca con **18 empresas** del mundo de la IA y la energía.
 

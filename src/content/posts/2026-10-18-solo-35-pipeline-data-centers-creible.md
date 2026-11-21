@@ -12,7 +12,7 @@ tags:
 description: "RegLayer contó 47+ mega-proyectos de data centers frenados en 2026 y Bernstein le dijo al FT que solo un tercio del pipeline es real. Grid, transformadores y liquid cooling son los cuellos de botella."
 ---
 
-![Ilustración editorial de enormes edificios de data center a medio construir desvaneciéndose en la neblina, algunos completos y brillantes y otros solo contornos punteados irreales, torres de alta tensión y transformadores al frente, cielo al atardecer en tonos naranja y gris, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-18-solo-35-pipeline-data-centers-creible.jpg)
+![Solo el 35% del pipeline de data centers en EEUU es creíble, según Bernstein](../../assets/images/2026-10-18-solo-35-pipeline-data-centers-creible.webp)
 
 La burbuja de anuncios de data centers está chocando con la física. **RegLayer contabilizó más de 47 grandes proyectos de data centers en EEUU que en 2026 fueron demorados, retirados o bloqueados** por oposición local. Y Bernstein le dijo al Financial Times algo más incómodo todavía: **solo alrededor del 35% del pipeline planificado de data centers en EEUU es creíble**.
 

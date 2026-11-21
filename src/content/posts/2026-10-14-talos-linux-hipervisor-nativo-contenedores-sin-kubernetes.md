@@ -11,7 +11,7 @@ tags:
 description: "Sidero Labs le mete un hipervisor nativo a Talos Linux y permite correr contenedores sin control plane de Kubernetes, apuntando a los refugiados de VMware y a los sitios edge de un solo nodo. Demo alpha en TalosCon 2026 y GA esperada para diciembre."
 ---
 
-![Ilustración editorial tech de un sistema operativo inmutable minimalista en la base de un rack de servidores, con máquinas virtuales flotando como cubos luminosos sobre su capa de hipervisor y contenedores pequeños desplegados en nodos edge remotos conectados por líneas finas, sin clúster de Kubernetes a la vista, paleta azul profundo con acentos naranjas, estilo ilustración tech editorial, sin texto](../../assets/images/2026-10-14-talos-linux-hipervisor-nativo-contenedores-sin-kubernetes.jpg)
+![Talos Linux se agranda: hipervisor nativo, VMs sin KubeVirt y contenedores sin Kubernetes](../../assets/images/2026-10-14-talos-linux-hipervisor-nativo-contenedores-sin-kubernetes.webp)
 
 Giro interesante en el mundo de la infraestructura: **Talos Linux, el sistema operativo inmutable que nació para ser nodo de Kubernetes, ahora también quiere ser tu hipervisor y tu runtime de contenedores en edge, todo sin necesidad de un clúster de K8s**. Sidero Labs presenta la demo alpha esta semana en **TalosCon 2026** (15 y 16 de octubre, Ámsterdam), con disponibilidad general apuntando a **diciembre de 2026**.
 

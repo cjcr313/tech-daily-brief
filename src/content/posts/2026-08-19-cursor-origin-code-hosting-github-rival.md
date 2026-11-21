@@ -11,7 +11,7 @@ tags:
 description: "El primer producto grande de Cursor tras la compra de SpaceX es Origin: un forge de código donde PRs y agentes viven en el mismo lugar. Lanzó un lunes y 3 horas después GitHub se cayó 6h42m. Casualidad de timing, mensaje perfecto."
 ---
 
-![Ilustración editorial de un editor de código futurista con pull requests y agentes de IA colaborando sobre un plano de repositorios, con un bóveda de servidores parpadeando de fondo, acentos azul acero y naranja](../../assets/images/2026-08-19-cursor-origin-code-hosting-github-rival.svg)
+![Cursor lanza Origin y le pisa el talón a GitHub: hosting de código nativo para agentes (y GitHub se cayó 6 horas el mismo día)](../../assets/images/2026-08-19-cursor-origin-code-hosting-github-rival.svg)
 
 Si el año pasado te dijeron que alguien iba a retar a GitHub en hosting de código, habrías dado una risa nerviosa. Pero 2026 es 2026: **Cursor (ahora parte de SpaceX) lanzó Origin**, su propia plataforma de hosting y colaboración de código, construida desde cero para la era de los agentes de IA. Y el timing fue de guion de cine: lanzaron un lunes en la mañana… y tres horas y media después **GitHub se cayó mundialmente por 6 horas y 42 minutos**.
 

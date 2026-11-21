@@ -11,7 +11,7 @@ tags:
 description: "El blog oficial de Kubernetes formalizó la deprecación de cgroup v1: desde v1.35 el kubelet no arranca en nodos con la interfaz antigua. Esto es lo que tenís que revisar antes del próximo upgrade."
 ---
 
-![Ilustración editorial tech de contenedores modular organizándose bajo una estructura jerárquica unificada en forma de árbol, con nodos de luz azul conectados, estilo flat profesional, tonos azul profundo y acentos turquesa, sin texto](../../assets/images/2026-10-07-kubernetes-depreca-cgroup-v1-kubelet-no-parte.jpg)
+![Kubernetes depreca cgroup v1: el kubelet simplemente no va a partir en nodos viejos](../../assets/images/2026-10-07-kubernetes-depreca-cgroup-v1-kubelet-no-parte.webp)
 
 Si tenís clusters Kubernetes corriendo en nodos Linux viejos, dedicale cinco minutos a esto: el blog oficial de Kubernetes publicó [el shift definitivo hacia cgroup v2](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) y la deprecación formal de cgroup v1. No es un cambio cosmético: **desde Kubernetes v1.35, el kubelet no parte por defecto en un nodo que corra cgroup v1**. Plano y simple.
 

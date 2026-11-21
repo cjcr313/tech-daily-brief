@@ -12,7 +12,7 @@ tags:
 description: "NVIDIA se asocia con 8 empresas australianas para levantar hasta 2 gigavatios de AI factories sobre la plataforma DSX, más que duplicando la capacidad de cómputo del país."
 ---
 
-![Ilustración editorial de una fábrica de IA a escala gigavatio en Australia, con filas de racks de GPU, energía renovable y enfriamiento líquido, estilo tech editorial con acentos en verde esmeralda](../../assets/images/2026-09-10-nvidia-australia-2gw-ai-factories.jpg)
+![NVIDIA expande su infraestructura de IA en Australia: hasta 2 GW de 'AI factories' para 2027](../../assets/images/2026-09-10-nvidia-australia-2gw-ai-factories.webp)
 
 NVIDIA arrancó la semana con un anuncio de infraestructura grande: se asocia con **ocho empresas del ecosistema de data centers australiano** para levantar lo que llama "AI factories" sobre su plataforma **DSX**, con una meta de hasta **2 gigavatios de capacidad para 2027**. Según Reuters, eso **más que duplica** la carga de cómputo actual del país.
 

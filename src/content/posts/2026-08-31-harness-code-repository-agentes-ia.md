@@ -12,7 +12,7 @@ tags:
 description: "Harness lanzó un repositorio de código y un code review con IA pensados para el volumen de PRs y commits que generan los agentes de IA a velocidad de máquina."
 ---
 
-![Harness Code Repository para agentes IA](../../assets/images/2026-08-31-harness-code-repository-agentes-ia.jpg)
+![Harness Code Repository para agentes IA](../../assets/images/2026-08-31-harness-code-repository-agentes-ia.webp)
 
 **Harness** —sí, la misma de CI/CD y la "Software Delivery Platform"— se mandó con un movimiento que apunta directo al corazón de GitHub: lanzó su **propio repositorio de código**, diseñado desde cero para equipos que ya están dejando que **agentes de IA** les generen código.
 

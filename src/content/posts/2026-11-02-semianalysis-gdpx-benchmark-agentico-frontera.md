@@ -11,7 +11,7 @@ tags:
 description: "SemiAnalysis lanzó GDPx: 206 tareas reales en 11 dominios profesionales para medir capacidades agénticas. Claude Opus 5.5 lidera con 12% y GLM-5.3 cierra la tabla con 2,7%. El puntaje bajo es la feature, no el bug."
 ---
 
-![Ilustración editorial tech isométrica de una pequeña figura robótica escalando una montaña de datos con once pilares geométricos brillantes de distintos colores representando dominios profesionales, paleta azul y violeta, minimalista profesional, sin texto](../../assets/images/2026-11-02-semianalysis-gdpx-benchmark-agentico-frontera.jpg)
+![GDPx de SemiAnalysis: el benchmark agéntico donde el mejor modelo apenas llega al 12%](../../assets/images/2026-11-02-semianalysis-gdpx-benchmark-agentico-frontera.webp)
 
 SemiAnalysis publicó hoy **GDPx**, un benchmark de capacidades agénticas generales que apunta donde los benchmarks tradicionales ya no llegan. La cifra que define el lanzamiento: **Claude Opus 5.5 lidera el leaderboard debut con un 12,0%**. Cuando el mejor modelo del mundo resuelve apenas 12% de las tareas, el benchmark está midiendo la frontera de verdad.
 

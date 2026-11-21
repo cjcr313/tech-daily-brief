@@ -11,7 +11,7 @@ tags:
 description: "GPT-6.2 Astra baja 20% su precio en la API, estrena Control Room para vigilar agentes y Sol casi iguala a Astra en código a un quinto del costo. El timing: víspera del IPO de Anthropic."
 ---
 
-![Ilustración editorial tech: dos orbes de IA brillantes, uno grande e iridiscente y otro pequeño y ágil, corriendo hacia un skyline de bolsa de valores al atardecer, paleta azul profundo y naranja cálido, estilo flat moderno](../../assets/images/2026-11-17-openai-gpt-62-astra-sol-vispera-ipo-anthropic.jpg)
+![OpenAI lanza GPT-6.2 Astra y Sol horas antes del IPO de Anthropic](../../assets/images/2026-11-17-openai-gpt-62-astra-sol-vispera-ipo-anthropic.webp)
 
 Si el timing es todo en este negocio, OpenAI acaba de dar una clase magistral: lanzó **GPT-6.2 Astra y GPT-6.2 Sol** el mismo día en que Anthropic prepara su salida a bolsa en Nasdaq (ticker ANT, rango de 70 a 78 dólares por acción). Y de paso, afirma que el nuevo Astra supera al Fable 5.2, el tope de línea de Anthropic lanzado hace una semana. Coincidencia? Juzga tú.
 

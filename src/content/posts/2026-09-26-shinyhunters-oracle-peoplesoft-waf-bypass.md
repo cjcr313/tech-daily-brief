@@ -12,7 +12,7 @@ tags:
 description: "Mandiant detecta explotación masiva de CVE-2026-35273 con bypass del WAF vía /%50SEMHUB/ y web shells duales."
 ---
 
-![Ilustración editorial de un cortafuegos de aplicaciones web (WAF) siendo eludido por una petición con la ruta URL-codificada, mientras una base de datos PeopleSoft queda expuesta detrás](../../assets/images/2026-09-26-shinyhunters-oracle-peoplesoft-waf-bypass.jpg)
+![ShinyHunters reanuda campaña contra Oracle PeopleSoft saltándose el WAF](../../assets/images/2026-09-26-shinyhunters-oracle-peoplesoft-waf-bypass.webp)
 
 Mandiant y Google Threat Intelligence Group (GTIG) confirmaron una **nueva ola de explotación masiva de CVE-2026-35273** por parte de UNC6240, más conocido como ShinyHunters. La historia es una actualización directa de la campaña de junio, y la lección es incómoda: muchas organizaciones pusieron reglas de WAF pero **no parchearon**, y el atacante se adaptó.
 

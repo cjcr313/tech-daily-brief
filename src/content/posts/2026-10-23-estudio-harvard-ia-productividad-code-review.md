@@ -11,7 +11,7 @@ tags:
 description: "Investigación sobre ~300 millones de eventos de trabajo revela que agentes de IA disparan el volumen de código, pero el review se pone más lento y cargado: +49% en tiempo de revisión de PRs."
 ---
 
-![Ilustración editorial de un embudo de desarrollo de software donde el código se acumula en la etapa de revisión](../../assets/images/estudio-harvard-ia-productividad-code-review.jpg)
+![Estudio de Harvard con datos de 700 empresas: la IA genera 30% más código, pero el throughput real sube solo 12% — el cuello de botella se corrió al code review](../../assets/images/estudio-harvard-ia-productividad-code-review.webp)
 
 Llegó el estudio que faltaba en la eterna discusión de "¿la IA de coding sirve o no?". Investigadores de Harvard, usando datos de la plataforma de ingeniería **Jellyfish**, analizaron ~**300 millones de eventos de trabajo de 700.000 personas en más de 700 empresas**, entre enero 2021 y marzo 2026, incluyendo uso de GitHub Copilot, Cursor y Claude Code. El resultado es de esos que duelen: **la IA genera mucho más código, pero mucho menos trabajo terminado de lo que prometen las métricas de código**.
 

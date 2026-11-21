@@ -12,7 +12,7 @@ tags:
 description: "La startup de troubleshooting de Kubernetes presenta una plataforma que combina workflows pre-armados (AI SRE, optimización de costos) con un backbone para agentes propios, apuntando a descargar a los equipos de producción."
 ---
 
-![Ilustración editorial de un clúster de Kubernetes con agentes de IA autónomos orquestando tareas de operaciones, nodos interconectados por líneas de flujo de trabajo, tonos azul profundo y teal sobre fondo oscuro, estilo vectorial plano minimalista](../../assets/images/2026-09-16-komodor-plataforma-operaciones-agenticas.jpg)
+![Komodor lanza su plataforma de operaciones agénticas: automatización lista para usar en Kubernetes](../../assets/images/2026-09-16-komodor-plataforma-operaciones-agenticas.webp)
 
 La moda de "meterle agentes a todo" ya llegó al turno de guardia de Kubernetes. **Komodor**, la startup que se hizo conocida por su plataforma de troubleshooting para Kubernetes, anunció este martes la **Komodor Agentic Operations Platform**, una apuesta para que los equipos de producción desplieguen flujos de trabajo autónomos sin partir de cero.
 

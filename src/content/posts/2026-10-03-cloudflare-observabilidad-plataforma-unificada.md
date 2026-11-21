@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare lanzó 8 actualizaciones que consolidan logs, tracing extremo a extremo, SQL unificado, alertas, dashboards y exportación en una sola plataforma de observabilidad, con pricing por volumen."
 ---
 
-![Ilustración editorial tech de una plataforma unificada de observabilidad: paneles de control con gráficos, trazas y logs convergiendo en un solo tablero central sobre un mapa de red global, paleta naranja y azul oscura, estilo ilustración editorial profesional](../../assets/images/2026-10-03-cloudflare-observabilidad-plataforma-unificada.jpg)
+![Cloudflare unifica su observabilidad: 8 cambios que juntan logs, trazas, alertas y dashboards en una sola plataforma](../../assets/images/2026-10-03-cloudflare-observabilidad-plataforma-unificada.webp)
 
 Cloudflare dio un paso largo hacia consolidar su historia de observabilidad: **ocho actualizaciones mayores** que reúnen logs, trazas, analítica, alertas, dashboards, querying y exportación de telemetría en **una sola plataforma**, con pricing más simple y predecible.
 

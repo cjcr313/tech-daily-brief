@@ -12,7 +12,7 @@ tags:
 description: "SoftBank, Crusoe y otras siete empresas se suman como miembros Silver de la CNCF, empujadas por el salto de la IA desde el entrenamiento hacia la inferencia en producción."
 ---
 
-![Ilustración editorial de una constelación de nodos cloud native conectándose a una fundación central, con servidores GPU y antenas de telecomunicaciones orbitando, tonos azules y naranjas](../../assets/images/2026-09-08-cncf-nuevos-miembros-silver-softbank-crusoe.jpg)
+![CNCF suma nueve miembros Silver: SoftBank y Crusoe se suben al cloud native](../../assets/images/2026-09-08-cncf-nuevos-miembros-silver-softbank-crusoe.webp)
 
 La **CNCF** arrancó la KubeCon + CloudNativeCon China 2026 en Shanghai con un gesto clásico de la casa: sumar más gente al ecosistema. La fundación anunció la incorporación de **nueve miembros Silver**, entre los que destacan dos nombres pesados: **SoftBank Corp.** (telecomunicaciones) y **Crusoe** (infraestructura de IA).
 

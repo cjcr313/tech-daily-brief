@@ -11,7 +11,7 @@ tags:
 description: "Anthropic ofrecerá 825 millones de acciones entre US$70 y US$78 en su IPO: hasta US$1,4 billones de valoración y debut en Nasdaq bajo el ticker ANT el 19 de noviembre. El primer lab de IA frontera en salir a bolsa."
 ---
 
-![Ilustración editorial del edificio de una bolsa de valores con una campana de apertura y gráficos de mercado](../../assets/images/anthropic-ipo-rango-70-78-nasdaq-ant.jpg)
+![Anthropic fija rango de precio para su IPO: US$70–78 por acción y debut en Nasdaq el 19 de noviembre](../../assets/images/anthropic-ipo-rango-70-78-nasdaq-ant.webp)
 
 Se acabó la especulación: **Anthropic publicó hoy el rango de precio de su IPO**. La compañía ofrecerá **825 millones de acciones Class A entre US$70 y US$78**, según el filing actualizado de este martes. El pricing sería el **18 de noviembre** y el debut en **Nasdaq el 19**, bajo el ticker **ANT**.
 

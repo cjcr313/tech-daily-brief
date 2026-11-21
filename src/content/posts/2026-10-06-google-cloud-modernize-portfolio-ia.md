@@ -11,7 +11,7 @@ tags:
 description: "Google Cloud agrupó Migration Center, VMware Engine, Mainframe Modernization y un nuevo EKS-to-GKE Migration Agent en un solo portafolio agéntico, con Modernization Hub dentro de la consola."
 ---
 
-![Ilustración isométrica editorial de la transformación de un mainframe legacy hacia infraestructura cloud moderna guiada por agentes de IA, en tonos azul, rojo, amarillo y verde, estilo tech editorial](../../assets/images/2026-10-06-google-cloud-modernize-portfolio-ia.jpg)
+![Google Cloud Modernize: el nuevo portafolio para modernizar empresas con agentes de IA (y un agente que migra de EKS a GKE)](../../assets/images/2026-10-06-google-cloud-modernize-portfolio-ia.webp)
 
 Google Cloud anunció **Google Cloud Modernize**, un portafolio de transformación end-to-end pensado para que las empresas **colapsen roadmaps de varios años con IA**. La movida une herramientas de migración y modernización que ya existían por separado —**Migration Center, Google Cloud VMware Engine y Mainframe Modernization**— más un estreno llamativo: el **EKS-to-GKE Migration Agent**, un agente que migra workloads de Kubernetes desde AWS hacia GKE.
 

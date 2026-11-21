@@ -10,7 +10,7 @@ tags:
 description: "Dynatrace lanzó en preview su análisis de patrones de logs: agrupa mensajes similares, aísla las variables automáticamente y genera consultas DQL reutilizables sin escribir código."
 ---
 
-![Ilustración editorial de millones de líneas de logs de un clúster organizándose automáticamente en patrones estructurados](../../assets/images/2026-08-25-dynatrace-log-pattern-analysis.svg)
+![Dynatrace estrena análisis de patrones de logs: de millones de líneas a señales en segundos](../../assets/images/2026-08-25-dynatrace-log-pattern-analysis.svg)
 
 Cualquiera que haya buceado en logs lo sabe: un solo clúster Kubernetes puede generar **miles de mensajes casi idénticos en minutos**, salidos de decenas de servicios sin estructura consistente. Encontrar la señal entre tanto ruido suele terminar en filtros interminables, exploración manual o queries complejas.
 

@@ -11,7 +11,7 @@ tags:
 description: "Google lanzó Gemini 4 Neon: #3 en el índice de Artificial Analysis (61) a US$3/US$15 por millón de tokens. En coding agents empata a Claude Opus 5.5 y Fable 5.2 pagando menos de la mitad por tarea."
 ---
 
-![Ilustración editorial tech de una red neuronal brillante con estética de neón y flujos de datos sobre fondo oscuro](../../assets/images/2026-11-19-gemini-4-neon-google-inteligencia-mitad-precio.jpg)
+![Gemini 4 Neon: Google larga su cuarto modelo en siete semanas y apunta a la yugular del precio](../../assets/images/2026-11-19-gemini-4-neon-google-inteligencia-mitad-precio.webp)
 
 Mientras Wall Street estaba pendiente del debut de Anthropic, Google soltó sin mucho ruido **Gemini 4 Neon**, su **cuarto modelo en siete semanas** (Argon, Carbon, Hydrogen y ahora Neon). La jugada no es sorprender con un salto de inteligencia gigante: es **apretar la tarifa** y darle velocidad a todo lo que ya funcionaba.
 

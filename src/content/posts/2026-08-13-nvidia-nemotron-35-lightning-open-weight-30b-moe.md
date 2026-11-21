@@ -10,7 +10,7 @@ tags:
 description: "Nvidia lanzó Nemotron 3.5 Lightning, un modelo MoE de 30B parámetros open-weight que promete 4x velocidad de output y fine-tuning barato. También presentó NeMo Switchyard, un router para agentes IA."
 ---
 
-![Ilustración editorial de un rayo de luz azul simbolizando un modelo IA ligero y veloz sobre un fondo de circuitos, estilo tech editorial](../../assets/images/2026-08-13-nvidia-nemotron-35-lightning-open-weight-30b-moe.jpg)
+![Nvidia Nemotron 3.5 Lightning: el modelo open-weight de 30B que se entrena en una H100](../../assets/images/2026-08-13-nvidia-nemotron-35-lightning-open-weight-30b-moe.webp)
 
 Nvidia no se queda solo fabricando chips. Esta semana lanzó **dos productos** que apuntan directo al corazón del problema enterprise: ¿cómo elijo el modelo correcto para cada tarea?
 

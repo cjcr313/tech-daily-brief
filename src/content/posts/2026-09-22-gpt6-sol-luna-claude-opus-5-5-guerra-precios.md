@@ -12,7 +12,7 @@ tags:
 description: "Guerra de precios de modelos frontera: OpenAI rebautiza Sol y Luna como GPT-6 y baja los precios a la mitad, ~90 minutos después de que Anthropic lanzara Claude Opus 5.5."
 ---
 
-![Dos núcleos de red neuronal enfrentados como piezas de ajedrez, con etiquetas de precio cayendo y una gráfica descendente de fondo](../../assets/images/2026-09-22-gpt6-sol-luna-claude-opus-5-5-guerra-precios.jpg)
+![OpenAI y Anthropic se lanzan modelos más baratos: GPT-6 Sol/Luna y Claude Opus 5.5](../../assets/images/2026-09-22-gpt6-sol-luna-claude-opus-5-5-guerra-precios.webp)
 
 ¿Llamado a "frenar la frontera"? La realidad dice otra cosa. Este martes **OpenAI** y **Anthropic** soltaron modelos nuevos el mismo día, y lo único que bajó con fuerza fue el precio. Bienvenidos de nuevo a la guerra de tarifas.
 

@@ -12,7 +12,7 @@ tags:
 description: "WSO2 liberó la versión GA de Agent Manager, un control plane open source que centraliza identidad, permisos y ciclo de vida de agentes de IA, con runtime sandboxed nativo de Kubernetes."
 ---
 
-![Ilustración editorial tech: hub central de control plane con múltiples nodos de agentes de IA orbitando y conectados a un clúster Kubernetes, tonos teal y naranja sobre fondo oscuro, concepto de gobernanza de agentes de IA](../../assets/images/2026-09-19-wso2-agent-manager-gobernanza-agentes-ia.jpg)
+![WSO2 lanza Agent Manager, un control plane open source para gobernar agentes de IA](../../assets/images/2026-09-19-wso2-agent-manager-gobernanza-agentes-ia.webp)
 
 WSO2 anunció la **disponibilidad general de Agent Manager**, un control plane **open source** pensado para domar el "agent sprawl" que ya empieza a doler en las empresas. La idea: separar la **gobernanza** de los agentes de su lógica, para aplicar controles comunes sin importar el modelo, el framework o el runtime de abajo.
 

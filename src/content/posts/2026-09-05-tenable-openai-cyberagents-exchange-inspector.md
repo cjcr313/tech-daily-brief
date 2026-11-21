@@ -12,7 +12,7 @@ tags:
 description: "CyberAgents Exchange AI Inspector combina los modelos GPT ciber de OpenAI, Tenable One y revisión de investigadores para auditar agentes, skills y servidores MCP antes de usarlos en producción."
 ---
 
-![Inspector de seguridad para agentes IA de la comunidad](../../assets/images/2026-09-05-tenable-openai-cyberagents-exchange-inspector.jpg)
+![Inspector de seguridad para agentes IA de la comunidad](../../assets/images/2026-09-05-tenable-openai-cyberagents-exchange-inspector.webp)
 
 Tenable anunció que está colaborando con OpenAI para lanzar el **CyberAgents Exchange AI Inspector** (o simplemente *Exchange Inspector*), un proceso de revisión de seguridad para agentes IA, skills, servidores MCP y playbooks multi-agente que circulan por su **CyberAgents Exchange**. El anuncio se hizo en pleno *Intelligence at Work: Cyber Summit* de OpenAI.
 

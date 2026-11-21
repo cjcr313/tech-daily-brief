@@ -11,7 +11,7 @@ tags:
 description: "Zscaler destapó un provider de Terraform troyanizado (terraform-provider-awsbeta) que carga un backdoor Rust llamado FLATROOF mientras Terraform lo inicializa como plugin normal. Atribución sospechosa: TraderTraitor, el grupo norcoreano detrás de las falsas pruebas técnicas de Terraform."
 ---
 
-![Ilustración editorial de un caballo de Troya construido con bloques de código e íconos de infraestructura siendo arrastrado dentro de un pipeline de integración continua, acentos rojos y naranjos sobre fondo azul oscuro con circuitos sutiles, estilo ilustración tech editorial dramática, sin texto](../../assets/images/2026-10-09-tradertraitor-troyaniza-provider-terraform-flatroof.jpg)
+![Troyanizan un provider de Terraform: el malware se ejecuta cuando Terraform carga el plugin (y ya saben a quién echarle la culpa)](../../assets/images/2026-10-09-tradertraitor-troyaniza-provider-terraform-flatroof.webp)
 
 Ayer el worm Shai-Hulud en npm; hoy el provider de Terraform troyanizado. La cadena de suministro de infraestructura está de moda entre los atacantes, y esta vez [Zscaler ThreatLabz](https://www.zscaler.com/blogs/security-research/suspected-tradertraitor-group-uses-trojanized-terraform-provider-deliver) destapó una campaña que abusa de algo que los DevOps hacen decenas de veces al día: **`terraform init`**.
 

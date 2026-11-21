@@ -11,7 +11,7 @@ tags:
 description: "Netflix migró millones de workloads batch desde su solución interna CMB a Kueue, el sistema de colas nativo de Kubernetes. Migración transparente en 4 semanas."
 ---
 
-![Ilustración editorial de un sistema de colas con contenedores fluyendo a través de tuberías digitales en rojo de Netflix, estilo tech editorial](../../assets/images/placeholder.jpg)
+![Netflix mata su sistema batch casero y se pasa a Kueue para Kubernetes](../../assets/images/placeholder.webp)
 
 Netflix tiene plata, ingenieros top y una cultura de "build primero". Pero esta vez decidieron que construir todo desde cero no tenía sentido.
 

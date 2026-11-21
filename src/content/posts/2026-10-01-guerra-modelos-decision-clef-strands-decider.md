@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare open-sourcea Clef y Clef-flash (líderes del Jev Decision Index) y Amazon suelta Strands Decider 2B. La categoría de modelos de decisión pasó de experimento a guerra abierta en dos semanas."
 ---
 
-![Ilustración editorial tech de dos pequeños nodos brillantes tomando decisiones instantáneas en un cruce de caminos de datos, compitiendo en velocidad, estilo ilustración editorial con paleta naranja y azul](../../assets/images/2026-10-01-guerra-modelos-decision-clef-strands-decider.jpg)
+![La guerra de los modelos de decisión: Cloudflare abre Clef y Amazon responde con Strands Decider](../../assets/images/2026-10-01-guerra-modelos-decision-clef-strands-decider.webp)
 
 Hace dos semanas TypeSafe AI lanzó Jev y nadie sabía bien si "modelo de decisión" era una categoría real o un buzzword de temporada. Ayer te contamos del Simple Jev de Featherless. Hoy la pregunta quedó respondida a lo grande: **Cloudflare y Amazon entraron a la pelea el mismo día**, cada uno con un modelo open source propio.
 

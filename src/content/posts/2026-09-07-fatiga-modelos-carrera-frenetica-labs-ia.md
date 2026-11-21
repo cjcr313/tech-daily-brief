@@ -12,7 +12,7 @@ tags:
 description: "Anthropic, OpenAI, Meta y Google lanzaron modelos en una misma semana y NVIDIA se quedó con Hugging Face. CNBC le puso nombre al síntoma: 'model fatigue'."
 ---
 
-![Ilustración editorial de una cinta transportadora de tarjetas de modelos de IA desbordando un laboratorio tecnológico, con múltiples cohetes de lanzamiento despegando a la vez, tonos fríos y cálidos](../../assets/images/2026-09-07-fatiga-modelos-carrera-frenetica-labs-ia.jpg)
+![Fatiga de modelos: la carrera frenética de los labs de IA ya cansa al mercado](../../assets/images/2026-09-07-fatiga-modelos-carrera-frenetica-labs-ia.webp)
 
 Esta semana la industria de la IA pisó el acelerador a fondo y a alguien se le cayó el nombre justo: **"model fatigue"** (fatiga de modelos). Lo acuñó CNBC para describir lo que veníamos viendo hace meses: los labs ya no compiten por sacar *el* modelo del año, sino por sacar *un* modelo cada par de días.
 

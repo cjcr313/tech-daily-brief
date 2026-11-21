@@ -12,7 +12,7 @@ tags:
 description: "En su conferencia Ship, Vercel lanzó Daemons en beta pública: contenedores como workers siempre activos, junto con Python en GA y storage persistente para agentes de IA."
 ---
 
-![Ilustración editorial de infraestructura cloud moderna con contenedores y procesos en background siempre activos](../../assets/images/vercel-daemons-python-ga-containers.jpg)
+![Vercel Ship: Python llega a GA, contenedores y Daemons para correr (casi) todo el backend](../../assets/images/vercel-daemons-python-ga-containers.webp)
 
 Vercel quiere dejar de ser "el lugar donde vive el frontend". En su conferencia **Ship** en San Francisco anunció tres piezas que lo meten de lleno en el negocio del backend completo: **Python en disponibilidad general, soporte de contenedores en Vercel Functions y Daemons**, workers en background siempre activos que llegan en beta pública.
 

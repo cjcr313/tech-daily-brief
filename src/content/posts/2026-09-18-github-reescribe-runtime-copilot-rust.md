@@ -13,7 +13,7 @@ tags:
 description: "GitHub migró el runtime de Copilot de TypeScript a más de 800 mil líneas de Rust en 14,5 semanas, con los agentes de Copilot escribiendo la mayor parte del código."
 ---
 
-![Ilustración editorial tech: una grúa de carga trasladando bloques de código desde una pila de TypeScript (colores azul y amarillo) hacia una estructura de acero oxidado que representa Rust, con un brazo robótico de IA moviendo las piezas, tonos naranja óxido y gris sobre fondo oscuro, concepto de migración de runtime asistida por agentes](../../assets/images/2026-09-18-github-reescribe-runtime-copilot-rust.jpg)
+![GitHub reescribió el runtime de Copilot en Rust usando los agentes del propio Copilot](../../assets/images/2026-09-18-github-reescribe-runtime-copilot-rust.webp)
 
 GitHub acaba de contar una de esas historias que marcan un antes y un después para la ingeniería de software. La compañía **reescribió por completo el runtime de Copilot** —antes en TypeScript corriendo sobre Node.js y V8— y lo pasó a **más de 800.000 líneas de Rust de producción**. La parte que rompe la cabeza: **la mayor parte del código la escribieron los agentes del propio Copilot**.
 

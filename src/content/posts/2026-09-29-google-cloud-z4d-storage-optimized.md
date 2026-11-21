@@ -12,7 +12,7 @@ tags:
 description: "La familia Z4D llega a GA en Compute Engine con VMs y bare-metal, hasta 84.000 GiB de Local SSD y 40% más rendimiento que Z3."
 ---
 
-![Ilustración editorial de racks de servidores con unidades SSD de alta densidad y líneas de datos fluyendo a gran velocidad](../../assets/images/2026-09-29-google-cloud-z4d-storage-optimized.jpg)
+![Google Cloud lanza Z4D: instancias storage-optimized con hasta 84 TB de SSD local](../../assets/images/2026-09-29-google-cloud-z4d-storage-optimized.webp)
 
 Google Cloud acaba de anunciar la disponibilidad general de su nueva familia **Z4D storage-optimized** en Compute Engine, en formato VM y bare-metal. Está pensada para cargas IO-intensivas y críticas: SQL, NoSQL, KVrocks, bases vectoriales, analítica y búsqueda.
 

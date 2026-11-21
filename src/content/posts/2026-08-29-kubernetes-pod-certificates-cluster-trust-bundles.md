@@ -12,7 +12,7 @@ tags:
 description: "Pod Certificates llega a GA en Kubernetes v1.37: emisión de certificados X.509 para TLS/mTLS integrada al core, con Cluster Trust Bundles y un signer pluggable. Adiós al único camino de los bearer tokens."
 ---
 
-![Ilustración editorial de un pod de Kubernetes emitiendo un certificado X.509 brillante con cadena de confianza, llave asimétrica y candado, paleta azul acero con acentos cian y ámbar](../../assets/images/2026-08-29-kubernetes-pod-certificates-cluster-trust-bundles.jpg)
+![Kubernetes v1.37: Pod Certificates y Cluster Trust Bundles, la identidad X.509 nativa llega a GA](../../assets/images/2026-08-29-kubernetes-pod-certificates-cluster-trust-bundles.webp)
 
 Otra pieza de Kubernetes v1.37 que se gradúa y esta vez es grande: **Pod Certificates** (junto a los **Cluster Trust Bundles**) llegó a **GA**, y trae emisión de certificados X.509 para TLS/mTLS directo al core de Kubernetes. Básicamente, una alternativa real a los service account JWTs para la identidad de producción de tus workloads.
 

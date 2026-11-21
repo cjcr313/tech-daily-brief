@@ -11,7 +11,7 @@ tags:
 description: "Seis vulnerabilidades críticas (buffer overflows en APM y un flaw en iRules DNS) permiten a un atacante remoto sin autenticar tumbar el TMM y cortar el tráfico de BIG-IP, con posible ejecución de código. F5 publicó emergency hotfixes y el parcheo no es opcional."
 ---
 
-![Ilustración editorial de un firewall de red empresarial bloqueando tráfico malicioso en un data center nocturno](../../assets/images/2026-11-20-f5-big-ip-seis-cves-criticos-hotfixes-emergencia.jpg)
+![F5 suelta hotfixes de emergencia por seis CVEs críticos en BIG-IP: caída de tráfico sin autenticar y RCE en configuraciones específicas](../../assets/images/2026-11-20-f5-big-ip-seis-cves-criticos-hotfixes-emergencia.webp)
 
 Si tienes BIG-IP en producción, esta semana se sumó otra línea al checklist que ya incluye Java, PHP, VMware y NGINX: **F5 publicó emergency hotfixes para seis CVEs críticos en BIG-IP** que permiten que un atacante remoto **sin autenticación detenga el TMM (Traffic Management Microkernel)** — el proceso que maneja literalmente todo el tráfico — y en configuraciones específicas, **ejecutar código**.
 

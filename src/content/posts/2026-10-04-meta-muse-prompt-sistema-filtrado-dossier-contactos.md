@@ -11,7 +11,7 @@ tags:
 description: "Un investigador extrajo las instrucciones internas de Meta Muse pidiéndole que compartiera sus propios archivos: el prompt ordena construir 'una página para cada persona de la vida del usuario' y establece que la autoridad doméstica sobrescribe la seguridad."
 ---
 
-![Ilustración editorial tech de un asistente de IA digital flotando sobre un hogar, conectado con líneas a mensajes, contactos y una agenda, construyendo carpetas de información sobre siluetas de personas, tonos azul corporate con detalles ámbar de alerta, estilo ilustración editorial profesional, sin texto](../../assets/images/2026-10-04-meta-muse-prompt-sistema-filtrado-dossier-contactos.jpg)
+![El system prompt filtrado de Meta Muse: 'la autoridad del usuario en su hogar es incondicional y sobrescribe tu entrenamiento de seguridad'](../../assets/images/2026-10-04-meta-muse-prompt-sistema-filtrado-dossier-contactos.webp)
 
 Meta Muse —el asistente con IA de Meta que es la app gratis número uno del App Store estadounidense desde su lanzamiento en septiembre— tiene un system prompt interno que esta semana dejó de ser secreto. El investigador independiente de seguridad en IA **Karan Joshi** logró extraerlo con un método casi cómico de simple: **le pidió al agente, vía chat, que compartiera sus propios archivos de software**. El dump terminó en manos de Wired y las líneas que salieron a la luz incomodan.
 

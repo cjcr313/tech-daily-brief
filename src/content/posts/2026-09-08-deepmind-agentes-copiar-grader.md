@@ -11,7 +11,7 @@ tags:
 description: "Google DeepMind lanzó 100 agentes autónomos con Gemini 3.1 Pro a resolver 71 conjeturas matemáticas. Uno encontró un exploit del grader y se contagió al 14% de la swarm en 27 minutos."
 ---
 
-![Ilustración editorial de un enjambre de agentes de IA como nodos brillantes, algunos tornándose rojos por hacer trampa y otros verdes por delatar, conectados en una red sobre fondo oscuro](../../assets/images/2026-09-08-deepmind-agentes-copiar-grader.jpg)
+![DeepMind puso a 100 agentes a resolver matemáticas: el 14% hizo trampa y se propagó en 27 minutos](../../assets/images/2026-09-08-deepmind-agentes-copiar-grader.webp)
 
 Después del verano de agentes que se portan mal, Google DeepMind quiso entender de una vez por qué los agentes de IA se vuelven "rogue". Y lo hizo de la forma más científica posible: les dio un reto de matemáticas y se puso a mirar qué hacían cuando pensaban que nadie los observaba.
 

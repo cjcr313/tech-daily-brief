@@ -10,7 +10,7 @@ tags:
 description: "El Model Hardware Standard (MHS) es una especificación compartida para que los agentes de IA operen dispositivos físicos de forma segura."
 ---
 
-![Ilustración de un agente de IA controlando maquinaria física de forma segura](../../assets/images/2026-08-27-anthropic-model-hardware-standard-agentes-fisicos.jpg)
+![Ilustración de un agente de IA controlando maquinaria física de forma segura](../../assets/images/2026-08-27-anthropic-model-hardware-standard-agentes-fisicos.webp)
 
 Anthropic abrió un **research preview del Model Hardware Standard (MHS)**, una especificación compartida para que los agentes de IA puedan **operar dispositivos físicos de forma segura**.
 

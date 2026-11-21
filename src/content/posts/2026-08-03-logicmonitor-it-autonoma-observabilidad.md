@@ -11,7 +11,7 @@ tags:
 description: "LogicMonitor unifica observabilidad, insights con IA y workflows automatizados buscando habilitar IT Autónoma. 49% de empresas planean desplegar IA agentil en IT Ops."
 ---
 
-![LogicMonitor apunta a IT Autónoma](../../assets/images/2026-08-03-logicmonitor-it-autonoma.jpg)
+![LogicMonitor apunta a IT Autónoma](../../assets/images/2026-08-03-logicmonitor-it-autonoma.webp)
 
 LogicMonitor anunció el 2 de agosto mejoras mayores a su plataforma con un objetivo claro: **habilitar IT Autónoma**. La jugada es unificar tres cosas que hasta ahora vivían separadas — observabilidad, insights con IA y workflows automatizados — en una sola plataforma integrada.
 

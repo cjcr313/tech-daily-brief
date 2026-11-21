@@ -12,7 +12,7 @@ tags:
 description: "Microsoft propone una arquitectura de gobernanza de IA que pasa de políticas documentadas a enforcement en runtime, con observabilidad y evidencia de auditoría continua para agentes en producción."
 ---
 
-![Ilustración editorial de un panel de gobernanza con capas de política, control, observabilidad y auditoría envolviendo a un agente de IA en producción](../../assets/images/2026-08-27-microsoft-gobernanza-ia-runtime.jpg)
+![Microsoft mueve la gobernanza de IA del papel al runtime: política, control, visibilidad y prueba](../../assets/images/2026-08-27-microsoft-gobernanza-ia-runtime.webp)
 
 Microsoft publicó una **arquitectura de gobernanza de IA** que apunta a un cambio de fondo: dejar de tratar la gobernanza como un documento y convertirla en **enforcement en runtime**, evaluación continua, observabilidad y evidencia de auditoría. El momento no es casual: las empresas están poniendo agentes en producción y se están topando con que "cumplir" ya no es solo tener una política escrita.
 

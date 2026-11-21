@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare liberó Cloudflare OS en GitHub: una plataforma de IA corporativa basada en un modelo de capacidades con sandboxing por documento, pensada para que cualquiera 'vibee-code' sin que seguridad sufra."
 ---
 
-![Ilustración editorial de una plataforma de aplicaciones modulares donde cada documento corre en su propio sandbox aislado, representado como cajas de cristal separadas](../../assets/images/2026-08-27-cloudflare-os-plataforma-ia-open-source.jpg)
+![Cloudflare OS: la plataforma de IA corporativa open source con sandboxing por 'Gadget'](../../assets/images/2026-08-27-cloudflare-os-plataforma-ia-open-source.webp)
 
 Cloudflare liberó **Cloudflare OS** en GitHub: una plataforma de IA corporativa construida sobre un **modelo basado en capacidades (capability-based)**. La premisa, en palabras de su arquitecto principal Kenton Varda, es medio provocadora:
 

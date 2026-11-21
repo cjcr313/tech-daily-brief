@@ -11,7 +11,7 @@ tags:
 description: "Google lanza Storage Intelligence advisor en GA para detectar cambios y anomalías en tus buckets de GCS sin armar pipelines."
 ---
 
-![Ilustración editorial de un panel de monitoreo de almacenamiento en la nube detectando anomalías y cambios en buckets de datos](../../assets/images/2026-09-29-storage-intelligence-advisor-ga.jpg)
+![Storage Intelligence advisor llega a GA: que GCS te diga qué cambió en tus buckets](../../assets/images/2026-09-29-storage-intelligence-advisor-ga.webp)
 
 Google Cloud anunció dos novedades para Cloud Storage: la **GA de Storage Intelligence advisor** y capacidades ampliadas en **storage batch operations**. La idea es simple: por años, responder "¿qué hay en mis buckets?" fue un proyecto de data engineering —exportar inventario, cargarlo, unirlo contra logs de acceso y rogar que alguien recuerde qué service account corresponde a qué job.
 

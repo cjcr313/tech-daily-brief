@@ -11,7 +11,7 @@ tags:
 description: "Grafana Labs soltó la 13.3: cross-dashboard variables, Notebooks para documentar investigaciones, rediseño visual completo y Grafana Assistant que planifica dashboards antes de generarlos."
 ---
 
-![Ilustración editorial tech de paneles de monitoreo interconectados con tarjetas de variables flotantes y un cuaderno de notas digital luminoso, paleta naranja y azul oscuro de Grafana, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/grafana-13-3-variables-notebooks-ui-refresh.jpg)
+![Grafana 13.3: variables compartidas entre dashboards, Notebooks para investigaciones y el mayor refresh visual desde Grafana 7](../../assets/images/grafana-13-3-variables-notebooks-ui-refresh.webp)
 
 Grafana Labs no se quiso quedar fuera de la semana previa a KubeCon y soltó **Grafana 13.3**, una versión que apunta directo a dos dolores clásicos del que administra observabilidad a escala: la configuración duplicada entre dashboards y las investigaciones que se pierden entre tabs, screenshots y hilos de chat.
 

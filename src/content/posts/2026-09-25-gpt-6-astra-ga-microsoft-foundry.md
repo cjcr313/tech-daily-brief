@@ -12,7 +12,7 @@ tags:
 description: "GPT-6 Astra, el modelo frontera más nuevo de OpenAI, entra a disponibilidad general en Microsoft Foundry: planificación multi-paso, uso de herramientas y ejecución de tareas en aplicaciones."
 ---
 
-![Ilustración editorial: un modelo de IA frontera ejecutando tareas multi-paso a través de varias aplicaciones conectadas, con nodos de razonamiento, documentos y herramientas, tonos oscuros con acentos verdes, estilo tech editorial](../../assets/images/2026-09-25-gpt-6-astra-ga-microsoft-foundry.jpg)
+![GPT-6 Astra ya está disponible en Microsoft Foundry: el modelo frontera de OpenAI para trabajo enterprise](../../assets/images/2026-09-25-gpt-6-astra-ga-microsoft-foundry.webp)
 
 El siguiente capítulo de la IA enterprise no se trata de chatear: se trata de **trabajar contigo**. **GPT-6 Astra**, el modelo frontera más nuevo de OpenAI, entró a **disponibilidad general para todos los clientes de Microsoft Foundry**.
 

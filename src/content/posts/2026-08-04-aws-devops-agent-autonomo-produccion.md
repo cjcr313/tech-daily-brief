@@ -13,7 +13,7 @@ tags:
 description: "El nuevo AWS DevOps Agent diagnostica errores como CrashLoopBackOff, rastrea auditorías y correlaciona métricas sin intervención humana."
 ---
 
-![AWS DevOps Agent IA Autónoma](../../assets/images/2026-08-04-aws-devops-agent.jpg)
+![AWS DevOps Agent IA Autónoma](../../assets/images/2026-08-04-aws-devops-agent.webp)
 
 AWS acaba de subir la apuesta en automatización de operaciones. Según su más reciente anuncio, lanzaron **AWS DevOps Agent**, una herramienta de IA diseñada para investigar de manera autónoma un abanico creciente de incidentes en producción.
 

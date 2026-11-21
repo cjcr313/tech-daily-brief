@@ -11,7 +11,7 @@ tags:
 description: "Llegó Kubernetes v1.37 'Garhwal' con 67 mejoras: HPA scale-to-zero en Beta, watchcache resiliente estable, admission control por manifiestos y KYAML estable."
 ---
 
-![Ilustración editorial de un valle montañoso del Himalaya con campos en terrazas y un río, donde cada nivel sostiene al siguiente, simbolizando capas de una plataforma, estilo tech editorial](../../assets/images/2026-08-26-kubernetes-v137-garhwal.jpg)
+![Kubernetes v1.37 'Garhwal': HPA scale-to-zero en Beta y watchcache endurecido](../../assets/images/2026-08-26-kubernetes-v137-garhwal.webp)
 
 Se acabó la espera: hoy aterrizó **Kubernetes v1.37**, bautizado **"Garhwal"** en honor a una región del Himalaya en Uttarakhand, India. La movida viene con **67 mejoras**: 16 graduadas a Stable, 23 a Beta, 27 entrando como Alpha y 1 deprecación. Nada de humo, es un release denso con varias cosas que le cambian la vida a los que operan clusters grandes.
 

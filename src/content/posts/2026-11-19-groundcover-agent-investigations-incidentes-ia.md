@@ -11,7 +11,7 @@ tags:
 description: "La plataforma abre investigaciones automáticas con dos agentes (Investigator y Moderator) que testean hipótesis contra logs, métricas, traces y datos de Kubernetes, y dejan entrar a Claude Code y Codex vía MCP."
 ---
 
-![Ilustración editorial tech de ingenieros y agentes de inteligencia artificial investigando juntos un tablero de incidentes con gráficos y nodos de Kubernetes](../../assets/images/2026-11-19-groundcover-agent-investigations-incidentes-ia.jpg)
+![groundcover lanza Agent Investigations: el workspace donde tus agentes IA y tu equipo resuelven incidentes juntos](../../assets/images/2026-11-19-groundcover-agent-investigations-incidentes-ia.webp)
 
 groundcover, la israelí de observabilidad que el año pasado levantó US$100 millones para incomodar a Datadog, va de nuevo con un lanzamiento que pinta el tono de la industria: **Agent Investigations**, un workspace compartido donde sus propios agentes de IA, los coding agents de tu equipo y los ingenieros on-call trabajan el mismo incidente de producción.
 

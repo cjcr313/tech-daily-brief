@@ -11,7 +11,7 @@ tags:
 description: "El estudio de Akamai con Forrester Consulting muestra que la fricción de migración y las tarifas de transferencia atrapan el cómputo lejos de usuarios y datos: 82% incumple metas de latencia en cargas críticas."
 ---
 
-![Ilustración editorial de un mapa mundial estilizado con nodos de cómputo atrapados en ubicaciones equivocadas, líneas de datos estirándose entre continentes con candados y relojes, paleta azul noche y ámbar, estilo infografía profesional](../../assets/images/2026-11-16-akamai-right-workload-wrong-place.jpg)
+!["Right Workload, Wrong Place": Akamai destapa que el 50% de las empresas ejecuta workloads donde no debería](../../assets/images/2026-11-16-akamai-right-workload-wrong-place.webp)
 
 Akamai publicó su reporte global **"Right Workload. Wrong Place."** (con encuesta encargada a Forrester Consulting), y el titular es una bofetada de realidad multicloud: **la mitad de los decisores de TI empresariales mantiene workloads a conciencia en ubicaciones subóptimas** — simplemente para evitar el costo, la complejidad y el downtime de migrarlos. "Trapped by design": atrapados por diseño.
 

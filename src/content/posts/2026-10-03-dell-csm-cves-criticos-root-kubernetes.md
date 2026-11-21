@@ -12,7 +12,7 @@ tags:
 description: "Dell parcheó seis vulnerabilidades críticas en sus Container Storage Modules, incluyendo dos CVSS 10.0 explotables sin autenticación. El resultado posible: credenciales de admin de todos los arrays de storage y root en los nodos del cluster. Sin workaround: solo actualizar a CSM 1.18.0."
 ---
 
-![Ilustración editorial de contenedores de datos apilados en un clúster de servidores con una grieta roja luminosa atravesando un candado digital, paleta azul oscuro y rojo de alerta, estilo tech editorial, sin texto](../../assets/images/2026-10-03-dell-csm-cves-criticos-root-kubernetes.jpg)
+![Dell CSM: seis CVEs críticos (dos con CVSS 10.0) dan admin y root en clusters Kubernetes](../../assets/images/2026-10-03-dell-csm-cves-criticos-root-kubernetes.webp)
 
 Dell publicó un advisory que cualquier equipo con Kubernetes y storage Dell debería leer con calma: [seis vulnerabilidades críticas](https://www.dell.com/support/kbdoc/en-us/000515771/dsa-2026-448-security-update-for-dell-container-storage-modules-multiple-vulnerabilities) en sus **Container Storage Modules (CSM)** — el puente entre los arrays de storage empresarial de Dell y los clusters Kubernetes. Todas explotables de forma remota, casi todas **sin autenticación**, y el combo entrega desde credenciales de administrador del storage hasta **root en los nodos del cluster**.
 

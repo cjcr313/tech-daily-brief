@@ -12,7 +12,7 @@ tags:
 description: "Kubernetes 1.37 'Garhwal' trae 67 mejoras: KYAML se vuelve estable, la API de métricas alcanza Stable tras 9 años, el HPA aprende a escalar a cero y DRA llega a GA."
 ---
 
-![Ilustración editorial de un valle montañoso del Himalaya con terrazas que suben hacia picos nevados, recorrido por un río de contenedores Kubernetes, estilo tech editorial](../../assets/images/2026-09-07-kubernetes-1-37-garhwal.jpg)
+![Kubernetes 1.37 'Garhwal': KYAML estable, HPA escala a cero y DRA llega a GA](../../assets/images/2026-09-07-kubernetes-1-37-garhwal.webp)
 
 Llegó la release más esperada del ecosistema cloud native de este ciclo. **Kubernetes 1.37, con nombre en clave "Garhwal"** (la región del Himalaya en Uttarakhand, India), ya está disponible. El release team promete una entrega más de evolución que de revolución: **67 enhancements**, de los cuales **16 pasan a Stable, 23 a Beta, 27 entran en Alpha y 1 es deprecación**.
 

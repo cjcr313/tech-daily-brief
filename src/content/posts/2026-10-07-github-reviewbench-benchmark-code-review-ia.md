@@ -11,7 +11,7 @@ tags:
 description: "GitHub publicó ReviewBench, un benchmark abierto para agentes de revisión de código construido sobre 103,9 millones de PRs reales. Copilot lidera el primer leaderboard, pero con letra chica."
 ---
 
-![Ilustración editorial de un robot de revisión de código con lupa examinando tarjetas de pull requests flotantes sobre un tablero de métricas, estilo ilustración tech profesional, paleta violeta y azul, sin texto](../../assets/images/2026-10-07-github-reviewbench-benchmark-code-review-ia.jpg)
+![GitHub lanza ReviewBench: benchmark abierto para revisores de código con IA (y Copilot parte arriba)](../../assets/images/2026-10-07-github-reviewbench-benchmark-code-review-ia.webp)
 
 El code review con agentes se está volviendo pieza central del flujo de desarrollo, pero hasta ahora comparar un revisor contra otro era básicamente vibes. GitHub respondió con [ReviewBench](https://review-bench.ai/), un **benchmark offline y abierto para agentes de code review**, lanzado como research preview y construido junto a Microsoft. Y claro, en el leaderboard inaugural quedó arriba nada menos que Copilot.
 

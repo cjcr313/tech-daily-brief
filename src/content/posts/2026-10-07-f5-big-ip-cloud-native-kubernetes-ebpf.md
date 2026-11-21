@@ -12,7 +12,7 @@ tags:
 description: "F5 anunció BIG-IP Cloud-Native Edition: funciones de red telco (DNS, CGNAT, políticas de suscriptor) corriendo nativas en Kubernetes, con observabilidad eBPF a nivel de kernel. Los números de Tolly son agresivos."
 ---
 
-![Ilustración editorial tech de funciones de red carrier-grade corriendo como contenedores dentro de un clúster Kubernetes, con paquetes de luz fluyendo entre pods interconectados y una lupa de visibilidad a nivel kernel estilo eBPF, estilo flat profesional, tonos azul profundo y acentos turquesa, sin texto](../../assets/images/2026-10-07-f5-big-ip-cloud-native-kubernetes-ebpf.jpg)
+![F5 mete sus funciones de red carrier-grade a Kubernetes: 91,5% menos CPU en DNS](../../assets/images/2026-10-07-f5-big-ip-cloud-native-kubernetes-ebpf.webp)
 
 F5 anunció hoy **BIG-IP Cloud-Native Edition**, un paquete pensado para que los service providers — telcos, sobre todo — muden sus servicios críticos de red desde infraestructura virtualizada (VMs) a Kubernetes sin perder lo que en el mundo telco llaman *carrier-grade*: rendimiento, seguridad y control operacional. La apuesta incluye funciones de red cloud-native mejoradas y una nueva capa de **observabilidad eBPF**.
 

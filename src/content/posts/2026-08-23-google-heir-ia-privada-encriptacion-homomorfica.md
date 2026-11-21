@@ -11,7 +11,7 @@ tags:
 description: "Google lanzó HEIR, un toolchain open source que compila modelos pre-entrenados para operar sobre datos cifrados. Spam filtering y detección de fraude sin exponer la data del usuario."
 ---
 
-![Ilustración editorial de un candado digital protegiendo un cerebro de circuitos, con flujo de datos cifrado en tonos azules, estilo tech editorial](../../assets/images/2026-08-23-google-heir-ia-privada-encriptacion-homomorfica.jpg)
+![Google abre HEIR: inferencia de IA sobre datos encriptados a un clic de distancia](../../assets/images/2026-08-23-google-heir-ia-privada-encriptacion-homomorfica.webp)
 
 Google anda serio con el tema de **IA privada** y esta vez no es un paper académico: lanzó **HEIR (Homomorphic Encryption Intermediate Representation)**, un compilador y toolchain open source que permite tomar modelos de IA **pre-entrenados** —pensados para datos en claro— y compilarlos para que operen directamente sobre **datos encriptados**.
 

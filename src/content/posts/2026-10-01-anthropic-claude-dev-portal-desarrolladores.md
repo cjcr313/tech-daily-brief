@@ -11,7 +11,7 @@ tags:
 description: "Anthropic abrió claude.dev, un portal con deep dives de ingeniería, guías de Claude Code y API, y hasta un modo Terminal. La diferencia con la docs: acá cuentan cómo lo usan ellos mismos."
 ---
 
-![Ilustración editorial de un portal de desarrolladores estilo terminal con panel de código brillante y nodos conectados, paleta naranja cálido y crema, estilo tech editorial](../../assets/images/2026-10-01-anthropic-claude-dev-portal-desarrolladores.jpg)
+![Anthropic lanza claude.dev: el nuevo hogar para developers que construyen con Claude](../../assets/images/2026-10-01-anthropic-claude-dev-portal-desarrolladores.webp)
 
 Anthropic sigue amontonando lanzamientos esta semana y hoy le tocó a los developers: **abrió claude.dev**, un sitio nuevo a cargo del equipo de Claude Devs, con deep dives de ingeniería, guías de Claude Code y la API, y tips de los propios equipos que construyen Claude.
 

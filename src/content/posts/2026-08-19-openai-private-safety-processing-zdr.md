@@ -11,7 +11,7 @@ tags:
 description: "OpenAI empezó a testear un sistema que detecta patrones de abuso a través de múltiples interacciones sin romper la promesa de zero data retention. Anthropic, en paralelo, movió sus terms hacia retención de 30 días."
 ---
 
-![Ilustración editorial de un candado digital flotando sobre flujos de datos abstractos, con un ojo estilizado que observa patrones de luz sin revelar contenido, paleta verde azulado oscura, estilo tech editorial minimalista](../../assets/images/2026-08-19-openai-private-safety-processing-zdr.jpg)
+![OpenAI prueba 'Private Safety Processing': vigilar el misuse sin guardar tus datos (y mientras Anthropic pide 30 días de logs)](../../assets/images/2026-08-19-openai-private-safety-processing-zdr.webp)
 
 Interesante movimiento de OpenAI un día miércoles: anunció que está testeando con clientes early adopters un sistema llamado **Private Safety Processing (PSP)**, diseñado para **detectar patrones de misuse a través de múltiples interacciones** —no una por una— **sin romper la promesa de Zero Data Retention (ZDR)** para los usuarios de pago de la API.
 

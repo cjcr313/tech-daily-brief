@@ -11,7 +11,7 @@ tags:
 description: "403 hyperscalers emitieron 25,7 millones de toneladas de CO2 en un año —el equivalente a toda la contaminación anual de Dinamarca— consumiendo 1,8% de la electricidad estadounidense, con más de la mitad generada con fósiles."
 ---
 
-![Ilustración editorial tech: data centers gigantes conectados a chimeneas de plantas de energía con humo tenue, un planeta con termómetro al fondo, tonos naranjas y grises industriales, estilo ilustración profesional](../../assets/images/2026-11-16-datacenters-emisiones-dinamarca-nature-sustainability.jpg)
+![Datacenters de EE.UU. ya emiten lo mismo que Dinamarca entera, según estudio en Nature](../../assets/images/2026-11-16-datacenters-emisiones-dinamarca-nature-sustainability.webp)
 
 La factura ambiental del boom de la IA sigue subiendo: una investigación publicada en **Nature Sustainability** estimó que los **403 datacenters "hyperscaler" de Estados Unidos emitieron unos 25,7 millones de toneladas métricas de CO₂** en el año hasta abril de 2025 — aproximadamente **lo mismo que emite Dinamarca completa**, un país de 6 millones de personas, en un año. La cifra es **dos a tres veces mayor** que la estimación previa de emisiones hyperscale de 2018.
 

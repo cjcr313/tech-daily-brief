@@ -11,7 +11,7 @@ tags:
 description: "Amodei publicó su plan 'We Must Pace the Frontier' y Altman se sumó en X; Hugging Face lanza la Open Alignment Initiative para pedir entrar al programa."
 ---
 
-![Ilustración editorial de IA y supervisión: un grupo de evaluadores independientes con insignias y laptops observando de cerca una red neuronal gigante bajo una lupa, tonos azul profundo y ámbar, concepto abstracto de auditoría y seguridad sobre fondo oscuro](../../assets/images/2026-09-12-altman-amodei-evaluadores-embebidos-ia.jpg)
+![Altman y Amodei se comprometen a 'evaluadores embebidos' dentro de sus labs de IA](../../assets/images/2026-09-12-altman-amodei-evaluadores-embebidos-ia.webp)
 
 La semana más densa en la historia reciente de la seguridad en IA acaba de dar otro giro. **Dario Amodei**, CEO de Anthropic, publicó un ensayo titulado *We Must Pace the Frontier*, y horas después **Sam Altman** lo respaldó en X con un compromiso concreto: **OpenAI tendrá evaluadores independientes con acceso tipo empleado**. En el medio, **Hugging Face** se auto-invitó a la fiesta.
 

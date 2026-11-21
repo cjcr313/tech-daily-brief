@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare lanzó K2 en beta pública: un log de eventos durable, ordenado y particionado que corre sobre R2. Kafka-style, pero serverless y pensado para el edge."
 ---
 
-![Ilustración editorial de flujos de eventos luminosos convergiendo en un log ordenado dentro de contenedores de almacenamiento en la nube, paleta naranja y azul eléctrico](../../assets/images/2026-10-01-cloudflare-k2-eventos-serverless-r2.jpg)
+![Cloudflare K2: event streaming serverless construido sobre R2, sin Kafka ni brokers que administrar](../../assets/images/2026-10-01-cloudflare-k2-eventos-serverless-r2.webp)
 
 Birthday Week sigue y Cloudflare sacó hoy una pieza de infraestructura que va a hacer ruido en el mundo DevOps: **K2, un servicio de event streaming serverless en beta pública**. La idea es el clásico problema de desacoplar productores y consumidores: mandas eventos a un stream, quedan almacenados como **log ordenado y durable**, y cada consumidor lee a su pacer — repartiendo lecturas entre un grupo de consumidores o entregando todo a todos.
 

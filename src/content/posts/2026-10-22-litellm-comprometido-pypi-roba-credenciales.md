@@ -11,7 +11,7 @@ tags:
 description: "Wiz reveló que una versión troyanizada de LiteLLM (1.107.0) coló un stealer de credenciales en 49.000 descargas de PyPI e imágenes Docker. El ataque partió por tokens OAuth de GitHub CLI filtrados en logs vía Claude Code."
 ---
 
-![Ilustración editorial tech de una cadena de suministro digital rota, eslabones de cadena geométricos descendiendo en cascada donde uno central está fracturado y emite un resplandor rojo, líneas de datos goteando hacia un contenedor oscuro, fondo azul profundo con alertas luminosas, estilo ilustración tecnológica profesional dramática, sin texto](../../assets/images/2026-10-22-litellm-comprometido-pypi-roba-credenciales.jpg)
+![LiteLLM comprometido en PyPI: versión maliciosa con 49.000 descargas robaba credenciales de AWS, navegadores y herramientas de IA](../../assets/images/2026-10-22-litellm-comprometido-pypi-roba-credenciales.webp)
 
 Uno para preocuparse de verdad. El martes 21 de octubre a las 11:39 UTC, una **versión maliciosa de LiteLLM (1.107.0)** apareció en PyPI con un stealer de credenciales embebido. Recibió cerca de **49.000 descargas** antes de que PyPI la pusiera en cuarentena a las 13:20 UTC. Las imágenes Docker en GHCR y Docker Hub (tags `v1.107.0`, `latest`, `main-latest`, `main-stable`) también venían troyanizadas y fueron retiradas ~13:53 UTC. Lo reveló Wiz Research en un post que siguió actualizando durante todo el día — y que ayer sumó las cifras oficiales de descargas.
 

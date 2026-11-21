@@ -1,13 +1,12 @@
 ---
 import { getRelativeLocaleUrl } from "astro:i18n";
-import IconUnderline from "@/assets/icons/IconUnderline.svg";
 import IconMenuDeep from "@/assets/icons/IconMenuDeep.svg";
-import IconArchive from "@/assets/icons/IconArchive.svg";
 import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
 import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconMoon from "@/assets/icons/IconMoon.svg";
+import IconRss from "@/assets/icons/IconRss.svg";
 import IconX from "@/assets/icons/IconX.svg";
-import LinkButton from "./LinkButton.astro";
+import { CORE_CATEGORIES } from "@/utils/categories";
 import { stripBase, stripLocale } from "@/utils/withBase";
 import { useTranslations } from "@/i18n";
 import config from "@/config";
@@ -23,188 +22,327 @@ const pathWithoutTrailingSlash =
     ? relativePath.slice(0, -1)
     : relativePath;
 
-const currentPath = stripLocale(pathWithoutTrailingSlash, locale);
+const currentPath = stripLocale(pathWithoutTrailingSlash, locale) || "/";
 
-const isActive = (path: string) => {
-  const currentPathArray = currentPath.split("/").filter(p => p.trim());
-  const pathArray = path.split("/").filter(p => p.trim());
-  return currentPath === path || currentPathArray[0] === pathArray[0];
-};
+const isHomeActive =
+  currentPath === "/" || /^\/\d+$/.test(currentPath);
+
+const isCategoryActive = (slug: string) =>
+  currentPath === `/tags/${slug}` || currentPath.startsWith(`/tags/${slug}/`);
+
+const isSectionActive = (prefix: string) =>
+  currentPath === prefix || currentPath.startsWith(`${prefix}/`);
+
+const rssUrl = getRelativeLocaleUrl(locale, "rss.xml");
 ---
 
 <a
   id="skip-to-content"
   href="#main-content"
-  class="bg-background text-accent absolute inset-s-16 -top-full z-50 px-3 py-2 backdrop-blur-lg transition-all focus:top-4"
+  class="bg-surface text-accent border-border absolute inset-s-6 -top-full z-50 rounded-lg border px-3.5 py-2 text-sm font-medium shadow-md transition-all focus:top-4"
 >
   {t.a11y.skipToContent}
 </a>
 
-<header class="app-layout">
-  <div class="border-border bg-background border-b">
-    <div class="flex items-center justify-between py-4 lg:py-5">
-      <a
-        href={getRelativeLocaleUrl(locale, "")}
-        class="py-1 text-xl leading-8 font-semibold whitespace-nowrap lg:text-2xl lg:leading-none"
-      >
-        {site.title}
-      </a>
-      <div class="flex items-center gap-1 lg:gap-2">
+<header
+  class="border-border bg-background/85 sticky top-0 z-40 border-b backdrop-blur-md"
+>
+  <div class="app-layout">
+    <!-- Top bar: Brand + Quick Actions -->
+    <div class="flex h-15 items-center justify-between gap-3">
+      <div class="flex items-center gap-3">
+        <a
+          href={getRelativeLocaleUrl(locale, "")}
+          class="group flex items-center gap-2.5 whitespace-nowrap"
+        >
+          <span
+            class="border-border bg-[#0b1120] relative flex size-8 shrink-0 items-center justify-center rounded-lg border shadow-xs transition-transform group-hover:scale-105"
+            aria-hidden="true"
+          >
+            <svg viewBox="0 0 64 64" fill="none" class="size-6">
+              <circle
+                cx="32"
+                cy="32"
+                r="21"
+                stroke="#0284C7"
+                stroke-opacity="0.4"
+                stroke-width="3"></circle>
+              <path
+                d="M47 32a15 15 0 0 1-15 15"
+                stroke="#38BDF8"
+                stroke-width="3.5"
+                stroke-linecap="round"></path>
+              <path
+                d="M17 32a15 15 0 0 1 15-15"
+                stroke="#38BDF8"
+                stroke-width="3.5"
+                stroke-linecap="round"></path>
+              <circle cx="32" cy="32" r="5.5" fill="#38BDF8"></circle>
+            </svg>
+          </span>
+          <span class="flex items-baseline gap-2">
+            <span
+              class="font-display text-foreground text-lg font-extrabold tracking-tight sm:text-xl"
+            >
+              {site.title}
+            </span>
+            <span
+              class="font-mono text-muted-foreground hidden text-[11px] font-medium tracking-wider uppercase sm:inline"
+            >
+              Nauta Lab
+            </span>
+          </span>
+        </a>
+      </div>
+
+      <div class="flex items-center gap-1.5 sm:gap-2">
         {
           features.search !== false && (
-            <LinkButton
+            <a
               href={getRelativeLocaleUrl(locale, "search")}
-              class:list={["focus-outline relative size-8"]}
-              title={t.nav.search}
-              aria-label={t.nav.search}
+              data-open-search
+              class="border-border bg-surface text-muted-foreground hover:border-accent/60 hover:text-foreground inline-flex h-9 items-center gap-2 rounded-lg border px-2.5 text-sm transition-colors sm:px-3"
+              title="Buscar artículos (⌘K)"
+              aria-label="Buscar artículos"
             >
-              <IconSearch class="absolute top-1/2 left-1/2 size-6 -translate-x-1/2 -translate-y-1/2" />
-              <span class="sr-only">{t.nav.search}</span>
-              {isActive("/search") && (
-                <IconUnderline
-                  aria-hidden="true"
-                  class="absolute bottom-0 w-6 scale-125 max-lg:inset-s-2"
-                />
-              )}
-            </LinkButton>
+              <IconSearch class="size-4 shrink-0" />
+              <span class="hidden text-xs sm:inline">Buscar...</span>
+              <kbd class="font-mono bg-muted text-muted-foreground hidden rounded px-1.5 py-0.5 text-[10px] font-semibold md:inline">
+                ⌘K
+              </kbd>
+            </a>
           )
         }
+
+        <a
+          href={rssUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="text-muted-foreground hover:bg-muted hover:text-accent inline-flex size-9 items-center justify-center rounded-lg transition-colors"
+          title="Suscribirse por RSS"
+          aria-label="Feed RSS de Ping Diario"
+        >
+          <IconRss class="size-4.5" />
+        </a>
+
         {
           features.lightAndDarkMode && (
             <button
               id="theme-btn"
-              class="focus-outline hover:[&>svg]:stroke-accent relative size-12 p-4 lg:size-8"
+              type="button"
+              class="text-muted-foreground hover:bg-muted hover:text-accent relative inline-flex size-9 items-center justify-center rounded-lg transition-colors"
               title={t.a11y.toggleTheme}
-              aria-label="auto"
-              aria-live="polite"
+              aria-label={t.a11y.toggleTheme}
             >
-              <IconMoon class="absolute top-[50%] left-[50%] translate-[-50%] scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
-              <IconSunHigh class="absolute top-[50%] left-[50%] translate-[-50%] scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
+              <IconMoon class="size-4.5 scale-100 rotate-0 transition-all dark:scale-0 dark:-rotate-90" />
+              <IconSunHigh class="absolute size-4.5 scale-0 rotate-90 transition-all dark:scale-100 dark:rotate-0" />
             </button>
           )
         }
+
         <button
           id="menu-btn"
-          class="focus-outline p-2 lg:hidden"
+          type="button"
+          class="text-muted-foreground hover:bg-muted hover:text-foreground inline-flex size-9 items-center justify-center rounded-lg transition-colors lg:hidden"
           aria-label={t.a11y.openMenu}
           aria-expanded="false"
-          aria-controls="menu-items"
+          aria-controls="mobile-nav-drawer"
           data-label-open={t.a11y.openMenu}
           data-label-close={t.a11y.closeMenu}
         >
-          <IconX id="close-icon" class="hidden" />
-          <IconMenuDeep id="menu-icon" />
+          <IconX id="close-icon" class="hidden size-5" />
+          <IconMenuDeep id="menu-icon" class="size-5" />
         </button>
       </div>
     </div>
-    <nav id="nav-menu">
-      <ul
-        id="menu-items"
-        class="[&>li>a]:hover:text-accent hidden w-full grid-cols-2 place-content-start gap-2 pb-4 lg:flex lg:w-full lg:flex-wrap lg:justify-start lg:gap-x-3 lg:gap-y-2 lg:[&>li]:h-8 [&>li>a]:block [&>li>a]:px-4 [&>li>a]:py-3 [&>li>a]:text-center [&>li>a]:font-medium lg:[&>li>a]:px-1 lg:[&>li>a]:py-1 lg:[&>li:first-child>a]:ps-0"
-      >
-        <li class="col-span-1">
+
+    <!-- Desktop category & section bar -->
+    <nav
+      aria-label="Categorías principales"
+      class="border-border/70 hidden items-center justify-between gap-4 border-t py-2 lg:flex"
+    >
+      <ul class="flex flex-wrap items-center gap-1 text-sm">
+        <li>
+          <a
+            href={getRelativeLocaleUrl(locale, "")}
+            class:list={[
+              "inline-flex items-center rounded-lg px-2.5 py-1 text-[13px] font-medium transition-colors",
+              isHomeActive
+                ? "active-nav"
+                : "text-muted-foreground hover:bg-muted hover:text-foreground",
+            ]}
+          >
+            Portada
+          </a>
+        </li>
+        {
+          CORE_CATEGORIES.map(cat => (
+            <li>
+              <a
+                href={getRelativeLocaleUrl(locale, `tags/${cat.slug}`)}
+                class:list={[
+                  "inline-flex items-center gap-1.5 rounded-lg px-2.5 py-1 text-[13px] font-medium transition-colors",
+                  isCategoryActive(cat.slug)
+                    ? "active-nav"
+                    : "text-muted-foreground hover:bg-muted hover:text-foreground",
+                ]}
+              >
+                {cat.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+
+      <ul class="flex shrink-0 items-center gap-1 text-xs">
+        <li>
           <a
             href={getRelativeLocaleUrl(locale, "posts")}
-            class:list={{ "active-nav": isActive("/posts") }}
+            class:list={[
+              "inline-flex items-center rounded-lg px-2 py-1 font-medium transition-colors",
+              isSectionActive("/posts")
+                ? "active-nav"
+                : "text-muted-foreground hover:bg-muted hover:text-foreground",
+            ]}
           >
-            Noticias
+            Todas
           </a>
         </li>
-        <li class="col-span-1">
+        <li>
           <a
-            href={getRelativeLocaleUrl(locale, "tags/kubernetes")}
-            class:list={{ "active-nav": isActive("/tags/kubernetes") }}
+            href={getRelativeLocaleUrl(locale, "archives")}
+            class:list={[
+              "inline-flex items-center rounded-lg px-2 py-1 font-medium transition-colors",
+              isSectionActive("/archives")
+                ? "active-nav"
+                : "text-muted-foreground hover:bg-muted hover:text-foreground",
+            ]}
           >
-            Kubernetes
+            Archivo
           </a>
         </li>
-        <li class="col-span-1">
+        <li>
           <a
-            href={getRelativeLocaleUrl(locale, "tags/observabilidad")}
-            class:list={{ "active-nav": isActive("/tags/observabilidad") }}
+            href={getRelativeLocaleUrl(locale, "about")}
+            class:list={[
+              "inline-flex items-center rounded-lg px-2 py-1 font-medium transition-colors",
+              isSectionActive("/about")
+                ? "active-nav"
+                : "text-muted-foreground hover:bg-muted hover:text-foreground",
+            ]}
           >
-            Observabilidad
-          </a>
-        </li>
-        <li class="col-span-1">
-          <a
-            href={getRelativeLocaleUrl(locale, "tags/seguridad")}
-            class:list={{ "active-nav": isActive("/tags/seguridad") }}
-          >
-            Seguridad
-          </a>
-        </li>
-        <li class="col-span-1">
-          <a
-            href={getRelativeLocaleUrl(locale, "tags/cloud")}
-            class:list={{ "active-nav": isActive("/tags/cloud") }}
-          >
-            Cloud
-          </a>
-        </li>
-        <li class="col-span-1">
-          <a
-            href={getRelativeLocaleUrl(locale, "tags/infraestructura")}
-            class:list={{ "active-nav": isActive("/tags/infraestructura") }}
-          >
-            Infraestructura
-          </a>
-        </li>
-        <li class="col-span-1">
-          <a
-            href={getRelativeLocaleUrl(locale, "tags/ia")}
-            class:list={{ "active-nav": isActive("/tags/ia") }}
-          >
-            IA
-          </a>
-        </li>
-        <li class="col-span-1">
-          <a
-            href={getRelativeLocaleUrl(locale, "tags/devops")}
-            class:list={{ "active-nav": isActive("/tags/devops") }}
-          >
-            DevOps
-          </a>
-        </li>
-        <li class="col-span-1">
-          <a
-            href={getRelativeLocaleUrl(locale, "tags/arquitectura")}
-            class:list={{ "active-nav": isActive("/tags/arquitectura") }}
-          >
-            Arquitectura
+            Acerca de
           </a>
         </li>
       </ul>
     </nav>
+
+    <!-- Mobile quick scrollable category rail -->
+    <nav
+      aria-label="Secciones rápidas"
+      class="no-scrollbar border-border/70 -mx-4 flex items-center gap-1.5 overflow-x-auto border-t px-4 py-2 lg:hidden"
+    >
+      <a
+        href={getRelativeLocaleUrl(locale, "")}
+        class:list={[
+          "shrink-0 rounded-full px-3 py-1 text-xs font-medium transition-colors",
+          isHomeActive
+            ? "active-nav"
+            : "bg-muted/70 text-muted-foreground hover:text-foreground",
+        ]}
+      >
+        Portada
+      </a>
+      {
+        CORE_CATEGORIES.map(cat => (
+          <a
+            href={getRelativeLocaleUrl(locale, `tags/${cat.slug}`)}
+            class:list={[
+              "shrink-0 rounded-full px-3 py-1 text-xs font-medium transition-colors",
+              isCategoryActive(cat.slug)
+                ? "active-nav"
+                : "bg-muted/70 text-muted-foreground hover:text-foreground",
+            ]}
+          >
+            {cat.label}
+          </a>
+        ))
+      }
+    </nav>
+
+    <!-- Mobile expandable menu drawer -->
+    <div
+      id="mobile-nav-drawer"
+      class="border-border hidden border-t py-4 lg:hidden"
+    >
+      <p
+        class="font-mono text-muted-foreground mb-2 text-[11px] font-semibold tracking-wider uppercase"
+      >
+        Explorar
+      </p>
+      <ul class="grid grid-cols-2 gap-1.5 text-sm">
+        <li>
+          <a
+            href={getRelativeLocaleUrl(locale, "posts")}
+            class="bg-muted/60 hover:bg-muted block rounded-lg px-3 py-2 font-medium"
+          >
+            Todas las noticias
+          </a>
+        </li>
+        <li>
+          <a
+            href={getRelativeLocaleUrl(locale, "archives")}
+            class="bg-muted/60 hover:bg-muted block rounded-lg px-3 py-2 font-medium"
+          >
+            Archivo cronológico
+          </a>
+        </li>
+        <li>
+          <a
+            href={getRelativeLocaleUrl(locale, "tags")}
+            class="bg-muted/60 hover:bg-muted block rounded-lg px-3 py-2 font-medium"
+          >
+            Todas las etiquetas
+          </a>
+        </li>
+        <li>
+          <a
+            href={getRelativeLocaleUrl(locale, "about")}
+            class="bg-muted/60 hover:bg-muted block rounded-lg px-3 py-2 font-medium"
+          >
+            Acerca de Ping Diario
+          </a>
+        </li>
+      </ul>
+    </div>
   </div>
 </header>
 
 <script>
-  function toggleNav() {
+  function setupMobileMenu() {
     const menuBtn = document.querySelector<HTMLButtonElement>("#menu-btn");
-    const menuItems = document.querySelector("#menu-items");
+    const drawer = document.querySelector<HTMLElement>("#mobile-nav-drawer");
     const menuIcon = document.querySelector("#menu-icon");
     const closeIcon = document.querySelector("#close-icon");
 
-    if (!menuBtn || !menuItems || !menuIcon || !closeIcon) return;
+    if (!menuBtn || !drawer || !menuIcon || !closeIcon) return;
+    if (menuBtn.dataset.menuBound === "true") return;
+    menuBtn.dataset.menuBound = "true";
 
-    const openLabel = menuBtn.dataset.labelOpen ?? "Open menu";
-    const closeLabel = menuBtn.dataset.labelClose ?? "Close menu";
+    const openLabel = menuBtn.dataset.labelOpen ?? "Abrir menú";
+    const closeLabel = menuBtn.dataset.labelClose ?? "Cerrar menú";
 
     menuBtn.addEventListener("click", () => {
-      const openMenu = menuBtn.getAttribute("aria-expanded") === "true";
+      const isOpen = menuBtn.getAttribute("aria-expanded") === "true";
+      menuBtn.setAttribute("aria-expanded", isOpen ? "false" : "true");
+      menuBtn.setAttribute("aria-label", isOpen ? openLabel : closeLabel);
 
-      menuBtn.setAttribute("aria-expanded", openMenu ? "false" : "true");
-      menuBtn.setAttribute("aria-label", openMenu ? openLabel : closeLabel);
-
-      menuItems.classList.toggle("hidden");
-      menuItems.classList.toggle("grid");
+      drawer.classList.toggle("hidden");
       menuIcon.classList.toggle("hidden");
       closeIcon.classList.toggle("hidden");
     });
   }
 
-  toggleNav();
-
-  document.addEventListener("astro:after-swap", toggleNav);
+  setupMobileMenu();
+  document.addEventListener("astro:page-load", setupMobileMenu);
 </script>

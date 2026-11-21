@@ -12,7 +12,7 @@ tags:
 description: "IBM HashiCorp lanzó un plugin oficial que permite usar Vault Enterprise como KMS externo para Kubernetes, eliminando wrappers de terceros y reduciendo overhead de encriptación."
 ---
 
-![HashiCorp Vault KMS Kubernetes](../../assets/images/2026-08-07-vault-kms-k8s.jpg)
+![HashiCorp Vault KMS Kubernetes](../../assets/images/2026-08-07-vault-kms-k8s.webp)
 
 Si has trabajado con secretos en Kubernetes, sabes el dolor: los Secrets nativos van en base64 (que no es encriptación), y conectar un KMS externo siempre requirió wrappers caseros o módulos de terceros. Ese partido acaba de terminar.
 

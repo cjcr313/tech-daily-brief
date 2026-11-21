@@ -12,7 +12,7 @@ tags:
 description: "La CNCF celebró 40 plataformas certificadas en su programa de AI Conformance para Kubernetes, pero los repos públicos muestran checklists autoevaluados y una suite de tests que solo reconoce GPUs NVIDIA."
 ---
 
-![Ilustración editorial de un sello de certificación being examinado con lupa sobre un tablero de servidores y chips de aceleración](../../assets/images/cncf-ai-conformance-40-plataformas-nvidia.jpg)
+![El sello 'Kubernetes AI Certificado' llega a 40 plataformas: pero miremos bajo el capó](../../assets/images/cncf-ai-conformance-40-plataformas-nvidia.webp)
 
 La CNCF anunció en KubeCon NA 2026 que su **Kubernetes AI Conformance Program** alcanzó **40 plataformas certificadas**. Suena genial: el sello que promete que tu cluster soporta workloads de AI de forma consistente, sin vendor lock-in. Pero cuando uno abre los repositorios públicos del programa, la historia es un poco más... matizada.
 

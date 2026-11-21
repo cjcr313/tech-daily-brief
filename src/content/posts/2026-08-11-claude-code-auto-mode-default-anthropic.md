@@ -11,7 +11,7 @@ tags:
 description: "A partir del 14 de agosto, Claude Code usará auto mode por defecto en planes Pro, Max y Team. Anthropic dice que es más seguro que la revisión humana."
 ---
 
-![Ilustración editorial de un agente de IA operando autonomamente con líneas de código fluyendo](../../assets/images/2026-08-11-claude-code-auto-mode.jpg)
+![Anthropic activa auto mode por defecto en Claude Code: menos humanos, más automatización](../../assets/images/2026-08-11-claude-code-auto-mode.webp)
 
 Anthropic acaba de tomar una decisión que va a dividir aguas: **auto mode se convierte en el modo por defecto de Claude Code** a partir del **14 de agosto** para planes Pro, Max y Team. Básicamente, el agente de código va a poder ejecutar acciones sin pedirte permiso en cada paso.
 

@@ -11,7 +11,7 @@ tags:
 description: "El CEO de Shopify amenazó con banear Claude Code porque Anthropic se niega a leer AGENTS.md, el estándar abierto de instrucciones para agentes de código. La guerra de los archivos de contexto."
 ---
 
-![Ilustración editorial de dos documentos de instrucciones divergiendo en un árbol de directorios, uno verde y otro naranja, con un enlace partido entre ellos, estilo tech editorial](../../assets/images/2026-08-26-shopify-claude-code-agents-md-estandar-agentes.jpg)
+![Tobi Lütke amenaza con banear Claude Code en Shopify por culpa de un archivo Markdown](../../assets/images/2026-08-26-shopify-claude-code-agents-md-estandar-agentes.webp)
 
 Drama de martes en el ecosistema dev: **Tobi Lütke, CEO de Shopify, amenazó con banear Claude Code** en toda la empresa. Y no es porque el agente de código de Anthropic sea malo — de hecho Lütke reconoce que es bueno — sino por un archivo Markdown.
 

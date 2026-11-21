@@ -4,22 +4,23 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://pingdiario.com",
     title: "Ping Diario",
-    description: "Un resumen diario de lo más relevante en tecnología, Kubernetes, Nube y Seguridad.",
+    description:
+      "El pulso diario de Cloud Native, IA, Kubernetes, Seguridad e Infraestructura empresarial.",
     author: "Nauta Lab",
-    profile: "https://github.com/cjcr313",
+    profile: "https://pingdiario.com/about/",
     ogImage: "default-og.jpg",
     lang: "es",
     timezone: "America/Santiago",
     dir: "ltr",
   },
   posts: {
-    perPage: 10,
-    perIndex: 10,
+    perPage: 12,
+    perIndex: 12,
     scheduledPostMargin: 15 * 60 * 1000,
   },
   features: {
     lightAndDarkMode: true,
-    dynamicOgImage: true,
+    dynamicOgImage: false,
     showArchives: true,
     showBackButton: true,
     editPost: {
@@ -28,15 +29,32 @@ export default defineAstroPaperConfig({
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/cjcr313" },
-    { name: "x",        url: "https://x.com" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/" },
-    { name: "mail",     url: "mailto:carlos.carrasco@gmail.com" },
+    {
+      name: "instagram",
+      url: "https://www.instagram.com/pingdiario/",
+      linkTitle: "Ping Diario en Instagram (@pingdiario)",
+    },
   ],
   shareLinks: [
-    { name: "whatsapp", url: "https://wa.me/?text=" },
-    { name: "x",        url: "https://x.com/intent/post?url=" },
-    { name: "linkedin", url: "https://www.linkedin.com/shareArticle?mini=true&url=" },
-    { name: "mail",     url: "mailto:?subject=Mira%20este%20post&body=" },
+    {
+      name: "whatsapp",
+      url: "https://wa.me/?text=",
+      linkTitle: "Compartir por WhatsApp",
+    },
+    {
+      name: "x",
+      url: "https://x.com/intent/post?url=",
+      linkTitle: "Compartir en X",
+    },
+    {
+      name: "linkedin",
+      url: "https://www.linkedin.com/shareArticle?mini=true&url=",
+      linkTitle: "Compartir en LinkedIn",
+    },
+    {
+      name: "mail",
+      url: "mailto:?subject=Ping%20Diario&body=",
+      linkTitle: "Compartir por correo",
+    },
   ],
 });

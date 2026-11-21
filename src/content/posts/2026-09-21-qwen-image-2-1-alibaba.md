@@ -11,7 +11,7 @@ tags:
 description: "El equipo Qwen de Alibaba open-sourcéa Qwen-Image-2.1, un modelo unificado de generación y edición de imágenes con transparencia RGBA nativa y licencia de investigación."
 ---
 
-![Ilustración editorial tech de un pincel de luz digital generando una imagen con fondo transparente sobre una rejilla de cuadros de Photoshop, paleta de colores naranja y violeta, estilo minimalista](../../assets/images/2026-09-21-qwen-image-2-1-alibaba.jpg)
+![Alibaba libera Qwen-Image-2.1: un modelo open-weight de 7B que genera y edita imágenes con transparencia nativa](../../assets/images/2026-09-21-qwen-image-2-1-alibaba.webp)
 
 El equipo Qwen de Alibaba liberó **Qwen-Image-2.1**, un modelo **open-weight de 7B parámetros** que unifica generación de imágenes desde texto y edición en un solo workflow. El punto que lo distingue de la competencia: **transparencia RGBA nativa** para crear y editar assets sin fondo.
 

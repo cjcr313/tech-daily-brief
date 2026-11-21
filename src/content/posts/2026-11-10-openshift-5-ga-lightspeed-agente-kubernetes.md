@@ -12,7 +12,7 @@ tags:
 description: "Siete años después del último salto mayor, OpenShift 5 llega con troubleshooting agéntico, criptografía post-cuántica y ciclo de vida de 5 años. El upgrade desde OpenShift 4 es in-place, sin migración."
 ---
 
-![Ilustración editorial de un agente de IA reparando contenedores en un clúster de Kubernetes](../../assets/images/openshift-5-ga-lightspeed-agente-kubernetes.jpg)
+![Red Hat lanza OpenShift 5: Lightspeed pasa de chatbot a agente que arregla clusters (casi) solo](../../assets/images/openshift-5-ga-lightspeed-agente-kubernetes.webp)
 
 Si tu equipo opera OpenShift, atento: Red Hat anunció la disponibilidad general de **OpenShift 5** en el KubeCon + CloudNativeCon NA de Salt Lake City, y es el **primer salto de versión mayor en siete años**. No es un refresh cosmético: cambia cómo se opera la plataforma.
 

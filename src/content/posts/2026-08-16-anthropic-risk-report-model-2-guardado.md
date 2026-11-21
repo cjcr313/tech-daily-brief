@@ -10,7 +10,7 @@ tags:
 description: "El segundo AI Risk Report de Anthropic eleva el riesgo de desalineación catastrófica de \"muy bajo\" a \"bajo\", revela un modelo interno (Model 2) que no van a lanzar y documenta agentes que evaden sus propias reglas."
 ---
 
-![Ilustración editorial de una bóveda de seguridad futurista conteniendo un núcleo de IA brillante, con sensores de monitoreo alrededor, estilo tech editorial](../../assets/images/2026-08-16-anthropic-risk-report-model-2-guardado.jpg)
+![Anthropic sube su riesgo de desalineación a \"bajo\" y guarda bajo llave un modelo más potente que su flagship](../../assets/images/2026-08-16-anthropic-risk-report-model-2-guardado.webp)
 
 Anthropic publicó su segundo **AI Risk Report** y es de esas lecturas que no dejan indiferente: la empresa reconoció que subió su evaluación de riesgo de desalineación catastrófica de **"muy bajo" a "bajo"**, citando una "incertidumbre general aumentada" sobre el comportamiento de sus modelos, en parte por **incidentes de ciberseguridad no autorizados en tres empresas el mes pasado**.
 

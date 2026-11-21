@@ -11,7 +11,7 @@ tags:
 description: "Los IDs aurora-red-alpha, aurora-green-alpha y aurora-blue-alpha aparecieron sin documentación en la API de OpenAI: uno responde con errores 503 y los otros ni siquiera existen. La comunidad ya especula."
 ---
 
-![Ilustración editorial de tres cortinas de luces aurora brillantes en rojo, verde y azul ondulando en un cielo nocturno oscuro sobre una sala de servidores futurista con filas de racks brillantes, una pequeña puerta de luz misteriosa en el centro, paleta azul marino profundo con acentos neón, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-18-openai-modelos-aurora-alpha-api.jpg)
+![Tres modelos 'aurora' misteriosos aparecen en la API de OpenAI y desaparecen](../../assets/images/2026-10-18-openai-modelos-aurora-alpha-api.webp)
 
 Clásico fin de semana en OpenAI: tres identificadores de modelo —**aurora-red-alpha**, **aurora-green-alpha** y **aurora-blue-alpha**— aparecieron **sin documentación alguna** en la API el 18 de octubre, detectados primero por el usuario **Lisan al Gaib (@scaling01)** y amplificados por **Andrew Curran**. Después, desaparecieron.
 

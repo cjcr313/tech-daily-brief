@@ -11,7 +11,7 @@ tags:
 description: "Vinext 1.0 pasa de experimento con IA a framework listo para producción, dejando que las apps Next.js corran sobre Vite."
 ---
 
-![Ilustración editorial de bloques geométricos fusionándose en un trazo de movimiento rápido, tema de tooling para desarrolladores](../../assets/images/2026-09-28-cloudflare-vinext-nextjs-vite.jpg)
+![Vinext 1.0: Cloudflare deja atrás el experimento y corre Next.js sobre Vite](../../assets/images/2026-09-28-cloudflare-vinext-nextjs-vite.webp)
 
 Cloudflare lanzó **Vinext 1.0**, el framework que permite correr aplicaciones Next.js sobre Vite. Lo que empezó como un experimento con IA ya es producción.
 

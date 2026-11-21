@@ -11,7 +11,7 @@ tags:
 description: "New Relic lanzó AI Evaluation (un LLM-as-a-judge que puntúa alucinaciones e inyecciones de prompt sobre traces reales), el Ground Truth CLI para devs y agentes, e Infrastructure 360."
 ---
 
-![Ilustración editorial tech de un panel de control futurista con gráficos de ondas y un lupa digital examinando flujos de datos con nodos de IA, paleta verde esmeralda y gris oscuro, estilo flat profesional, sin texto](../../assets/images/2026-10-07-new-relic-ai-evaluation-ground-truth-infrastructure-360.jpg)
+![New Relic contraataca en observabilidad de IA: AI Evaluation, Ground Truth CLI e Infrastructure 360](../../assets/images/2026-10-07-new-relic-ai-evaluation-ground-truth-infrastructure-360.webp)
 
 La observabilidad de aplicaciones IA pasó de tema de conferencia a requisito de producción, y New Relic entró con todo: anunció **AI Evaluation**, una capa de evaluación para su plataforma de AI Observability, junto con el **Ground Truth CLI** e **Infrastructure 360**. Tres anuncios que apuntan al mismo problema: saber si tu app con LLMs está funcionando bien, no solo si está funcionando.
 

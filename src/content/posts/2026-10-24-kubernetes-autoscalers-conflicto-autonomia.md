@@ -11,7 +11,7 @@ tags:
 description: "HPA, VPA, KEDA y Karpenter operan cada uno en su burbuja y terminan contradiciéndose entre sí. The New Stack desmenuza las cuatro colisiones clásicas y por qué falta una capa de inteligencia central."
 ---
 
-![Ilustración editorial de varios controladores robóticos tirando de palancas hacia direcciones opuestas sobre un clúster de contenedores](../../assets/images/2026-10-24-kubernetes-autoscalers-conflicto-autonomia.jpg)
+![Los autoscalers de Kubernetes se pisan la cola: cuatro colisiones y por qué la solución debe ser autónoma](../../assets/images/2026-10-24-kubernetes-autoscalers-conflicto-autonomia.webp)
 
 Pregunta simple para cualquier SRE: ¿cuántas réplicas debería tener `checkout-api` ahora? El Helm dice 3. El HPA, viendo la carga de CPU, subió a 11. El VPA insiste en que está sobreaprovisionado y recomienda bajar a 350m de CPU. KEDA, por un pico de lag en Kafka, exige 24 réplicas. Y Karpenter, en paralelo, ya aprovisionó dos nodos nuevos dimensionando contra los requests declarados, no contra el uso real.
 

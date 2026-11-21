@@ -10,7 +10,7 @@ tags:
 description: "224.000 millones de parámetros totales, solo 12 mil millones activos por token y un contexto de 1M: Hy4 Flash cuesta ¥0,5 por millón de tokens de entrada y apunta al trabajo documental masivo."
 ---
 
-![Ilustración editorial minimalista de documentos, hojas de cálculo y presentaciones flotando sobre un circuito luminoso verde esmeralda, fondo oscuro elegante, estilo ilustración corporativa moderna sin texto](../../assets/images/2026-11-16-tencent-hy4-flash-modelo-economico.jpg)
+![Tencent lanza Hy4 Flash: el modelo barato para el trabajo de oficina que roza a Haiku 5.5 a 1/18 del costo](../../assets/images/2026-11-16-tencent-hy4-flash-modelo-economico.webp)
 
 Mientras Alibaba estrenaba flagship, Tencent aprovechó el mismo 16 de noviembre para lanzar **Hy4 Flash**, su modelo económico para trabajo cotidiano. La propuesta es simple y brutal: contexto de **1.048.576 tokens**, entrada multimodal, y una tarjeta de precios que parece error de tipeo — **¥0,5 (≈US$0,070) por millón de tokens de entrada y ¥2 (≈US$0,281) de salida**, con caché a ¥0,02.
 

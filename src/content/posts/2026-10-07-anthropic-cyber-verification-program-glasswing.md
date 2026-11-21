@@ -11,7 +11,7 @@ tags:
 description: "Anthropic consolidó Project Glasswing en un programa de tres niveles que da a equipos de seguridad acceso a Claude con clasificadores relajados. Los partners ya encontraron 129.000 vulnerabilidades verificadas."
 ---
 
-![Ilustración editorial de un casco de seguridad informática junto a un nodo de IA luminoso, escudo digital con tres niveles brillantes, ambiente oscuro azul y violeta, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-07-anthropic-cyber-verification-program-glasswing.jpg)
+![Anthropic fusiona Glasswing en su Cyber Verification Program: los modelos top abiertos (con verificación) para hackers defensivos](../../assets/images/2026-10-07-anthropic-cyber-verification-program-glasswing.webp)
 
 Anthropic anunció el 6 de octubre la expansión de su **Cyber Verification Program (CVP)**, que absorbe y ordena lo que hasta ahora era el proyecto piloto **Glasswing**: acceso verificado a sus modelos más capaces —incluido **Claude Mythos**— para profesionales de seguridad, con clasificadores de bloqueo relajados para que el modelo pueda hacer su trabajo ofensivo/defensivo sin pelearse con los guardrails.
 

@@ -11,7 +11,7 @@ tags:
 description: "El Critical Patch Update de agosto trae 943 fixes, con lo más jugoso en Oracle Database Server: 5 parches, 4 explotables remotamente sin autenticación, incluido un RCE en Portable Clusterware (CVE-2026-71102)."
 ---
 
-![Ilustración editorial de un datacenter empresarial con candados y parches de seguridad cayendo sobre servidores, tonos rojo alerta y gris acero, estilo tech editorial](../../assets/images/2026-08-19-oracle-cpu-agosto-2026-943-parches-database-rce.svg)
+![Oracle suelta su CPU de agosto: 943 parches de seguridad y un RCE sin autenticación en la Base de Datos](../../assets/images/2026-08-19-oracle-cpu-agosto-2026-943-parches-database-rce.svg)
 
 Martes de Oracle, y como cada ciclo trimestral tocaba ponerse al día con el parcheo. El **Critical Patch Update (CPU) de agosto 2026** llegó ayer con la cifra de siempre-pero-igual-impresiona: **943 parches de seguridad nuevos** repartidos por casi todo el portafolio.
 

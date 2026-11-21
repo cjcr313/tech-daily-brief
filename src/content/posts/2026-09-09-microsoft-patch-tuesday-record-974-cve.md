@@ -12,7 +12,7 @@ tags:
 description: "El Patch Tuesday de septiembre 2026 es el más grande de la historia de Microsoft: 974 CVEs, dos zero-days en explotación activa y un RCE crítico en Exchange Server."
 ---
 
-![Ilustración editorial de un escudo de parches de seguridad sobre infraestructura cloud](../../assets/images/2026-09-09-microsoft-patch-tuesday-record-974-cve.jpg)
+![Microsoft rompe récord en Patch Tuesday: 974 CVEs, 2 zero-days explotados y 20 bugs wormeables](../../assets/images/2026-09-09-microsoft-patch-tuesday-record-974-cve.webp)
 
 Si creías que los Patch Tuesday ya no podían sorprender, septiembre llegó a callarte la boca. Microsoft soltó el martes el **mayor lote de parches de su historia**: **974 CVEs** corregidos de una sola vez, superando en ~57% el récord anterior (de julio). Y no es solo volumen: adentro vienen **dos zero-days que ya están siendo explotados** y una lista de **20 vulnerabilidades "wormeables"**.
 

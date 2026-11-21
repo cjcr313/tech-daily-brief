@@ -11,7 +11,7 @@ tags:
 description: "OpenSSH 10.6 desactiva la compresión LZ77 por un side-channel, rechaza $ y \\ en usernames de línea de comando y habilita firmas híbridas post-cuánticas. Si tenís automatización SSH, esto te toca."
 ---
 
-![Ilustración editorial tech de un candado digital reforzado sobre un túnel de conexión seguro entre dos servidores, escudo con patrón de malla criptográfica, paleta azul profundo y acentos verdes neón, estilo flat profesional, sin texto](../../assets/images/2026-10-08-openssh-10-6-rompe-cosas-proposito-post-cuantico.jpg)
+![OpenSSH 10.6 rompe cosas a propósito: menos compresión, usernames más estrictos y firmas post-cuánticas](../../assets/images/2026-10-08-openssh-10-6-rompe-cosas-proposito-post-cuantico.webp)
 
 Salió [OpenSSH 10.6](https://www.helpnetsecurity.com/2026/10/07/openssh-10-6-released/) y el equipo de desarrollo hizo algo poco común en infraestructura: **romper features deliberadamente en nombre de la seguridad**. Dos roturas intencionales, una firma post-cuántica nueva y la promesa de releases más frecuentes. Si tu infraestructura vive de scripts SSH y automatización, dedicale diez minutos a esto.
 

@@ -11,7 +11,7 @@ tags:
 description: "Apple adquirió activos y talento de SigScalr, la startup detrás de SigLens, plataforma open-source que prometía ser más eficiente que Splunk y Datadog."
 ---
 
-![Imagen de referencia](../../assets/images/2026-07-14-apple-sigscalr-cover.jpg)
+![Imagen de referencia](../../assets/images/2026-07-14-apple-sigscalr-cover.webp)
 
 Apple rara vez hace adquisiciones que llamen la atención, pero esta semana la Comisión Europea publicó los detalles: **Apple adquirió ciertos activos de SigScalr y contrató a parte de su equipo**, la startup detrás de **SigLens**, una plataforma de observabilidad open-source.
 

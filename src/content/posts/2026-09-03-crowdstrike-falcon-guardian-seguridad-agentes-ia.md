@@ -12,7 +12,7 @@ tags:
 description: "En Fal.Con 2026, CrowdStrike presentó Falcon Guardian, su plataforma AIDR para detectar y frenar agentes de IA en runtime, desde el endpoint. Acá el desglose."
 ---
 
-![CrowdStrike Falcon Guardian: seguridad en runtime para agentes de IA](../../assets/images/2026-09-03-crowdstrike-falcon-guardian-seguridad-agentes-ia.jpg)
+![CrowdStrike Falcon Guardian: seguridad en runtime para agentes de IA](../../assets/images/2026-09-03-crowdstrike-falcon-guardian-seguridad-agentes-ia.webp)
 
 La seguridad de agentes de IA dejó de ser un problema de mañana para convertirse en el tema estrella de **Fal.Con 2026** en Las Vegas. CrowdStrike salió con todo y presentó **Falcon Guardian**, su nueva plataforma de **AIDR (AI Detection and Response)**, pensada para detectar y frenar agentes de IA **mientras se ejecutan**, no solo para decirte "mira, acá podría fallar algo".
 

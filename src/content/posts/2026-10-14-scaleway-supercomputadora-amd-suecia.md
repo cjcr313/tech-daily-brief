@@ -11,7 +11,7 @@ tags:
 description: "Anunciado en ai-PULSE 2026: el proveedor francés Scaleway desplegará en Suecia un superordenador de IA con AMD Instinct MI355X, ROCm como stack y energía baja en carbono. Primer superordenador de Scaleway fuera de Francia y primera oferta comercial AMD en Europa."
 ---
 
-![Ilustración editorial tech de una sala futurista de superordenador de IA con hileras de racks refrigerados por líquido brillando en naranja y rojo, junto a un paisaje escandinavo de fiordos, bosques de pinos y turbinas eólicas bajo auroras boreales, simbolizando cómputo de IA europeo soberano y verde, paleta azul nocturna con brillo cálido de servidores, sin texto](../../assets/images/2026-10-14-scaleway-supercomputadora-amd-suecia.jpg)
+![Scaleway construirá en Suecia el primer superordenador de IA con AMD para uso comercial en Europa](../../assets/images/2026-10-14-scaleway-supercomputadora-amd-suecia.webp)
 
 Duro golpe a la dependencia de CUDA en Europa: en la conferencia **ai-PULSE 2026** de París, **Scaleway** (el cloud del grupo francés iliad) anunció que construirá en **Suecia** su primer superordenador de IA fuera de Francia —y, según ellos, **el primer superordenador con GPUs AMD para uso comercial en Europa**, disponible para startups, desarrolladores de IA y empresas de todo el continente.
 

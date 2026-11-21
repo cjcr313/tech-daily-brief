@@ -11,7 +11,7 @@ tags:
 description: "NVIDIA inaugura GTC Berlin en la ex termoeléctrica Kraftwerk con Merz y Huang conversando IA industrial: ~US$2 mil millones de inversión nueva en Europa (total ~US$10 mil millones), agentes en la fábrica de Siemens en Erlangen y RTX Spark desde US$2.399."
 ---
 
-![Ilustración editorial tech de una antigua central eléctrica industrial reconvertida en fábrica de IA, con turbinas que brillan en verde neón y azul, líneas de datos luminosas conectándola con siluetas de ciudades europeas al fondo, un escenario con dos siluetas conversando, paleta azul profundo con acentos verdes, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-20-nvidia-gtc-berlin-2026-europa-ia-industrial.jpg)
+![GTC Berlin abre hoy: NVIDIA pasa de vender GPUs a vender fábricas de IA, con Europa y US$10 mil millones en la mesa](../../assets/images/2026-10-20-nvidia-gtc-berlin-2026-europa-ia-industrial.webp)
 
 NVIDIA aterrizó en Alemania: **GTC Berlin abre oficialmente hoy martes** (el keynote grande va el miércoles) y toda la previa confirma el cambio de foco que la propia compañía ya no disimula — de *"vender GPUs"* a *"vender fábricas de IA"*. Con la ex termoeléctrica Kraftwerk como escenario, el canciller alemán **Friedrich Merz y Jensen Huang** sentados a conversar el roadmap de IA industrial de Alemania, y unos **US$2 mil millones de inversión nueva en Europa** que completarían casi **US$10 mil millones** en total, según las preview que circularon antes del evento.
 

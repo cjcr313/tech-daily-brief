@@ -11,7 +11,7 @@ tags:
 description: "La beta permite que agentes de IA recuperen resultados web en vivo a través de proveedores como Exa, Linkup y Ceramic.ai, facturado por AI Gateway y sin API keys de terceros."
 ---
 
-![Ilustración editorial tech de una lupa gigante conectada a nodos de red luminosos en la nube, representando búsqueda web para agentes de IA](../../assets/images/cloudflare-web-search-api-ai-gateway-beta.jpg)
+![Cloudflare lanza Web Search API en AI Gateway: búsqueda web viva para agentes, sin claves de terceros](../../assets/images/cloudflare-web-search-api-ai-gateway-beta.webp)
 
 Los agentes de IA llevan tiempo cojeando de un lado: el acceso a información web en vivo. Cloudflare le puso parche con el lanzamiento en **beta de su Web Search API, integrada en AI Gateway**: una única ruta para que aplicaciones y agentes recuperen **resultados de búsqueda web actualizados**, con proveedores que incluyen **Exa, Linkup y Ceramic.ai**.
 

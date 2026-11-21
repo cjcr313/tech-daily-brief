@@ -11,7 +11,7 @@ tags:
 description: "Cloudflare lanzó BotBase for Operators: los dueños de bots ahora pueden seguir el estado de sus envíos, editarlos y declarar cómo usan el contenido, dejando atrás la caja negra del submit."
 ---
 
-![Ilustración editorial de un panel de control para operadores de bots, con un directorio de bots y agentes IA representados como tarjetas de estado](../../assets/images/2026-08-28-cloudflare-botbase-para-operadores-bots.jpg)
+![Cloudflare abre BotBase a los operadores de bots: seguimiento, edición y modelo de comportamiento](../../assets/images/2026-08-28-cloudflare-botbase-para-operadores-bots.webp)
 
 El mes pasado, en su segundo "Content Independence Day", Cloudflare lanzó **BotBase**: un directorio buscable de bots y agentes conocidos, pensado para que los dueños de sitios pudieran ver (y decidir) qué tráfico automatizado entra. El problema es que el ecosistema va en ambas direcciones, y hasta ahora **la experiencia de los operadores de bots terminaba en el botón de submit**. Después de mandar el formulario, no había forma de saber si lo aceptaron, por qué lo rechazaron, ni cómo actualizar la entrada.
 

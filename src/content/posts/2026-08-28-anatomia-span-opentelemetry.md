@@ -11,7 +11,7 @@ tags:
 description: "Dynatrace desmenuza qué hay adentro de un span de OpenTelemetry: contexto, nombre, kind, timing, status, atributos, eventos, links, resource e instrumentation scope. La base para no marearse con traces."
 ---
 
-![Ilustración editorial de un trace distribuido que se descompone en spans anidados, con la estructura de un span resaltada como un registro de datos, sin texto](../../assets/images/2026-08-28-anatomia-span-opentelemetry.jpg)
+![Anatomía de un span de OpenTelemetry: los 10 bloques que debes conocer](../../assets/images/2026-08-28-anatomia-span-opentelemetry.webp)
 
 Detrás del ida y vuelta con un LLM hay un montón de trabajo invisible: recuperar contexto, llamar modelos, generar respuesta. Los **spans** son lo que hace visible ese trabajo, no solo en aplicaciones de IA, sino en cualquier sistema distribuido. Dynatrace publicó la segunda parte de su serie de OpenTelemetry desmenuzando qué hay adentro de un span — y es de esas guías que conviene tener a mano cuando un trace te mira de vuelta sin decir nada.
 

@@ -11,7 +11,7 @@ tags:
 description: "Microsoft llevó a GA el networking cross-cluster de AKS vía Azure Kubernetes Fleet Manager, con mesh Cilium administrado. Multi-NIC pods queda en preview y DRANET se extiende a RDMA y GPU pools."
 ---
 
-![Ilustración editorial tech de múltiples clusters de Kubernetes representados como constelaciones de nodos hexagonales conectados por mallas de luz azul y verde entre sí, estilo ilustración profesional sin texto](../../assets/images/aks-cross-cluster-networking-ga-fleet-manager.jpg)
+![AKS cross-cluster networking llega a GA en KubeCon: pods que se hablan entre clusters con mesh Cilium administrado](../../assets/images/aks-cross-cluster-networking-ga-fleet-manager.webp)
 
 Microsoft aprovechó KubeCon North America 2026 para su actualización open source del 10 de noviembre, y la estrella fue networking: **cross-cluster networking para AKS llegó a general availability** a través de **Azure Kubernetes Fleet Manager**, como parte de Advanced Container Networking Services (ACNS). En paralelo, **multi-NIC pods se mantiene en public preview** y DRANET se extiende a **RDMA y GPU pools**.
 

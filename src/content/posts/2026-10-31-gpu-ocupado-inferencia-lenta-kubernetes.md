@@ -12,7 +12,7 @@ tags:
 description: "Un clúster sano y una GPU ocupada pueden convivir con un servicio de IA lento o con respuestas malas. La receta: baseline antes de producción y métricas de experiencia, no solo de hardware."
 ---
 
-![Ilustración editorial de racks de servidores con GPUs iluminadas junto a un dashboard de monitoreo con gráficos, estilo tech editorial](../../assets/images/2026-10-31-gpu-ocupado-inferencia-lenta-kubernetes.jpg)
+![GPU al 100% no significa que tu inferencia vaya bien: la trampa de monitorear IA en Kubernetes](../../assets/images/2026-10-31-gpu-ocupado-inferencia-lenta-kubernetes.webp)
 
 There's a classic deloperativo que The New Stack destapó esta semana en su serie sobre IA y Kubernetes: el equipo de operaciones celebra porque **"las GPUs están al 100%, estamos volando"**. Spoiler: eso no dice casi nada. Un clúster de Kubernetes puede estar totalmente sano mientras el modelo demora una eternidad en terminar una respuesta, o responde rápido pero con puras weás inútiles. La utilización de GPU es una señal, no un diagnóstico.
 

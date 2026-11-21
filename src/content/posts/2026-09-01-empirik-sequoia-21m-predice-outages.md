@@ -11,7 +11,7 @@ tags:
 description: "La spinout de Sequoia levanta US$21M en seed con una herramienta que rastrea cambios de sistema e infiere sus efectos en cadena para frenar incidentes antes de la primera alerta."
 ---
 
-![Ilustración editorial de un agente de infraestructura prediciendo un outage antes de que ocurra](../../assets/images/2026-09-01-empirik-sequoia-21m-predice-outages.jpg)
+![Empirik sale del horno de Sequoia con US$21M para predecir outages antes de que pasen](../../assets/images/2026-09-01-empirik-sequoia-21m-predice-outages.webp)
 
 La observabilidad clásica responde la pregunta "¿qué se rompió?". **Empirik** quiere responder otra: **"¿qué va a romperse con este cambio?"**. La startup, incubada por Sequoia Capital, anunció este martes que se independiza tras levantar **US$21 millones en una ronda seed** con Sequoia, Canapi y Alumni Ventures.
 

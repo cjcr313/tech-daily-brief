@@ -45,7 +45,7 @@ export default defineConfig({
       rehypePlugins: [rehypeCallouts],
     }),
     shikiConfig: {
-      themes: { light: "min-light", dark: "night-owl" },
+      themes: { light: "github-light", dark: "night-owl" },
       defaultColor: false,
       wrap: false,
       transformers: [
@@ -61,13 +61,31 @@ export default defineConfig({
   },
   fonts: [
     {
-      name: "Google Sans Code",
-      cssVariable: "--font-google-sans-code",
+      name: "Plus Jakarta Sans",
+      cssVariable: "--font-display",
       provider: fontProviders.google(),
-      fallbacks: ["monospace"],
-      weights: [300, 400, 500, 600, 700],
+      fallbacks: ["system-ui", "-apple-system", "sans-serif"],
+      weights: [600, 700, 800],
+      styles: ["normal"],
+      formats: ["woff2"],
+    },
+    {
+      name: "Inter",
+      cssVariable: "--font-sans",
+      provider: fontProviders.google(),
+      fallbacks: ["system-ui", "-apple-system", "sans-serif"],
+      weights: [400, 500, 600, 700],
       styles: ["normal", "italic"],
-      formats: ["woff", "ttf"],
+      formats: ["woff2"],
+    },
+    {
+      name: "Google Sans Code",
+      cssVariable: "--font-mono",
+      provider: fontProviders.google(),
+      fallbacks: ["ui-monospace", "SFMono-Regular", "monospace"],
+      weights: [400, 500, 600],
+      styles: ["normal"],
+      formats: ["woff2"],
     },
   ],
   env: {

@@ -11,7 +11,7 @@ tags:
 description: "En Ignite, Microsoft estrenó MAI Code 2 (96% del rendimiento de Claude Opus 5.5 al 5% del precio), MAI Cyber 2 Flash, Image 2.7, Realtime 1 y más: la apuesta por modelos especializados baratos."
 ---
 
-![Ilustración editorial tech: siete cubos luminosos de distintos tonos azules y verdes orbitando un núcleo de procesador central brillante, estilo minimalista futurista con gradientes suaves](../../assets/images/2026-11-17-microsoft-siete-modelos-mai-ignite-2026.jpg)
+![Microsoft lanza siete modelos MAI: código casi-Opus al 5% del costo](../../assets/images/2026-11-17-microsoft-siete-modelos-mai-ignite-2026.webp)
 
 Mientras OpenAI lanzaba GPT-6.2, Microsoft usó su escenario en Ignite para una andanada propia: **siete modelos nuevos de la familia MAI**, todos apuntando al mismo punto débil del mercado — el costo de mantener agentes corriendo 24/7 haciendo trabajo real. La frase del anuncio lo dice sin anestesia: el gasto en tokens se está disparando y los clientes quieren precio, no solo benchmarks.
 

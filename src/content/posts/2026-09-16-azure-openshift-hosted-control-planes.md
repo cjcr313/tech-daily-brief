@@ -12,7 +12,7 @@ tags:
 description: "Microsoft separa el plano de control de los workers en Azure Red Hat OpenShift: la gestión pasa a infraestructura compartida de Microsoft y Red Hat, y los nodos de aplicación se quedan en tu suscripción."
 ---
 
-![Ilustración editorial de un plano de control de Kubernetes alojado en la nube, separado de nodos de trabajo locales, capas de infraestructura gestionada vs propia, tonos rojo y azul profundo sobre fondo oscuro, estilo vectorial plano minimalista](../../assets/images/2026-09-16-azure-openshift-hosted-control-planes.jpg)
+![Azure Red Hat OpenShift estrena hosted control planes en public preview](../../assets/images/2026-09-16-azure-openshift-hosted-control-planes.webp)
 
 La gestión de clústeres sigue moviéndose "hacia arriba". **Microsoft** anunció el lunes el **public preview de los hosted control planes para Azure Red Hat OpenShift (ARO)**, una opción de despliegue que se suma a la arquitectura estándar — que, ojo, sigue soportada y en desarrollo activo.
 

@@ -12,7 +12,7 @@ tags:
 description: "Google Kubernetes Engine ahora procesa métricas de Prometheus de forma nativa: el HPA puede escalar usando consultas PromQL directo desde Cloud Monitoring, sin adapters de terceros."
 ---
 
-![Ilustración de un medidor de métricas Prometheus alimentando un escalado de pods en Kubernetes](../../assets/images/2026-09-25-gke-prometheus-metrics-hpa-promql.jpg)
+![Ilustración de un medidor de métricas Prometheus alimentando un escalado de pods en Kubernetes](../../assets/images/2026-09-25-gke-prometheus-metrics-hpa-promql.webp)
 
 Google acaba de dar un paso interesante para los que viven peleando con el autoscaling en Kubernetes: **GKE ahora procesa métricas de Prometheus de forma nativa**, permitiendo que el Horizontal Pod Autoscaler (HPA) escale usando consultas **PromQL** directo, sin adapters de terceros.
 

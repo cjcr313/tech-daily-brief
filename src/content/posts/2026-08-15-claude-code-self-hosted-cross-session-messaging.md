@@ -11,7 +11,7 @@ tags:
 description: "Anthropic suma mensajería entre sesiones de Claude Code y self-hosted environments para correr cloud sessions dentro de tu propia red. El agente de código se vuelve plataforma."
 ---
 
-![Ilustración editorial de múltiples terminales de desarrollo conectadas entre sí mediante líneas de comunicación dentro de una infraestructura de red privada, estilo tech editorial](../../assets/images/2026-08-15-claude-code-self-hosted-cross-session-messaging.jpg)
+![Claude Code v2.1.224: sesiones que se hablan entre sí y cloud sessions corriendo en tu propia infra](../../assets/images/2026-08-15-claude-code-self-hosted-cross-session-messaging.webp)
 
 Claude Code sigue evolucionando a un ritmo que ya da miedo. La versión **v2.1.224** trae dos funciones que cambian la forma de trabajar con el agente: sesiones que se mandan mensajes entre ellas, y cloud sessions corriendo en tu propia infraestructura.
 

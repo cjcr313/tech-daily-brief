@@ -11,7 +11,7 @@ tags:
 description: "Los desarrolladores de Debian están votando una resolución general sobre el uso de LLMs en el proyecto: desde prohibir contribuciones asistidas por IA vía Social Contract hasta aceptarlas con resguardos. Dos semanas de papeleta abierta y la matemática sugiere que la prohibición total es improbable."
 ---
 
-![Ilustración editorial de una urna de votación que recibe papeletas con un engranaje y un circuito neuronal, con swirls rojos al fondo](../../assets/images/2026-08-21-debian-vota-prohibir-codigo-ia-social-contract.svg)
+![Debian vota prohibir el código generado por IA: 8 opciones en papeleta y el destino del Social Contract en juego](../../assets/images/2026-08-21-debian-vota-prohibir-codigo-ia-social-contract.svg)
 
 Mientras la industria completa corre a meter agentes de IA en todo lo que se mueve, Debian — una de las distribuciones que sostiene media internet — está haciendo exactamente lo contrario: **poniéndolo a votación**. Los desarrolladores de Debian están votando una **Resolución General (GR)** sobre el uso de LLMs y herramientas de IA generativa en el proyecto, con la papeleta abierta por dos semanas y **ocho opciones** en la tabla.
 

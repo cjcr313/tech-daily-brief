@@ -11,7 +11,7 @@ tags:
 description: "ZStack liberó GPUWorks bajo Apache 2.0: una plataforma de inferencia empresarial de ~40MB que instala en 60 segundos, sin clúster Kubernetes previo, y que en tests manejó 1.003 servidores GPU con 9 cores de CPU y 1,6 GB de RAM."
 ---
 
-![Ilustración editorial tech de una pequeña caja luminosa compacta controlando una sala gigante de racks de servidores GPU interconectados con líneas de luz, minimalismo tecnológico, paleta violeta y cian, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-11-04-zstack-gpuworks-open-source-plataforma-gpu.jpg)
+![ZStack libera GPUWorks: la plataforma open source de 40MB que administra mil servidores GPU sin Kubernetes](../../assets/images/2026-11-04-zstack-gpuworks-open-source-plataforma-gpu.webp)
 
 ¿Cuánto software necesitas para administrar mil servidores GPU? La respuesta de ZStack es provocadora: **~40 megabytes**. La compañía china de infraestructura cloud —más de 5.000 clientes empresariales en 36 países— **liberó hoy GPUWorks, su plataforma de inferencia de IA, como open source bajo Apache License 2.0**.
 

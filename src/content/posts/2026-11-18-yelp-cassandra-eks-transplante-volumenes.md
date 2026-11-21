@@ -11,7 +11,7 @@ tags:
 description: "Yelp migró ~90 clústeres productivos de Cassandra a EKS re-apuntando volúmenes EBS en vez de streamear datos: cero downtime, un solo ingeniero, tres semanas. Lección maestra de stateful en Kubernetes."
 ---
 
-![Ilustración editorial tech: cilindros de base de datos gigantes reubicados entre dos racks de servidores por un brazo robótico que mueve conectores brillantes en vez de copiar datos, bloques flotando como punteros, paleta teal y pizarra, estilo isométrico vector plano](../../assets/images/2026-11-18-yelp-cassandra-eks-transplante-volumenes.jpg)
+![Yelp movió 1.000 TiB de Cassandra a EKS sin transmitir un solo byte: transplante de volúmenes](../../assets/images/2026-11-18-yelp-cassandra-eks-transplante-volumenes.webp)
 
 Migrar cargas stateful entre clústeres de Kubernetes es de las cosas más dolorosas del oficio. El equipo SRE de Yelp publicó cómo movió su fleet completo de **Cassandra desde clústeres self-managed legacy a Amazon EKS** sin streamear datos entre nodos: **~90 clústeres productivos, ~1.000 pods, cerca de 1.000 TiB**, con cero downtime para clientes y sin pérdida de datos.
 

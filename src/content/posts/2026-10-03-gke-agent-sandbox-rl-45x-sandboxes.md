@@ -11,7 +11,7 @@ tags:
 description: "Google Cloud sacó la versión de GKE Agent Sandbox optimizada para reinforcement learning agéntico: arranques 10-45x más rápidos, 3x menos churn en el control plane y un SDK Python para orquestar miles de sandboxes. Mistral AI ya lo usa con picos de 30.000 entornos por cluster."
 ---
 
-![Ilustración editorial tech de un clúster Kubernetes con miles de contenedores-sandbox brillantes encendiéndose en cascada sobre nodos GPU, con un reloj de alta velocidad al fondo, paleta azul y naranja, estilo ilustración de infraestructura cloud](../../assets/images/2026-10-03-gke-agent-sandbox-rl-45x-sandboxes.jpg)
+![GKE Agent Sandbox se optimiza para RL: sandboxes listos en segundos y GPUs que dejan de esperar](../../assets/images/2026-10-03-gke-agent-sandbox-rl-45x-sandboxes.webp)
 
 Google Cloud acaba de anunciar la disponibilidad general de **GKE Agent Sandbox optimizado para RL**, junto con el **Agent Sandbox RL orchestration SDK** e integraciones nativas para herramientas de reinforcement learning como Gymnasium, NVIDIA NeMo Gym y OpenHands. Si tu equipo entrena agentes con rollouts masivos en paralelo, esto va directo al bolsillo: el cuello de botella clásico son los clústeres GPU carísimos esperando minutos los cold-starts de sandboxes CPU, los pulls de imágenes multi-gigabyte y el churn que satura el API server.
 

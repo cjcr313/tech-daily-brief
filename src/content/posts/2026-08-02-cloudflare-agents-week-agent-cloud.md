@@ -12,7 +12,7 @@ tags:
 description: "Cloudflare anunció Agents Week, explorando cómo debe evolucionar la infraestructura cloud para servir a agentes autónomos en vez de humanos. El Agent Cloud ya no es ciencia ficción."
 ---
 
-![Cloudflare lanza Agents Week](../../assets/images/2026-08-02-cloudflare-agents-week.jpg)
+![Cloudflare lanza Agents Week](../../assets/images/2026-08-02-cloudflare-agents-week.webp)
 
 Cloudflare acaba de iniciar **Agents Week** con una pregunta provocadora: ¿qué significa construir un cloud para agentes de IA y no para humanos? La respuesta corta de Rita Kozlov (Directora de Producto de Cloudflare) es: *todo cambia*.
 

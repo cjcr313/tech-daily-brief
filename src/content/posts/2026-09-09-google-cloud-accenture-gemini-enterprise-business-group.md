@@ -11,7 +11,7 @@ tags:
 description: "Google Cloud y Accenture lanzan el Gemini Enterprise Business Group con hasta 1.000 ingenieros desplegados en terreno para llevar la IA agéntica a la empresa."
 ---
 
-![Ilustración editorial de un equipo de ingenieros colaborando con infraestructura cloud y agentes de IA](../../assets/images/2026-09-09-google-cloud-accenture-gemini-enterprise-business-group.jpg)
+![Google Cloud y Accenture arman grupo para escalar IA agéntica en empresas](../../assets/images/2026-09-09-google-cloud-accenture-gemini-enterprise-business-group.webp)
 
 La guerra por la "implementación de IA" —no por los modelos, sino por instalarlos de verdad en empresas— sumó un nuevo frente. Google Cloud y Accenture anunciaron la creación del **Accenture Gemini Enterprise Business Group**, una unidad global pensada para ayudar a los clientes a escalar resultados con Gemini en la era de la IA agéntica.
 

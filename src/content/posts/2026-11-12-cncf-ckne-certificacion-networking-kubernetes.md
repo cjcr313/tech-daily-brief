@@ -11,7 +11,7 @@ tags:
 description: "La CNCF lanzó en KubeCon la Certified Kubernetes Network Engineer: examen práctico de 120 minutos sobre CNI, DNS, seguridad y observabilidad de red. Y para 2027 vienen KAIA y CKIE."
 ---
 
-![Ilustración editorial tech de nodos de red Kubernetes interconectados como topología hexagonal con rutas luminosas de datos, candados de seguridad y una lupa de observabilidad sobre ellos, paleta azul petróleo y verde neón, estilo ilustración profesional sin texto](../../assets/images/cncf-ckne-certificacion-networking-kubernetes.jpg)
+![CNCF lanza CKNE: la primera certificación dedicada a networking en Kubernetes, y ya adelanta credenciales de IA para 2027](../../assets/images/cncf-ckne-certificacion-networking-kubernetes.webp)
 
 Anunciada en plena KubeCon Salt Lake City: la CNCF y Linux Foundation Education lanzaron la **Certified Kubernetes Network Engineer (CKNE)**, la primera credencial vendor-neutral dedicada exclusivamente al networking en Kubernetes. Si alguna vez te ha tocado debuggear un NetworkPolicy a las 2 de la mañana, esto va para ti.
 

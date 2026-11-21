@@ -12,7 +12,7 @@ tags:
 description: "En el día inaugural de KubeCon NA 2026, Broadcom donó su proyecto VM API al Sandbox de la CNCF para gestionar VMs y contenedores bajo un mismo plano de control de Kubernetes. Las acciones saltaron 9,5%."
 ---
 
-![Ilustración editorial de un plano de control de Kubernetes unificando contenedores y máquinas virtuales](../../assets/images/broadcom-vm-api-cncf-sandbox-kubecon.jpg)
+![Broadcom lleva su VM API a la CNCF: las máquinas virtuales se rinden ante Kubernetes](../../assets/images/broadcom-vm-api-cncf-sandbox-kubecon.webp)
 
 Si alguien todavía dudaba de que Kubernetes se comerá todo el datacenter, Broadcom le acaba de poner firma y notario. En el día inaugural de KubeCon North America 2026 en Salt Lake City, la empresa anunció que su proyecto **VM API fue aceptado en el Sandbox de la Cloud Native Computing Foundation (CNCF)**, con el objetivo de ofrecer una API de Kubernetes *vendor-neutral* para máquinas virtuales.
 

@@ -11,7 +11,7 @@ tags:
 description: "Google Cloud estrena el despliegue gestionado por Anthropic para Claude: mismos modelos el día cero, misma facturación, pero distintas reglas de datos, gobernanza y acceso a features."
 ---
 
-![Ilustración editorial de dos nubes conectadas por un puente de datos, una operada por un asistente de IA](../../assets/images/2026-10-24-google-cloud-claude-anthropic-managed.jpg)
+![Claude ahora corre en Google Cloud en dos modos: gestionado por Anthropic o por Google](../../assets/images/2026-10-24-google-cloud-claude-anthropic-managed.webp)
 
 Si hace unos días te contábamos que OpenAI metió sus modelos en Google Cloud, ahora viene la contraparte: **Anthropic también amplió su presencia, y con una twist interesante**. Google Cloud anunció la disponibilidad general de una opción de despliegue **gestionada por Anthropic** para los modelos Claude, que se suma a la opción gestionada por Google que ya existía.
 

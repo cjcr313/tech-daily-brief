@@ -11,7 +11,7 @@ tags:
 description: "AWS lanzó TorchNeuron en beta pública: el código PyTorch existente corre nativo en chips Trainium2 y Trainium3 sin reescribir nada. Google replicó la jugada con TorchTPU al día siguiente: el lock-in se muda de CUDA al framework."
 ---
 
-![Ilustración editorial tech de un gran chip acelerador de IA brillante sobre una placa base con circuitos luminosos, flujos de código abstracto en cinta fluyendo hacia el chip desde varias direcciones, siluetas de ingenieros observando de cerca, paleta azul profundo con acentos naranja y verde neón, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-21-aws-torchneuron-pytorch-nativo-trainium.jpg)
+![AWS le abre Trainium a todo dev PyTorch: TorchNeuron corre tu código nativo con un cambio de una línea](../../assets/images/2026-10-21-aws-torchneuron-pytorch-nativo-trainium.webp)
 
 La barrera número uno para adoptar silicon alternativa nunca fue el precio ni el rendimiento: fue tener que **reescribir tu modelo** para el stack propietario de cada chip. AWS le metió un bulldozer a esa barrera: lanzó **TorchNeuron en beta pública**, un backend nativo de PyTorch para sus chips **Trainium** que corre el código que ya escribes **"con un solo cambio de configuración y sin rewrite"**.
 

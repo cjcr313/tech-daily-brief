@@ -12,7 +12,7 @@ tags:
 description: "Google y Oracle cerraron un acuerdo para llevar TPUs a OCI desde 2027: el primer hyperscaler fuera de Google que ofrecerá el chip. Hasta 12,6 PFLOPS FP4 por chip, 97% de goodput sostenido y TorchTPU open source de por medio."
 ---
 
-![Ilustración editorial tech isométrica de tarjetas de aceleradores de IA con disipadores rojos en un data center de refrigeración líquida, conectadas entre sí por rutas de luz óptica que se re-enrutan alrededor de un nodo dañado, con dos nubes corporativas entrelazadas al fondo enlazando sus redes, paleta azul y roja estilo Cloud, ilustración tecnológica profesional limpia, sin texto](../../assets/images/google-tpus-oracle-cloud-oci.jpg)
+![Google lleva sus TPUs a Oracle Cloud: OCI será el primer hyperscaler externo en ofrecerlos](../../assets/images/google-tpus-oracle-cloud-oci.webp)
 
 Noticia de infraestructura que hace unos años habría sonado a ciencia ficción: **Google va a instalar sus TPUs dentro de Oracle Cloud Infrastructure**. OCI se convierte en el **primer hyperscaler fuera de Google en ofrecer Tensor Processing Units**, con capacidad desplegándose a partir del calendario 2027. Sí: el mismo Oracle que compite de tú a tú con Google Cloud en cloud enterprise, ahora va a hostear su silicio.
 

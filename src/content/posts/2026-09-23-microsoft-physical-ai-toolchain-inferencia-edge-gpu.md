@@ -12,7 +12,7 @@ tags:
 description: "El Physical AI Toolchain de Microsoft ya puede descargar la inferencia de robots hacia GPUs de edge o nube usando tooling basado en Kubernetes, con datos de batería y rendimiento bajo el brazo."
 ---
 
-![Brazo robótico móvil descargando su inferencia de IA a un clúster de GPUs de edge y nube, con nodos Kubernetes orquestando la carga](../../assets/images/2026-09-23-microsoft-physical-ai-toolchain-inferencia-edge-gpu.jpg)
+![Microsoft Research manda la inferencia de robots a GPUs de edge y nube con Kubernetes](../../assets/images/2026-09-23-microsoft-physical-ai-toolchain-inferencia-edge-gpu.webp)
 
 La robótica con IA siempre chocó con el mismo muro: la GPU que un robot puede cargar (y alimentar con batería) es chica. **Microsoft Research** acaba de abrir una puerta para saltarse ese límite: su **Physical AI Toolchain**, open source, ahora permite mover la inferencia del robot hacia **GPUs de edge o de nube**.
 

@@ -12,7 +12,7 @@ tags:
 description: "AWS creció 37% YoY llegando a US$42.2B trimestrales. Backlog saltó a US$496B. Amazon subió capex a US$220B y dice que la capacidad aún es insuficiente."
 ---
 
-![AWS Q2 2026: US$42.2B de ingresos, backlog de US$496B y Andy Jassy diciendo 'no damos abasto'](../../assets/images/2026-08-02-aws-q2-earnings.jpg)
+![AWS Q2 2026: US$42.2B de ingresos, backlog de US$496B y Andy Jassy diciendo 'no damos abasto'](../../assets/images/2026-08-02-aws-q2-earnings.webp)
 
 Las grandes tech reportaron resultados esta semana y AWS mandó un mensaje claro al mercado: **la demanda por cloud e IA es tan brutal que literalmente no pueden construirla suficientemente rápido**.
 

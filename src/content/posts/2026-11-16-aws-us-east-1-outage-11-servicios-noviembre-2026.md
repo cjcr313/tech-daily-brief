@@ -11,7 +11,7 @@ tags:
 description: "Fallos de autenticación en IAM Identity Center tumbaron CloudWatch, ELB, OpenSearch, VPC Lattice, Kiro y más el 15 de noviembre; mitigación en dos horas y causa raíz aún sin publicar."
 ---
 
-![Ilustración editorial tech: mapa del noreste de Virginia hecho de trazas de circuito apagándose parcialmente, luces de dashboard de estado parpadeando en rojo y ámbar, nubes de tormenta sobre racks de servidores](../../assets/images/2026-11-16-aws-us-east-1-outage-11-servicios-noviembre-2026.jpg)
+![AWS confirma la caída de US-EAST-1 que golpeó 11 servicios: todo lo que sabemos](../../assets/images/2026-11-16-aws-us-east-1-outage-11-servicios-noviembre-2026.webp)
 
 El domingo **15 de noviembre**, la región **US-EAST-1 (Norte de Virginia)** de AWS sufrió una interrupción que dejó **11 servicios afectados**, con fallos de autenticación, errores de sign-up y problemas de conectividad. Tras confirmarse la recuperación total a las 6:53 AM PST, ya tenemos la cronología completa — aunque **la causa raíz técnica sigue sin divulgarse** y AWS descarta actividad maliciosa.
 

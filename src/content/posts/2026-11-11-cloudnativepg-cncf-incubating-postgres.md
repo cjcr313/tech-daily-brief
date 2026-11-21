@@ -12,7 +12,7 @@ tags:
 description: "CloudNativePG, el operator de Postgres más usado en Kubernetes, se convirtió en proyecto Incubating de la CNCF. EDB además donó Klio para backups con pérdida de datos casi nula."
 ---
 
-![Ilustración editorial de un elefante de base de datos operando contenedores dentro de un plano técnico de cluster Kubernetes](../../assets/images/cloudnativepg-cncf-incubating-postgres.jpg)
+![CloudNativePG sube a Incubating en la CNCF: Postgres en Kubernetes con sello de madurez](../../assets/images/cloudnativepg-cncf-incubating-postgres.webp)
 
  Noticias para los que corren Postgres en Kubernetes: **CloudNativePG (CNPG), el operator más adoptado para gestionar el ciclo de vida completo de clusters Postgres, es oficialmente un proyecto Incubating de la CNCF**. El anuncio lo hizo EDB durante KubeCon North America 2026, menos de una semana después de cerrar la compra de Altinity, la empresa detrás del operator líder de ClickHouse para Kubernetes.
 

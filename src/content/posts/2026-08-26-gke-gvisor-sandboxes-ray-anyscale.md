@@ -12,7 +12,7 @@ tags:
 description: "Una librería experimental de Google y Anyscale integra sandboxing nativo de alto rendimiento (con gVisor) directamente en los clústeres Ray de GKE para cargas de RL y agentes."
 ---
 
-![Ilustración editorial de un clúster de Kubernetes con contenedores aislados en sandboxes de seguridad, donde nodos de computación orquestan tareas de IA, estilo tech editorial](../../assets/images/2026-08-26-gke-gvisor-sandboxes-ray-anyscale.jpg)
+![Google y Anyscale llevan sandboxes nativos con gVisor a los clústeres Ray en GKE](../../assets/images/2026-08-26-gke-gvisor-sandboxes-ray-anyscale.webp)
 
 Ray se está consolidando como el runtime de cómputo unificado para las cargas de reinforcement learning (RL) y post-training. Frameworks como veRL, NeMo-RL, SLIME, MILES y SkyRL ya lo usan para coordinar trainers distribuidos, motores de inferencia y rollouts. El cuello de botella que apareció, según Google Cloud, es otro: **orquestar sandboxes seguros y aislados a escala** para ejecutar rollouts dinámicos, generación de código e interacciones multi-turno de herramientas.
 

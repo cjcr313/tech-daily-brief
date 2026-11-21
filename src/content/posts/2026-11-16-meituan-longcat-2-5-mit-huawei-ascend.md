@@ -11,7 +11,7 @@ tags:
 description: "El gigante chino del delivery publicó los pesos de LongCat-2.5 (MoE de 1,6 billones de parámetros, MIT) entrenado íntegramente en aceleradores Huawei Ascend. El ángulo político es tan grande como el modelo."
 ---
 
-![Ilustración editorial de un clúster de servidores con chips de silicio rojos y dorados alimentando una red neuronal brillante, cables de fibra óptica entrelazados, paleta azul profundo y cobre, estilo ilustración tech profesional](../../assets/images/2026-11-16-meituan-longcat-2-5-mit-huawei-ascend.jpg)
+![Meituan libera LongCat-2.5: 1,6 billones de parámetros bajo licencia MIT y entrenado sin una sola GPU de NVIDIA](../../assets/images/2026-11-16-meituan-longcat-2-5-mit-huawei-ascend.webp)
 
 Meituan — sí, la empresa del delivery chino — soltó esta semana los pesos de **LongCat-2.5**, un MoE de **1,6 billones (trillions) de parámetros** con ~48.000 millones activos por token, bajo la permisiva **licencia MIT**. Anunciado el 2 de noviembre y con pesos públicos desde el 9, la cobertura internacional de los últimos días destaca el dato que más duele en Washington: **fue entrenado sin una sola GPU de NVIDIA**.
 

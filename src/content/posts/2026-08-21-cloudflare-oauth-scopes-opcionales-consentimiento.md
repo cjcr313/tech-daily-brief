@@ -12,7 +12,7 @@ tags:
 description: "Los usuarios ya no tienen que elegir entre aceptar todos los permisos de una app OAuth o rechazarla completa: Cloudflare permite marcar scopes como opcionales y estrechar el acceso desde la pantalla de consentimiento."
 ---
 
-![Ilustración editorial minimalista de una pantalla de consentimiento abstracta con tres toggles: uno grande obligatorio en ámbar y dos pequeños opcionales en teal, con un resplandor de interruptor apagándose, sin texto legible](../../assets/images/2026-08-21-cloudflare-oauth-scopes-opcionales-consentimiento.svg)
+![Cloudflare mata el consentimiento 'todo o nada': OAuth con scopes opcionales para la era de los agentes](../../assets/images/2026-08-21-cloudflare-oauth-scopes-opcionales-consentimiento.svg)
 
 La pantalla de consentimiento de OAuth siempre ha sido una especie de extorsión con pasos de más: la app pide diez permisos, y tú solo quieres que lea tu calendario. Opción A: aceptar todo. Opción B: negarte y no usar la app. Cloudflare se cansó de ese binario tonto y anunció **scope customization para OAuth**: los desarrolladores pueden marcar scopes específicos como opcionales, y los usuarios pueden desmarcarlos directamente en la pantalla de autorización.
 

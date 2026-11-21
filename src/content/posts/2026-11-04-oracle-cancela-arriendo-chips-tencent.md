@@ -11,7 +11,7 @@ tags:
 description: "Según Financial Times, Oracle echó pie atrás en un contrato de 5 años para arrendar ~100.000 chips avanzados de IA a Tencent vía data centers en el Sudeste Asiático, tras presión directa de la administración Trump."
 ---
 
-![Ilustración editorial tech de dos continentes enfrentados conectados por un cable de fibra óptica cortado sobre un océano, con chips de silicio brillantes cayendo, paleta roja y azul, tono geopolítico dramático, estilo ilustración tecnológica profesional, sin texto](../../assets/images/2026-11-04-oracle-cancela-arriendo-chips-tencent.jpg)
+![Oracle cancela el arriendo de US$7.000 millones en chips IA a Tencent por presión de EE.UU.](../../assets/images/2026-11-04-oracle-cancela-arriendo-chips-tencent.webp)
 
 La guerra del cómputo de IA tiene un nuevo capítulo incómodo. Según reporta **Financial Times** (y replican Bloomberg y varios medios), **Oracle canceló un contrato de arriendo de chips con Tencent valorado en unos US$7.000 millones a cinco años, tras ceder a presiones de la administración Trump**.
 

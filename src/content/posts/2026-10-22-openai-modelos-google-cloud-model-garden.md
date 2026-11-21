@@ -11,7 +11,7 @@ tags:
 description: "OpenAI llevará GPT y Codex al Model Garden de Google Cloud y a Antigravity en las próximas semanas. Con Microsoft y AWS ya en la lista, la exklusividad quedó enterrada y GPT corre en las tres hyperscalers."
 ---
 
-![Ilustración editorial tech de tres enormes torres de nubes estilizadas interconectadas por puentes luminosos, con un sol radiante abstracto emergiendo entre ellas iluminando líneas de datos que fluyen hacia los tres destinos, cielo degradado azul a naranja, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-22-openai-modelos-google-cloud-model-garden.jpg)
+![OpenAI aterriza en Google Cloud: sus modelos frontera y Codex llegan a Model Garden y Antigravity, completando las tres grandes nubes](../../assets/images/2026-10-22-openai-modelos-google-cloud-model-garden.webp)
 
 Si hace un año alguien hubiera dicho que los modelos de OpenAI iban a correr en la nube de Google, le habrían mandado a la casa. Pero la política de nubes es claro que cambió: **OpenAI llevará sus productos GPT al Model Garden de Google Cloud y a Antigravity, su herramienta de coding, "en las próximas semanas"**. Con esto, GPT queda disponible en las tres hyperscalers — Microsoft Azure, AWS y ahora Google Cloud.
 

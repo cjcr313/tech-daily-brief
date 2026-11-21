@@ -11,7 +11,7 @@ tags:
 description: "Thomas Dohmke (ex-CEO de GitHub) lanzó Entire, una alternativa completa a GitHub que reemplaza el pull request tradicional por Trails: revisión de código con evals ejecutadas por agentes en cada push. El nuevo bottleneck no es escribir código, es revisarlo."
 ---
 
-![Ilustración editorial tech isométrica de una plataforma de revisión de código futurista con filas de tarjetas de cambios siendo evaluadas por orbes de agentes de IA con lupa y medidores de riesgo, mientras una cola tradicional de pull requests se desvanece al fondo, paleta violeta y verde esmeralda sobre fondo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-27-entire-trails-rival-github-dohmke.jpg)
+![Entire, la apuesta del ex-CEO de GitHub: plataforma rival que reemplaza el pull request por 'Trails' con revisión agéntica](../../assets/images/2026-10-27-entire-trails-rival-github-dohmke.webp)
 
 Thomas Dohmke, el ex-CEO de GitHub, dejó de coquetear: este lunes lanzó **Entire**, la plataforma de su startup (seed de US$60M en febrero) como **alternativa completa a GitHub**, con su propia idea de cómo debiera verse un "GitHub de la era agéntica". La carta fuerte se llama **Trails**: una reinvención del pull request donde la revisión manual se reemplaza por un dashboard de evals personalizables puntuadas por agentes.
 

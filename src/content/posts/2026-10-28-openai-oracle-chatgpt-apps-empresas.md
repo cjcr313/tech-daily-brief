@@ -11,7 +11,7 @@ tags:
 description: "OpenAI y Oracle ampliaron su alianza: Oracle AI Workspace llevará las apps y datos de Oracle dentro de ChatGPT, mientras Oracle construye nuevos productos (AI Security Mesh, App Composer, SMB Bundle) con modelos OpenAI. La visión: la empresa agente-ready."
 ---
 
-![Ilustración editorial tech de un asistente de IA conversacional en el centro de una sala de control empresarial, conectado con líneas luminosas a módulos flotantes de aplicaciones de negocio: finanzas, compras, planificación y seguridad, cada módulo con candados y controles de permisos, paleta azul corporativo con acentos rojo oscuro, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/openai-oracle-chatgpt-apps-empresas.jpg)
+![OpenAI y Oracle se asocian: las apps empresariales de Oracle llegan dentro de ChatGPT](../../assets/images/openai-oracle-chatgpt-apps-empresas.webp)
 
 Si la semana pasada el protagonismo era de los modelos, hoy el foco se mueve a **dónde van a vivir los agentes**: dentro del software que las empresas ya usan. OpenAI y Oracle ampliaron su partnership con un anuncio en dos direcciones — las aplicaciones de Oracle entran a ChatGPT, y los modelos de OpenAI potencian productos nuevos de Oracle.
 

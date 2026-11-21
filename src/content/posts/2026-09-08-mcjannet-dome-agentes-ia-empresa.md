@@ -12,7 +12,7 @@ tags:
 description: "Tras nueve años como CEO de HashiCorp, Dave McJannet lanza Dome para destrabar el despliegue de agentes de IA en la empresa, apuntando a equipos de platform engineering."
 ---
 
-![Ilustración editorial de una puerta de seguridad corporativa abriéndose para dejar pasar agentes de IA robóticos, con escudos y candados, temática de platform engineering, tonos púrpura y azul](../../assets/images/2026-09-08-mcjannet-dome-agentes-ia-empresa.jpg)
+![Dave McJannet deja HashiCorp y quiere 'desbloquear' los agentes de IA empresariales con Dome](../../assets/images/2026-09-08-mcjannet-dome-agentes-ia-empresa.webp)
 
 Después de nueve años al mando de HashiCorp, Dave McJannet se cambió de trinchera. Su nueva obsesión, según contó a The New Stack, es **"desbloquear" los agentes de IA en la empresa**. Y para eso armó **Dome**.
 

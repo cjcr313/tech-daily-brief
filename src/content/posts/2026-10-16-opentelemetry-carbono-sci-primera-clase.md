@@ -12,7 +12,7 @@ tags:
 description: "La Green Software Foundation y la comunidad OpenTelemetry avanzan en convertir la intensidad de carbono del software (SCI) en una señal de observabilidad estandarizada."
 ---
 
-![Ilustración de observabilidad de carbono en infraestructura cloud](../../assets/images/opentelemetry-carbono-sci-primera-clase.jpg)
+![Ilustración de observabilidad de carbono en infraestructura cloud](../../assets/images/opentelemetry-carbono-sci-primera-clase.webp)
 
 Si en tu dashboard de Grafana tienes CPU, memoria, latencia y errores… pero ni una sola métrica de emisiones de CO₂, no estás solo. Ese es justamente el hueco que quiere tapar la iniciativa que presentó Diana Todea (CNCF Ambassador y maintainer de Kepler) en la keynote *Carbon as a First-Class Signal* del Observability Summit Europe 2026 en Praga: llevar el **Software Carbon Intensity (SCI)** al mundo OpenTelemetry con convenciones semánticas estandarizadas.
 

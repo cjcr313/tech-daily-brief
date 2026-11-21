@@ -12,7 +12,7 @@ tags:
 description: "Grafana Labs actualizó su benchmark abierto o11y-bench a la versión 1.1, evaluando la precisión de modelos de lenguaje en análisis de causa raíz, parsing de logs y consultas PromQL/LogQL."
 ---
 
-![Ilustración editorial de un panel de métricas de observabilidad analizado por inteligencia artificial](../../assets/images/2026-10-28-grafana-o11y-bench-1-1-fireworks.jpg)
+![Grafana lanza o11y-bench v1.1 e integra el índice de inteligencia especializada de Fireworks AI](../../assets/images/2026-10-28-grafana-o11y-bench-1-1-fireworks.webp)
 
 Evaluar la efectividad real de los modelos de lenguaje en tareas de infraestructura y SRE ha sido históricamente un terreno pantanoso. Para aportar métricas objetivas y neutrales, Grafana Labs presentó la versión **v1.1 de o11y-bench**, la suite de pruebas comparativas abierta diseñada específicamente para medir capacidades de IA en observabilidad.
 

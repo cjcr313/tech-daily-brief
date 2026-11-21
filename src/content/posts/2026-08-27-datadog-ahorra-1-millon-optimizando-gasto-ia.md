@@ -12,7 +12,7 @@ tags:
 description: "Datadog cuenta cómo recorta más de $1 millón mensual en tokens de IA tuneando modelos, evaluando agentes y comprimiendo contexto con la tool open source Headroom."
 ---
 
-![Ilustración editorial de optimización de costos de IA: gráfico de barras descendente con nodos de red neuronal y flujos de tokens comprimiéndose en un embudo, paleta púrpura Datadog, teal y ámbar](../../assets/images/2026-08-27-datadog-ahorra-1-millon-optimizando-gasto-ia.jpg)
+![Datadog ahorra más de $1 millón al mes optimizando su gasto en IA](../../assets/images/2026-08-27-datadog-ahorra-1-millon-optimizando-gasto-ia.webp)
 
 Si tu equipo ya usa agentes de IA para codear, sabes que el gasto en tokens se dispara rápido. Datadog lo vivió en carne propia y publicó un post contando cómo su equipo de plataforma recorta **más de $1 millón al mes** en gasto de IA sin sacrificar rendimiento. La receta combina FinOps aplicado a modelos, evaluaciones de agentes y optimización de contexto.
 

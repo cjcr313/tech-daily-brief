@@ -12,7 +12,7 @@ tags:
 description: "Un cliente con PSC quedó con ~800 devs sin poder desplegar por timeouts intermitentes al API server. La causa: reordenamiento de paquetes en PSC + half-close de Envoy + un bug del kernel que descartaba FINs reordenados. Tres capas, tres fixes."
 ---
 
-![Ilustración editorial tech de tres capas de red translúcidas y apiladas con paquetes de datos luminosos atravesándolas y desviándose, un ingeniero con lupa analizando capturas de paquetes al costado, paleta azul oscuro con acentos cian y ámbar, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-11-21-gke-tres-bugs-kernel-tcp-postmortem.jpg)
+![Google publicó el postmortem del misterio GKE: tres bugs encadenados terminaron en un parche al kernel de Linux](../../assets/images/2026-11-21-gke-tres-bugs-kernel-tcp-postmortem.webp)
 
 Google publicó un postmortem que es una pequeña obra de arte del debugging: **tres bugs interactuando en capas distintas** (GKE, Private Service Connect y el kernel de Linux) que juntos dejaron a un cliente con **~800 desarrolladores bloqueados para desplegar a producción**.
 

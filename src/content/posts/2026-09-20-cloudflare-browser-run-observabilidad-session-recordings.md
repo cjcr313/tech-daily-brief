@@ -12,7 +12,7 @@ tags:
 description: "Browser Run de Cloudflare estrena session recordings con panel Inspect (logs, red y DOM) y guardrails para limitar a qué hostnames pueden acceder los agentes de navegador."
 ---
 
-![Ilustración editorial tech de un navegador en primer plano con paneles de logs, red y DOM flotando a su alrededor, un ojo observador supervisando una sesión de agente IA, tonos naranja y azul sobre fondo oscuro, estilo flat ilustrativo](../../assets/images/2026-09-20-cloudflare-browser-run-observabilidad-session-recordings.jpg)
+![Cloudflare suma observabilidad y guardrails a Browser Run](../../assets/images/2026-09-20-cloudflare-browser-run-observabilidad-session-recordings.webp)
 
 Cloudflare le está metiendo seriedad a **Browser Run**, su servicio para que agentes de IA controlen un navegador. Las novedades atacan justo las dos grandes deudas de cualquier flujo de agentes en producción: **saber qué pasó** (observabilidad) y **controlar qué puede tocar** (seguridad).
 

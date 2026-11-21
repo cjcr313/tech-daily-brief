@@ -11,7 +11,7 @@ tags:
 description: "Encuesta de Rimini Street: 90% de las organizaciones con VMware explora alternativas por los costos de licenciamiento de Broadcom, 48% no planea mover nada a Cloud Foundation y 60% evalúa multi-hypervisor."
 ---
 
-![Ilustración editorial de un gran edificio de servidores monolítico en tonos verdes con grietas, mientras flujos de datos luminosos emigran hacia varios nodos modulares más pequeños en azul y turquesa, estilo flat profesional, sin texto](../../assets/images/2026-10-07-vmware-exodo-encuesta-rimini-street.jpg)
+![Nueve de cada diez clientes VMware miran la puerta: la encuesta que confirma el éxodo](../../assets/images/2026-10-07-vmware-exodo-encuesta-rimini-street.webp)
 
 El éxodo de VMware dejó de ser anécdota de foros y se volvió estadística: una encuesta de **Rimini Street** a casi 300 organizaciones usuarias de VMware (realizada entre fines de 2025 y febrero de 2026) encontró que **90% está explorando alternativas**, con los costos de licenciamiento de Broadcom como razón número uno. El resumen de The Register lo puso sin anestesia: *nine in 10 VMware customers eye the exit as licensing bills bite*.
 

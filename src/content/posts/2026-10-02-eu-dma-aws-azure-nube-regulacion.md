@@ -11,7 +11,7 @@ tags:
 description: "Según Bloomberg, la Comisión Europea estaría cerrando una investigación que concluiría que AWS y Azure cumplen los criterios de 'gatekeepers' bajo la Digital Markets Act. Borrador de decisión en noviembre."
 ---
 
-![Ilustración editorial de nubes de datos encadenadas siendo liberadas frente a un edificio institucional con bandera europea, paleta azul y amarilla, estilo tech editorial, sin texto](../../assets/images/2026-10-02-eu-dma-aws-azure-nube-regulacion.jpg)
+![La UE prepara designar a AWS y Azure bajo la DMA: la nube de Big Tech a un paso de nuevas reglas](../../assets/images/2026-10-02-eu-dma-aws-azure-nube-regulacion.webp)
 
 Si pensabas que la Digital Markets Act era solo para buscadores y app stores, prepárate: según reporta [Bloomberg](https://www.bloomberg.com/), **Microsoft Azure y Amazon Web Services están cada vez más cerca de ser designados "gatekeepers" bajo la DMA**, la regla antimonopolio de la Unión Europea para el Big Tech.
 

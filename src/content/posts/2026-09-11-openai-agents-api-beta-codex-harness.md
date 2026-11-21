@@ -12,7 +12,7 @@ tags:
 description: "La Agents API entrega el mismo harness que corre Codex: manejo de contexto, subagentes, sandboxes hosteados y sesiones largas, manteniendo OpenAI la infraestructura."
 ---
 
-![Ilustración editorial de agentes de IA en la nube: múltiples nodos autónomos conectados por líneas brillantes ejecutando tareas en paralelo, tonos púrpura y cian, concepto abstracto de orquestación sobre fondo oscuro](../../assets/images/2026-09-11-openai-agents-api-beta-codex-harness.jpg)
+![OpenAI abre en beta pública su Agents API: el harness de Codex detrás de una sola llamada](../../assets/images/2026-09-11-openai-agents-api-beta-codex-harness.webp)
 
 OpenAI sigue empujando la orquestación de agentes y ahora lo empaquetó como producto. El miércoles abrió en **beta pública** su **Agents API**, que pone a disposición de cualquier desarrollador el mismo harness e infraestructura que corren **Codex**, su agente de software.
 

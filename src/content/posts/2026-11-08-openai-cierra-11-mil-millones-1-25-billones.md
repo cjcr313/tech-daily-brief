@@ -11,7 +11,7 @@ tags:
 description: "OpenAI cerró la primera porción de su ronda: US$11.000 millones cableados a una valorización pre-money de US$1,25 billones, por debajo de los US$1,4 billones que buscaba. La ronda podría crecer a US$20.000 millones."
 ---
 
-![Ilustración editorial tech de una torre de monedas doradas gigantes junto a una red neuronal brillante conectada a un data center, paleta azul y dorado, estilo isométrico minimalista](../../assets/images/2026-11-08-openai-cierra-11-mil-millones-1-25-billones.jpg)
+![OpenAI cierra US$11.000 millones a valorización de US$1,25 billones: el dinero ya está en la cuenta, pero por menos de lo que pedía](../../assets/images/2026-11-08-openai-cierra-11-mil-millones-1-25-billones.webp)
 
 Si esperabas la ronda épica de US$30.000 millones que OpenAI andaba buscando, ajusta las expectativas: según Bloomberg y Reuters, **OpenAI ya recibió US$11.000 millones cableados hasta el viernes**, la primera porción de una ronda que **valora la empresa en US$1,25 billones** (pre-money). Y el propio CFO, Sarah Friar, confirmó la cifra en una entrevista de TV.
 

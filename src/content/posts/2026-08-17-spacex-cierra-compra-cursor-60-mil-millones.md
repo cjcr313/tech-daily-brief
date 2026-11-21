@@ -11,7 +11,7 @@ tags:
 description: "La adquisición all-stock más grande del software ya es oficial: Cursor (Anysphere) entra al ecosistema Grok de SpaceXAI con la mayor flota de GPUs del mundo de regalo. Copilot respira un poco más aliviado mientras la FTC afila el cuchillo."
 ---
 
-![Ilustración editorial de un cohete futurista absorbiendo un editor de código brillante, con nodos de GPU interconectados de fondo, acentos azul acero y naranja, estilo tech editorial](../../assets/images/2026-08-17-spacex-cierra-compra-cursor-60-mil-millones.svg)
+![Se cerró: SpaceX completa la compra de Cursor por US$60 mil millones y se queda con el rey del AI coding](../../assets/images/2026-08-17-spacex-cierra-compra-cursor-60-mil-millones.svg)
 
 Después de meses de ida y vuelta, regulequeo regulatorio y especulación, **SpaceX completó la compra de Cursor por US$60 mil millones**, pagada 100% en acciones. La compra más grande en la historia del software — y de las más grandes en cualquier industria — ya es un hecho: el asistente de coding de Anysphere pasa a ser parte del ecosistema Grok de **SpaceXAI** (la entidad que nació cuando SpaceX se fusionó con xAI de Musk).
 

@@ -11,7 +11,7 @@ tags:
 description: "OpenAI abrió el core de Codex: el framework Harness que maneja el loop de ejecución de su agente de código, con CLI, SDK y server. Con optimizaciones que dispararon ARC-AGI-3 y bajaron el consumo de tokens 6 veces."
 ---
 
-![Ilustración editorial de un motor mecánico modular abriéndose como un cofre, con engranajes y circuitos brillantes estilo blueprint tech, sin texto](../../assets/images/2026-08-22-openai-codex-harness-open-source-apache.svg)
+![OpenAI libera el Harness de Codex bajo Apache-2.0: el motor de su agente de código ahora es de todos](../../assets/images/2026-08-22-openai-codex-harness-open-source-apache.svg)
 
 Si hace una semana DeepSeek nos sorprendía con su Harness de plugins, ahora OpenAI respondió con algo más contundente: **liberó bajo Apache-2.0 el Harness de Codex**, el motor y framework de ejecución que potencia su agente de código insignia. O sea, no soltó un wrapper: soltó la cocina completa.
 

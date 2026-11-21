@@ -11,7 +11,7 @@ tags:
 description: "OpenAI anunció la compra de Pierre Computer, la firma detrás de Code Storage y las librerías Trees y Diffs que ya usa Codex. El mensaje implícito: competir de frente con GitHub."
 ---
 
-![Ilustración editorial tech de un repositorio de código brillante fusionándose con un cerebro de IA, gráficos de commits de Git ramificándose como ríos entre dos plataformas estilizadas, nodos verde azulado contra silueta gris neutra, estilo portada de revista tecnológica profesional, fondo azul marino profundo con retícula sutil, sin texto](../../assets/images/2026-11-04-openai-compra-pierre-computer-codex.jpg)
+![OpenAI compra Pierre Computer: apunta directo al corazón de GitHub](../../assets/images/2026-11-04-openai-compra-pierre-computer-codex.webp)
 
 OpenAI anunció hoy que **adquirirá Pierre Computer Company, Inc.**, la empresa detrás de **Code Storage** y una familia de herramientas open source para desarrolladores que ya viven dentro de Codex. Si alguna vez navegaste archivos o revisaste un cambio en la app de Codex, ya usaste el trabajo de Pierre sin saberlo: sus librerías **Trees y Diffs** son las que muestran el árbol de archivos y los diffs ahí.
 

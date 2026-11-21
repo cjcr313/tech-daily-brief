@@ -12,7 +12,7 @@ tags:
 description: "Google Cloud presenta un plugin para agentes de IA de código que empaqueta skills, contexto y MCP servers en bundles instalables, empezando por un plugin fundacional para todo Google Cloud."
 ---
 
-![Ilustración editorial: una caja de herramientas con skills y módulos conectados que se instalan sobre un agente de código, estilo tech editorial limpio](../../assets/images/2026-09-25-google-cloud-plugin-agentes-codigo.jpg)
+![Google Cloud lanza plugin para agentes de IA de código: skills y MCP empaquetados](../../assets/images/2026-09-25-google-cloud-plugin-agentes-codigo.webp)
 
 Google Cloud se sube a la ola de los **agent plugins** con un anuncio apuntado a los equipos que ya metieron agentes de IA en su día a día de código. La idea: empaquetar **skills, contexto y MCP servers** relacionados en **bundles instalables**, para que el agente sea más efectivo sobre Google Cloud sin pelearse con dependencias sueltas.
 

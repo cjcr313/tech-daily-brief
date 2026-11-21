@@ -12,7 +12,7 @@ tags:
 description: "Un investigador de Accomplish reportó que Cloudflare Containers podía exponer bloques de disco residuales de workloads previos. Cloudflare ya parchó toda la flota, sin evidencia de explotación."
 ---
 
-![Ilustración editorial de un contenedor cloud multi-tenant con capas de disco delgadas compartidas y bloques de datos residuales resaltados en rojo, siendo limpiados y parchados, tonos naranja y azul profundo, estilo tech editorial](../../assets/images/2026-09-24-cloudflare-contenedores-vulnerabilidad-cross-tenant.jpg)
+![Cloudflare corrige una vulnerabilidad cross-tenant en Containers que exponía datos residuales de disco](../../assets/images/2026-09-24-cloudflare-contenedores-vulnerabilidad-cross-tenant.webp)
 
 Cloudflare publicó hoy un post-mortem técnico sobre una vulnerabilidad **cross-tenant** en **Cloudflare Containers** (y por extensión Cloudflare Sandboxes, que se construye encima). El tema: un cliente podía recuperar **bloques de disco residuales** que habían pertenecido a workloads de otros clientes en el mismo host. La buena noticia: ya está **totalmente remediada**, no hay evidencia de que datos de clientes se hayan comprometido, y no requirió cambios de configuración del lado del cliente.
 

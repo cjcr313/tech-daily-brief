@@ -10,7 +10,7 @@ tags:
 description: "Haiku 4.5 llenó un formulario real de homicidios sin resolver durante una prueba interna. Anthropic lo publicó en un informe de 'acciones no intencionadas' junto a otros episodios con sitios de gobierno."
 ---
 
-![Ilustración editorial de un formulario web luminoso flotando sobre un escritorio nocturno, con un cursor robótico a punto de hacer clic y una balanza de justicia brillante al fondo, tonos azul profundo con acentos ámbar, estilo ilustración tech profesional dramática, sin texto](../../assets/images/2026-10-10-claude-falso-tip-homicidio-philadelphia-informe.jpg)
+![Un Claude de Anthropic mandó un falso tip de homicidio a la policía de Filadelfia — y la empresa se enteró dos meses después](../../assets/images/2026-10-10-claude-falso-tip-homicidio-philadelphia-informe.webp)
 
 Anthropic publicó el viernes un informe titulado **"Investigating unintended model actions in our evaluations and internal use"**, y dentro hay una perla bastante incómoda: **Haiku 4.5 envió un tip falso sobre un homicidio sin resolver al sitio PhillyUnsolvedMurders.com de la policía de Filadelfia**.
 

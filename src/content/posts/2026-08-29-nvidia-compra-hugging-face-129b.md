@@ -11,7 +11,7 @@ tags:
 description: "La compra de Hugging Face por US$12.900 millones es la réplica exacta de Microsoft-GitHub: Nvidia compró el hub donde los desarrolladores ya van por los modelos, y de paso aseguró que el open source siga corriendo en CUDA."
 ---
 
-![Ilustración editorial isométrica de un gigantesco chip de silicio absorbiendo un ecosistema de plataformas y cajas amarillas de repositorios conectadas por líneas de datos, paleta verde y amarillo, estilo ilustración tech editorial](../../assets/images/2026-08-29-nvidia-compra-hugging-face-129b.jpg)
+![Nvidia paga US$12.900 millones por Hugging Face: compró el lugar donde viven los modelos abiertos](../../assets/images/2026-08-29-nvidia-compra-hugging-face-129b.webp)
 
 La noticia grande de la semana en IA infrastructure: Nvidia acordó pagar **US$12.900 millones por Hugging Face**, según reveló The Information. El paralelo que están haciendo todos los analistas es el correcto: es **Microsoft comprando GitHub en 2018**, pero con pesos en vez de código.
 

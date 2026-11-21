@@ -11,7 +11,7 @@ tags:
 description: "Synergy Research reporta que el gasto global en cloud infrastructure hitió US$143 mil millones en Q2 2026, +43% YoY. Google Cloud subió a 15% de share, AWS bajó a 28%."
 ---
 
-![Mercado cloud Q2 2026](../../assets/images/2026-08-07-cloud-market-share-q2-2026-google-gana-terreno.jpg)
+![Mercado cloud Q2 2026](../../assets/images/2026-08-07-cloud-market-share-q2-2026-google-gana-terreno.webp)
 
 Los números de Synergy Research Group son contundentes: el mercado global de cloud infrastructure services alcanzó **US$143 mil millones en Q2 2026**, un crecimiento de **43% year-over-year** — el más alto en los últimos 8 años. La IA es el motor que está quemando petróleo en este crecimiento.
 

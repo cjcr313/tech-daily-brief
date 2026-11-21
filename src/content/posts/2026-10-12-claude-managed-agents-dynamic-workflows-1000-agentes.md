@@ -11,7 +11,7 @@ tags:
 description: "Anthropic puso en beta pública los dynamic workflows de Claude Managed Agents: un agente lead escribe un programa, lo ejecuta por fases y coordina hasta 1.000 agentes. En pruebas de caza de bugs encontró 66 fallas donde un agente solo detecta 27."
 ---
 
-![Ilustración editorial de un agente de IA central brillante orquestando una malla de cientos de nodos-agentes más pequeños organizados en fases, conexiones luminosas estilo diagrama de flujo, paleta violeta y cian sobre fondo oscuro, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-12-claude-managed-agents-dynamic-workflows-1000-agentes.jpg)
+![Claude Managed Agents estrena 'dynamic workflows': un agente que escribe su propio programa y lanza hasta 1.000 subagentes](../../assets/images/2026-10-12-claude-managed-agents-dynamic-workflows-1000-agentes.webp)
 
 Se acabó la época en que un "multi-agente" era un loop con tres herramientas y mucha fe. Anthropic metió a beta pública (release notes del 9 de octubre) los **dynamic workflows** dentro de Claude Managed Agents, y la apuesta es agresiva: **un agente lead escribe su propio programa, lo lanza él solo y coordina hasta 1.000 agentes** que trabajan por fases y combinan resultados.
 

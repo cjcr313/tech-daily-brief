@@ -11,7 +11,7 @@ tags:
 description: "Con más de 10.000 repos y decenas de miles de PRs por semana, LinkedIn trató el code review con IA como infraestructura de producción: múltiples agentes independientes, arquitectura Kubernetes y métricas de aceptación reales."
 ---
 
-![Ilustración editorial de múltiples agentes de IA revisando código en una gran organización tecnológica](../../assets/images/2026-08-23-linkedin-code-review.jpg)
+![LinkedIn montó una plataforma multi-agente para code review: 79.000 comentarios semanales y 63,9% de aceptación](../../assets/images/2026-08-23-linkedin-code-review.webp)
 
 La ecuación es simple y brutal: los agentes de coding están botando más código por developer que nunca, los reviewers humanos no dan abasto, y el P90 de tiempo a primera review humana se fue a las nubes. La respuesta obvia — "pon un bot de IA frente a GitHub" — resulta ser la parte fácil. Lo difícil es que los comentarios sean buenos.
 

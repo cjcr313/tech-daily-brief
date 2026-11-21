@@ -13,7 +13,7 @@ tags:
 description: "Hrittik Roy (CNCF Ambassador) explica cómo armar una AI factory con Kubernetes: DRA, MIG, vCluster y Kueue para exprimir la utilización de GPU sin romper el aislamiento entre tenants."
 ---
 
-![Ilustración editorial de una AI factory sobre Kubernetes: un rack de GPUs compartido por varios equipos, con contenedores y el timón de Kubernetes orquestando fine-tuning, inferencia y evaluación, paleta púrpura, teal y ámbar](../../assets/images/2026-08-27-building-ai-factory-kubernetes.jpg)
+![Cómo montar una 'AI factory' sobre Kubernetes (spoiler: el cuello de botella no es la GPU)](../../assets/images/2026-08-27-building-ai-factory-kubernetes.webp)
 
 Si pensabas que el problema de la IA en producción era "servir modelos", Hrittik Roy (CNCF Ambassador y Platform Advocate en vCluster) te baja de la nube: **el verdadero dolor es la utilización de GPU**. En un post para el blog de CNCF, Roy desmenuza cómo armar una *AI factory* sobre Kubernetes —un pool de aceleradores que varios equipos usan a la vez: uno afinando, otro sirviendo inferencia y un tercero corriendo evaluaciones— sin que nadie pise a nadie.
 

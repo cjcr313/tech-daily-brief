@@ -12,7 +12,7 @@ tags:
 description: "En .conf26, Splunk anunció un LLM open source entrenado para razonar sobre logs y un Universal Collector basado en OpenTelemetry, en beta para 2027."
 ---
 
-![Ilustración editorial de una tubería de telemetría unificada: logs, métricas y traces fluyendo hacia un único colector brillante, con un cerebro de IA analizando el flujo, tonos azul profundo y ámbar sobre fondo oscuro](../../assets/images/2026-09-17-splunk-segundo-llm-open-source-universal-collector.jpg)
+![Splunk va por su segundo LLM open source para telemetría y un Universal Collector con OpenTelemetry](../../assets/images/2026-09-17-splunk-segundo-llm-open-source-universal-collector.webp)
 
 Splunk está apostando fuerte a que la IA no se observa igual que el software de antes. En su **.conf26** de esta semana, la empresa (ahora brazo de Cisco) confirmó dos movidas que apuntan directo a la observabilidad de la era agéntica: un **segundo LLM open source**, esta vez entrenado para razonar sobre *logs*, y un **Universal Collector** que unifica la ingesta de telemetría con OpenTelemetry.
 

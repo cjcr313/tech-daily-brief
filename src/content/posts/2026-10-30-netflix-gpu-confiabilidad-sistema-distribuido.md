@@ -11,7 +11,7 @@ tags:
 description: "Netflix detalló su plataforma de confiabilidad para training e inferencia masiva en GPUs sobre Kubernetes: health checks por capas, remediación progresiva con Karpenter y éxito de jobs saltando de 98% a 99,5%."
 ---
 
-![Ilustración editorial tech de filas de racks de servidores con GPUs brillantes siendo escaneadas por pulsos de diagnóstico, acentos rojos sobre fondo oscuro, estilo profesional](../../assets/images/2026-10-30-netflix-gpu-confiabilidad-sistema-distribuido.jpg)
+![Netflix trata la confiabilidad de GPUs como un problema de sistemas distribuidos (y le está funcionando)](../../assets/images/2026-10-30-netflix-gpu-confiabilidad-sistema-distribuido.webp)
 
 Netflix publicó en su [tech blog](https://netflixtechblog.com/reliable-gpu-compute-for-large-training-inference-jobs-d62b03a96d7a) cómo está construyendo su plataforma de confiabilidad para jobs grandes de entrenamiento e inferencia sobre Kubernetes. La síntesis de [InfoQ](https://www.infoq.com/news/2026/10/netflix-gpu-distributed-systems/) lo pone en una frase: a miles de GPUs, la confiabilidad ya no es "mantener máquinas disponibles", es un problema de sistemas distribuidos.
 

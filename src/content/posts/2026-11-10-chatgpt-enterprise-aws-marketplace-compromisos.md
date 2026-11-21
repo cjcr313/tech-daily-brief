@@ -11,7 +11,7 @@ tags:
 description: "Desde el 9 de noviembre las empresas pueden comprar ChatGPT Enterprise directo en AWS Marketplace, con facturación unificada y gastando los compromisos de cloud ya firmados con Amazon. La jugada es de procurement, no de tecnología."
 ---
 
-![Ilustración editorial de un carrito de compras cargando una burbuja de chat entre nubes de datos](../../assets/images/chatgpt-enterprise-aws-marketplace-compromisos.jpg)
+![OpenAI mete ChatGPT Enterprise en el AWS Marketplace: ahora puedes pagarlo con tu commit de cloud](../../assets/images/chatgpt-enterprise-aws-marketplace-compromisos.webp)
 
 Movida inteligente la de OpenAI: desde el 9 de noviembre, **ChatGPT Enterprise está disponible en el AWS Marketplace**, y el detalle clave es que las empresas pueden comprarlo usando su relación de compra y facturación existente con AWS… y **aplicar el gasto elegible hacia sus compromisos de cloud ya firmados con Amazon**.
 

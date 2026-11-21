@@ -10,7 +10,7 @@ tags:
 description: "DeepSeek creó cuenta oficial en WeChat y está reclutando activamente un equipo dedicado a desarrollar agentes IA capaces de competir con Claude Code de Anthropic. La guerra de los coding agents se calienta."
 ---
 
-![Ilustración editorial de dos robots de software compitiendo en un entorno de desarrollo, estilo tech editorial](../../assets/images/2026-08-13-deepseek-agentes-ia-rival-claude-code.jpg)
+![DeepSeek se arma para enfrentar a Claude Code: recluta equipo de agentes IA](../../assets/images/2026-08-13-deepseek-agentes-ia-rival-claude-code.webp)
 
 DeepSeek, el lab chino que ya asustó a Silicon Valley con modelos baratos y eficientes, acaba de dar una señal clara de su próximo objetivo: **competir directamente con Claude Code**.
 

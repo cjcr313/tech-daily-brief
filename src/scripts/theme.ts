@@ -1,59 +1,124 @@
-const THEME_KEY = "theme";
-const LIGHT = "light";
-const DARK = "dark";
+const STORAGE_KEY = "color-scheme";
+const LEGACY_KEY = "theme";
 
-function getPreferredTheme(): string {
-  const stored = localStorage.getItem(THEME_KEY);
-  if (stored) return stored;
-  return LIGHT; // Force light theme by default if nothing stored
+type Scheme = "light" | "dark";
+
+function readStoredScheme(): Scheme | null {
+  try {
+    const raw =
+      localStorage.getItem(STORAGE_KEY) ?? localStorage.getItem(LEGACY_KEY);
+    return raw === "light" || raw === "dark" ? raw : null;
+  } catch {
+    return null;
+  }
 }
 
-// Reuse the value already set by the inline FOUC-prevention script if available.
-let themeValue: string =
-  (window as unknown as { __theme?: { value: string } }).__theme?.value ??
-  getPreferredTheme();
-
-function persist(): void {
-  localStorage.setItem(THEME_KEY, themeValue);
-  reflect();
+function getSystemScheme(): Scheme {
+  return window.matchMedia("(prefers-color-scheme: dark)").matches
+    ? "dark"
+    : "light";
 }
 
-function reflect(): void {
-  const root = document.firstElementChild;
-  root?.setAttribute("data-theme", themeValue);
-  root?.classList.toggle("dark", themeValue === DARK);
-  document.querySelector("#theme-btn")?.setAttribute("aria-label", themeValue);
+function getEffectiveScheme(stored: Scheme | null): Scheme {
+  return stored ?? getSystemScheme();
+}
 
-  // Fill <meta name="theme-color"> with the computed background colour so
-  // Android's browser chrome matches the page background.
+function applyScheme(stored: Scheme | null): void {
+  const effective = getEffectiveScheme(stored);
+  const root = document.documentElement;
+  const meta = document.querySelector<HTMLMetaElement>(
+    'meta[name="color-scheme"]'
+  );
+
+  if (meta) {
+    meta.content = stored ?? "light dark";
+  }
+
+  root.setAttribute("data-theme", effective);
+  root.classList.toggle("dark", effective === "dark");
+
+  const btn = document.querySelector<HTMLButtonElement>("#theme-btn");
+  if (btn) {
+    const nextLabel =
+      effective === "dark" ? "Cambiar a modo claro" : "Cambiar a modo oscuro";
+    btn.setAttribute("aria-label", nextLabel);
+    btn.setAttribute("title", nextLabel);
+  }
+
   const bg = window.getComputedStyle(document.body).backgroundColor;
   document
-    .querySelector("meta[name='theme-color']")
+    .querySelector<HTMLMetaElement>("meta[name='theme-color']")
     ?.setAttribute("content", bg);
 }
 
-function setup(): void {
-  reflect();
-  document.querySelector("#theme-btn")?.addEventListener("click", () => {
-    themeValue = themeValue === LIGHT ? DARK : LIGHT;
-    persist();
-  });
+function toggleScheme(): void {
+  const stored = readStoredScheme();
+  const current = getEffectiveScheme(stored);
+  const target: Scheme = current === "dark" ? "light" : "dark";
+  const system = getSystemScheme();
+
+  try {
+    localStorage.removeItem(LEGACY_KEY);
+    if (target === system) {
+      // Undo override so site follows OS preference again
+      localStorage.removeItem(STORAGE_KEY);
+      applyScheme(null);
+    } else {
+      localStorage.setItem(STORAGE_KEY, target);
+      applyScheme(target);
+    }
+  } catch {
+    // Still apply visually even if storage is blocked
+    applyScheme(target);
+  }
 }
 
-setup();
+function bindToggle(): void {
+  applyScheme(readStoredScheme());
+  const btn = document.querySelector<HTMLButtonElement>("#theme-btn");
+  if (btn && btn.dataset.themeBound !== "true") {
+    btn.dataset.themeBound = "true";
+    btn.addEventListener("click", toggleScheme);
+  }
+}
 
-// Re-run after View Transitions navigation.
-document.addEventListener("astro:after-swap", setup);
+bindToggle();
 
-// Carry the theme-color value across View Transitions to prevent the
-// Android navigation bar from flashing during page transitions.
+// Keep in sync across Astro View Transitions
+document.addEventListener("astro:after-swap", bindToggle);
 document.addEventListener("astro:before-swap", event => {
+  const stored = readStoredScheme();
+  const newDoc = (event as unknown as { newDocument: Document }).newDocument;
+  const effective = getEffectiveScheme(stored);
+  newDoc
+    .querySelector<HTMLMetaElement>('meta[name="color-scheme"]')
+    ?.setAttribute("content", stored ?? "light dark");
+  newDoc.documentElement.setAttribute("data-theme", effective);
+  newDoc.documentElement.classList.toggle("dark", effective === "dark");
+
   const color = document
     .querySelector("meta[name='theme-color']")
     ?.getAttribute("content");
   if (color) {
-    (event as { newDocument: Document }).newDocument
+    newDoc
       .querySelector("meta[name='theme-color']")
       ?.setAttribute("content", color);
+  }
+});
+
+// React to OS changes ONLY when no explicit override is stored
+window
+  .matchMedia("(prefers-color-scheme: dark)")
+  .addEventListener("change", () => {
+    const stored = readStoredScheme();
+    if (!stored) {
+      applyScheme(null);
+    }
+  });
+
+// Sync override changes from other tabs
+window.addEventListener("storage", event => {
+  if (event.key === STORAGE_KEY || event.key === LEGACY_KEY) {
+    applyScheme(readStoredScheme());
   }
 });

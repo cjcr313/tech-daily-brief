@@ -10,7 +10,7 @@ tags:
 description: "OpenAI anunció Astra, su próximo model family, revelando que una versión interna resolvió 10 problemas abiertos en matemáticas y ciencia de la computación teórica. Costó ~$2,000 en tokens."
 ---
 
-![OpenAI anuncia Astra rompiendo 10 problemas matemáticos abiertos](../../assets/images/2026-08-02-openai-astra-math.jpg)
+![OpenAI anuncia Astra rompiendo 10 problemas matemáticos abiertos](../../assets/images/2026-08-02-openai-astra-math.webp)
 
 OpenAI no anunció Astra con un keynote ni un demo con fuegos artificiales. Lo hizo publicando un blog post sobre matemáticas que, enterrado en el tercer párrafo, decía algo como "ah, por cierto, esto lo hizo Astra, nuestro próximo model family". Un movimiento clásico de OpenAI: la información más importante entregada con la menor fanfarria posible.
 

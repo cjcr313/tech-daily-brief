@@ -11,7 +11,7 @@ tags:
 description: "Un paper en arXiv muestra que alimentar LLMs con el grafo de llamadas en vivo del cluster (Istio + Trivy + RBAC) sube la corrección de parches topología-dependientes de 11% a 78%. La observabilidad deja de ser opcional."
 ---
 
-![Ilustración editorial de un grafo de red brillante con nodos y conexiones siendo reparados con un escudo protector, estilo tech editorial oscuro, sin texto](../../assets/images/2026-08-22-kutie-contexto-topologia-llm-parches-kubernetes.svg)
+![KuTIE: darle topología en vivo a los LLM evita que sus parches de seguridad rompan Kubernetes](../../assets/images/2026-08-22-kutie-contexto-topologia-llm-parches-kubernetes.svg)
 
 Cada equipo DevSecOps que está delegando remediación de vulnerabilidades a agentes IA debería leer esto: un paper publicado en arXiv (aceptado en el workshop LLMSec de ESORICS 2026) demuestra con números lo que muchos sospechábamos — **un LLM que parchea Kubernetes sin conocer la topología en vivo del cluster es una bomba de tiempo**.
 

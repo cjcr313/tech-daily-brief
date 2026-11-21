@@ -12,7 +12,7 @@ tags:
 description: "Percona anunció soporte comercial para CloudNativePG (CNPG), el operador open-source de PostgreSQL para Kubernetes, ampliando las opciones para correr bases de datos en producción."
 ---
 
-![Operador de PostgreSQL sobre Kubernetes con réplicas y alta disponibilidad](../../assets/images/2026-09-22-percona-soporte-cloudnativepg-postgresql-kubernetes.jpg)
+![Operador de PostgreSQL sobre Kubernetes con réplicas y alta disponibilidad](../../assets/images/2026-09-22-percona-soporte-cloudnativepg-postgresql-kubernetes.webp)
 
 Correr PostgreSQL en Kubernetes ya era viable, pero el ecosistema de soporte comercial acaba de dar un salto. **Percona**, el conocido proveedor de software open-source para bases de datos, anunció hoy soporte para **CloudNativePG (CNPG)**, el operador de Kubernetes para PostgreSQL que se ha consolidado como el estándar de facto para manejar Postgres en clústeres.
 

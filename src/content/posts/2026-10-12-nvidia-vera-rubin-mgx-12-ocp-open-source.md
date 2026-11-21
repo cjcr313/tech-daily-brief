@@ -11,7 +11,7 @@ tags:
 description: "En la OCP Global Summit, Nvidia contribuyó los diseños de rack y compute tray de Vera Rubin al proyecto abierto MGX 1.2, sumó software DSX open source y co-publicó con AMD, Google y Meta la Open Data Center Specification v0.7."
 ---
 
-![Ilustración editorial de un rack de servidor futurista con paneles abiertos mostrando planos técnicos flotantes y tuberías de refrigeración líquida azul brillante, ambientación de datacenter oscuro con acentos verdes y negros, estilo ilustración tech profesional, sin texto](../../assets/images/2026-10-12-nvidia-vera-rubin-mgx-12-ocp-open-source.jpg)
+![Nvidia abre los planos de sus racks Vera Rubin al OCP: MGX 1.2, cooling líquido y 250kW por rack](../../assets/images/2026-10-12-nvidia-vera-rubin-mgx-12-ocp-open-source.webp)
 
 Movida poco característica de Nvidia: en la **OCP Global Summit** de este 12 de octubre, la compañía dejó de guardar los planos de su hardware bajo llave y **contribuyó los diseños de rack y compute tray de Vera Rubin al Open Compute Project** a través de la arquitectura abierta **MGX 1.2**. Sí: los blueprints de la generación que viene ya son patrimonio común.
 

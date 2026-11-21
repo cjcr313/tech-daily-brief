@@ -11,7 +11,7 @@ tags:
 description: "Dynatrace certifica sus sistemas de gestión de IA bajo ISO/IEC 42001, el primer estándar internacional para gobernanza responsable de la inteligencia artificial."
 ---
 
-![Sello de certificación ISO/IEC 42001 sobre un tablero de observabilidad con flujos de datos y controles de gobernanza de IA](../../assets/images/2026-09-24-dynatrace-iso-42001-certificacion-ia.jpg)
+![Dynatrace obtiene la certificación ISO/IEC 42001 para sus sistemas de gestión de IA](../../assets/images/2026-09-24-dynatrace-iso-42001-certificacion-ia.webp)
 
 La confianza se está volviendo el verdadero cuello de botella de la IA en la empresa. **Dynatrace** lo entendió y acaba de anunciar que obtuvo la certificación **ISO/IEC 42001:2023**, el primer estándar internacional para sistemas de gestión de inteligencia artificial (AIMS, por sus siglas en inglés).
 

@@ -12,7 +12,7 @@ tags:
 description: "AWS describe un patrón que separa la intención del workflow de la lógica de procesamiento, con especificaciones declarativas y un registro de capacidades reutilizables para reducir duplicación."
 ---
 
-![Ilustración editorial de un diagrama de flujo con tres capas separadas (intención, composición y procesamiento) conectando especificaciones declarativas a capacidades reutilizables](../../assets/images/2026-08-27-aws-composicion-especificaciones-data-workflows.jpg)
+![AWS propone 'Specification Driven Composition' para armar data workflows flexibles sin duplicar pipelines](../../assets/images/2026-08-27-aws-composicion-especificaciones-data-workflows.webp)
 
 AWS publicó un patrón de arquitectura llamado **Specification Driven Composition** para construir data workflows flexibles. La idea central: **separar la intención del workflow de la lógica de procesamiento**, para no terminar duplicando código de pipeline cada vez que entra un dataset nuevo.
 

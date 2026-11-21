@@ -11,7 +11,7 @@ tags:
 description: "Dynatrace completó la adquisición de Arize para cubrir el ciclo completo de la observabilidad de IA: desde el desarrollo de agentes hasta producción. El mercado de monitoring está absorbiendo el LLMOps."
 ---
 
-![Ilustración editorial de un agente de IA luminoso reparando una tubería de datos mientras un panel de observabilidad con gráficos lo monitorea, estilo ilustración tech profesional, tonos verde y azul oscuro, sin texto](../../assets/images/2026-10-07-dynatrace-compra-arize-observabilidad-ia.jpg)
+![Dynatrace cerró la compra de Arize: la observabilidad ahora también observa a la IA](../../assets/images/2026-10-07-dynatrace-compra-arize-observabilidad-ia.webp)
 
 Dynatrace (NYSE: DT) completó la compra de **Arize**, la plataforma de AI observability y evaluación conocida por su trabajo en tracing y evaluación de modelos y agentes. La movida cierra un hueco que ya era evidente: hoy todos monitoreamos la infraestructura clásica, pero ¿quién monitorea a los agentes de IA que toman decisiones por su cuenta en producción?
 

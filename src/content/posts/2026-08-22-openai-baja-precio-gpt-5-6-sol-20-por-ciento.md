@@ -11,7 +11,7 @@ tags:
 description: "OpenAI cortó en más de 20% el precio de su modelo frontera GPT-5.6 Sol por tres meses: US$4 por millón de tokens de entrada y US$20 de salida. Respuesta directa a Anthropic y los modelos chinos."
 ---
 
-![Ilustración editorial de etiquetas de precio cayendo en caída libre hechas de tokens de datos brillantes, flecha descendente luminosa, fondo azul oscuro, sin texto](../../assets/images/2026-08-22-openai-baja-precio-gpt-5-6-sol-20-por-ciento.svg)
+![OpenAI rebaja GPT-5.6 Sol en más de 20%: la guerra de precios de los modelos frontera se calienta](../../assets/images/2026-08-22-openai-baja-precio-gpt-5-6-sol-20-por-ciento.svg)
 
 Viernes a la tarde y OpenAI tira la tarjeta: **rebaja en más de 20% el precio de GPT-5.6 Sol para desarrolladores**, por los próximos tres meses. El modelo frontera queda en **US$4 por millón de tokens de entrada y US$20 por millón de salida**, y el descuento aplica a la API, los créditos de Codex y ChatGPT Work.
 

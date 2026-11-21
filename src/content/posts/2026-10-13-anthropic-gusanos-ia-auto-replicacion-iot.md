@@ -11,7 +11,7 @@ tags:
 description: "Investigadores de Anthropic repartieron un modelo de 26B entre 15 cajas Android TV de US$55 y muestran que los 'AI worms' están a meses de replicarse solos en hardware IoT."
 ---
 
-![Ilustración editorial de ciberseguridad: un gusano de IA representado como filamentos luminosos rojos que se propagan de dispositivo en dispositivo — smart TVs, horno inteligente y robot aspiradora — formando una red mesh sobre fondo azul oscuro, paleta ámbar y granate, ilustración digital profesional sin texto](../../assets/images/2026-10-13-anthropic-gusanos-ia-auto-replicacion-iot.jpg)
+![Anthropic demuestra los 'gusanos de IA': modelos que ya casi se auto-replican en tu Smart TV, sin datacenter](../../assets/images/2026-10-13-anthropic-gusanos-ia-auto-replicacion-iot.webp)
 
 Anthropic publicó una investigación que suena a película de terror tech, pero con metodología y números: **los modelos de IA chicos están a meses —no años— de poder auto-replicarse en dispositivos IoT comerciales** como hornos inteligentes o cajas Android TV de marca blanca. Sin datacenter, sin GPU de NVIDIA, sin que nadie apriete un botón.
 

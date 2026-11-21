@@ -11,7 +11,7 @@ tags:
 description: "La familia GPT-5.6 (Sol, Terra y Luna) ya está disponible en Kiro, el agente de desarrollo de AWS. OpenAI y AWS afirman que GPT-5.6 Terra completa tareas con ~82% de reducción de costo."
 ---
 
-![Ilustración editorial de un agente de desarrollo de IA con gafas de código, trabajando sobre una terminal con planos de software, tonos naranjas y azules, estilo tech editorial](../../assets/images/2026-08-24-gpt-56-en-kiro-agente-desarrollo-aws-costo.svg)
+![GPT-5.6 llega a Kiro, el agente de desarrollo de AWS: 82% menos costo en tareas de Terminal-Bench](../../assets/images/2026-08-24-gpt-56-en-kiro-agente-desarrollo-aws-costo.svg)
 
 La familia **GPT-5.6** (Sol, Terra y Luna) ya está disponible en **Kiro**, el agente de desarrollo de software de AWS. Y OpenAI no vino solo: la integración la trabajaron codo a codo con AWS, con un número llamativo bajo el brazo — **~82% de reducción de costo** en tareas completadas.
 

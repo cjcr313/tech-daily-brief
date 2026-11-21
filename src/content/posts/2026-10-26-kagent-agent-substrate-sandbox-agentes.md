@@ -12,7 +12,7 @@ tags:
 description: "La CNCF publicó una guía práctica de sandboxing de agentes: kagent como runtime declarativo y Agent Substrate como plataforma de aislamiento con gVisor y microVM. Los tres requisitos que faltaban: aislamiento, seguridad y escala."
 ---
 
-![Ilustración editorial tech isométrica de agentes de IA representados como orbes luminosos contenidos en cápsulas aisladas sobre una malla de plano de control de Kubernetes, con barreras de seguridad brillantes y capas de blindaje alrededor de cada cápsula, paleta azul profundo con acentos teal y naranja, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-26-kagent-agent-substrate-sandbox-agentes.jpg)
+![Kagent + Agent Substrate: la receta CNCF para correr agentes de IA sin que se te escapen](../../assets/images/2026-10-26-kagent-agent-substrate-sandbox-agentes.webp)
 
 Ayer preguntábamos si Kubernetes estaba listo para agentes de IA (spoiler: casi). Hoy la CNCF publicó la continuación lógica: una guía práctica de **Michael Levan** que muestra cómo implementar los tres requisitos que los agentes exigen en producción y que los containers solos no dan: **aislamiento, seguridad y escala**.
 

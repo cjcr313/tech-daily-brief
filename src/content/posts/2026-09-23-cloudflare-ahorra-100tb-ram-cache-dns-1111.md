@@ -12,7 +12,7 @@ tags:
 description: "Cinco optimizaciones en Rust recortaron en 56% la huella de memoria por entrada del resolver 1.1.1.1 y liberaron ~100 TB a nivel global."
 ---
 
-![Ilustración de una caché DNS compacta: bloques de memoria apilados que se encogen y liberan espacio, con el resolutor 1.1.1.1 al centro](../../assets/images/2026-09-23-cloudflare-ahorra-100tb-ram-cache-dns-1111.jpg)
+![Cloudflare ahorra 100 TB de RAM optimizando la caché DNS de 1.1.1.1](../../assets/images/2026-09-23-cloudflare-ahorra-100tb-ram-cache-dns-1111.webp)
 
 Cloudflare acaba de publicar un post de esos que dan gusto: **ahorraron 100 terabytes de RAM** optimizando cómo guardan las entradas en la caché DNS de **1.1.1.1**. Nada de hardware nuevo, puro trabajo fino de representación de datos en Rust.
 

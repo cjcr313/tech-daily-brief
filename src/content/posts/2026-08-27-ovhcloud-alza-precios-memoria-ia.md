@@ -12,7 +12,7 @@ tags:
 description: "OVHcloud subirá precios este otoño porque la memoria y el almacenamiento se dispararon: la RAM está 6x más cara que en 2025 y el fundador apunta a la fabricación de HBM para GPUs."
 ---
 
-![Ilustración editorial de un servidor rack con chips de memoria RAM encareciéndose por la demanda de IA](../../assets/images/2026-08-27-ovhcloud-alza-precios-memoria-ia.jpg)
+![OVHcloud sube precios: la demanda de IA está encareciendo hasta la RAM de los servidores 'normales'](../../assets/images/2026-08-27-ovhcloud-alza-precios-memoria-ia.webp)
 
 Si pensabas que la fiebre de la IA solo encarecía las GPUs, mala noticia: ahora está golpeando hasta los servidores "aburridos". OVHcloud confirmó que **subirá precios en la mayoría de su catálogo este otoño**, y el motivo no está en sus productos, sino en la cadena de suministro que la IA se está comiendo.
 

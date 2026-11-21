@@ -11,7 +11,7 @@ tags:
 description: "Jaeger v2.22 estrena preview de troubleshooting asistido por IA: asistente en lenguaje natural, endpoint MCP con 9 herramientas y vistas de traces con convenciones GenAI de OpenTelemetry."
 ---
 
-![Ilustración editorial tech de un gran flujo de trazas distribuidas representadas como hebras de luz entrelazadas siendo examinadas por una lupa luminosa con destellos de IA, tonos índigo y teal, estilo ilustración profesional sin texto](../../assets/images/jaeger-ia-troubleshooting-genai-opentelemetry.jpg)
+![Jaeger le mete IA al troubleshooting: Ask Jaeger, herramientas MCP nativas y visualización de traces GenAI](../../assets/images/jaeger-ia-troubleshooting-genai-opentelemetry.webp)
 
 KubeCon NA 2026 está dejando titulares de IA por todas partes, pero este es de los que marcan tendencia en observabilidad: **Jaeger, el proyecto graduado de tracing distribuido de la CNCF, está presesteando su primera experiencia integrada de troubleshooting asistido por IA y observabilidad GenAI**, disponible como capacidades experimentales en **Jaeger v2.22**.
 

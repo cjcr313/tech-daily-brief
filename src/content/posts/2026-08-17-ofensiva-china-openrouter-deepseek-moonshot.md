@@ -10,7 +10,7 @@ tags:
 description: "DeepSeek levanta ¥50 mil millones a valorización de ~US$74 mil millones y Moonshot apunta a US$50 mil millones pre-IPO, mientras los modelos chinos dominan el top 10 de uso global y Reuters advierte que están alcanzando a Anthropic y OpenAI en su propia cancha."
 ---
 
-![Ilustración editorial de flujos de datos y tokens luminosos avanzando desde el horizonte hacia torres de servidores, acentos rojo y dorado sobre azul profundo, estilo tech editorial](../../assets/images/placeholder.jpg)
+![6 de los 10 modelos más usados del planeta son chinos: DeepSeek y Moonshot salen a cazar miles de millones](../../assets/images/placeholder.webp)
 
 La semana pasada los labs chinos nos martillaron con releases (GLM-5.3, Qwen3.8, V4-Pro). Esta semana toca la otra pata de la estrategia: **el dinero**. Y los números no son para nada tímidos.
 

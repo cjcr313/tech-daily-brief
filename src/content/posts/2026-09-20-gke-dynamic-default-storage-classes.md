@@ -12,7 +12,7 @@ tags:
 description: "Google Kubernetes Engine suma Dynamic Default Storage Classes para elegir automáticamente entre Persistent Disk e Hyperdisk según la compatibilidad de hardware de cada nodo."
 ---
 
-![Ilustración editorial tech de un rack de servidores con discos de almacenamiento flotando entre nodos, un sistema que selecciona automáticamente el tipo de disco correcto, tonos azules y verdes sobre fondo oscuro, estilo flat ilustrativo](../../assets/images/2026-09-20-gke-dynamic-default-storage-classes.jpg)
+![GKE automatiza el storage con Dynamic Default Storage Classes](../../assets/images/2026-09-20-gke-dynamic-default-storage-classes.webp)
 
 Google Kubernetes Engine (GKE) acaba de simplificar una de esas tareas que nadie disfruta: decidir qué tipo de disco usar según el hardware del nodo. La nueva **Dynamic Default Storage Class** hace que GKE elija automáticamente entre **Persistent Disk (PD)** e **Hyperdisk** en función de la compatibilidad de cada nodo, sin que tengas que andar configurando storage classes a mano.
 

@@ -11,7 +11,7 @@ tags:
 description: "Anthropic fijó su IPO en US$83 (sobre el rango), vendió 980 millones de acciones y recaudó US$81.300 millones, la oferta más grande de la historia. Hoy debuta en Nasdaq bajo ANT con cap de US$1,5 billones."
 ---
 
-![Ilustración editorial de la campana de apertura de la bolsa rodeada de iconos de inteligencia artificial y gráficos financieros](../../assets/images/2026-11-19-anthropic-ipo-debut-record-81-mil-millones-ant.jpg)
+![Anthropic debuta hoy en Nasdaq: IPO récord de US$81.300 millones a US$83 por acción y valuation de US$1,5 billones](../../assets/images/2026-11-19-anthropic-ipo-debut-record-81-mil-millones-ant.webp)
 
 Se acabó la espera: **Anthropic fijó su IPO anoche a US$83 por acción**, por sobre el rango esperado de US$70-78, y hoy jueves debuta en el Nasdaq bajo el ticker **ANT**. La oferta terminó siendo la **más grande de la historia**: US$81.300 millones recaudados, superando el récord que SpaceX había impuesto en junio.
 

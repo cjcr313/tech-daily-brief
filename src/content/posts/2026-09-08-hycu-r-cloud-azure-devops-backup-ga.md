@@ -12,7 +12,7 @@ tags:
 description: "HYCU lleva su plataforma R-Cloud a Azure DevOps con disponibilidad general: protección y recuperación granular para repos, pipelines, plantillas de proceso y wikis."
 ---
 
-![Ilustración editorial de un tablero de Azure DevOps con sus cinco servicios —Repos, Boards, Pipelines, Test Plans y Artifacts— protegidos por una capa de respaldo que evita la pérdida de datos](../../assets/images/2026-09-08-hycu-r-cloud-azure-devops-backup-ga.jpg)
+![HYCU lanza R-Cloud para Azure DevOps: backup enterprise para repos, pipelines y work items](../../assets/images/2026-09-08-hycu-r-cloud-azure-devops-backup-ga.webp)
 
 HYCU —que se autodefine como "la #1 en AI Resilience"— anunció la **disponibilidad general de HYCU R-Cloud para Azure DevOps**, una solución de protección de datos y recuperación granular pensada para la plataforma que usan más de **30.000 organizaciones** para sacar software a producción.
 

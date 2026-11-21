@@ -10,7 +10,7 @@ tags:
 description: "Grafana 13.3 trae cross-dashboard variables, Notebooks para documentar investigaciones y un rediseño de UI: menos copy-paste entre dashboards y hallazgos que dejan de morir en screenshots."
 ---
 
-![Ilustración editorial tech de paneles de dashboards analíticos flotando junto a un cuaderno digital, paleta cálida naranja y azul marino, estilo minimalista profesional](../../assets/images/2026-10-30-grafana-13-3-variables-notebooks-ui.jpg)
+![Grafana 13.3: variables entre dashboards, Notebooks para investigaciones y el mayor refresco visual desde Grafana 7](../../assets/images/2026-10-30-grafana-13-3-variables-notebooks-ui.webp)
 
 Grafana 13.3 salió ayer y apunta directo a dos dolores clásicos de quien opera dashboards a diario: la configuración repetida hasta el cansancio y las investigaciones que se pierden entre tabs, screenshots y hilos de chat.
 

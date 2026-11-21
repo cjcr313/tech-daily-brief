@@ -12,7 +12,7 @@ tags:
 description: "Datadog superó expectativas con 36% de crecimiento YoY. Lanu0000 AI Guard para defender agentes de IA y Bring Your Own Cloud para despliegue on-premise."
 ---
 
-![Datadog Q2 2026](../../assets/images/2026-08-07-datadog-q2.jpg)
+![Datadog Q2 2026](../../assets/images/2026-08-07-datadog-q2.webp)
 
 Datadog acaba de reportar sus resultados del **Q2 2026** y la verdad es que los números son contundentes. Pero más interesante que los financials son los productos nuevos que anunciaron, porque muestran claramente hacia dónde va la plataforma.
 

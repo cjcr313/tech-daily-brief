@@ -3,9 +3,9 @@ title: "BigQuery elimina barreras: Transferencia nativa desde Oracle, AWS y Azur
 pubDatetime: 2026-07-09T08:30:00Z
 author: Nauta Lab
 tags:
-  - cloud
-  - arquitectura
-  - ia
+  - Cloud
+  - Arquitectura
+  - IA
 ogImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop"
 description: "Google Cloud actualiza el BigQuery Data Transfer Service abriendo las puertas a arquitecturas multi-cloud reales basadas en formatos abiertos."
 ---

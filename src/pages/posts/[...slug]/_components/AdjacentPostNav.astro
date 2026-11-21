@@ -21,17 +21,21 @@ const locale = Astro.currentLocale ?? config.site.lang;
 const t = useTranslations(locale);
 ---
 
-<div data-pagefind-ignore class="my-8 grid grid-cols-1 gap-6 sm:grid-cols-2">
+<div data-pagefind-ignore class="my-6 grid grid-cols-1 gap-4 sm:grid-cols-2">
   {
     prevPost && (
       <a
         href={getPostUrl(prevPost.id, prevPost.filePath, locale)}
-        class="flex w-full gap-1 hover:opacity-75"
+        class="group bg-surface border-border hover:border-accent/60 flex items-start gap-3 rounded-2xl border p-4 transition-colors"
       >
-        <IconArrowLeft class="inline-block flex-none rtl:rotate-180" />
-        <div>
-          <span>{t.post.previousPost}</span>
-          <div class="text-accent/85 text-sm">{prevPost.title}</div>
+        <IconArrowLeft class="text-muted-foreground group-hover:text-accent mt-0.5 size-5 shrink-0 transition-colors rtl:rotate-180" />
+        <div class="min-w-0">
+          <span class="font-mono text-muted-foreground block text-[11px] font-semibold tracking-wider uppercase">
+            {t.post.previousPost}
+          </span>
+          <div class="font-display text-foreground group-hover:text-accent mt-1 line-clamp-2 text-sm font-bold transition-colors">
+            {prevPost.title}
+          </div>
         </div>
       </a>
     )
@@ -40,13 +44,17 @@ const t = useTranslations(locale);
     nextPost && (
       <a
         href={getPostUrl(nextPost.id, nextPost.filePath, locale)}
-        class="flex w-full justify-end gap-1 text-end hover:opacity-75 sm:col-start-2"
+        class="group bg-surface border-border hover:border-accent/60 flex items-start justify-end gap-3 rounded-2xl border p-4 text-end transition-colors sm:col-start-2"
       >
-        <div>
-          <span>{t.post.nextPost}</span>
-          <div class="text-accent/85 text-sm">{nextPost.title}</div>
+        <div class="min-w-0">
+          <span class="font-mono text-muted-foreground block text-[11px] font-semibold tracking-wider uppercase">
+            {t.post.nextPost}
+          </span>
+          <div class="font-display text-foreground group-hover:text-accent mt-1 line-clamp-2 text-sm font-bold transition-colors">
+            {nextPost.title}
+          </div>
         </div>
-        <IconArrowRight class="inline-block flex-none rtl:rotate-180" />
+        <IconArrowRight class="text-muted-foreground group-hover:text-accent mt-0.5 size-5 shrink-0 transition-colors rtl:rotate-180" />
       </a>
     )
   }

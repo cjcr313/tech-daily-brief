@@ -11,7 +11,7 @@ tags:
 description: "El agua de la llave, la luz de tu casa y los peajes no corren sobre web apps: corren sobre OT. Dynatrace publicó cómo llevar observabilidad a sistemas SCADA que nunca fueron diseñados para exponer datos."
 ---
 
-![Ilustración editorial de una planta industrial con sensores, PLCs y una sala de control SCADA conectados por líneas de telemetría hacia un panel de observabilidad, estilo tech editorial](../../assets/images/2026-08-26-dynatrace-observabilidad-scada-ot.jpg)
+![Dynatrace lleva observabilidad a SCADA y entornos OT: adiós al punto ciego industrial](../../assets/images/2026-08-26-dynatrace-observabilidad-scada-ot.webp)
 
 Hay una capa de tecnología que sostiene todo y que casi nadie del mundo cloud mira: el **operational technology (OT)**. El agua que sale de tu llave, los peajes de la autopista, el gas que prende la cocina y la luz de tu ciudad no corren sobre una web app ni un dashboard móvil. Corren sobre sistemas industriales que, cuando fallan, no te muestran un error 500: pueden generar crisis de seguridad pública, daño ambiental o cortes masivos.
 

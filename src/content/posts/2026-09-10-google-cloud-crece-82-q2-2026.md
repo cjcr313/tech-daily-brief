@@ -13,7 +13,7 @@ tags:
 description: "Google Cloud facturó US$24,8 mil millones en el Q2 2026, un salto de 82% interanual que deja atrás a AWS (37%) y Azure (43%)."
 ---
 
-![Ilustración editorial de una carrera entre tres nubes representadas como columnas de servidores que crecen, con Google Cloud destacando en azul, estilo tech editorial](../../assets/images/2026-09-10-google-cloud-crece-82-q2-2026.jpg)
+![Google Cloud creció 82% en el Q2 2026 y se mete en la pelea de los hyperscalers](../../assets/images/2026-09-10-google-cloud-crece-82-q2-2026.webp)
 
 La pelea por el pastel de la nube acaba de moverse, y no poco. **Google Cloud facturó US$24,8 mil millones en el segundo trimestre de 2026**, un salto de **82% interanual** que deja chicos a sus rivales directos: **AWS creció 37% y Azure 43%** en el mismo período (trimestre cerrado al 30 de junio de 2026).
 

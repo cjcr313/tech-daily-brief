@@ -2,6 +2,7 @@
 import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
 import { getRelativeLocaleUrl } from "astro:i18n";
+import SearchModal from "@/components/SearchModal.astro";
 import { resolveDefaultOgImagePath } from "@/utils/resolveDefaultOgImagePath";
 import { getAssetPath } from "@/utils/withBase";
 import config from "@/config";
@@ -12,22 +13,51 @@ type Props = {
   description?: string;
   ogImage?: string;
   canonicalURL?: string;
+  ogType?: "website" | "article";
+  noindex?: boolean;
 };
 
 const { site } = config;
 
 const {
-  title = site.title,
+  title = `${site.title} · Noticias de Cloud Native, IA, Seguridad e Infraestructura`,
   description = site.description,
   ogImage = resolveDefaultOgImagePath(config),
   canonicalURL = new URL(Astro.url.pathname, Astro.site).href,
+  ogType = "website",
+  noindex = false,
 } = Astro.props;
 
-const socialImageURL = new URL(ogImage, Astro.site ?? Astro.url);
+const socialImageURL = new URL(ogImage, Astro.site ?? Astro.url).href;
 const rssHref = getRelativeLocaleUrl(
   Astro.currentLocale ?? config.site.lang,
   "rss.xml"
 );
+
+const isHome =
+  Astro.url.pathname === "/" || Astro.url.pathname === import.meta.env.BASE_URL;
+
+const websiteSchema = isHome
+  ? {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      name: site.title,
+      url: site.url,
+      description: site.description,
+      inLanguage: "es",
+      publisher: {
+        "@type": "Organization",
+        name: "Nauta Lab",
+        url: site.url,
+        sameAs: ["https://www.instagram.com/pingdiario/"],
+      },
+      potentialAction: {
+        "@type": "SearchAction",
+        target: `${site.url.replace(/\/$/, "")}/search/?q={search_term_string}`,
+        "query-input": "required name=search_term_string",
+      },
+    }
+  : null;
 ---
 
 <!doctype html>
@@ -39,16 +69,58 @@ const rssHref = getRelativeLocaleUrl(
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <!-- FOUC-prevention script: applies stored color-scheme override before first paint -->
+    <script is:inline>
+      (function () {
+        try {
+          var stored =
+            localStorage.getItem("color-scheme") ||
+            localStorage.getItem("theme");
+          if (stored === "light" || stored === "dark") {
+            var meta = document.querySelector('meta[name="color-scheme"]');
+            if (meta) meta.setAttribute("content", stored);
+            document.documentElement.setAttribute("data-theme", stored);
+            document.documentElement.classList.toggle(
+              "dark",
+              stored === "dark"
+            );
+          } else {
+            var isDark = window.matchMedia(
+              "(prefers-color-scheme: dark)"
+            ).matches;
+            document.documentElement.setAttribute(
+              "data-theme",
+              isDark ? "dark" : "light"
+            );
+            document.documentElement.classList.toggle("dark", isDark);
+          }
+        } catch (e) {}
+      })();
+    </script>
+
     <link rel="icon" type="image/svg+xml" href={getAssetPath("favicon.svg")} />
-    <link rel="icon" href={getAssetPath("favicon.ico")} />
+    <link rel="icon" sizes="32x32" href={getAssetPath("favicon.ico")} />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href={getAssetPath("apple-touch-icon.png")}
+    />
+    <link rel="manifest" href={getAssetPath("site.webmanifest")} />
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
 
-    <!-- Font -->
+    <!-- Fonts -->
     <Font
-      cssVariable="--font-google-sans-code"
+      cssVariable="--font-display"
+      preload={[{ subset: "latin", weight: 700, style: "normal" }]}
+    />
+    <Font
+      cssVariable="--font-sans"
       preload={[{ subset: "latin", weight: 400, style: "normal" }]}
     />
+    <Font cssVariable="--font-mono" />
 
     <!-- Primary meta -->
     <title>{title}</title>
@@ -58,7 +130,8 @@ const rssHref = getRelativeLocaleUrl(
     <link rel="sitemap" href={getAssetPath("sitemap-index.xml")} />
 
     <!-- Open Graph -->
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:locale" content="es_LA" />
     <meta property="og:site_name" content={site.title} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
@@ -66,11 +139,11 @@ const rssHref = getRelativeLocaleUrl(
     <meta property="og:image" content={socialImageURL} />
 
     <!-- Twitter / X -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content={canonicalURL} />
-    <meta property="twitter:title" content={title} />
-    <meta property="twitter:description" content={description} />
-    <meta property="twitter:image" content={socialImageURL} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content={canonicalURL} />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={socialImageURL} />
 
     <!-- RSS autodiscovery -->
     <link
@@ -81,9 +154,19 @@ const rssHref = getRelativeLocaleUrl(
     />
 
     <!-- Filled at runtime by theme.ts to match the current background colour -->
-    <meta name="theme-color" content="" />
+    <meta name="theme-color" content="#fafbfc" />
 
-    <!-- Extra head content injected by child layouts (e.g. JSON-LD, article meta) -->
+    {
+      websiteSchema && (
+        <script
+          type="application/ld+json"
+          is:inline
+          set:html={JSON.stringify(websiteSchema)}
+        />
+      )
+    }
+
+    <!-- Extra head content injected by child layouts (e.g. NewsArticle JSON-LD) -->
     <slot name="head" />
 
     {
@@ -95,31 +178,13 @@ const rssHref = getRelativeLocaleUrl(
       )
     }
 
-    <!--
-      Inline FOUC-prevention script: sets data-theme on <html> before
-      the browser paints. Runs synchronously, no defer/async.
-    -->
-    <script is:inline>
-      (function () {
-        const stored = localStorage.getItem("theme");
-        const prefersDark = window.matchMedia(
-          "(prefers-color-scheme: dark)"
-        ).matches;
-        const theme = stored ?? "light";
-        const root = document.firstElementChild;
-        root?.setAttribute("data-theme", theme);
-        root?.classList.toggle("dark", theme === "dark");
-        // Expose value so theme.ts can skip re-detection.
-        window.__theme = { value: theme };
-      })();
-    </script>
-
     <ClientRouter />
   </head>
   <body
-    class="bg-background font-app text-foreground selection:bg-accent/75 selection:text-accent-foreground flex min-h-svh flex-col"
+    class="bg-background font-app text-foreground selection:bg-accent/20 selection:text-foreground flex min-h-svh flex-col"
   >
     <slot />
+    {config.features.search !== false && <SearchModal />}
     <script>
       import "@/scripts/theme";
     </script>

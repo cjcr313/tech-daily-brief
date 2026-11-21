@@ -11,7 +11,7 @@ tags:
 description: "La segunda parte del deep dive de OpenAI sobre Habitat: el viaje circular por la multi-tenancy en Azure Cosmos DB, 20M de QPS y por qué los managed services dejan de ser managed a escala extrema."
 ---
 
-![Ilustración editorial de una red global de bóvedas de almacenamiento de datos iluminadas conectadas entre regiones](../../assets/images/2026-10-24-openai-habitat-almacenamiento-mil-millones-usuarios.jpg)
+![OpenAI revela cómo escala 500 PB de almacenamiento para 1.000 millones de usuarios](../../assets/images/2026-10-24-openai-habitat-almacenamiento-mil-millones-usuarios.webp)
 
 OpenAI publicó la **Parte II** de su serie sobre Habitat, la plataforma de almacenamiento online que le da soporte a todos sus productos: más de **1.000 millones de usuarios**, 40 regiones geográficas y **más de 500 petabytes** de datos respondiendo en milisegundos. Y la historia es una perlita para cualquiera que opera bases de datos a escala: **el viaje circular de la multi-tenancy en Azure Cosmos DB**.
 

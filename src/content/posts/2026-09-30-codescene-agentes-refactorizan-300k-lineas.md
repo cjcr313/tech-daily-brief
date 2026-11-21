@@ -12,7 +12,7 @@ tags:
 description: "CodeScene publicó un caso de estudio donde agentes de código refactorizaron 300.000 líneas de C en tres semanas por unos US$4.000 en tokens. Los números impresionan; los pergaminos, no tanto."
 ---
 
-![Ilustración isométrica de un ejército de pequeños robots con herramientas trabajando sobre un gigantesco muro de bloques de código, con un robot orquestador revisando un checklist](../../assets/images/2026-09-30-codescene-agentes-refactorizan-300k-lineas.jpg)
+![Agentes refactorizaron 300.000 líneas de código C en tres semanas: el caso CodeScene que partió el debate](../../assets/images/2026-09-30-codescene-agentes-refactorizan-300k-lineas.webp)
 
 Si te cansaste de leer promesas sobre agentes de código, este caso al menos trae números duros: **CodeScene publicó un caso de estudio** donde agentes refactorizaron un codebase de **300.000 líneas de C en tres semanas**, con un costo de tokens de aproximadamente **US$4.000**. InfoQ lo cubrió hoy y la comunidad quedó partida en dos.
 

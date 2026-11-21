@@ -10,7 +10,7 @@ tags:
 description: "El nuevo Session Replay de Dynatrace ya está disponible para todos los clientes SaaS con Grail: replay de sesiones en el mismo contexto de logs, métricas y trazas."
 ---
 
-![Ilustración editorial de un replay de sesión conectado a trazas y logs](../../assets/images/2026-08-31-dynatrace-session-replay-ga.jpg)
+![Dynatrace lanza Session Replay conectado a logs, traces y RUM](../../assets/images/2026-08-31-dynatrace-session-replay-ga.webp)
 
 Cuando un checkout falla o una transacción queda en disputa, las métricas y los eventos no bastan: hay que **ver lo que vio el usuario**. Ese es el argumento de Dynatrace con su nuevo **Session Replay**, que acaba de salir a disponibilidad general para todos los clientes SaaS que usan Grail.
 

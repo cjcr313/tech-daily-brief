@@ -12,7 +12,7 @@ tags:
 description: "Charles Schwab reporta intentos semanales de agentes IA no autorizados tocando cuentas de clientes; JPMorgan también bloquea. La banca estadounidense está escribiendo su propio régimen de agent-liability mientras el Congreso no aprueba nada."
 ---
 
-![Ilustración editorial de una imponente puerta de bóveda bancaria metálica con un escudo digital brillante que bloquea el paso a pequeños robots financieros que intentan acercarse, skyline de distrito financiero al fondo, paleta acero azul y dorado, estilo ilustración tech editorial profesional, sin texto](../../assets/images/2026-10-18-bancos-bloquean-agentes-ia-schwab-jpmorgan.jpg)
+![Schwab y JPMorgan le cierran la puerta a los agentes de IA: los bancos grandes empiezan a bloquear dinero en movimiento](../../assets/images/2026-10-18-bancos-bloquean-agentes-ia-schwab-jpmorgan.webp)
 
 Los agentes de IA ya llegaron a la banca estadounidense... y los bancos les están cerrando la puerta en la cara. El CEO de Charles Schwab, **Rick Wurster**, le contó a Bloomberg que su firma recibe un **reporte semanal con "decenas y veintenas" de intentos de agentes de IA no autorizados** tocando cuentas de clientes — y mencionó a **Muse de Meta** como uno de los agentes que aparecen en esos reportes. Del otro lado, **Jamie Dimon confirmó que JPMorgan también está bloqueando agentes externos**.
 

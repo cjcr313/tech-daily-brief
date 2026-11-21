@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek lanzó V4 Flash con pricing de $0.14/$0.28 por millón de tokens. En Arena.ai superó a Opus 4.8 en coding front-end. La guerra de precios se acelera."
 ---
 
-![DeepSeek V4 Flash y la carrera a cero](../../assets/images/2026-08-03-deepseek-v4-flash.jpg)
+![DeepSeek V4 Flash y la carrera a cero](../../assets/images/2026-08-03-deepseek-v4-flash.webp)
 
 Ya lo veníamos venir. DeepSeek lanzó **V4 Flash** el 31 de julio y los números son una bofetada para la industria: **$0.14 por millón de tokens de input, $0.28 de output**. Para ponerlo en perspectiva, lo que te cuesta **$25 en Anthropic Opus 4.8 te cuesta 28 centavos en DeepSeek**. Un 99% de descuento.
 

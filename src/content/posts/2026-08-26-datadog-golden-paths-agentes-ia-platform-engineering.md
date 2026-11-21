@@ -11,7 +11,7 @@ tags:
 description: "Los agentes de IA ya consumen las plataformas self-service como si fueran otro usuario más. Datadog publicó cómo adaptar los Golden Paths para que agentes y humanos convivan con contratos, límites y dispatch."
 ---
 
-![Ilustración editorial de una autopista dorada bifurcándose: un carril con un humano y otro con un robot siguiendo carteles de señalización, estilo tech editorial](../../assets/images/2026-08-26-datadog-golden-paths-agentes-ia-platform-engineering.jpg)
+![Datadog: los Golden Paths ahora deben pensar en usuarios que no son humanos](../../assets/images/2026-08-26-datadog-golden-paths-agentes-ia-platform-engineering.webp)
 
 Si tu plataforma interna tiene Golden Paths (esos caminos pavimentados que guían a los devs hacia las buenas prácticas), hora de aceptar algo incómodo: **ya no todos los que los recorren son humanos**. Datadog publicó "Golden Paths for AI agents", una guía sobre qué cambia cuando los usuarios de tu plataforma son agentes autónomos consumiendo APIs y provisionando recursos a las 3 de la mañana.
 

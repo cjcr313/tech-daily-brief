@@ -12,7 +12,7 @@ tags:
 description: "AWS libera como open source el sistema que orquesta múltiples agentes de código en paralelo, usado internamente por 39.000 desarrolladores."
 ---
 
-![Ilustración de múltiples agentes de código trabajando en paralelo](../../assets/images/2026-08-30-aws-kiro-crew-agentes-codigo-asincronos.jpg)
+![Ilustración de múltiples agentes de código trabajando en paralelo](../../assets/images/2026-08-30-aws-kiro-crew-agentes-codigo-asincronos.webp)
 
 Amazon acaba de abrir el código de **Kiro Crew**, un sistema para correr varios agentes de código (los Kiro) de forma simultánea y **asíncrona**: lanzas una tarea, te vas a hacer otra cosa, y vuelves a algo que vale la pena revisar. Nada de andar babysitteando un prompt a la vez.
 

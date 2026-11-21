@@ -11,7 +11,7 @@ tags:
 description: "Microsoft puso en preview pública el Multicloud Connector de Azure Arc: descubre clusters Amazon EKS y Google GKE y los enrola en Arc-enabled Kubernetes sin que salgan de su nube de origen."
 ---
 
-![Ilustración editorial tech de tres nubes estilizadas conectadas por puentes luminosos hacia un panel de control central flotante, nodos Kubernetes orbitando, paleta azul corporativo con acentos celestes, estilo flat profesional, sin texto](../../assets/images/2026-10-08-azure-arc-multicloud-connector-eks-gke-preview.jpg)
+![Azure Arc Multicloud Connector en preview: Azure encuentra y enrola tus clusters EKS y GKE solo](../../assets/images/2026-10-08-azure-arc-multicloud-connector-eks-gke-preview.webp)
 
 Microsoft puso en **preview pública** el Multicloud Connector de Azure Arc, y es una jugada de control plane que vale la pena mirar aunque no seas casa Azure: el connector ahora puede **descubrir clusters de Amazon EKS y Google GKE y enrolarlos automáticamente en Azure Arc-enabled Kubernetes**, sin que los clusters se muevan de su nube de origen ni nadie escriba un script de onboarding a mano.
 

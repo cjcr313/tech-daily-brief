@@ -11,7 +11,7 @@ tags:
 description: "La versión 2.32.0 del agente Java de OpenTelemetry es el release candidate de la 3.0: convenciones semánticas estables, Kafka cambia los nombres de los spans y Zipkin desaparece en modo preview."
 ---
 
-![Ilustración editorial tech de instrumentos de medición y flujos de telemetría convergiendo en un panel central luminoso, líneas de datos azul turquesa fluyendo por tubos hacia un dashboard abstracto, estilo flat profesional, sin texto](../../assets/images/2026-10-08-opentelemetry-java-agent-2-32-0-rc-3-0.jpg)
+![OpenTelemetry Java agent 2.32.0: el ensayo general antes del salto a 3.0](../../assets/images/2026-10-08-opentelemetry-java-agent-2-32-0-rc-3-0.webp)
 
 Salió el [agente Java de OpenTelemetry 2.32.0](https://www.developer-tech.com/news/opentelemetry-java-agent-2-32-0-previews-3-0-telemetry-defaults/) y no es un release más: es el **release candidate de la versión 3.0**, apuntada para octubre de 2026. La gracia es que podís previsualizar todos los cambios de convenciones y defaults *antes* de que sean el comportamiento obligatorio. Si tenís apps Java instrumentadas con el agente automático, este es el momento de probar — no cuando la 3.0 caiga de golpe en producción.
 

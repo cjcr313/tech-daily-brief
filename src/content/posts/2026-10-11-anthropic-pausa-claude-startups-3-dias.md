@@ -10,7 +10,7 @@ tags:
 description: "Cientos de miles de postulaciones en 48 horas (21x más que en 5 meses) obligaron a Anthropic a congelar el año gratis de Claude Team y los US$1.000 en créditos API. Los aprobados sin canje van a re-verificación."
 ---
 
-![Ilustración editorial de una puerta de oficina futurista con una fila interminable de personas y robots esperando para entrar, mientras un cartel luminoso de pausa brilla sobre la puerta, tonos naranjas cálidos y azul profundo, estilo ilustración tech profesional satírica, sin texto](../../assets/images/2026-10-11-anthropic-pausa-claude-startups-3-dias.jpg)
+![Anthropic pausa Claude Startups a los 3 días: el free lunch duró menos que un fin de semana largo](../../assets/images/2026-10-11-anthropic-pausa-claude-startups-3-dias.webp)
 
 Anthropic lanzó el 6 de octubre la versión ampliada de su programa **Claude Startups**, con una oferta jugosa: **un año gratis de Claude Team para hasta 5 usuarios más US$1.000 en créditos de API**. Tres días después, el 9 de octubre, lo pausó. La razón: no pudieron con el volumen.
 

@@ -11,7 +11,7 @@ tags:
 description: "Versiones 2.1.312 y 2.1.313 de la extensión oficial de Claude Code fueron comprometidas en el marketplace de Cursor, instalando un backdoor SSH persistente. Si la instalaste, asume máquina comprometida."
 ---
 
-![Ilustración editorial tech de un caballo de Troya de madera disfrazado de caja de paquete de software entrando a una terminal de desarrollo con resplandor de alerta e ícono de llave SSH, paleta rojo oscuro y pizarra, estilo revista de ciberseguridad, sin texto](../../assets/images/2026-11-01-claude-code-extension-troyano-ssh-cursor.jpg)
+![Extensión oficial de Claude Code troyanizada en el marketplace de Cursor: backdoor SSH y hasta 5.000 devs afectados](../../assets/images/2026-11-01-claude-code-extension-troyano-ssh-cursor.webp)
 
 Supply chain attack de los que duelen: el 29 de octubre, **versiones troyanizadas (2.1.312 y 2.1.313) de la extensión oficial `anthropic.claude-code` de VS Code fueron publicadas en el marketplace de Cursor**, haciéndose pasar por actualización legítima. Estuvieron disponibles unas **11 horas** (≈09:27 a 20:35 UTC) y su payload intentaba instalar un **backdoor SSH persistente**. Cursor estima un blast radius de **"a lo más 5.000 usuarios"**.
 

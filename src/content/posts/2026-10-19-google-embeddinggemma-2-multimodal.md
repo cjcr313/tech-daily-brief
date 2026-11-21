@@ -11,7 +11,7 @@ tags:
 description: "Google liberó EmbeddingGemma 2 bajo Apache 2.0: un modelo de embeddings multimodal de peso abierto que unifica cinco modalidades en un espacio de 768 dimensiones, pensado para correr en el propio dispositivo."
 ---
 
-![Ilustración editorial tech de cinco flujos de datos de distintos colores —texto, código, imagen, video y audio— convergiendo en una esfera de cristal geométrica que emite una grilla de vectores ordenados, fondo azul profundo con malla de puntos, estilo ilustración tecnológica limpia, sin texto](../../assets/images/2026-10-19-google-embeddinggemma-2-multimodal.jpg)
+![Google abre EmbeddingGemma 2: texto, código, imagen, video y audio en un mismo espacio de embeddings](../../assets/images/2026-10-19-google-embeddinggemma-2-multimodal.webp)
 
 Google liberó **EmbeddingGemma 2**, la nueva generación de su modelo de embeddings, y esta vez la apuesta es claramente multimodal: **texto, código, imágenes, video y audio viven en un mismo espacio de embeddings de 768 dimensiones**, bajo licencia **Apache 2.0** y con pesos abiertos en Hugging Face. Está construido sobre Gemma 4.
 

@@ -12,7 +12,7 @@ tags:
 description: "GitHub lanzó Copilot Fusion, un nuevo sistema de selección y orquestación dinámica de LLMs que promete igualar el rendimiento de Claude Code recortando los costos de API a la mitad."
 ---
 
-![Ilustración editorial de un núcleo de cómputo conectando múltiples modelos de lenguaje en red](../../assets/images/2026-10-28-github-copilot-fusion-orquestacion-modelos.jpg)
+![GitHub presenta Copilot Fusion: orquestación inteligente de modelos a mitad de precio](../../assets/images/2026-10-28-github-copilot-fusion-orquestacion-modelos.webp)
 
 En medio de la batalla campal por el dominio del desarrollo asistido por IA, GitHub acaba de mover una ficha clave: el lanzamiento de **Copilot Fusion**, un motor de orquestación y selección dinámica de modelos diseñado para optimizar tanto la precisión del código como los costos operacionales de los agentes.
 

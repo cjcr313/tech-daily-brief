@@ -11,7 +11,7 @@ tags:
 description: "Meta y Sierra lanzaron un estándar abierto basado en OAuth para que agentes personales se autentiquen con empresas. Walmart, Shopify y Stripe ya están adentro, y va directo contra el protocolo de Visa."
 ---
 
-![Ilustración editorial de un agente de IA personal actuando como intermediario entre una persona y varias tiendas digitales, flujo de autorización con llaves y candados en un circuito limpio, estilo ilustración tech editorial en azules y corinto, sin texto](../../assets/images/2026-10-07-personal-agent-protocol-meta-sierra.jpg)
+![Meta y Sierra publican el Personal Agent Protocol: el OAuth para que los agentes compren por ti](../../assets/images/2026-10-07-personal-agent-protocol-meta-sierra.webp)
 
 Cuando la gente pregunta "¿cómo van a comprar los agentes de IA?", la parte difícil nunca fue el modelo: es la **autenticación y el contexto**. ¿Cómo un agente personal inicia sesión en una tienda con tu permiso, lleva tu historial entre canales y ejecuta acciones sin que le roben la sesión? Meta y Sierra (la empresa de Bret Taylor) respondieron el 6 de octubre con el **Personal Agent Protocol**, un estándar abierto que es básicamente **OAuth para agentes**.
 

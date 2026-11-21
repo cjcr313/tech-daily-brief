@@ -11,7 +11,7 @@ tags:
 description: "Una jueza federal declaró inconstitucional el rótulo de 'riesgo de cadena de suministro' que el Pentágono le puso a Anthropic, en plena antesala de su IPO de 2 billones."
 ---
 
-![Ilustración editorial de un mazo de juez rompiendo una cadena que ata un escudo de circuitos](../../assets/images/2026-09-02-pentagono-blacklist-anthropic-inconstitucional.jpg)
+![Jueza anula blacklist del Pentágono contra Anthropic: decir que no no es delito](../../assets/images/2026-09-02-pentagono-blacklist-anthropic-inconstitucional.webp)
 
 Un tribunal federal le acaba de bajar el pulgar al Pentágono. La jueza **Rita Lin** (Distrito Norte de California) declaró inconstitucional la etiqueta de "riesgo de cadena de suministro" que el Departamento de Defensa le clavó a Anthropic este año. Es uno de los primeros choques legales serios sobre cuánto puede castigar el gobierno a una empresa de IA por negarse a sus exigencias.
 

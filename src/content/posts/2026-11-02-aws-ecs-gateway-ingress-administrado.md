@@ -12,7 +12,7 @@ tags:
 description: "AWS lanzó ECS Gateway: un recurso de nivel cuenta que deja a platform engineering definiendo la red una vez y a los equipos de app conectándose con un conector. Gratis (solo pagas lo que provisiona), pero sin soporte documentado para dominios propios."
 ---
 
-![Ilustración editorial tech de una arquitectura de nube con una puerta de enlace central brillante distribuyendo flujos de tráfico de colores hacia múltiples contenedores modulares en fila, paneles de control flotantes, paleta verde azulado y violeta, estilo ilustración isométrica tecnológica profesional, sin texto](../../assets/images/2026-11-02-aws-ecs-gateway-ingress-administrado.jpg)
+![Amazon ECS Gateway: ingress administrado para ECS, pero con un pero llamado dominio propio](../../assets/images/2026-11-02-aws-ecs-gateway-ingress-administrado.webp)
 
 AWS liberó **Amazon ECS Gateway**, un ingress totalmente administrado para servicios de ECS que resuelve un dolor viejo: dejar de armar ALB + listener rules + target groups + certificados a mano cada vez que un servicio necesita recibir tráfico. La idea organizacional es limpia: **el equipo de plataforma crea el gateway una vez** (con su rol IAM de infraestructura, subnets, security groups, certificados TLS, listeners y un web ACL de WAF opcional), lo asocia a los clusters, y **los equipos de aplicación conectan sus servicios con un conector** vía `CreateService` o `UpdateService`. Fin del ticket cruzado entre app y networking.
 

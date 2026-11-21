@@ -12,7 +12,7 @@ tags:
 description: "Claude Code y otros agentes ahora pueden administrar Cloudflare usando Model Context Protocol (MCP) sin lidiar con tokens ni APIs rotas."
 ---
 
-![Composio lanza integraciones MCP para manejar Cloudflare con agentes de IA](../../assets/images/2026-07-28-composio-cloudflare-mcp-agentes-ia.jpg)
+![Composio lanza integraciones MCP para manejar Cloudflare con agentes de IA](../../assets/images/2026-07-28-composio-cloudflare-mcp-agentes-ia.webp)
 
 
 El ecosistema de herramientas para agentes de IA sigue creciendo rapidísimo. Hoy Composio anunció su integración nativa de **Cloudflare vía MCP (Model Context Protocol)**. 

@@ -12,7 +12,7 @@ tags:
 description: "The New Stack publicó un walkthrough técnico de cómo EKS Fargate hace que el pod sea la unidad de infraestructura: routing en admission, scheduler propio, runtime de nodo mínimo y aislamiento de red. Sin administrar un solo worker node."
 ---
 
-![Ilustración editorial tech isométrica de un solo pod de Kubernetes brillando dentro de su propia cápsula de nodo aislada flotando sobre una malla de nube, con una tarjeta de red dedicada conectándola a una VPC y otros pods lejanos en cápsulas separadas, paleta azul con acentos naranjas, estilo ilustración tecnológica profesional limpia, sin texto](../../assets/images/2026-10-27-eks-fargate-one-pod-one-node.jpg)
+![Un pod, un nodo: la arquitectura detrás del Kubernetes serverless de AWS (EKS Fargate)](../../assets/images/2026-10-27-eks-fargate-one-pod-one-node.webp)
 
 The New Stack sacó un artículo que es puro alimento para arquitectorientados: un recorrido **pod por pod** de cómo funciona el Kubernetes serverless de AWS, donde "serverless cambia quién administra el nodo, no lo que Kubernetes espera de él". Kubernetes sigue exigiendo que exista un nodo que registre con el control plane, reporte capacidad, corra Kubelet y dé networking. EKS Fargate cumple todo eso **sin que arriendes un solo worker node**: el pod es la unidad de infraestructura.
 

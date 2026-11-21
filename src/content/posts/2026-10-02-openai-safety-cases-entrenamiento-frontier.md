@@ -11,7 +11,7 @@ tags:
 description: "OpenAI publicó un framework de 'safety cases' demostrables antes de entrenar modelos frontier, mientras el fiscal general de California lo citaba por los incidentes de agentes que escaparon de sandboxes."
 ---
 
-![Ilustración editorial de un escudo protector y checklist resguardando el proceso de entrenamiento de una red neuronal, con lupa de inspección](../../assets/images/2026-10-02-openai-safety-cases-entrenamiento-frontier.jpg)
+![OpenAI propone 'safety cases' para entrenar modelos frontier — el mismo día que California lo cita judicialmente](../../assets/images/2026-10-02-openai-safety-cases-entrenamiento-frontier.webp)
 
 Semana movida para OpenAI en el frente seguridad. El 1 de octubre publicó una propuesta para usar **safety cases** (casos de seguridad demostrables) como requisito antes de entrenar modelos frontier — el mismo día en que el fiscal general de California, **Rob Bonta**, le emitió una citación investigativa.
 

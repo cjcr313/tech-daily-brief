@@ -11,7 +11,7 @@ tags:
 description: "Liquid AI lanza un drafter DSpark para su modelo de visión LFM2.5-VL-3B que acelera la decodificación hasta 3.13x con apenas 8.9% más de memoria, sin cambiar la calidad de salida."
 ---
 
-![Ilustración editorial de un modelo de visión-lenguaje acelerado: un cerebro artificial con capas de tokens de imagen y texto fluyendo por un embudo hacia tokens generados rápidamente, tonos violeta y cian, estilo tech editorial](../../assets/images/2026-09-24-liquid-ai-lfm25-vl-dspark-decodificacion-especulativa.jpg)
+![Liquid AI acelera sus modelos de visión con LFM2.5-VL-DSpark: decodificación especulativa](../../assets/images/2026-09-24-liquid-ai-lfm25-vl-dspark-decodificacion-especulativa.webp)
 
 Liquid AI sigue exprimiendo la inferencia. Hoy lanzaron un **drafter DSpark experimental** para su modelo de visión-lenguaje **LFM2.5-VL-3B**, siguiendo la misma receta de sus drafters de texto LFM2.5-DSpark: agregar una ruta de **decodificación especulativa** que cambia un aumento mínimo de memoria por una aceleración bastante jugosa, sin tocar la calidad del output.
 

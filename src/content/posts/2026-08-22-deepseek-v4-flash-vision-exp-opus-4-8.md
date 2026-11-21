@@ -11,7 +11,7 @@ tags:
 description: "DeepSeek lanzó un modelo experimental multimodal que dice acercarse a Opus 4.8 en capacidades agénticas. Gana 3 de 11 benchmarks según su propia tabla. Y hay IPO en el horizonte."
 ---
 
-![Ilustración de un modelo de inteligencia artificial multimodal procesando imágenes y texto en un laboratorio tecnológico chino, estilo editorial](../../assets/images/2026-08-22-deepseek-v4-flash-vision-exp-opus-4-8.jpg)
+![DeepSeek V4-Flash-Vision-Exp: el modelo multimodal experimental que apunta directo a Opus 4.8](../../assets/images/2026-08-22-deepseek-v4-flash-vision-exp-opus-4-8.webp)
 
 DeepSeek volvió a mover la aguja: lanzó **DeepSeek-V4-Flash-Vision-Exp**, un **modelo multimodal experimental** que entiende prompts visuales y que, según la propia compañía, **acerca su rendimiento al Opus 4.8 de Anthropic** en pruebas de capacidades agénticas. Ya está disponible a través de su API.
 

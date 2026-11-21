@@ -12,7 +12,7 @@ tags:
 description: "Doce años después de Universal SSL, Cloudflare aplicó a los root programs de Chrome, Apple, Microsoft y Mozilla, comprará un root de GlobalSign y planea emitir certificados post-cuánticos con Merkle Tree Certificates."
 ---
 
-![Ilustración editorial de un certificado digital con candado y raíces de confianza conectando nodos y servidores del mundo, estilo tech editorial](../../assets/images/2026-09-29-cloudflare-certificate-authority-root-globalsign.jpg)
+![Cloudflare será autoridad certificadora: le compra un root a GlobalSign y apunta al mundo post-cuántico](../../assets/images/2026-09-29-cloudflare-certificate-authority-root-globalsign.webp)
 
 Hace doce años, en la Birthday Week de 2014, Cloudflare prendió Universal SSL y prácticamente duplicó de la noche a la mañana los sitios cifrados de la web. Hoy, en la Birthday Week 2026, dio el siguiente paso: **Cloudflare anunció su intención de convertirse en autoridad certificadora (CA) pública**. Y no es un anuncio tibio: ya aplicaron a los root programs de **Chrome, Apple, Microsoft y Mozilla**, y firmaron un acuerdo definitivo para **adquirir un root establecido de GlobalSign**.
 

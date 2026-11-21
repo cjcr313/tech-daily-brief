@@ -11,7 +11,7 @@ tags:
 description: "La telemetría de decenas de miles de bases productivas confirma que 'Postgres for everything' dejó de ser meme: 60% de adopción, Python y Node pasando a Java, y pgvector como la extensión que más crece."
 ---
 
-![Ilustración editorial de un elefante de base de datos conectando servicios en la nube](../../assets/images/2026-08-23-datadog-state-of-postgres-2026.jpg)
+![Datadog 'State of Postgres': 60% de las organizaciones ya corren Postgres en producción y la IA acelera la toma](../../assets/images/2026-08-23-datadog-state-of-postgres-2026.webp)
 
 Datadog publicó su informe **State of Postgres**, construido sobre telemetría real de decenas de miles de bases de datos productivas de sus clientes. Y el dato headline no es marketing: **la fracción de organizaciones con al menos una instancia de Postgres en producción creció de 54% a 60% entre julio 2024 y mayo de este año**, consolidándolo como la base transaccional más usada con ventaja creciente sobre MySQL y MongoDB.
 

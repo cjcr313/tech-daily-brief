@@ -12,7 +12,7 @@ tags:
 description: "HashiCorp parchó una escalada de privilegios en Vault: una restricción denied_parameters sobre el campo policies se podía saltar con nombres de política en mayúsculas/minúsculas mezcladas. Ahora Vault normaliza a minúsculas."
 ---
 
-![Ilustración editorial de una bóveda de secretos (Vault) con un candado que se normaliza, cadenas de permisos convergiendo a minúsculas, paleta morada y ámbar sobre fondo oscuro](../../assets/images/2026-09-05-hashicorp-vault-privilege-escalation.jpg)
+![HashiCorp Vault corrige un bypass de privilegios usando nombres de política con mayúsculas](../../assets/images/2026-09-05-hashicorp-vault-privilege-escalation.webp)
 
 HashiCorp publicó un parche de seguridad en **Vault** que vale la pena tener en el radar, sobre todo si usas políticas con restricciones finas (los *sentinel constraints* del enterprise). La falla permitía una **escalada de privilegios** sutil: una restricción **`denied_parameters`** aplicada sobre el campo **`policies`** se podía **saltar usando nombres de política con mayúsculas y minúsculas mezcladas**.
 

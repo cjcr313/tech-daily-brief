@@ -11,7 +11,7 @@ tags:
 description: "Physical Superintelligence (PSI) anunció que su sistema de investigación, corriendo un modelo no público de Anthropic, encontró una prueba completa de la conjetura Aaronson-Ambainis (2008), formalizada en Lean y revisada por humanos."
 ---
 
-![Ilustración editorial de una red neuronal luminosa resolviendo una estructura matemática abstracta frente a un qubit estilizado, conexiones doradas sobre fondo azul profundo, estilo ilustración científica profesional, sin texto](../../assets/images/psi-anthropic-modelo-prueba-aaronson-ambainis.jpg)
+![Una IA corriendo un modelo no publicado de Anthropic probó la conjetura de Aaronson-Ambainis: 18 años abierta, resuelta en tres días](../../assets/images/psi-anthropic-modelo-prueba-aaronson-ambainis.webp)
 
 La semana cerró con una de esas noticias que hacen levantar la ceja hasta al más escéptico: **Physical Superintelligence (PSI)**, una startup de investigación acelerada por IA, anunció el viernes que su sistema interno —corriendo instancias de un **modelo no publicado de Anthropic**— encontró una **prueba completa de la conjetura de Aaronson-Ambainis**, un problema de teoría de la computación cuántica abierto desde 2008.
 

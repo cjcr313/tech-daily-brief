@@ -11,7 +11,7 @@ tags:
 description: "Los números que van saliendo del filing de OpenAI contrastan con la fiesta de Anthropic: ARR enterprise de US$40 mil millones y creciendo, pero US$14 mil millones de pérdida proyectada para 2026 y una valorización objetivo sobre el billón de dólares."
 ---
 
-![Ilustración editorial de un gráfico bursátil ascendente hecho de nodos de red neuronal dorados, junto a una balanza que pesa monedas de oro contra una llama de billetes ardiendo, fondo azul marino profundo con luces ámbar](../../assets/images/2026-08-18-openai-ipo-ingresos-40b-perdida-14-mil-millones.jpg)
+![OpenAI rumbo al IPO: US$2 mil millones al mes de ingresos y una pérdida proyectada de US$14 mil millones](../../assets/images/2026-08-18-openai-ipo-ingresos-40b-perdida-14-mil-millones.webp)
 
 Mientras [Anthropic celebra su primer trimestre con utilidad operativa](/posts/anthropic-ipo-2-billones-octubre-record/), los números que van apareciendo del lado de OpenAI pintan un cuadro bien distinto: gigantesco, sí, pero con una fila de gastos todavía más gigante.
 

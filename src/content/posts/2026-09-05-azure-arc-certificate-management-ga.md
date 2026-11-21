@@ -12,7 +12,7 @@ tags:
 description: "Microsoft llevó a disponibilidad general el manejo de certificados en Azure Arc-enabled Kubernetes, empaquetando cert-manager y trust-manager (ambos graduados CNCF) como una extensión gestionada para flotas edge."
 ---
 
-![Ilustración editorial de una flota de clústeres de Kubernetes en el edge conectados a un panel de gestión central, con certificados X.509 y cadenas de confianza flotando, paleta azul acero con acentos cian](../../assets/images/2026-09-05-azure-arc-certificate-management-ga.jpg)
+![Azure Arc Certificate Management llega a GA: cert-manager y trust-manager como servicio gestionado](../../assets/images/2026-09-05-azure-arc-certificate-management-ga.webp)
 
 El **1 de septiembre** Microsoft movió a **disponibilidad general** (GA) el manejo de certificados en **Azure Arc-enabled Kubernetes**, y la jugada es más interesante de lo que parece a primera vista: en lugar de inventar algo propio, empaquetaron dos proyectos **graduados de la CNCF** — **cert-manager** y **trust-manager** — como una sola extensión **gestionada por Microsoft**.
 

@@ -12,7 +12,7 @@ tags:
 description: "Palo Alto Networks convierte su análisis de exposición en un servicio ofensivo continuo, alimentado por Claude Mythos 5 y GPT-5.6-Cyber para cazar vulnerabilidades 24/7."
 ---
 
-![Escudo defensivo digital formado por haces de datos, con nodos de modelos IA conectados escaneando una infraestructura cloud](../../assets/images/2026-09-23-palo-alto-unit-42-ai-defense-multimodelo.jpg)
+![Palo Alto lanza Unit 42 Continuous Frontier AI Defense con modelos de Anthropic y OpenAI](../../assets/images/2026-09-23-palo-alto-unit-42-ai-defense-multimodelo.webp)
 
 Palo Alto Networks metió un golazo en la intersección entre seguridad y modelos de frontera: **Unit 42 Continuous Frontier AI Defense**, un servicio de offensive security que corre las 24 horas y usa los modelos gated de Anthropic y OpenAI para encontrar y validar vulnerabilidades antes de que un atacante las explote.
 

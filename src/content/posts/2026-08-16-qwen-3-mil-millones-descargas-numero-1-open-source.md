@@ -10,7 +10,7 @@ tags:
 description: "Los modelos open-weight de Alibaba superaron los 3.000 millones de descargas en seis meses, más del 50% del open source mundial. Meta y Google quedaron muy atrás según el reporte de Hugging Face."
 ---
 
-![Ilustración editorial de una montaña de cubos de datos brillantes con flechas de descarga descendiendo hacia laptops y servidores, estilo tech editorial](../../assets/images/2026-08-16-qwen-3-mil-millones-descargas-numero-1-open-source.jpg)
+![Qwen cruza los 3.000 millones de descargas: Alibaba se corona rey del open source y Meta/Google quedan chicos](../../assets/images/2026-08-16-qwen-3-mil-millones-descargas-numero-1-open-source.webp)
 
 Dato para sentarse un segundo: la familia **Qwen de Alibaba acumuló más de 3.000 millones de descargas globales en solo seis meses**, según confirmó la propia empresa citando el nuevo reporte *State of Open Models* de Hugging Face (publicado el 14 de agosto). Con eso, Qwen se convirtió en la **familia de modelos de IA número 1 del mundo en descargas open source**, dejando atrás a Meta, Google y a todos los rivales chinos.
 

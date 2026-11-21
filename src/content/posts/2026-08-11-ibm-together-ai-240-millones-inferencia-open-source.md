@@ -12,7 +12,7 @@ tags:
 description: "IBM y Together AI anunciaron un acuerdo multi-year de US$240M para desplegar el primer cluster large-scale de NVIDIA HGX B300 en IBM Cloud dedicado a inferencia open-source."
 ---
 
-![Ilustración editorial de un datacenter con servidores GPU NVIDIA y flujos de inferencia AI](../../assets/images/2026-08-11-ibm-together-ai.jpg)
+![IBM y Together AI firman deal de US$240M: inferencia open-source a escala con NVIDIA B300](../../assets/images/2026-08-11-ibm-together-ai.webp)
 
 IBM acaba de anunciar un acuerdo brutal con **Together AI**: un contrato multi-año de **US$240 millones** para desplegar infraestructura de inferencia AI en IBM Cloud usando los nuevos sistemas **NVIDIA HGX B300**. La apuesta es clara: hacer de IBM Cloud el lugar donde corra la inferencia open-source a escala.
 

@@ -11,7 +11,7 @@ tags:
 description: "El nuevo informe de Threat Intelligence de Anthropic detalla cómo bloqueó el uso de Claude para armas biológicas, enjambres de drones y ciberespionaje ruso durante los últimos ocho meses."
 ---
 
-![Ilustración editorial de seguridad en IA: una red neuronal brillante protegida por un escudo, con tonos azul profundo y rojo, concepto abstracto de ciberdefensa sobre un fondo oscuro](../../assets/images/2026-09-11-anthropic-informe-uso-malicioso-ia-2026.jpg)
+![Anthropic revela cómo frenó armas biológicas, drones kamikaze y el APT29 ruso con Claude](../../assets/images/2026-09-11-anthropic-informe-uso-malicioso-ia-2026.webp)
 
 Anthropic acaba de publicar su informe de amenazas de septiembre y, la verdad, se lee como guion de película. Su equipo de **Threat Intelligence** pasó los últimos **ocho meses** detectando y desarticulando operaciones donde actores maliciosos intentaron usar Claude para cosas bastante turbias.
 

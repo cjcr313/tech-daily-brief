@@ -11,7 +11,7 @@ tags:
 description: "Microsoft impone límites de tokens de IA a sus ingenieros y cambia por defecto a GPT-5.6 Sol para controlar costos."
 ---
 
-![Presupuesto de tokens IA](../../assets/images/2026-08-06-microsoft-limita-presupuesto-tokens-ia.jpg)
+![Presupuesto de tokens IA](../../assets/images/2026-08-06-microsoft-limita-presupuesto-tokens-ia.webp)
 
 Se acabó la fiesta del token infinito en Microsoft. En un memo interno enviado por el VP Jay Parikh a los equipos de Core AI, la empresa fue clarita: **"Tokenmaxxing no es lo que estamos optimizando"**. Básicamente, le están pidiendo a los ingenieros que bajen las revoluciones con el uso de GitHub Copilot y otras herramientas de IA porque la cuenta estaba saliendo demasiado cara.
 
