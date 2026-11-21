@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://cjcr313.github.io",
+    url: "https://pingdiario.com",
     title: "Ping Diario",
     description: "Un resumen diario de lo más relevante en tecnología, Kubernetes, Nube y Seguridad.",
     author: "Nauta Lab",
