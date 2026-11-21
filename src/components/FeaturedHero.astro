@@ -155,30 +155,70 @@ const postUrl = getPostUrl(post.id, post.filePath, locale);
             const itemCat = getCategoryMeta(item.data.tags?.[0]);
             const itemUrl = getPostUrl(item.id, item.filePath, locale);
             const itemRead = getReadingTimeMinutes(item.body);
+            const itemCover = getPostCover(item);
             return (
               <li class="py-4 first:pt-4 last:pb-1">
-                <a href={itemUrl} class="group block">
-                  <div class="flex items-center justify-between gap-2">
-                    <span
-                      class:list={[
-                        "font-mono inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 text-[10px] font-semibold tracking-wide uppercase",
-                        itemCat.chipClass,
-                      ]}
-                    >
-                      <span
-                        class:list={["size-1.5 rounded-full", itemCat.dotClass]}
-                        aria-hidden="true"
+                <a
+                  href={itemUrl}
+                  class="group flex flex-col gap-3.5 sm:flex-row sm:items-start"
+                >
+                  <div class="bg-muted border-border relative aspect-video w-full shrink-0 overflow-hidden rounded-xl border sm:aspect-[4/3] sm:w-36">
+                    {itemCover?.image && !itemCover.isSvg ? (
+                      <Image
+                        src={itemCover.image}
+                        alt=""
+                        width={400}
+                        format="webp"
+                        quality={78}
+                        loading="eager"
+                        decoding="async"
+                        class="absolute inset-0 size-full object-cover transition-transform duration-300 group-hover:scale-105"
                       />
-                      {itemCat.label}
-                    </span>
-                    <Datetime {...item.data} readingTime={itemRead} />
+                    ) : itemCover?.url ? (
+                      <img
+                        src={itemCover.url}
+                        alt=""
+                        loading="eager"
+                        decoding="async"
+                        class="absolute inset-0 size-full object-cover transition-transform duration-300 group-hover:scale-105"
+                      />
+                    ) : (
+                      <div
+                        class:list={[
+                          "absolute inset-0 flex items-center justify-center bg-linear-to-br",
+                          itemCat.gradientClass,
+                        ]}
+                      >
+                        <span class="font-mono text-xs font-bold tracking-widest text-white/70 uppercase">
+                          {itemCat.label}
+                        </span>
+                      </div>
+                    )}
                   </div>
-                  <h3 class="font-display text-foreground group-hover:text-accent mt-2 line-clamp-2 text-base leading-snug font-bold tracking-tight transition-colors">
-                    {item.data.title}
-                  </h3>
-                  <p class="text-muted-foreground mt-1.5 line-clamp-2 text-xs leading-relaxed sm:text-sm">
-                    {item.data.description}
-                  </p>
+
+                  <div class="min-w-0 flex-1">
+                    <div class="flex flex-wrap items-center gap-2">
+                      <span
+                        class:list={[
+                          "font-mono inline-flex items-center gap-1.5 rounded-full border px-2 py-0.5 text-[10px] font-semibold tracking-wide uppercase",
+                          itemCat.chipClass,
+                        ]}
+                      >
+                        <span
+                          class:list={["size-1.5 rounded-full", itemCat.dotClass]}
+                          aria-hidden="true"
+                        />
+                        {itemCat.label}
+                      </span>
+                      <Datetime {...item.data} readingTime={itemRead} />
+                    </div>
+                    <h3 class="font-display text-foreground group-hover:text-accent mt-2 line-clamp-2 text-[0.98rem] leading-snug font-bold tracking-tight transition-colors">
+                      {item.data.title}
+                    </h3>
+                    <p class="text-muted-foreground mt-1.5 line-clamp-2 text-xs leading-relaxed">
+                      {item.data.description}
+                    </p>
+                  </div>
                 </a>
               </li>
             );
