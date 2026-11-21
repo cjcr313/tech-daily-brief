@@ -42,3 +42,18 @@ La IA no solo promete ordenar el desorden: también lo está causando. El inform
 Dynatrace resume la disyuntiva con dos conceptos que vale la pena memorizar: **observability of AI** (evidencia sobre el comportamiento de la IA) versus **AI-powered observability** (usar IA para operar mejor el stack). Las dos se necesitan; hoy el mercado tiene mucha de la segunda y poca de la primera.
 
 La pregunta incómoda queda flotando: si tu agente toma una decisión operacional esta noche, ¿cómo sabes mañana qué hizo y por qué? Mientras esa respuesta siga siendo "no sé", la autonomía total sigue siendo presentación de ventas, no realidad operacional.
+
+### Update: 2026-11-21
+
+Dynatrace publicó la pieza estratégica que acompaña al reporte: **"State of Observability 2026: How to build an observability strategy for reliable AI"**. El corazón es un playbook de **seis acciones** para cerrar la brecha de ejecución que el reporte ya mostraba:
+
+1. **Definir los outcomes que la IA debe entregar** — conectar disponibilidad, comportamiento, costo y resultado de negocio en una sola línea.
+2. **Crear contexto operativo compartido** — unir IA, cloud, aplicaciones, seguridad y servicios de negocio (recordatorio: 62% opera en 3+ clouds y 56% usa 6+ herramientas de observabilidad).
+3. **Instrumentar y evaluar continuamente** — la ejecución de observabilidad de IA va 14 puntos porcentuales detrás de su importancia percibida; hay que instrumentar desde desarrollo, no solo en producción.
+4. **Aumentar la autoridad de la IA progresivamente** — más autonomía solo cuando se demuestren fiabilidad, explicabilidad y gobernanza.
+5. **Aplicar evidencia continua a seguridad** — solo 45% prioriza vulnerabilidades por explotabilidad runtime real; conectar testing pre-producción con exposición real.
+6. **Gestionar la telemetría como ciclo de vida** — estandarizar, filtrar, enriquecer, enrutar y optimizar; OpenTelemetry más allá de la evaluación (20% ya lo hizo estratégico).
+
+La tesis de fondo no cambió desde nuestro post original: se necesita **observability of AI** y **AI-powered observability** a la vez, y el mercado tiene mucha de la segunda y poca de la primera. Lo nuevo es el cómo: un marco accionable para dejar de improvisar.
+
+**Fuente:** [Dynatrace Blog](https://www.dynatrace.com/news/blog/state-of-observability-2026-how-to-build-an-observability-strategy-for-reliable-ai/)
