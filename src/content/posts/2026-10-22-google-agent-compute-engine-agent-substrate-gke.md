@@ -66,3 +66,13 @@ Google publicó un [deep-dive del Dataplane V2 de GKE](https://cloud.google.com/
 - Testimonio de cliente: **Mistral AI** orquesta cientos de miles de entornos seguros entre clusters con Agent Substrate, con picos de **más de 30.000 sandboxes en un solo cluster**.
 
 Nota práctica para quien corra agentes en GKE: revisa qué labels de tus pods son realmente funcionales para selectors. El resto, a annotations, antes de que el escalado te lo recuerde a las malas.
+
+### Update: 22 de noviembre, 2026 — Deep dive técnico en InfoQ y los primeros cuestionamientos
+
+[InfoQ publicó](https://www.infoq.com/news/2026/11/google-agent-compute-engine/) un análisis del servicio basado en el deep dive *"Inside Agent Compute Engine"* de Ramanathan Venkatapathy y Rohit Jnagal, distinguished engineers de Google, con detalles nuevos:
+
+- **La separación cerebro/manos como principio de diseño**: el harness de orquestación corre *completamente fuera* del sandbox de ejecución. Los entornos guest no confiables solo ejecutan comandos explícitos despachados por el harness — y ese límite genera un **audit trail determinista** que correlaciona cada tool call con la actividad de cómputo esperada dentro del sandbox.
+- **Cuatro categorías de workload**: agentes interactivos (consumo y enterprise) que ejecutan código y navegan; workspaces Linux persistentes para ingeniería de software autónoma; entornos paralelos masivos para evaluación de modelos y RL; y ejecución liviana para lógica dinámica en servicios internos de Google. Internamente ya corre **Gemini, Gemini for Business, Antigravity y workloads de evaluación**.
+- **Governance ampliada**: Agent Gateway para control de tráfico y políticas, Agent Registry para agentes y tools aprobados, **identidad basada en SPIFFE** para autenticación y auditoría, y observabilidad compatible con OpenTelemetry para llamadas a modelos e invocaciones de tools.
+- **El "pero"** (Harel Asaf, Elementor): el anuncio no trae cifras de boot, precio ni densidad para Agent Compute Engine — los números de performance pertenecen a Agent Substrate — y el preview sigue pautado "para los próximos meses", sin precios.
+- **Contexto competitivo**: AWS (Bedrock AgentCore) y Azure (Foundry Agent Service + Agent Sandbox para AKS) ya ofrecen equivalentes gestionados; el diferencial declarado de Google sigue siendo mantener **credenciales fuera del sandbox**, inyectadas por un gateway externo.
