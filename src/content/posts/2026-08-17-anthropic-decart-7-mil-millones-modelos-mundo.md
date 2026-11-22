@@ -46,3 +46,17 @@ Lo que sabemos del estado actual:
 La moraleja de agosto sigue en pie, pero con otro protagonista: los labs y hyperscalers siguen comprando capacidades completas — solo que ahora el que frena es el que paga de más tarde.
 
 **Fuentes:** WSJ vía [AI Weekly](https://aiweekly.co/alerts/amazon-in-talks-to-buy-decart-for-7b-months-after-anthropic-walked-from-6b-due).
+
+
+### Update: 22 de noviembre — Al borde del cierre: techo de US$7.500 millones y fundadores amarrados por 5 años
+
+Tres meses después, la saga tiene final a la vista. Según el Financial Times y Calcalist, **Amazon estaría a días de sellar la compra de Decart**: valor reportado de **más de US$7.000 millones**, con pagos contingentes que podrían llevar el total a **casi US$7.500 millones**. Ojo con los titulares: ese número es un **techo**, no precio firme.
+
+Lo nuevo versus el update de octubre:
+
+- **Estructura del pago**: mezcla de efectivo, acciones de Amazon y pagos diferidos atados a hitos. El split exacto no se ha filtrado, y ahí está la diferencia entre pagar US$7.000M o US$7.500M.
+- **Retención pesada**: los tres fundadores —Dean Leitersdorf, Orian Leitersdorf y Moshe Shalev— se habrían comprometido a **quedarse 5 años** en Amazon si el deal cierra. Cuando compras juicio tanto como código, amarras a la gente.
+- **Nadie ha confirmado nada**: ni Amazon ni Decart han emitido comunicado, y los reportes advierten que las conversaciones aún pueden caerse. Anthropic y Nvidia quedaron en la historia como los que pasaron.
+- **Timing revelador**: la semana de los world models —con Genie 4 de Google live desde el 18 de noviembre— revalorizó justo el rincón donde juega Decart: Lucy (transformación de video en vivo) y Oasis (world models interactivos), además del software de portabilidad de cómputo que motivaba el interés original de AWS.
+
+**Fuentes del update:** [Shattered (FT/Calcalist)](https://shattered.io/amazon-nears-7-5-billion-decart-acquisition-cash-stock-deferred/) · [Calcalist CTech](https://www.calcalistech.com/ctechnews/article/uckadwd7r)
