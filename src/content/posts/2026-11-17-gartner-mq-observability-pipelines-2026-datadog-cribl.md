@@ -34,3 +34,8 @@ El contexto lo explica solo:
 - **OpenTelemetry estandarizó el transporte**, pero la gobernanza —quién puede ver qué, cuánto retener, cómo filtrar ruido— sigue siendo el problema difícil.
 
 Con Datadog, Cribl y compañía peleando este cuadrante inaugural, queda claro que los pipelines de observabilidad dejaron de ser la cañería escondida bajo la casa. Ahora son parte del living.
+
+
+### Update: 23 de noviembre de 2026
+
+El cuadrante Leader tiene un tercer inquilino: **Dynatrace (Bindplane)** también figura como Leader en este primer MQ de Observability Pipelines, reconocimiento que llega tras la compra de Bindplane en abril de 2026. En el reporte hermano de Critical Capabilities de la categoría, Dynatrace obtuvo el puntaje más alto en tres de los cinco casos de uso y el segundo lugar en los dos restantes. Su tesis refuerza la misma lectura de fondo del post: con la IA disparando el volumen de telemetría, decidir qué ingerir — y a qué costo — antes de que los datos lleguen al backend dejó de ser optimización fina y pasó a ser arquitectura.
