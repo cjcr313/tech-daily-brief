@@ -6,6 +6,12 @@ La versión del sitio vive en [`VERSION.md`](./VERSION.md) y en los tags de git.
 
 ## [Unreleased]
 
+## [1.5.0] - 2026-11-22
+
+### Added
+
+- **Identidad visual PD:** favicon propio del sitio (SVG vectorial + ICO 32px + apple-touch-icon 180px) con el isotipo radar de Ping Diario, reemplazando los genéricos del template. Los 9 assets de marca quedan disponibles en `/brand/` (variantes azul, blanco, celeste, degradado, fondo oscuro, monótono y sin fondo) para uso en header, OG y video.
+
 ## [1.4.3] - 2026-10-17
 
 ### Changed
