@@ -53,3 +53,17 @@ La víspera se acabó: **Anthropic fija precio hoy** su IPO y el debut es inmine
 - CNN lo resume así: el debut de Anthropic en Wall Street **marca un nuevo capítulo para la industria de la IA** — y será el test de fuego más grande del boom hasta la fecha.
 
 Si el primer día de trading es la nota de corte del hype IA, mañana tenemos el número.
+
+### Update: 27 de noviembre de 2026
+
+La sorpresa desagradable de la semana: OpenAI reconoció un **error de billing en el lanzamiento de GPT-6.2** que descontaba incorrectamente el uso de Astra y Sol para la mayoría de los suscriptores. Ya está corregido, y las consecuencias son concretas:
+
+- La misma tarea ahora consume el límite **40% más rápido en GPT-6.2 Astra** y **25% más rápido en Sol**, comparado con la semana pasada.
+- Según Tibo Sottiaux, a cargo de ChatGPT y Codex, ambos modelos siguen rindiendo más que 6 Astra y 6.1 Sol. El resto de los modelos no fue afectado.
+- **No habrá cargos retroactivos** por el uso mal medido, y todos los planes Go, Plus, Pro y Business reciben un *banked reset* extra como compensación.
+- El correo a afectados apunta a requests en **Codex, incluido el modo Ultrafast**; los precios de suscripción no cambian.
+
+Moraleja: si Astra te duraba más de lo esperado, no era magia — era un bug. Revisa Settings → Usage antes de culpar a tu equipo por "gastar más".
+
+**Fuentes:** [officechai](https://officechai.com/ai/openai-says-a-billing-mistake-incorrectly-discounted-gpt-6-2-astra-gpt-6-2-sol-usage-users-will-now-reach-limits-40-faster-on-astra/) · [TechRadar](https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster)
+
