@@ -37,4 +37,15 @@ Dos limpiezas directas para tu terminal:
 
 Cuatro ítems, cero glamour, y la diferencia entre un upgrade aburrido y un incidente con pager a las 3 AM.
 
-**Fuentes:** [Kubernetes Blog](https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/) · [DevOpsChat](https://www.devopschat.co/articles/kubernetes-v138-sneak-peek)
+### Update: 27 de noviembre de 2026
+
+El *deep dive* de Palark sobre v1.38 confirma la fecha de release — **16 de diciembre** — y ya contabiliza **27 enhancements nuevos**, casi todos en alpha. Los destacados para quien planifica infra:
+
+- **NUMA-aware Topology Manager** (KEP-6007): nueva estrategia `numa-allocation-strategy` (`most-allocated` / `least-allocated`) para consolidar o repartir workloads entre nodos NUMA, con scoring por CPUs, memoria y devices asignados. Directamente relevante para NFV y AI/ML.
+- **cgroups escribibles para contenedores sin privilegios** (KEP-5474): nuevo campo `cgroupOptions` en `securityContext` para montar `/sys/fs/cgroup` en modo `Writable` — Docker-in-Docker y apps que gestionan recursos dinámicamente dejan de requerir trucos sucios, sin poder exceder los límites del Pod.
+- **Unsharing de cgroup namespaces** (KEP-5714): control explícito sobre si los Pods privilegiados comparten el namespace de cgroup del host.
+- Junto con ellos: distribución de perfiles de seguridad vía artefactos OCI, *two-phase eviction*, preemption consciente de DRA, contenedores dinámicos, `ulimits` por contenedor, load balancing ponderado para el kube-apiserver y autorización condicional.
+
+La conclusión operativa se mantiene: 1.38 es un release de acumulación silenciosa — el sneak peek avisó lo que rompe, el deep dive confirma lo que suma. Agenda tu ventana de upgrade con calma, pero léete la lista completa antes.
+
+**Fuentes:** [Kubernetes Blog](https://kubernetes.io/blog/2026/11/23/kubernetes-v1-38-sneak-peek/) · [DevOpsChat](https://www.devopschat.co/articles/kubernetes-v138-sneak-peek) · [Palark](https://palark.com/blog/kubernetes-1-38-release-features/)
